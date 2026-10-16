@@ -1,0 +1,78 @@
+{
+  "term": "orchid",
+  "id": "9a517065-6ded-4c61-8bf3-b6447f1a0c08",
+  "base_id": "b7527f26-6d8a-45c9-97c5-19889c042fed",
+  "name": "SJ-Mystic Garden Serenity Fern",
+  "description": "Step into a world of botanical enchantment with our stunning Lavender Crystal Fantasy Bloom! This mesmerizing plant captures the essence of nature’s beauty, blending the elegance of delicate purple petals with a shimmering crystalline texture. A perfect addition to any 3D interior or exterior scene, this exquisite creation brings a sense of tranquility and sophistication.Designed with precision, this 3D botanical masterpiece is ideal for architectural visualization, gaming environments, and CGI rendering. Every intricate detail, from the gentle lavender hues to the intricately crafted leaves, exudes realism and charm. Whether placed in a modern space or a dreamy fantasy setting, this piece adds an element of serenity and luxury.Elevate your digital projects with this breathtaking design, crafted for artists and creators who appreciate beauty in every detail. Available now for download, this model is optimized for high-quality rendering, ensuring seamless integration into your creative workflow. Let your imagination flourish with the elegance of nature’s finest artistry!",
+  "author": "sahra javid",
+  "source_url": "https://www.blendkit.com/asset-gallery-detail/b7527f26-6d8a-45c9-97c5-19889c042fed/",
+  "quality": 10.0,
+  "parameters": {
+    "sexualizedContent": false,
+    "joinBlenderkitDiscounts": true,
+    "addons": true,
+    "platforms": [
+      "windows-x64",
+      "macos-arm64",
+      "linux-x64",
+      "macos-x64",
+      "windows-arm64"
+    ],
+    "faceCount": 514016,
+    "productionLevel": "finished",
+    "procedural": true,
+    "modelStyle": "realistic",
+    "condition": "new",
+    "designer": "SJ",
+    "designCollection": "Bush-Exterior",
+    "designYear": 2025,
+    "purePbr": true,
+    "shaders": [
+      "[]"
+    ],
+    "uv": true,
+    "engines": [
+      "[cycles]"
+    ],
+    "modifiers": [
+      "[]"
+    ],
+    "materials": [
+      "[bark.001 leaves_Mat.001 leaf_Mat.002 bark_Mat.003 flower_Mat.002]"
+    ],
+    "rig": false,
+    "simulation": false,
+    "dimensionX": 1.4053,
+    "dimensionY": 1.4247,
+    "dimensionZ": 1.4563,
+    "boundBoxMinX": -0.6917,
+    "boundBoxMinY": -0.7028,
+    "boundBoxMinZ": -0.0324,
+    "boundBoxMaxX": 0.7136,
+    "boundBoxMaxY": 0.7219,
+    "boundBoxMaxZ": 1.4238,
+    "faceCountRender": 514016,
+    "meshPolyType": "quad_dominant",
+    "manifold": false,
+    "objectCount": 62,
+    "nodeCount": 0,
+    "textureCount": 0,
+    "megapixels": 0,
+    "gltfGeneratedDate": "2025-02-21",
+    "gltfGodotGeneratedDate": "2025-02-21"
+  },
+  "downloaded": [
+    {
+      "path": "asset-sources\\flowers\\sj-mystic-garden-serenity-fern-b7527f26\\original.blend",
+      "bytes": 108658909,
+      "type": "blend"
+    },
+    {
+      "path": "asset-sources\\flowers\\sj-mystic-garden-serenity-fern-b7527f26\\original.glb",
+      "bytes": 7521872,
+      "type": "gltf"
+    }
+  ],
+  "acquired_date": "2026-10-12",
+  "status": "downloaded_pending_blender_review"
+}

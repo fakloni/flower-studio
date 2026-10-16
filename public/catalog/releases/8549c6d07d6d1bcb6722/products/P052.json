@@ -1,0 +1,362 @@
+{
+  "id": "P052",
+  "flowerId": "F001",
+  "name": "单头切花玫瑰",
+  "group": "玫瑰",
+  "subgroup": "单头切花玫瑰",
+  "scientificName": "Rosa 园艺杂交品种",
+  "nameStatus": "类别有来源；SKU待核实",
+  "roles": [
+    "主花"
+  ],
+  "roleStatus": "project-suggestion",
+  "roleNotes": "主花",
+  "shapeNotes": "每枝以一个主花头为销售形式",
+  "ornamentalPart": "花",
+  "season": {
+    "text": null,
+    "basis": null,
+    "region": null,
+    "intervals": null,
+    "status": "unknown",
+    "source": {
+      "name": null,
+      "urls": []
+    },
+    "unverifiedOriginal": null
+  },
+  "dimensions": {
+    "object": "单花直径",
+    "minCm": 7,
+    "maxCm": 9,
+    "valueType": "范围",
+    "scope": "切花月季“菲韵”",
+    "notes": "切枝长度：70–85 cm（范围）\n瓶插寿命：14–16 天（范围）\n适用范围及来源见“尺寸证据”\n单花直径：7–9 cm；范围；切花月季“菲韵”。详“花材库”F001及“尺寸证据”。",
+    "source": {
+      "name": "园艺学报2023·切花月季新品种“菲韵”",
+      "urls": [
+        "https://www.ahs.ac.cn/CN/10.16420/j.issn.0513-353x.2023-0032"
+      ]
+    }
+  },
+  "notes": "具体品种、颜色、开放阶段、枝长、花径及国内供货需按SKU确认。\n品类、花型、单/多头、开放阶段应分字段；本表是检索目录，不是互斥分类树。缺少SKU规格时不得自动标定真实比例。\n尺寸仅“菲韵”；不把野生玫瑰或月季原种尺寸套给全部切花月季。全国供货月份未核实。\n项目检索分组，非完整植物学分类。",
+  "source": {
+    "name": "Red Lands Roses·2024品种目录（单头与多头）\n园艺学报2023·切花月季新品种“菲韵”",
+    "urls": [
+      "https://redlandsroses.com/Catalogue_V16%20_December_2024.pdf",
+      "https://www.ahs.ac.cn/CN/10.16420/j.issn.0513-353x.2023-0032"
+    ]
+  },
+  "checkedDate": "2026-10-13",
+  "availability": {
+    "status": "unknown",
+    "region": null
+  },
+  "sourceRecord": {
+    "sheet": "花材库",
+    "row": 53,
+    "values": {
+      "花材ID": "F001",
+      "原始／新增名称": "单头切花玫瑰",
+      "用户清单Y／空白": "Y",
+      "规范名称／别名": "切花月季（花店商品名“玫瑰”）\n切花月季；单头切花玫瑰",
+      "学名／分类范围": "Rosa 园艺杂交品种",
+      "名称核对状态": "类别有来源；SKU待核实",
+      "花材角色（项目建议）": "主花",
+      "形态标签（项目建议）": "每枝以一个主花头为销售形式",
+      "观赏部位": "花",
+      "核实花季／果季": null,
+      "季节数据口径": null,
+      "季节适用地区／对象": null,
+      "用户原始月份（未验证）": null,
+      "花头尺寸对象": "单花直径",
+      "直径下限cm": 7,
+      "直径上限cm": 9,
+      "数值类型": "范围",
+      "尺寸适用物种／品种": "切花月季“菲韵”",
+      "其他尺寸及数量摘要": "切枝长度：70–85 cm（范围）\n瓶插寿命：14–16 天（范围）\n适用范围及来源见“尺寸证据”\n单花直径：7–9 cm；范围；切花月季“菲韵”。详“花材库”F001及“尺寸证据”。",
+      "缺失信息／项目注意事项": "具体品种、颜色、开放阶段、枝长、花径及国内供货需按SKU确认。\n品类、花型、单/多头、开放阶段应分字段；本表是检索目录，不是互斥分类树。缺少SKU规格时不得自动标定真实比例。\n尺寸仅“菲韵”；不把野生玫瑰或月季原种尺寸套给全部切花月季。全国供货月份未核实。\n项目检索分组，非完整植物学分类。",
+      "季节来源名称": null,
+      "季节来源URL": null,
+      "花头尺寸来源": "园艺学报2023·切花月季新品种“菲韵”",
+      "花头尺寸来源URL": "https://www.ahs.ac.cn/CN/10.16420/j.issn.0513-353x.2023-0032",
+      "名称／资料来源": "Red Lands Roses·2024品种目录（单头与多头）\n园艺学报2023·切花月季新品种“菲韵”",
+      "名称／资料来源URL": "https://redlandsroses.com/Catalogue_V16%20_December_2024.pdf\nhttps://www.ahs.ac.cn/CN/10.16420/j.issn.0513-353x.2023-0032",
+      "核查日期": "2026-10-13",
+      "大类": "玫瑰",
+      "小类": "单头切花玫瑰",
+      "产品ID": "P052"
+    }
+  },
+  "aliases": [
+    {
+      "name": "切花月季",
+      "productId": "P052",
+      "relation": "上下位/语境名",
+      "restriction": "不能只用“月季”搜索而忽略单头/多头。",
+      "status": "需按具体商品确认",
+      "source": {
+        "name": "Red Lands Roses·2024品种目录（单头与多头）",
+        "urls": [
+          "https://redlandsroses.com/Catalogue_V16%20_December_2024.pdf"
+        ]
+      }
+    },
+    {
+      "name": "单头切花玫瑰",
+      "productId": "P052",
+      "relation": "平台规范商品名",
+      "restriction": "平台内部检索入口；不表示已对接同名商城SKU。",
+      "status": "需按具体商品确认",
+      "source": {
+        "name": "Red Lands Roses·2024品种目录（单头与多头）",
+        "urls": [
+          "https://redlandsroses.com/Catalogue_V16%20_December_2024.pdf"
+        ]
+      }
+    }
+  ],
+  "imageReferences": [
+    {
+      "label": "玫瑰",
+      "files": [
+        "02-49ed89ef125ca1b305e969d4c3dc4548.jpg"
+      ],
+      "productIds": [
+        "P052",
+        "P053",
+        "P054",
+        "P055"
+      ],
+      "notes": "图片标签较宽泛，原表已细分多个小类；不能仅凭标签确定是哪一种。",
+      "seasonRestriction": "图片所列月份/全年为用户资料，未作为可靠供货期。",
+      "status": "reference-only"
+    }
+  ],
+  "assets": [
+    {
+      "id": "p052-photo-reference-v1",
+      "version": 1,
+      "productId": "P052",
+      "variantId": "white-rose-proud-photo-reference",
+      "kind": "photo",
+      "mappingStatus": "category-or-variety-reference",
+      "authorizationStatus": "source-recorded-local-reference",
+      "publicationStatus": "local-reference",
+      "coverUrl": "/assets/catalog/P052/photo-reference-v1/cover.webp",
+      "sourceUrl": "https://www.deruiter.com/product/proud",
+      "author": "De Ruiter Innovations",
+      "license": "使用条件待核对；本地参考",
+      "mediaOrigin": "real-photo",
+      "notes": "Proud 三支白色单头玫瑰组合，非单支多头玫瑰；茎底截断。",
+      "files": [
+        {
+          "url": "/assets/catalog/P052/photo-reference-v1/cover.webp",
+          "sha256": "64f7bffd002907bc77d9572cbb279d45a60d7ec4f6d9057f812c3b3382f8603b",
+          "bytes": 53408
+        }
+      ]
+    },
+    {
+      "id": "workbench-pink-rose-v1",
+      "version": 1,
+      "productId": "P052",
+      "variantId": "workbench-pink-rose",
+      "kind": "model-preview",
+      "mappingStatus": "category-reference",
+      "authorizationStatus": "pending-review",
+      "publicationStatus": "local-reference",
+      "coverUrl": "/assets/workbench/pink-rose-thumb.webp?v=2",
+      "notes": "粉玫瑰工作台建模示例，仅作为单头切花玫瑰类别参考，未确认具体品种或实物规格。",
+      "editor": {
+        "id": "pink-rose",
+        "name": "粉玫瑰",
+        "color": "浅粉",
+        "role": "主花",
+        "height": 0.48,
+        "model": "/assets/sample-pack/pink-rose.glb",
+        "image": "/assets/sample-pack/pink-rose-front.webp",
+        "sideImage": "/assets/sample-pack/pink-rose-side.webp",
+        "thumb": "/assets/workbench/pink-rose-thumb.webp?v=2"
+      },
+      "files": [
+        {
+          "url": "/assets/workbench/pink-rose-thumb.webp?v=2",
+          "sha256": "d4e2dafb1934a52eccdd9419addaa1e616fba052d749bff427ec911fc40368c2",
+          "bytes": 9724
+        },
+        {
+          "url": "/assets/sample-pack/pink-rose.glb",
+          "sha256": "8933a2ff97136b19410c3341905e2fd38f75d1b5f1d62ba7c99930e5a3d81703",
+          "bytes": 1309156
+        },
+        {
+          "url": "/assets/sample-pack/pink-rose-front.webp",
+          "sha256": "4f7586208db1d088c71013d0669df410140127de84dac6ba5274d0824f681caa",
+          "bytes": 7888
+        },
+        {
+          "url": "/assets/sample-pack/pink-rose-side.webp",
+          "sha256": "ac9593cd695380f942c8c801f76b89f3742e8d6931b58c3c6697c4022a9838ac",
+          "bytes": 8364
+        }
+      ]
+    },
+    {
+      "id": "workbench-red-rose-v1",
+      "version": 1,
+      "productId": "P052",
+      "variantId": "workbench-red-rose",
+      "kind": "model-preview",
+      "mappingStatus": "category-reference",
+      "authorizationStatus": "pending-review",
+      "publicationStatus": "local-reference",
+      "coverUrl": "/assets/workbench/red-rose-thumb.webp?v=2",
+      "notes": "红玫瑰工作台建模示例，仅作为单头切花玫瑰类别参考，未确认具体品种或实物规格。",
+      "editor": {
+        "id": "red-rose",
+        "name": "红玫瑰",
+        "color": "红色",
+        "role": "主花",
+        "height": 0.5,
+        "model": "/assets/workbench/red-rose.glb",
+        "image": "/assets/flowers/red-rose.png",
+        "sideImage": "/assets/flowers/red-rose.png",
+        "thumb": "/assets/workbench/red-rose-thumb.webp?v=2"
+      },
+      "files": [
+        {
+          "url": "/assets/workbench/red-rose-thumb.webp?v=2",
+          "sha256": "ae3a72c5b9a46544dc557e7cb68ec1bc4270e928f307f17ba5e02c3f528c0918",
+          "bytes": 22410
+        },
+        {
+          "url": "/assets/workbench/red-rose.glb",
+          "sha256": "88e8f47cccf9caeb92e8290907a78e97d76b1d913c2ebc3e8fe0c0d427bedfb1",
+          "bytes": 4270160
+        },
+        {
+          "url": "/assets/flowers/red-rose.png",
+          "sha256": "bd98bbea819a140bdb58650926d4cc140eddfa5e6ccf8e4a08f439f5b33ed95a",
+          "bytes": 300189
+        }
+      ]
+    },
+    {
+      "id": "p052-pilot-model-v2",
+      "version": 2,
+      "productId": "P052",
+      "variantId": "white-rose-proud",
+      "kind": "model-preview",
+      "mappingStatus": "category-or-variety-reference",
+      "authorizationStatus": "local-model-reference",
+      "publicationStatus": "local-reference",
+      "coverUrl": "/assets/catalog/P052/pilot-model-v2/head-front.webp",
+      "mediaOrigin": "model-render",
+      "notes": "根据真实照片参数化建模的单支试点；背面、精确瓣数及枝叶数量含推测，尺寸未实测。",
+      "sourceUrl": "https://www.deruiter.com/product/proud",
+      "physicalDimensionsVerified": false,
+      "editor": {
+        "id": "white-rose-proud",
+        "name": "白玫瑰 Proud",
+        "color": "白色",
+        "role": "主花",
+        "isPilot": true,
+        "height": 0.6473944187164307,
+        "model": "/assets/catalog/P052/pilot-model-v2/stem.glb",
+        "image": "/assets/catalog/P052/pilot-model-v2/front.webp",
+        "sideImage": "/assets/catalog/P052/pilot-model-v2/left.webp",
+        "thumb": "/assets/catalog/P052/pilot-model-v2/head-front.webp"
+      },
+      "files": [
+        {
+          "url": "/assets/catalog/P052/pilot-model-v2/head-front.webp",
+          "sha256": "c3893c4f845337af32bdf670a15828522d0bf60be6951bf3f7f38043f079cf34",
+          "bytes": 13414
+        },
+        {
+          "url": "/assets/catalog/P052/pilot-model-v2/stem.glb",
+          "sha256": "4c6b81954b91b6768510dc034156cce4b192ba05ec4e82eaa017c078d21183e7",
+          "bytes": 855224
+        },
+        {
+          "url": "/assets/catalog/P052/pilot-model-v2/front.webp",
+          "sha256": "9ec30b609d9780571b5c577c04fbf573b880f0f5ab7d5500156582c973773086",
+          "bytes": 5650
+        },
+        {
+          "url": "/assets/catalog/P052/pilot-model-v2/left.webp",
+          "sha256": "2b281f13504845fdaee449260fb71556558e8348fa5cf69544b8ed594c48615c",
+          "bytes": 5378
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 1,
+  "revision": "8549c6d07d6d1bcb6722",
+  "relatedEvidence": [
+    {
+      "id": "E001",
+      "flowerId": "F001",
+      "values": {
+        "证据ID": "E001",
+        "花材ID": "F001",
+        "花材名称": "玫瑰",
+        "测量项目": "单花直径",
+        "下限／数值": 7,
+        "上限／数值": 9,
+        "单位": "cm",
+        "数值性质": "范围",
+        "适用物种／品种／商品": "切花月季“菲韵”",
+        "证据类型": "国内品种研究",
+        "原数值口径（简记）": "7–9 cm",
+        "限制与解释": null,
+        "来源机构／资料": "园艺学报2023·切花月季新品种“菲韵”",
+        "来源URL": "https://www.ahs.ac.cn/CN/10.16420/j.issn.0513-353x.2023-0032",
+        "核查日期": "2026-10-13"
+      }
+    },
+    {
+      "id": "E002",
+      "flowerId": "F001",
+      "values": {
+        "证据ID": "E002",
+        "花材ID": "F001",
+        "花材名称": "玫瑰",
+        "测量项目": "切枝长度",
+        "下限／数值": 70,
+        "上限／数值": 85,
+        "单位": "cm",
+        "数值性质": "范围",
+        "适用物种／品种／商品": "切花月季“菲韵”",
+        "证据类型": "国内品种研究",
+        "原数值口径（简记）": "70–85 cm",
+        "限制与解释": null,
+        "来源机构／资料": "园艺学报2023·切花月季新品种“菲韵”",
+        "来源URL": "https://www.ahs.ac.cn/CN/10.16420/j.issn.0513-353x.2023-0032",
+        "核查日期": "2026-10-13"
+      }
+    },
+    {
+      "id": "E003",
+      "flowerId": "F001",
+      "values": {
+        "证据ID": "E003",
+        "花材ID": "F001",
+        "花材名称": "玫瑰",
+        "测量项目": "瓶插寿命",
+        "下限／数值": 14,
+        "上限／数值": 16,
+        "单位": "天",
+        "数值性质": "范围",
+        "适用物种／品种／商品": "切花月季“菲韵”；论文条件",
+        "证据类型": "国内品种研究",
+        "原数值口径（简记）": "14–16 天",
+        "限制与解释": "不能承诺所有玫瑰或消费者环境均达到此寿命。",
+        "来源机构／资料": "园艺学报2023·切花月季新品种“菲韵”",
+        "来源URL": "https://www.ahs.ac.cn/CN/10.16420/j.issn.0513-353x.2023-0032",
+        "核查日期": "2026-10-13"
+      }
+    }
+  ]
+}

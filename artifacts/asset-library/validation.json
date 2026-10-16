@@ -1,0 +1,152 @@
+[
+  {
+    "file": "public\\assets\\flowers\\eucalyptus-bouquet.glb",
+    "bytes": 57831156,
+    "header_valid": true,
+    "mesh_objects": 5,
+    "faces_after_import": 204158,
+    "materials": 5,
+    "missing_images": [],
+    "passed": true
+  },
+  {
+    "file": "public\\assets\\flowers\\pink-roses-pair.glb",
+    "bytes": 13535676,
+    "header_valid": true,
+    "mesh_objects": 6,
+    "faces_after_import": 89938,
+    "materials": 4,
+    "missing_images": [],
+    "passed": true
+  },
+  {
+    "file": "public\\assets\\flowers\\red-rose.glb",
+    "bytes": 53036856,
+    "header_valid": true,
+    "mesh_objects": 5,
+    "faces_after_import": 15749,
+    "materials": 5,
+    "missing_images": [],
+    "passed": true
+  },
+  {
+    "file": "public\\assets\\flowers\\spider-lily.glb",
+    "bytes": 10375708,
+    "header_valid": true,
+    "mesh_objects": 7,
+    "faces_after_import": 517940,
+    "materials": 7,
+    "missing_images": [],
+    "passed": true
+  },
+  {
+    "file": "public\\assets\\flowers\\sunflower.glb",
+    "bytes": 11651604,
+    "header_valid": true,
+    "mesh_objects": 1,
+    "faces_after_import": 346,
+    "materials": 1,
+    "missing_images": [],
+    "passed": true
+  },
+  {
+    "file": "public\\assets\\flowers\\white-tulip.glb",
+    "bytes": 629500,
+    "header_valid": true,
+    "mesh_objects": 1,
+    "faces_after_import": 7396,
+    "materials": 4,
+    "missing_images": [],
+    "passed": true
+  },
+  {
+    "file": "public\\assets\\flowers\\yellow-flower.glb",
+    "bytes": 972956,
+    "header_valid": true,
+    "mesh_objects": 1,
+    "faces_after_import": 832,
+    "materials": 2,
+    "missing_images": [],
+    "passed": true
+  },
+  {
+    "file": "public\\assets\\vases\\blush-ribbed.glb",
+    "bytes": 1424068,
+    "header_valid": true,
+    "mesh_objects": 1,
+    "faces_after_import": 79040,
+    "materials": 1,
+    "missing_images": [],
+    "passed": true
+  },
+  {
+    "file": "public\\assets\\vases\\charcoal-sculpture.glb",
+    "bytes": 1435608,
+    "header_valid": true,
+    "mesh_objects": 1,
+    "faces_after_import": 79680,
+    "materials": 1,
+    "missing_images": [],
+    "passed": true
+  },
+  {
+    "file": "public\\assets\\vases\\cobalt-hourglass.glb",
+    "bytes": 1429844,
+    "header_valid": true,
+    "mesh_objects": 1,
+    "faces_after_import": 79360,
+    "materials": 1,
+    "missing_images": [],
+    "passed": true
+  },
+  {
+    "file": "public\\assets\\vases\\cream-compote.glb",
+    "bytes": 1118792,
+    "header_valid": true,
+    "mesh_objects": 1,
+    "faces_after_import": 62080,
+    "materials": 1,
+    "missing_images": [],
+    "passed": true
+  },
+  {
+    "file": "public\\assets\\vases\\ivory-bud.glb",
+    "bytes": 1429816,
+    "header_valid": true,
+    "mesh_objects": 1,
+    "faces_after_import": 79360,
+    "materials": 1,
+    "missing_images": [],
+    "passed": true
+  },
+  {
+    "file": "public\\assets\\vases\\sage-fluted.glb",
+    "bytes": 1429824,
+    "header_valid": true,
+    "mesh_objects": 1,
+    "faces_after_import": 79360,
+    "materials": 1,
+    "missing_images": [],
+    "passed": true
+  },
+  {
+    "file": "public\\assets\\vases\\smoke-glass.glb",
+    "bytes": 1435600,
+    "header_valid": true,
+    "mesh_objects": 1,
+    "faces_after_import": 79680,
+    "materials": 1,
+    "missing_images": [],
+    "passed": true
+  },
+  {
+    "file": "public\\assets\\vases\\terracotta-amphora.glb",
+    "bytes": 1558968,
+    "header_valid": true,
+    "mesh_objects": 3,
+    "faces_after_import": 84784,
+    "materials": 1,
+    "missing_images": [],
+    "passed": true
+  }
+]

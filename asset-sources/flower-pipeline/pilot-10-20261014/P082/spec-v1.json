@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "productId": "P082",
+  "editorId": "gypsophila-xlence",
+  "name": "满天星 Xlence",
+  "color": "白色",
+  "role": "配花",
+  "route": "local-blender",
+  "archetype": "gypsophila",
+  "seed": 20261096,
+  "stemLengthM": 0.62,
+  "headDiameterM": 0.011,
+  "petalColor": [
+    0.89,
+    0.89,
+    0.82
+  ],
+  "headNormal": [
+    0,
+    -0.76,
+    0.65
+  ],
+  "logicalStems": 1,
+  "physicalDimensionsVerified": false,
+  "dimensionBasis": "Breeder/species reference and pilot modeling conventions; not measured SKU dimensions",
+  "unverifiedParts": [
+    "exact cultivar backside",
+    "specimen stem curvature",
+    "exact leaf/branch and petal counts"
+  ],
+  "references": [
+    {
+      "origin": "real-photo",
+      "path": "D:\\Projects\\flower-studio\\artifacts\\catalog-source-review\\candidates\\P082\\XLENCE.jpg.webp",
+      "sourcePage": "https://www.danzigeronline.com/catalog/cut_flowers_catalog/xlence/",
+      "author": "Danziger",
+      "license": "Use conditions not verified; local reference only",
+      "mappingScope": "named-variety-reference"
+    }
+  ],
+  "renderResolution": [
+    400,
+    600
+  ],
+  "detailResolution": 480,
+  "visualStatus": "pilot-awaits-review",
+  "flowerDiameterM": 0.011
+}

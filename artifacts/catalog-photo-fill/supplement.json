@@ -1,0 +1,773 @@
+[
+  {
+    "key": "P041",
+    "records": [],
+    "availablePhotoCount": 7,
+    "title": "Hypericum x inodorum\n        (St. John's Wort, Tutsan)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P034",
+    "records": [
+      {
+        "productIds": [
+          "P034"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/ornithogalum-thyrsoides/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Daniela",
+        "license": "CC-BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "caption": "Ornithogalum thyrsoides. Flowers.",
+        "alt": "A stalk of white, star-shaped flowers.",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 10,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Ornithogalum_thyrsoi_4yNYi9osIp43.jpeg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=4t9H0OLCx%2BY3zqgz%2F3hxB9NwnLc%3D&Expires=1791967676",
+        "localPath": "artifacts/catalog-photo-fill/originals/P034/Ornithogalum_thyrsoi_4yNYi9osIp43.jpeg",
+        "width": 800,
+        "height": 450,
+        "sha256": "153ac86d664ebc93447d0408bcfed26ac32d45948045c5dde3644494b66c645e",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 5,
+    "title": "Ornithogalum thyrsoides\n        (African Wonder Flower, Chincherinchee, Ornithogalum, Wonder Flower)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P036",
+    "records": [
+      {
+        "productIds": [
+          "P036"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/cucurbita-pepo/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Dyogi",
+        "license": "CC BY 2.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/2.0/legalcode",
+        "caption": "Fruit",
+        "alt": "Cucurbita pepo",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 4,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Cucurbita_pepo_Dyogi_2N5hFTuK5p7N.jpeg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=VyJ3qCbsW0rkWOfB0GYOMQ6NZKc%3D&Expires=1791967676",
+        "localPath": "artifacts/catalog-photo-fill/originals/P036/Cucurbita_pepo_Dyogi_2N5hFTuK5p7N.jpeg",
+        "width": 1000,
+        "height": 728,
+        "sha256": "e53ae1b85e4ead93f0fdf3e73ca2c4c828fdccff1c479b1d46d788cc1aae5efd",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 12,
+    "title": "Cucurbita pepo\n        (Acorn Squash, Courgette, Ornamental Gourd, Patty Pan Squash, Pumpkin, Spaghetti Squash, Squash, Summer Squash, Winter Squash, Zucchini)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P022",
+    "records": [
+      {
+        "productIds": [
+          "P022"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/paeonia-woody-types/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Cathy DeWitt",
+        "license": "CC BY 4.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/4.0/legalcode",
+        "caption": "Paeonia 'Bartzella', Wake Co., NC. Itoh Hybrid.",
+        "alt": "Yellow double flower with orange center.",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 10,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Paeonia_Bartzella__SRncb4bJwDvV.jpeg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=EiD19Pos%2BWymG50JQtYzoNYdQrw%3D&Expires=1791967676",
+        "localPath": "artifacts/catalog-photo-fill/originals/P022/Paeonia_Bartzella__SRncb4bJwDvV.jpeg",
+        "width": 768,
+        "height": 1024,
+        "sha256": "d7a3dcbf3c737c4a64c2054dfa45baaa2124da3e1298a562949c04b06d2b7a79",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 13,
+    "title": "Paeonia – Woody Types\n        (Lutea Hybrids, Rockii Hybrids, Suffruticosa Hybrids, Tree Peony, Woody Peony)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P038",
+    "records": [
+      {
+        "productIds": [
+          "P038"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/ilex-verticillata/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Cranbrook_Science",
+        "license": "CC BY 2.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/2.0/legalcode",
+        "caption": "Flower close up",
+        "alt": "Ilex verticillata ",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 14,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Ilex_Verticillata_-_By_Crabrook_Science-CCBy2.0.jpg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=UXLACbaM6OoduBk6oiFohX5mqFA%3D&Expires=1791967343",
+        "localPath": "artifacts/catalog-photo-fill/originals/P038/Ilex_Verticillata_-_By_Crabrook_Science-CCBy2.0.jpg",
+        "width": 600,
+        "height": 450,
+        "sha256": "787b25bcf4de41d6b6a9b7acd095a83ce4c2e4c0768a8183103d72b14462cff2",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 40,
+    "title": "Ilex verticillata\n        (Common Winterberry, Winterberry, Winterberry Holly)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P056",
+    "records": [
+      {
+        "productIds": [
+          "P056"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/eustoma-grandiflorum/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Tyrrhium",
+        "license": "CC BY 2.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/2.0/legalcode",
+        "caption": "",
+        "alt": "Eustoma grandiflorum",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 0,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Eustoma-grandiflorum--Tyrrhium--CC-BY.jpg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=ErkdFawvbTzHTcvEeqQxjUeuviA%3D&Expires=1791969309",
+        "localPath": "artifacts/catalog-photo-fill/originals/P056/Eustoma-grandiflorum--Tyrrhium--CC-BY.jpg",
+        "width": 600,
+        "height": 450,
+        "sha256": "55ac23632a859ec1028b2599b7e48790f8f149b6f4873017eb238a77a0aac95d",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 5,
+    "title": "Eustoma grandiflorum\n        (Bluebell Gentian, Lisianthus, Prairie Gentian, Texas Bluebell)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P060",
+    "records": [
+      {
+        "productIds": [
+          "P060"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/lilium-asiatic-hybrids/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Cathy Dewitt",
+        "license": "CC BY 4.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/4.0/legalcode",
+        "caption": "Lilium - Asiatic hybrids. Close-up (Wake County, NC)",
+        "alt": "Red, trumpet-shaped flower. Foliage in the background.",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 14,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Asiatic-Lily-flower-_5tJ5AfiDZb26.jpeg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=HFPF7CcpaL0%2BmZoaGwk3ZmjT0tc%3D&Expires=1791969309",
+        "localPath": "artifacts/catalog-photo-fill/originals/P060/Asiatic-Lily-flower-_5tJ5AfiDZb26.jpeg",
+        "width": 741,
+        "height": 1024,
+        "sha256": "4a24be4be6e896598328be44c1fbef5a8e8740d9240fd4495007797d862acec0",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [
+          "P060"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/lilium-asiatic-hybrids/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Cathy Dewitt",
+        "license": "CC BY 4.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/4.0/legalcode",
+        "caption": "Lilium - Asiatic hybrids. Close-up (Wake County, NC)",
+        "alt": "Red, trumpet-shaped flower. Foliage in the background.",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 14,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Asiatic-Lily-flower-_5tJ5AfiDZb26.jpeg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=HFPF7CcpaL0%2BmZoaGwk3ZmjT0tc%3D&Expires=1791969309",
+        "localPath": "artifacts/catalog-photo-fill/originals/P060/Asiatic-Lily-flower-_5tJ5AfiDZb26.jpeg",
+        "width": 741,
+        "height": 1024,
+        "sha256": "4a24be4be6e896598328be44c1fbef5a8e8740d9240fd4495007797d862acec0",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 7,
+    "title": "Lilium – Asiatic hybrids\n        (Asian Lily, Asiatic Hybrid Lilies, Asiatic Lilies, Asiatic Lily, Lilies)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P068",
+    "error": "404 Client Error: Not Found for url: https://plants.ces.ncsu.edu/plants/eucalyptus-pulverulenta/"
+  },
+  {
+    "key": "P059",
+    "records": [
+      {
+        "productIds": [
+          "P059"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/lilium-oriental-hybrids/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "阿橋 HQ",
+        "license": "CC-BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "caption": "Lilium flower",
+        "alt": "Large, white flower with pale pink tepal margins. Few freckles.",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 10,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Lilium_Oriental_hybr_yOR4WfIjy4zd.jpeg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=lPdrCSdm%2Bc1mWcRsI9tFXAOyvqg%3D&Expires=1791969309",
+        "localPath": "artifacts/catalog-photo-fill/originals/P059/Lilium_Oriental_hybr_yOR4WfIjy4zd.jpeg",
+        "width": 1024,
+        "height": 768,
+        "sha256": "11b17defce63f452399137e14a7b4d6ecc3721318c45600d2448d5b7befc9170",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [
+          "P059"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/lilium-oriental-hybrids/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Joe Mabel.",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "caption": "Lilium 'Casa Blanca'",
+        "alt": "White upward facing flower with dark orange anthers",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 10,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Lilium_Casa_Blanca_f_1xOzuWnRrf1k.jpeg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=Cv%2BTtEUmklSpCkANXmaE13xZCOo%3D&Expires=1791969309",
+        "localPath": "artifacts/catalog-photo-fill/originals/P059/Lilium_Casa_Blanca_f_1xOzuWnRrf1k.jpeg",
+        "width": 1024,
+        "height": 680,
+        "sha256": "998cf905df6594c5b21732cf38c04f4f4a94537ed22c72a767c6f8add0de8e69",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 9,
+    "title": "Lilium – Oriental Hybrids\n        (Oriental Lilies, Oriental Lily)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P042",
+    "records": [
+      {
+        "productIds": [
+          "P042"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/salix-matsudana/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Ettore Balocchi ",
+        "license": "CC BY 2.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/2.0/legalcode",
+        "caption": "",
+        "alt": "Salix babylonica",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 0,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/salix_babylonica_Ettore_Balocchi_ccby20.jpg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=80S9GUwGQtiwaiWKmH4jxvJndMo%3D&Expires=1791969309",
+        "localPath": "artifacts/catalog-photo-fill/originals/P042/salix_babylonica_Ettore_Balocchi_ccby20.jpg",
+        "width": 600,
+        "height": 450,
+        "sha256": "c7ea4524e99ee82f57293f25d8f936b886e44faef4c0db38ff0972505828e0ed",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [
+          "P042"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/salix-matsudana/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "John Tann",
+        "license": "CC BY 2.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/2.0/legalcode",
+        "caption": "",
+        "alt": "Salix babylonica",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 0,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/salix_babylonica_John_Tann_ccby20.jpg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=kgdEFRuf2Do6qIG6yi%2BPGDpNxBE%3D&Expires=1791969309",
+        "localPath": "artifacts/catalog-photo-fill/originals/P042/salix_babylonica_John_Tann_ccby20.jpg",
+        "width": 600,
+        "height": 450,
+        "sha256": "47e069023a842fbbcbf474c8008ddf938d419cfe751d4f4e632ab5eec62c8d70",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 4,
+    "title": "Salix babylonica\n        (Babylon Weeping Willow, Silver Willow, Weeping Willow)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P081",
+    "error": "('Connection aborted.', ConnectionAbortedError(10053, '你的主机中的软件中止了一个已建立的连接。', None, 10053, None))"
+  },
+  {
+    "key": "P063",
+    "records": [
+      {
+        "productIds": [
+          "P063"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/lilium-longiflorum/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "John Rusk",
+        "license": "CC BY 2.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/2.0/legalcode",
+        "caption": "flowers and foliage",
+        "alt": "Cluster of white trumpet-shaped flowers.",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 10,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Lilium_longiflorum_f_42oLX9GiYnVc.jpeg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=gBE%2F4cVSebIu3gIKRXuhx7QEy5A%3D&Expires=1791969310",
+        "localPath": "artifacts/catalog-photo-fill/originals/P063/Lilium_longiflorum_f_42oLX9GiYnVc.jpeg",
+        "width": 799,
+        "height": 600,
+        "sha256": "acf6fafec36748cc68f9d2e6198c2b0be54128bf4573dcfc4e691af943b6667a",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 6,
+    "title": "Lilium longiflorum\n        (Bermuda Lily, Easter Lily, November Lily, Trumpet Lily)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P086",
+    "records": [],
+    "availablePhotoCount": 4,
+    "title": "Oncidium\n        (Butterfly Orchids, Dancing Lady Orchid, Oncidium Orchid)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P075",
+    "records": [
+      {
+        "productIds": [
+          "P075"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/tulipa/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Cathy Dewitt",
+        "license": "CC BY 4.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/4.0/legalcode",
+        "caption": "Inside Flower (Wake County, NC)",
+        "alt": "Tulipa",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 10,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Tulipa-tulip-April-W_hwAgabujw9xi.jpeg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=FtgGxMaXdx0aPgRHJrExZlR57KY%3D&Expires=1791968748",
+        "localPath": "artifacts/catalog-photo-fill/originals/P075/Tulipa-tulip-April-W_hwAgabujw9xi.jpeg",
+        "width": 951,
+        "height": 1024,
+        "sha256": "d1b4c250b818c2ae0ee3eb73c1871890e20ed3ad1ac5b7e524dd66e2c0e3c91a",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 14,
+    "title": "Tulipa\n        (Tulip)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P077",
+    "records": [
+      {
+        "productIds": [
+          "P077"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/dahlia/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Kathleen Moore",
+        "license": "CC BY 2.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/2.0/legalcode",
+        "caption": "Dahlia Mystic Illusion 'Knockout' flower",
+        "alt": "yellow single dahlia against dark reddish leaves.",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 14,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/dahlia_Knockout_Mystic_Illusion_flower_kathleen_moore_ccby20.jpe?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=Uz9yF6G5uWbKde4Aq9Y6BjcVBks%3D&Expires=1791968963",
+        "localPath": "artifacts/catalog-photo-fill/originals/P077/dahlia_Knockout_Mystic_Illusion_flower_kathleen_moore_ccby20.jpe",
+        "width": 1024,
+        "height": 768,
+        "sha256": "d784372c41759b7c23855ee4a4e7350dda9bcd7500a5562fe194c60f47b8081e",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [
+          "P077"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/dahlia/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Kathleen Moore",
+        "license": "CC BY 2.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/2.0/legalcode",
+        "caption": "Dahlia Mystic Illusion 'Knockout' flower",
+        "alt": "yellow single dahlia against dark reddish leaves.",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 14,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/dahlia_Knockout_Mystic_Illusion_flower_kathleen_moore_ccby20.jpe?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=Uz9yF6G5uWbKde4Aq9Y6BjcVBks%3D&Expires=1791968963",
+        "localPath": "artifacts/catalog-photo-fill/originals/P077/dahlia_Knockout_Mystic_Illusion_flower_kathleen_moore_ccby20.jpe",
+        "width": 1024,
+        "height": 768,
+        "sha256": "d784372c41759b7c23855ee4a4e7350dda9bcd7500a5562fe194c60f47b8081e",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 16,
+    "title": "Dahlia\n        (Bedding Dahlia, Dahlia)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P087",
+    "error": "404 Client Error: Not Found for url: https://plants.ces.ncsu.edu/plants/curcuma-alismatifolia/"
+  },
+  {
+    "key": "P091",
+    "records": [],
+    "availablePhotoCount": 3,
+    "title": "Oxypetalum coeruleum\n        (Tweedia)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P103",
+    "error": "404 Client Error: Not Found for url: https://plants.ces.ncsu.edu/plants/lepidium/"
+  },
+  {
+    "key": "P085",
+    "records": [
+      {
+        "productIds": [
+          "P085"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/scabiosa-atropurpurea/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Dwight Sipler",
+        "license": "CC BY 2.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/2.0/legalcode",
+        "caption": "Scabiosa altropurpurea 'Black Knight'",
+        "alt": "Inflorescence of dark red flowers.",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 10,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Scabiosa_Black_Knigh_GD8o012mna3N.jpeg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=cunmFL7h2igPPwZXaptSSDMzn8s%3D&Expires=1791972326",
+        "localPath": "artifacts/catalog-photo-fill/originals/P085/Scabiosa_Black_Knigh_GD8o012mna3N.jpeg",
+        "width": 603,
+        "height": 800,
+        "sha256": "4212ad53b2d94f68d0892888e69b0c50e4d5c415b39eb62a205efe7abfe67564",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [
+          "P085"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/scabiosa-atropurpurea/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "anniesannuals",
+        "license": "CC BY 2.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/2.0/legalcode",
+        "caption": "Scabiosa atropurpurea Habit",
+        "alt": "Dense stand of plants with pinnatifid leaves and white flowers.",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 6,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Scabiosa_atropurpure_dSoNAmDCyiTp.jpg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=FZV1rzlrDuLFv%2F06imyqK5Yv0Hw%3D&Expires=1791972326",
+        "localPath": "artifacts/catalog-photo-fill/originals/P085/Scabiosa_atropurpure_dSoNAmDCyiTp.jpg",
+        "width": 783,
+        "height": 600,
+        "sha256": "eab4b338167414ead206730cb9cb32e4dfa69582545725bb9a5ec284a6554a84",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 8,
+    "title": "Scabiosa atropurpurea\n        (Pincushion Flower, Scabiosa, Sweet Scabiosa)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P104",
+    "error": "404 Client Error: Not Found for url: https://plants.ces.ncsu.edu/plants/solanum-aethiopicum/"
+  },
+  {
+    "key": "P084",
+    "records": [
+      {
+        "productIds": [
+          "P084"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/vanda/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Verena~commonswiki",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "caption": "Flower",
+        "alt": "Flower",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 10,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Vanda_cultivars_Vere_52YLbFwafe1z.jpeg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=qhFb3%2Bf7jZIMhCfXiC9dKl9tBV8%3D&Expires=1791972326",
+        "localPath": "artifacts/catalog-photo-fill/originals/P084/Vanda_cultivars_Vere_52YLbFwafe1z.jpeg",
+        "width": 768,
+        "height": 1024,
+        "sha256": "b284ec7d77108d5ec91699631cdd5153b36ffd67acf36d992700664e45388eec",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [
+          "P084"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/vanda/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Nidhi Ganguly",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/4.0/legalcode",
+        "caption": "Flower",
+        "alt": "Flower",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 10,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Vanda_coerulea_Nidhi_a0TrBLOc5baz.jpeg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=ZVfD%2BJmGRf3krZhnhYmvzNtwLoU%3D&Expires=1791972326",
+        "localPath": "artifacts/catalog-photo-fill/originals/P084/Vanda_coerulea_Nidhi_a0TrBLOc5baz.jpeg",
+        "width": 1024,
+        "height": 768,
+        "sha256": "ca3329fb6ca4fb84fe7b0d5247f914b4b4e0af18759801d5dc4e8469b5f20384",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 10,
+    "title": "Vanda\n        (Vanda Orchid)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P094",
+    "records": [
+      {
+        "productIds": [
+          "P094"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/anigozanthos-flavidus/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Forest and Kim Starr",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "caption": "Leaves and flower",
+        "alt": "Leaves and Flower",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 14,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Anigozanthos_flavidu_17rfDDdyv9E5.jpeg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=1QSbkI5NsiOLFg%2FbRs3XGFNwcJ4%3D&Expires=1791972329",
+        "localPath": "artifacts/catalog-photo-fill/originals/P094/Anigozanthos_flavidu_17rfDDdyv9E5.jpeg",
+        "width": 682,
+        "height": 1024,
+        "sha256": "20c9a7f5cf3b1baf4fb8250888d01544491f8a6208f2f796057b2f00f05076f6",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [
+          "P094"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/anigozanthos-flavidus/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Linda De Volder",
+        "license": "CC BY 2.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/2.0/legalcode",
+        "caption": "Close up of flower",
+        "alt": "close up of flower",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 14,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Anigozanthos_flavidu_xkEqHyke0WTi.jpeg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=O3yrOV0ConK9uMWlkCCYtpK92rQ%3D&Expires=1791972329",
+        "localPath": "artifacts/catalog-photo-fill/originals/P094/Anigozanthos_flavidu_xkEqHyke0WTi.jpeg",
+        "width": 1024,
+        "height": 649,
+        "sha256": "c9b6074215053aea2376274bb35efeb4e40057a5506311210cef434e0443f73e",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 10,
+    "title": "Anigozanthos flavidus\n        (Australian Yellow Sword Lily, Evergreen Kangaroo-Paw, Kangaroo Paw, Tall Kangaroo Paw, Yellow Kangaroo Paw)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P099",
+    "records": [
+      {
+        "productIds": [
+          "P099"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/dendrobium/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Cindy Christian",
+        "license": "CC BY 4.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/4.0/legalcode",
+        "caption": "Dendrobium, orchid, houseplant view",
+        "alt": "trellis display, greenish-white flowers tinged with light purple",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 10,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/20080613_4_Dendrob_YhmMbqOLw0GH.jpeg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=iwhTD25NsyzheRRcnU2E7HKhAMo%3D&Expires=1791972330",
+        "localPath": "artifacts/catalog-photo-fill/originals/P099/20080613_4_Dendrob_YhmMbqOLw0GH.jpeg",
+        "width": 768,
+        "height": 1024,
+        "sha256": "e37fdee0cc4f143401dfcf5bd06edd040935d585e122799ff4117d909de3282a",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [
+          "P099"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/dendrobium/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Cindy Christian",
+        "license": "CC BY 4.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/4.0/legalcode",
+        "caption": "Dendrobium, orchid, flowers",
+        "alt": "greenish white flowers tinged with light purple",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 10,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/20080613_5_Dendrob_3l4zZgnrQcNq.jpeg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=xYb6457Ws52GukQQNiqg5ZqNgXk%3D&Expires=1791972330",
+        "localPath": "artifacts/catalog-photo-fill/originals/P099/20080613_5_Dendrob_3l4zZgnrQcNq.jpeg",
+        "width": 1024,
+        "height": 768,
+        "sha256": "8988d751e046182553f21d13f769330a59d084e761bdaade6a69f99a9e81d71a",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 12,
+    "title": "Dendrobium\n        (Orchid)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P075",
+    "records": [
+      {
+        "productIds": [
+          "P075"
+        ],
+        "sourcePage": "https://www.vanengelen.com/tulip-double-surprise.html",
+        "sourceOrganization": "Van Engelen",
+        "author": "Van Engelen / photographer not individually stated",
+        "license": "Use conditions not verified; local reference only",
+        "caption": "main product photo",
+        "mappingStatus": "named-product-category-reference",
+        "imageUrl": "https://www.vanengelen.com/media/catalog/product/cache/56adb830892d957d56a625301cb4427e/t/u/tulip-doublesurprise1-w-th.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/P075/tulip-doublesurprise1-w-th.jpg",
+        "width": 561,
+        "height": 626,
+        "sha256": "67cd0e13e283b50df3da23c0e4ddbf19e61f54b0f04ea5f9b59239d6171f59f1",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ]
+  },
+  {
+    "key": "P076",
+    "records": [
+      {
+        "productIds": [
+          "P076"
+        ],
+        "sourcePage": "https://www.brecks.com/products/apricot-parrot-tulip",
+        "sourceOrganization": "Breck's",
+        "author": "Breck's / photographer not individually stated",
+        "license": "Use conditions not verified; local reference only",
+        "caption": "Apricot Parrot Tulip",
+        "mappingStatus": "named-product-category-reference",
+        "imageUrl": "https://www.brecks.com/cdn/shop/files/81487.webp?v=1776128157&width=320",
+        "localPath": "artifacts/catalog-photo-fill/originals/P076/81487.webp",
+        "width": 320,
+        "height": 320,
+        "sha256": "5eb629276f9d97192c683a2cfccf057ddcc27db56128609ed68a5be1109c8c79",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [
+          "P076"
+        ],
+        "sourcePage": "https://www.brecks.com/products/apricot-parrot-tulip",
+        "sourceOrganization": "Breck's",
+        "author": "Breck's / photographer not individually stated",
+        "license": "Use conditions not verified; local reference only",
+        "caption": "Apricot Parrot Tulip",
+        "mappingStatus": "named-product-category-reference",
+        "imageUrl": "https://www.brecks.com/cdn/shop/files/81487_sas.webp?v=1776128159&width=320",
+        "localPath": "artifacts/catalog-photo-fill/originals/P076/81487_sas.webp",
+        "width": 320,
+        "height": 320,
+        "sha256": "53e38256540358efdb3deff03edeea68e939df23fce556e6119bb7ea98d5cb16",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ]
+  },
+  {
+    "key": "P057",
+    "records": [
+      {
+        "productIds": [
+          "P057"
+        ],
+        "sourcePage": "https://www.florensis.com/en/products/cut-flowers/cut-flowers/lisianthus-sp/lisianthus-sp-piccolo",
+        "sourceOrganization": "Florensis",
+        "author": "Florensis / photographer not individually stated",
+        "license": "Use conditions not verified; local reference only",
+        "caption": "Lisianthus grandiflorum Piccolo 2 Pure White",
+        "mappingStatus": "named-product-category-reference",
+        "imageUrl": "https://florensis-pim.s3.eu-central-1.amazonaws.com/dam/image-thumbnails/Product/Close-up/image-thumb__9101__ThumbnailWebsite/Lisianthus_grandiflorum-Piccolo_2_White_Pure_17919_C_1.webp",
+        "localPath": "artifacts/catalog-photo-fill/originals/P057/Lisianthus_grandiflorum-Piccolo_2_White_Pure_17919_C_1.webp",
+        "width": 1000,
+        "height": 1000,
+        "sha256": "b6d69a15b267516859af0ea97b1a4de9111d3c31c7583a99b7805e3bf6ef6847",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ]
+  },
+  {
+    "key": "P009",
+    "error": "HTTPSConnectionPool(host='www.huawa.com', port=443): Read timed out. (read timeout=8)"
+  }
+]

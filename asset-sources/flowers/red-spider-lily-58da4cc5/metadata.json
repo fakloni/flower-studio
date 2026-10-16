@@ -1,0 +1,71 @@
+{
+  "term": "lily",
+  "id": "99405ff2-af3c-49fa-aeb1-b157314e2e68",
+  "base_id": "58da4cc5-9a30-470b-9dd0-b66a7614fd44",
+  "name": "Red Spider Lily",
+  "description": "Red Spider Lily or Lycoris radiata has showy, bright-red flowers. When in full bloom, spindly stamens, likened to the image of spider legs.",
+  "author": "Miklós Malinovszky",
+  "source_url": "https://www.blendkit.com/asset-gallery-detail/58da4cc5-9a30-470b-9dd0-b66a7614fd44/",
+  "quality": 7.0,
+  "parameters": {
+    "sexualizedContent": false,
+    "joinBlenderkitDiscounts": true,
+    "addons": true,
+    "platforms": [
+      "windows-x64",
+      "macos-arm64",
+      "linux-x64",
+      "macos-x64",
+      "windows-arm64"
+    ],
+    "faceCount": 258970,
+    "textureResolutionMax": 1024,
+    "productionLevel": "finished",
+    "procedural": false,
+    "modelStyle": "realistic",
+    "purePbr": false,
+    "shaders": [
+      "[principled principled volume]"
+    ],
+    "animated": false,
+    "uv": true,
+    "textureResolutionMin": 1024,
+    "engines": [
+      "[cycles]"
+    ],
+    "modifiers": [
+      "[]"
+    ],
+    "materials": [
+      "[stem mist flowerRed flowerStem flowerPollen flowerDarkRed flowerYellow]"
+    ],
+    "rig": false,
+    "simulation": false,
+    "dimensionX": 0.4794,
+    "dimensionY": 0.4679,
+    "dimensionZ": 0.6129,
+    "boundBoxMinX": -0.2487,
+    "boundBoxMinY": -0.2291,
+    "boundBoxMinZ": -0.0165,
+    "boundBoxMaxX": 0.2306,
+    "boundBoxMaxY": 0.2388,
+    "boundBoxMaxZ": 0.5964,
+    "faceCountRender": 258970,
+    "meshPolyType": "quad",
+    "manifold": false,
+    "objectCount": 8,
+    "nodeCount": 45,
+    "textureCount": 1,
+    "megapixels": 1,
+    "imageAltTextGen4v": "Detailed 3D render of a Red Spider Lily with vibrant petals and realistic textures for Blender modeling."
+  },
+  "downloaded": [
+    {
+      "path": "asset-sources\\flowers\\red-spider-lily-58da4cc5\\original.blend",
+      "bytes": 14855160,
+      "type": "blend"
+    }
+  ],
+  "acquired_date": "2026-10-12",
+  "status": "downloaded_pending_blender_review"
+}

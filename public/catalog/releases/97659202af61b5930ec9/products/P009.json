@@ -1,0 +1,164 @@
+{
+  "id": "P009",
+  "flowerId": "F009",
+  "name": "九星叶",
+  "group": "九星叶",
+  "subgroup": "九星叶",
+  "scientificName": null,
+  "nameStatus": "待核名；不自动同款匹配",
+  "roles": [
+    "叶材"
+  ],
+  "roleStatus": "project-suggestion",
+  "roleNotes": "叶材",
+  "shapeNotes": "九星叶（商品名）",
+  "ornamentalPart": "叶枝",
+  "season": {
+    "text": null,
+    "basis": null,
+    "region": null,
+    "intervals": null,
+    "status": "unknown",
+    "source": {
+      "name": null,
+      "urls": []
+    },
+    "unverifiedOriginal": null
+  },
+  "dimensions": {
+    "object": "不适用：参见叶/果/枝尺寸",
+    "minCm": null,
+    "maxCm": null,
+    "valueType": null,
+    "scope": null,
+    "notes": "商品整体长度：65–75 cm（范围）\n包装枝数：10 枝/扎（标称值）\n适用范围及来源见“尺寸证据”",
+    "source": {
+      "name": null,
+      "urls": []
+    }
+  },
+  "notes": "具体品种、颜色、开放阶段、枝长、花径及国内供货需按SKU确认。\n品类、花型、单/多头、开放阶段应分字段；本表是检索目录，不是互斥分类树。缺少SKU规格时不得自动标定真实比例。\n商家只写商品名，不能据此认定学名。长度只对应此A级商品；10枝/扎不代表一枝10片叶。\n项目检索分组，非完整植物学分类。",
+  "source": {
+    "name": "Together Florist·九星叶商品fl0000-HC0100",
+    "urls": [
+      "https://www.together-mall.com.hk/sc/products/fl0000-HC0100/%E4%B9%9D%E6%98%9F%E8%91%89fl0000-HC0100"
+    ]
+  },
+  "checkedDate": "2026-10-13",
+  "availability": {
+    "status": "unknown",
+    "region": null
+  },
+  "sourceRecord": {
+    "sheet": "花材库",
+    "row": 10,
+    "values": {
+      "花材ID": "F009",
+      "原始／新增名称": "九星叶",
+      "用户清单Y／空白": "Y",
+      "规范名称／别名": "九星叶（商品名）\n九星叶",
+      "学名／分类范围": null,
+      "名称核对状态": "待核名；不自动同款匹配",
+      "花材角色（项目建议）": "叶材",
+      "形态标签（项目建议）": "九星叶（商品名）",
+      "观赏部位": "叶枝",
+      "核实花季／果季": null,
+      "季节数据口径": null,
+      "季节适用地区／对象": null,
+      "用户原始月份（未验证）": null,
+      "花头尺寸对象": "不适用：参见叶/果/枝尺寸",
+      "直径下限cm": null,
+      "直径上限cm": null,
+      "数值类型": null,
+      "尺寸适用物种／品种": null,
+      "其他尺寸及数量摘要": "商品整体长度：65–75 cm（范围）\n包装枝数：10 枝/扎（标称值）\n适用范围及来源见“尺寸证据”",
+      "缺失信息／项目注意事项": "具体品种、颜色、开放阶段、枝长、花径及国内供货需按SKU确认。\n品类、花型、单/多头、开放阶段应分字段；本表是检索目录，不是互斥分类树。缺少SKU规格时不得自动标定真实比例。\n商家只写商品名，不能据此认定学名。长度只对应此A级商品；10枝/扎不代表一枝10片叶。\n项目检索分组，非完整植物学分类。",
+      "季节来源名称": null,
+      "季节来源URL": null,
+      "花头尺寸来源": null,
+      "花头尺寸来源URL": null,
+      "名称／资料来源": "Together Florist·九星叶商品fl0000-HC0100",
+      "名称／资料来源URL": "https://www.together-mall.com.hk/sc/products/fl0000-HC0100/%E4%B9%9D%E6%98%9F%E8%91%89fl0000-HC0100",
+      "核查日期": "2026-10-13",
+      "大类": "九星叶",
+      "小类": "九星叶",
+      "产品ID": "P009"
+    }
+  },
+  "aliases": [
+    {
+      "name": "九星叶",
+      "productId": "P009",
+      "relation": "平台规范商品名",
+      "restriction": "平台内部检索入口；不表示已对接同名商城SKU。",
+      "status": "需按具体商品确认",
+      "source": {
+        "name": "Together Florist·九星叶商品fl0000-HC0100",
+        "urls": [
+          "https://www.together-mall.com.hk/sc/products/fl0000-HC0100/%E4%B9%9D%E6%98%9F%E8%91%89fl0000-HC0100"
+        ]
+      }
+    }
+  ],
+  "imageReferences": [
+    {
+      "label": "九星叶",
+      "files": [
+        "02-49ed89ef125ca1b305e969d4c3dc4548.jpg"
+      ],
+      "productIds": [
+        "P009"
+      ],
+      "notes": "原表已有对应小类；具体品种和SKU仍按原核对状态。",
+      "seasonRestriction": "图片所列月份/全年为用户资料，未作为可靠供货期。",
+      "status": "reference-only"
+    }
+  ],
+  "assets": [],
+  "schemaVersion": 1,
+  "revision": "97659202af61b5930ec9",
+  "relatedEvidence": [
+    {
+      "id": "E016",
+      "flowerId": "F009",
+      "values": {
+        "证据ID": "E016",
+        "花材ID": "F009",
+        "花材名称": "九星叶",
+        "测量项目": "商品整体长度",
+        "下限／数值": 65,
+        "上限／数值": 75,
+        "单位": "cm",
+        "数值性质": "范围",
+        "适用物种／品种／商品": "Together Florist A级九星叶；页面称云南供应",
+        "证据类型": "单一商家商品规格",
+        "原数值口径（简记）": "65–75 cm",
+        "限制与解释": null,
+        "来源机构／资料": "Together Florist·九星叶商品fl0000-HC0100",
+        "来源URL": "https://www.together-mall.com.hk/sc/products/fl0000-HC0100/%E4%B9%9D%E6%98%9F%E8%91%89fl0000-HC0100",
+        "核查日期": "2026-10-13"
+      }
+    },
+    {
+      "id": "E017",
+      "flowerId": "F009",
+      "values": {
+        "证据ID": "E017",
+        "花材ID": "F009",
+        "花材名称": "九星叶",
+        "测量项目": "包装枝数",
+        "下限／数值": 10,
+        "上限／数值": 10,
+        "单位": "枝/扎",
+        "数值性质": "标称值",
+        "适用物种／品种／商品": "商品fl0000-HC0100",
+        "证据类型": "单一商家商品规格",
+        "原数值口径（简记）": "10 枝/扎",
+        "限制与解释": null,
+        "来源机构／资料": "Together Florist·九星叶商品fl0000-HC0100",
+        "来源URL": "https://www.together-mall.com.hk/sc/products/fl0000-HC0100/%E4%B9%9D%E6%98%9F%E8%91%89fl0000-HC0100",
+        "核查日期": "2026-10-13"
+      }
+    }
+  ]
+}

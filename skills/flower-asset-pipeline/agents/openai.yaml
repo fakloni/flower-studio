@@ -1,0 +1,4 @@
+interface:
+  display_name: "花材写实建模"
+  short_description: "从真实花材参考制作写实模型，支持 Blender 本地与 Tripo 两条路线"
+  default_prompt: "使用 $flower-asset-pipeline 为指定花材制作单支模型和多角度素材。"

@@ -1,0 +1,193 @@
+{
+  "id": "P073",
+  "flowerId": "F013",
+  "name": "非洲菊“Annecy”",
+  "group": "非洲菊",
+  "subgroup": "非洲菊“Annecy”",
+  "scientificName": "Gerbera jamesonii",
+  "nameStatus": "类别有来源；SKU待核实",
+  "roles": [
+    "主花",
+    "配花"
+  ],
+  "roleStatus": "project-suggestion",
+  "roleNotes": "主花；配花",
+  "shapeNotes": "Mini型；白花、绿色花心\n商品颜色：白色（来源品种特征）",
+  "ornamentalPart": "头状花序",
+  "season": {
+    "text": "11月至翌年4月",
+    "basis": "植物志花期",
+    "region": "中国植物志记载",
+    "intervals": [
+      {
+        "start": 11,
+        "end": 4,
+        "wrapsYear": true,
+        "precision": "month-reference"
+      }
+    ],
+    "status": "reference",
+    "source": {
+      "name": "中国科学院植物研究所·植物智／中国植物志",
+      "urls": [
+        "https://www.iplant.cn/z/frps/44743"
+      ]
+    },
+    "unverifiedOriginal": null
+  },
+  "dimensions": {
+    "object": "细分产品花径（详数值类型）",
+    "minCm": 7,
+    "maxCm": 7,
+    "valueType": "标称单值",
+    "scope": "仅Annecy；育种商规格",
+    "notes": "花葶长度：25–60 cm（范围）\n适用范围及来源见“尺寸证据”\n细分产品枝长：60cm；来源：https://www.hilverdaflorist.com/en/assortment/cut-flowers/assortment-cut-flowers/gerbera-mini-annecy\n头状花序直径：6–10 cm；范围；非洲菊；包括展开的舌状花。详“花材库”F013及“尺寸证据”。",
+    "source": {
+      "name": "细分产品资料（来源URL见右）",
+      "urls": [
+        "https://www.hilverdaflorist.com/en/assortment/cut-flowers/assortment-cut-flowers/gerbera-mini-annecy"
+      ]
+    }
+  },
+  "notes": "标称值不是每一枝的零误差实测值。\n品类、花型、单/多头、开放阶段应分字段；本表是检索目录，不是互斥分类树。缺少SKU规格时不得自动标定真实比例。\n花径含展开的舌状花；花葶长是天然形态，非分级商品长度。\n项目检索分组，非完整植物学分类。",
+  "source": {
+    "name": "HilverdaFlorist·Annecy\n中国科学院植物研究所·植物智／中国植物志",
+    "urls": [
+      "https://www.hilverdaflorist.com/en/assortment/cut-flowers/assortment-cut-flowers/gerbera-mini-annecy",
+      "https://www.iplant.cn/z/frps/44743"
+    ]
+  },
+  "checkedDate": "2026-10-13",
+  "availability": {
+    "status": "unknown",
+    "region": null
+  },
+  "sourceRecord": {
+    "sheet": "花材库",
+    "row": 74,
+    "values": {
+      "花材ID": "F013",
+      "原始／新增名称": "非洲菊“Annecy”",
+      "用户清单Y／空白": "Y",
+      "规范名称／别名": "非洲菊／扶郎花\nAnnecy；非洲菊“Annecy”",
+      "学名／分类范围": "Gerbera jamesonii",
+      "名称核对状态": "类别有来源；SKU待核实",
+      "花材角色（项目建议）": "主花；配花",
+      "形态标签（项目建议）": "Mini型；白花、绿色花心\n商品颜色：白色（来源品种特征）",
+      "观赏部位": "头状花序",
+      "核实花季／果季": "11月至翌年4月",
+      "季节数据口径": "植物志花期",
+      "季节适用地区／对象": "中国植物志记载",
+      "用户原始月份（未验证）": null,
+      "花头尺寸对象": "细分产品花径（详数值类型）",
+      "直径下限cm": 7,
+      "直径上限cm": 7,
+      "数值类型": "标称单值",
+      "尺寸适用物种／品种": "仅Annecy；育种商规格",
+      "其他尺寸及数量摘要": "花葶长度：25–60 cm（范围）\n适用范围及来源见“尺寸证据”\n细分产品枝长：60cm；来源：https://www.hilverdaflorist.com/en/assortment/cut-flowers/assortment-cut-flowers/gerbera-mini-annecy\n头状花序直径：6–10 cm；范围；非洲菊；包括展开的舌状花。详“花材库”F013及“尺寸证据”。",
+      "缺失信息／项目注意事项": "标称值不是每一枝的零误差实测值。\n品类、花型、单/多头、开放阶段应分字段；本表是检索目录，不是互斥分类树。缺少SKU规格时不得自动标定真实比例。\n花径含展开的舌状花；花葶长是天然形态，非分级商品长度。\n项目检索分组，非完整植物学分类。",
+      "季节来源名称": "中国科学院植物研究所·植物智／中国植物志",
+      "季节来源URL": "https://www.iplant.cn/z/frps/44743",
+      "花头尺寸来源": "细分产品资料（来源URL见右）",
+      "花头尺寸来源URL": "https://www.hilverdaflorist.com/en/assortment/cut-flowers/assortment-cut-flowers/gerbera-mini-annecy",
+      "名称／资料来源": "HilverdaFlorist·Annecy\n中国科学院植物研究所·植物智／中国植物志",
+      "名称／资料来源URL": "https://www.hilverdaflorist.com/en/assortment/cut-flowers/assortment-cut-flowers/gerbera-mini-annecy\nhttps://www.iplant.cn/z/frps/44743",
+      "核查日期": "2026-10-13",
+      "大类": "非洲菊",
+      "小类": "非洲菊“Annecy”",
+      "产品ID": "P073"
+    }
+  },
+  "aliases": [
+    {
+      "name": "Annecy",
+      "productId": "P073",
+      "relation": "品种名",
+      "restriction": "限Gerbera语境。",
+      "status": "需按具体商品确认",
+      "source": {
+        "name": "HilverdaFlorist·Annecy",
+        "urls": [
+          "https://www.hilverdaflorist.com/en/assortment/cut-flowers/assortment-cut-flowers/gerbera-mini-annecy"
+        ]
+      }
+    },
+    {
+      "name": "非洲菊“Annecy”",
+      "productId": "P073",
+      "relation": "平台规范商品名",
+      "restriction": "平台内部检索入口；不表示已对接同名商城SKU。",
+      "status": "需按具体商品确认",
+      "source": {
+        "name": "HilverdaFlorist·Annecy",
+        "urls": [
+          "https://www.hilverdaflorist.com/en/assortment/cut-flowers/assortment-cut-flowers/gerbera-mini-annecy"
+        ]
+      }
+    }
+  ],
+  "imageReferences": [
+    {
+      "label": "非洲菊",
+      "files": [
+        "03-b1b615d4829d42d48e8ed874b8c5ccf5.jpg"
+      ],
+      "productIds": [
+        "P070",
+        "P071",
+        "P072",
+        "P073"
+      ],
+      "notes": "图片标签较宽泛，原表已细分多个小类；不能仅凭标签确定是哪一种。",
+      "seasonRestriction": "图片所列月份/全年为用户资料，未作为可靠供货期。",
+      "status": "reference-only"
+    }
+  ],
+  "assets": [],
+  "schemaVersion": 1,
+  "revision": "c80bbbca4cdd571a6f8b",
+  "relatedEvidence": [
+    {
+      "id": "E023",
+      "flowerId": "F013",
+      "values": {
+        "证据ID": "E023",
+        "花材ID": "F013",
+        "花材名称": "非洲菊",
+        "测量项目": "头状花序直径",
+        "下限／数值": 6,
+        "上限／数值": 10,
+        "单位": "cm",
+        "数值性质": "范围",
+        "适用物种／品种／商品": "非洲菊；包括展开的舌状花",
+        "证据类型": "植物形态参考",
+        "原数值口径（简记）": "6–10 cm",
+        "限制与解释": null,
+        "来源机构／资料": "中国科学院植物研究所·植物智／中国植物志",
+        "来源URL": "https://www.iplant.cn/z/frps/44743",
+        "核查日期": "2026-10-13"
+      }
+    },
+    {
+      "id": "E024",
+      "flowerId": "F013",
+      "values": {
+        "证据ID": "E024",
+        "花材ID": "F013",
+        "花材名称": "非洲菊",
+        "测量项目": "花葶长度",
+        "下限／数值": 25,
+        "上限／数值": 60,
+        "单位": "cm",
+        "数值性质": "范围",
+        "适用物种／品种／商品": "非洲菊植物形态",
+        "证据类型": "植物形态参考",
+        "原数值口径（简记）": "25–60 cm",
+        "限制与解释": "不是供应商切枝分级。",
+        "来源机构／资料": "中国科学院植物研究所·植物智／中国植物志",
+        "来源URL": "https://www.iplant.cn/z/frps/44743",
+        "核查日期": "2026-10-13"
+      }
+    }
+  ]
+}

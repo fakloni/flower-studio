@@ -1,0 +1,177 @@
+{
+  "id": "P081",
+  "flowerId": "F054",
+  "name": "彩色马蹄莲",
+  "group": "马蹄莲",
+  "subgroup": "彩色马蹄莲",
+  "scientificName": "Zantedeschia 园艺杂交品种",
+  "nameStatus": "类别有来源；SKU待核实",
+  "roles": [
+    "主花",
+    "造型",
+    "线条"
+  ],
+  "roleStatus": "project-suggestion",
+  "roleNotes": "主花；造型花；线条花",
+  "shapeNotes": "主要为Elliottiana/Rehmannii杂交品种类",
+  "ornamentalPart": "佛焰苞及肉穗花序",
+  "season": {
+    "text": "1–4月",
+    "basis": "地区植物志花期",
+    "region": "深圳植物志记载",
+    "intervals": [
+      {
+        "start": 1,
+        "end": 4,
+        "wrapsYear": false,
+        "precision": "month-reference"
+      }
+    ],
+    "status": "reference",
+    "source": {
+      "name": "深圳市中国科学院仙湖植物园·深圳植物志",
+      "urls": [
+        "https://www.iplant.cn/fsz/info/Zantedeschia%20aethiopica"
+      ]
+    },
+    "unverifiedOriginal": null
+  },
+  "dimensions": {
+    "object": "未核实／需明确测量部位",
+    "minCm": null,
+    "maxCm": null,
+    "valueType": null,
+    "scope": null,
+    "notes": "佛焰苞长度：10–20 cm（范围）\n花序柄长度：40–50 cm（范围）\n适用范围及来源见“尺寸证据”",
+    "source": {
+      "name": null,
+      "urls": []
+    }
+  },
+  "notes": "白花物种10–20 cm佛焰苞长度不能套给全部彩色品种。\n品类、花型、单/多头、开放阶段应分字段；本表是检索目录，不是互斥分类树。缺少SKU规格时不得自动标定真实比例。\n醒目部位是佛焰苞，不能用肉穗花序直径代表整朵观赏轮廓。\n项目检索分组，非完整植物学分类。",
+  "source": {
+    "name": "RHS·白花与彩色马蹄莲\n深圳市中国科学院仙湖植物园·深圳植物志",
+    "urls": [
+      "https://www.rhs.org.uk/plants/zantedeschia/growing-guide",
+      "https://www.iplant.cn/fsz/info/Zantedeschia%20aethiopica"
+    ]
+  },
+  "checkedDate": "2026-10-13",
+  "availability": {
+    "status": "unknown",
+    "region": null
+  },
+  "sourceRecord": {
+    "sheet": "花材库",
+    "row": 82,
+    "values": {
+      "花材ID": "F054",
+      "原始／新增名称": "彩色马蹄莲",
+      "用户清单Y／空白": null,
+      "规范名称／别名": "白花马蹄莲（彩色类型另分）\n彩色马蹄莲",
+      "学名／分类范围": "Zantedeschia 园艺杂交品种",
+      "名称核对状态": "类别有来源；SKU待核实",
+      "花材角色（项目建议）": "主花；造型花；线条花",
+      "形态标签（项目建议）": "主要为Elliottiana/Rehmannii杂交品种类",
+      "观赏部位": "佛焰苞及肉穗花序",
+      "核实花季／果季": "1–4月",
+      "季节数据口径": "地区植物志花期",
+      "季节适用地区／对象": "深圳植物志记载",
+      "用户原始月份（未验证）": null,
+      "花头尺寸对象": "未核实／需明确测量部位",
+      "直径下限cm": null,
+      "直径上限cm": null,
+      "数值类型": null,
+      "尺寸适用物种／品种": null,
+      "其他尺寸及数量摘要": "佛焰苞长度：10–20 cm（范围）\n花序柄长度：40–50 cm（范围）\n适用范围及来源见“尺寸证据”",
+      "缺失信息／项目注意事项": "白花物种10–20 cm佛焰苞长度不能套给全部彩色品种。\n品类、花型、单/多头、开放阶段应分字段；本表是检索目录，不是互斥分类树。缺少SKU规格时不得自动标定真实比例。\n醒目部位是佛焰苞，不能用肉穗花序直径代表整朵观赏轮廓。\n项目检索分组，非完整植物学分类。",
+      "季节来源名称": "深圳市中国科学院仙湖植物园·深圳植物志",
+      "季节来源URL": "https://www.iplant.cn/fsz/info/Zantedeschia%20aethiopica",
+      "花头尺寸来源": null,
+      "花头尺寸来源URL": null,
+      "名称／资料来源": "RHS·白花与彩色马蹄莲\n深圳市中国科学院仙湖植物园·深圳植物志",
+      "名称／资料来源URL": "https://www.rhs.org.uk/plants/zantedeschia/growing-guide\nhttps://www.iplant.cn/fsz/info/Zantedeschia%20aethiopica",
+      "核查日期": "2026-10-13",
+      "大类": "马蹄莲",
+      "小类": "彩色马蹄莲",
+      "产品ID": "P081"
+    }
+  },
+  "aliases": [
+    {
+      "name": "彩色马蹄莲",
+      "productId": "P081",
+      "relation": "平台规范商品名",
+      "restriction": "平台内部检索入口；不表示已对接同名商城SKU。",
+      "status": "需按具体商品确认",
+      "source": {
+        "name": "RHS·白花与彩色马蹄莲",
+        "urls": [
+          "https://www.rhs.org.uk/plants/zantedeschia/growing-guide"
+        ]
+      }
+    }
+  ],
+  "imageReferences": [
+    {
+      "label": "马蹄莲",
+      "files": [
+        "04-775fb83e5208f71610b98d33a902143a.jpg"
+      ],
+      "productIds": [
+        "P080",
+        "P081"
+      ],
+      "notes": "图片标签较宽泛，原表已细分多个小类；不能仅凭标签确定是哪一种。",
+      "seasonRestriction": "图片所列月份/全年为用户资料，未作为可靠供货期。",
+      "status": "reference-only"
+    }
+  ],
+  "assets": [],
+  "schemaVersion": 1,
+  "revision": "c80bbbca4cdd571a6f8b",
+  "relatedEvidence": [
+    {
+      "id": "E066",
+      "flowerId": "F054",
+      "values": {
+        "证据ID": "E066",
+        "花材ID": "F054",
+        "花材名称": "马蹄莲",
+        "测量项目": "佛焰苞长度",
+        "下限／数值": 10,
+        "上限／数值": 20,
+        "单位": "cm",
+        "数值性质": "范围",
+        "适用物种／品种／商品": "白花马蹄莲佛焰苞",
+        "证据类型": "植物形态参考",
+        "原数值口径（简记）": "10–20 cm",
+        "限制与解释": null,
+        "来源机构／资料": "深圳市中国科学院仙湖植物园·深圳植物志",
+        "来源URL": "https://www.iplant.cn/fsz/info/Zantedeschia%20aethiopica",
+        "核查日期": "2026-10-13"
+      }
+    },
+    {
+      "id": "E067",
+      "flowerId": "F054",
+      "values": {
+        "证据ID": "E067",
+        "花材ID": "F054",
+        "花材名称": "马蹄莲",
+        "测量项目": "花序柄长度",
+        "下限／数值": 40,
+        "上限／数值": 50,
+        "单位": "cm",
+        "数值性质": "范围",
+        "适用物种／品种／商品": "白花马蹄莲天然花序柄",
+        "证据类型": "植物形态参考",
+        "原数值口径（简记）": "40–50 cm",
+        "限制与解释": "非销售等级。",
+        "来源机构／资料": "深圳市中国科学院仙湖植物园·深圳植物志",
+        "来源URL": "https://www.iplant.cn/fsz/info/Zantedeschia%20aethiopica",
+        "核查日期": "2026-10-13"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "productId": "P073",
+  "route": "local-blender",
+  "status": "candidate-needs-visual-review",
+  "mediaOrigin": "model-render",
+  "physicalDimensionsVerified": false,
+  "sourceSpec": {
+    "schemaVersion": 1,
+    "productId": "P073",
+    "editorId": "gerbera-annecy",
+    "name": "非洲菊 Annecy",
+    "color": "白色",
+    "role": "配花",
+    "route": "local-blender",
+    "archetype": "gerbera",
+    "seed": 20261087,
+    "stemLengthM": 0.5,
+    "headDiameterM": 0.07,
+    "petalColor": [
+      0.88,
+      0.86,
+      0.78
+    ],
+    "headNormal": [
+      0.0,
+      -0.7599620223045349,
+      0.6499674916267395
+    ],
+    "logicalStems": 1,
+    "physicalDimensionsVerified": false,
+    "dimensionBasis": "Breeder/species reference and pilot modeling conventions; not measured SKU dimensions",
+    "unverifiedParts": [
+      "exact cultivar backside",
+      "specimen stem curvature",
+      "exact leaf/branch and petal counts"
+    ],
+    "references": [
+      {
+        "origin": "real-photo",
+        "path": "D:\\Projects\\flower-studio\\artifacts\\catalog-media-audit\\candidates\\P073\\0a90aa0bc4e1_hilverdaflorist_gerbera_mini_annecy.jpg",
+        "sourcePage": "https://www.hilverdaflorist.com/en/assortment/cut-flowers/assortment-cut-flowers/gerbera-mini-annecy",
+        "author": "HilverdaFlorist",
+        "license": "Use conditions not verified; local reference only",
+        "mappingScope": null
+      }
+    ],
+    "renderResolution": [
+      400,
+      600
+    ],
+    "detailResolution": 480,
+    "visualStatus": "pilot-awaits-review",
+    "innerColor": [
+      0.84,
+      0.81,
+      0.65
+    ],
+    "diskColors": [
+      [
+        0.55,
+        0.31,
+        0.022
+      ],
+      [
+        0.69,
+        0.4,
+        0.035
+      ],
+      [
+        0.76,
+        0.49,
+        0.043
+      ]
+    ],
+    "inputSpecSha256": "260087f82d3e111ece4fc85286571fbce820510b59a3d2855a6fd4f86d8711b1",
+    "headCenter": [
+      0.008999999612569809,
+      0.003000000026077032,
+      0.5
+    ]
+  },
+  "files": [
+    "stem.glb",
+    "source.blend",
+    "front.png",
+    "left.png",
+    "back.png",
+    "right.png",
+    "head-front.png",
+    "head-back.png",
+    "head-quarter.png"
+  ],
+  "checks": {
+    "glbHeader": true,
+    "embeddedTextures": true,
+    "roundTrip": true,
+    "meshCount": 8,
+    "triangles": 49052,
+    "bytes": 1083304,
+    "boundsM": {
+      "min": [
+        -0.026651842519640923,
+        -0.0180476363748312,
+        -0.00017964732251130044
+      ],
+      "max": [
+        0.044014737010002136,
+        0.02958024851977825,
+        0.5234345197677612
+      ]
+    },
+    "missingTextures": []
+  }
+}

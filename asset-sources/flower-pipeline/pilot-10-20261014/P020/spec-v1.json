@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "productId": "P020",
+  "editorId": "lily-of-valley",
+  "name": "铃兰",
+  "color": "白色",
+  "role": "配花",
+  "route": "local-blender",
+  "archetype": "lily-of-valley",
+  "seed": 20261034,
+  "stemLengthM": 0.25,
+  "headDiameterM": 0.06,
+  "petalColor": [
+    0.91,
+    0.91,
+    0.84
+  ],
+  "headNormal": [
+    0,
+    -0.76,
+    0.65
+  ],
+  "logicalStems": 1,
+  "physicalDimensionsVerified": false,
+  "dimensionBasis": "Breeder/species reference and pilot modeling conventions; not measured SKU dimensions",
+  "unverifiedParts": [
+    "exact cultivar backside",
+    "specimen stem curvature",
+    "exact leaf/branch and petal counts"
+  ],
+  "references": [
+    {
+      "origin": "real-photo",
+      "path": "D:\\Projects\\flower-studio\\artifacts\\catalog-photo-fill\\originals\\P020\\Convallaria_majalis__rssHShKjFDTo.jfif",
+      "sourcePage": "https://plants.ces.ncsu.edu/plants/convallaria-majalis/",
+      "author": "H Zell",
+      "license": "CC BY-SA 3.0",
+      "mappingScope": "species-or-category-reference"
+    }
+  ],
+  "renderResolution": [
+    400,
+    600
+  ],
+  "detailResolution": 480,
+  "visualStatus": "pilot-awaits-review"
+}

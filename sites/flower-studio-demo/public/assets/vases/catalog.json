@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ivory-bud",
+    "name": "奶油白细口瓶",
+    "dimensions": {
+      "height_cm": 23.2,
+      "mouth_inner_diameter_cm": 4.2,
+      "max_body_diameter_cm": 15.0
+    },
+    "dimensions_type": "constructed_model_dimensions",
+    "model": "/assets/vases/ivory-bud.glb",
+    "preview": "/assets/vases/ivory-bud.png",
+    "source": "asset-sources/vases/ivory-bud.blend",
+    "material": "ceramic",
+    "unit": "meter"
+  },
+  {
+    "id": "sage-fluted",
+    "name": "鼠尾草绿竖纹瓶",
+    "dimensions": {
+      "height_cm": 26.2,
+      "mouth_inner_diameter_cm": 9.8,
+      "max_body_diameter_cm": 13.4
+    },
+    "dimensions_type": "constructed_model_dimensions",
+    "model": "/assets/vases/sage-fluted.glb",
+    "preview": "/assets/vases/sage-fluted.png",
+    "source": "asset-sources/vases/sage-fluted.blend",
+    "material": "ceramic",
+    "unit": "meter"
+  },
+  {
+    "id": "terracotta-amphora",
+    "name": "陶土双耳瓶",
+    "dimensions": {
+      "height_cm": 25.2,
+      "mouth_inner_diameter_cm": 6.8,
+      "max_body_diameter_cm": 17.7
+    },
+    "dimensions_type": "constructed_model_dimensions",
+    "model": "/assets/vases/terracotta-amphora.glb",
+    "preview": "/assets/vases/terracotta-amphora.png",
+    "source": "asset-sources/vases/terracotta-amphora.blend",
+    "material": "ceramic",
+    "unit": "meter"
+  },
+  {
+    "id": "cobalt-hourglass",
+    "name": "钴蓝收腰瓶",
+    "dimensions": {
+      "height_cm": 24.2,
+      "mouth_inner_diameter_cm": 11.2,
+      "max_body_diameter_cm": 15.1
+    },
+    "dimensions_type": "constructed_model_dimensions",
+    "model": "/assets/vases/cobalt-hourglass.glb",
+    "preview": "/assets/vases/cobalt-hourglass.png",
+    "source": "asset-sources/vases/cobalt-hourglass.blend",
+    "material": "ceramic",
+    "unit": "meter"
+  },
+  {
+    "id": "smoke-glass",
+    "name": "烟灰玻璃瓶",
+    "dimensions": {
+      "height_cm": 27.2,
+      "mouth_inner_diameter_cm": 11.2,
+      "max_body_diameter_cm": 12.0
+    },
+    "dimensions_type": "constructed_model_dimensions",
+    "model": "/assets/vases/smoke-glass.glb",
+    "preview": "/assets/vases/smoke-glass.png",
+    "source": "asset-sources/vases/smoke-glass.blend",
+    "material": "glass",
+    "unit": "meter"
+  },
+  {
+    "id": "cream-compote",
+    "name": "奶油白高脚花钵",
+    "dimensions": {
+      "height_cm": 15.2,
+      "mouth_inner_diameter_cm": 23.2,
+      "max_body_diameter_cm": 24.0
+    },
+    "dimensions_type": "constructed_model_dimensions",
+    "model": "/assets/vases/cream-compote.glb",
+    "preview": "/assets/vases/cream-compote.png",
+    "source": "asset-sources/vases/cream-compote.blend",
+    "material": "ceramic",
+    "unit": "meter"
+  },
+  {
+    "id": "blush-ribbed",
+    "name": "藕粉圆腹纹理瓶",
+    "dimensions": {
+      "height_cm": 20.2,
+      "mouth_inner_diameter_cm": 6.8,
+      "max_body_diameter_cm": 16.1
+    },
+    "dimensions_type": "constructed_model_dimensions",
+    "model": "/assets/vases/blush-ribbed.glb",
+    "preview": "/assets/vases/blush-ribbed.png",
+    "source": "asset-sources/vases/blush-ribbed.blend",
+    "material": "ceramic",
+    "unit": "meter"
+  },
+  {
+    "id": "charcoal-sculpture",
+    "name": "炭灰雕塑瓶",
+    "dimensions": {
+      "height_cm": 28.7,
+      "mouth_inner_diameter_cm": 7.6,
+      "max_body_diameter_cm": 13.4
+    },
+    "dimensions_type": "constructed_model_dimensions",
+    "model": "/assets/vases/charcoal-sculpture.glb",
+    "preview": "/assets/vases/charcoal-sculpture.png",
+    "source": "asset-sources/vases/charcoal-sculpture.blend",
+    "material": "ceramic",
+    "unit": "meter"
+  }
+]

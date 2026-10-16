@@ -1,0 +1,2127 @@
+{
+  "schemaVersion": 1,
+  "revision": "8549c6d07d6d1bcb6722",
+  "scope": "general-reference",
+  "counts": {
+    "products": 104,
+    "aliases": 135,
+    "dimensionEvidence": 70,
+    "imageLabels": 76,
+    "seasonUnknown": 52,
+    "withPreview": 13,
+    "rolePending": 20
+  },
+  "products": [
+    {
+      "id": "P001",
+      "name": "乒乓菊",
+      "group": "菊花",
+      "subgroup": "乒乓菊",
+      "roles": [
+        "主花",
+        "配花"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "乒乓菊",
+        "菊花"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P001.json"
+    },
+    {
+      "id": "P002",
+      "name": "小菊（切花用）",
+      "group": "菊花",
+      "subgroup": "小菊（切花用）",
+      "roles": [
+        "主花",
+        "配花"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "小菊（切花用）",
+        "菊花",
+        "小菊"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P002.json"
+    },
+    {
+      "id": "P003",
+      "name": "大单头切菊",
+      "group": "菊花",
+      "subgroup": "大单头切菊",
+      "roles": [
+        "主花",
+        "配花"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "大单头切菊",
+        "菊花",
+        "独轮菊"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P003.json"
+    },
+    {
+      "id": "P004",
+      "name": "多头切菊",
+      "group": "菊花",
+      "subgroup": "多头切菊",
+      "roles": [
+        "主花",
+        "配花"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "多头切菊",
+        "菊花",
+        "多头菊"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P004.json"
+    },
+    {
+      "id": "P005",
+      "name": "Santini小花切菊",
+      "group": "菊花",
+      "subgroup": "Santini小花切菊",
+      "roles": [
+        "主花",
+        "配花"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "Santini小花切菊",
+        "菊花",
+        "Santini"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P005.json"
+    },
+    {
+      "id": "P006",
+      "name": "向日葵",
+      "group": "向日葵",
+      "subgroup": "向日葵",
+      "roles": [
+        "主花"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "向日葵"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": "/assets/workbench/sunflower-thumb.webp?v=2",
+      "coverKind": "model-preview",
+      "editorIds": [
+        "sunflower"
+      ],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P006.json"
+    },
+    {
+      "id": "P007",
+      "name": "鲜切绣球（非秋色阶段）",
+      "group": "绣球",
+      "subgroup": "鲜切绣球（非秋色阶段）",
+      "roles": [
+        "主花",
+        "体量"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "鲜切绣球（非秋色阶段）",
+        "绣球"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P007.json"
+    },
+    {
+      "id": "P008",
+      "name": "散尾叶",
+      "group": "散尾叶",
+      "subgroup": "散尾叶",
+      "roles": [
+        "叶材",
+        "线条"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "散尾叶"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P008.json"
+    },
+    {
+      "id": "P009",
+      "name": "九星叶",
+      "group": "九星叶",
+      "subgroup": "九星叶",
+      "roles": [
+        "叶材"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "待核名；不自动同款匹配",
+      "searchNames": [
+        "九星叶"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P009.json"
+    },
+    {
+      "id": "P010",
+      "name": "贯众叶",
+      "group": "贯众叶",
+      "subgroup": "贯众叶",
+      "roles": [
+        "叶材"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "待核名；不自动同款匹配",
+      "searchNames": [
+        "贯众叶"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P010.json"
+    },
+    {
+      "id": "P011",
+      "name": "栀子叶",
+      "group": "栀子叶",
+      "subgroup": "栀子叶",
+      "roles": [
+        "叶材"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "栀子叶"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P011.json"
+    },
+    {
+      "id": "P012",
+      "name": "掌",
+      "group": "掌",
+      "subgroup": "掌",
+      "roles": [],
+      "roleStatus": "pending",
+      "nameStatus": "待核名；不自动同款匹配",
+      "searchNames": [
+        "掌",
+        "红掌"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P012.json"
+    },
+    {
+      "id": "P013",
+      "name": "千日红",
+      "group": "千日红",
+      "subgroup": "千日红",
+      "roles": [
+        "配花",
+        "点缀"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "千日红"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P013.json"
+    },
+    {
+      "id": "P014",
+      "name": "绿毛球",
+      "group": "绿毛球",
+      "subgroup": "绿毛球",
+      "roles": [
+        "配花",
+        "质感"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "绿毛球"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P014.json"
+    },
+    {
+      "id": "P015",
+      "name": "洋甘菊",
+      "group": "菊花",
+      "subgroup": "洋甘菊",
+      "roles": [
+        "配花",
+        "填充"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "待核名；不自动同款匹配",
+      "searchNames": [
+        "洋甘菊",
+        "菊花",
+        "Pyrethrum parthenium"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P015.json"
+    },
+    {
+      "id": "P016",
+      "name": "喷泉草",
+      "group": "喷泉草",
+      "subgroup": "喷泉草",
+      "roles": [
+        "草材",
+        "填充",
+        "线条"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "待核名；不自动同款匹配",
+      "searchNames": [
+        "喷泉草"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P016.json"
+    },
+    {
+      "id": "P017",
+      "name": "银莲花",
+      "group": "银莲花",
+      "subgroup": "银莲花",
+      "roles": [
+        "主花",
+        "配花"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "银莲花"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P017.json"
+    },
+    {
+      "id": "P018",
+      "name": "蝴蝶兰",
+      "group": "蝴蝶兰",
+      "subgroup": "蝴蝶兰",
+      "roles": [
+        "主花",
+        "造型",
+        "线条"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "蝴蝶兰"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P018.json"
+    },
+    {
+      "id": "P019",
+      "name": "腊梅",
+      "group": "腊梅",
+      "subgroup": "腊梅",
+      "roles": [
+        "枝材",
+        "线条"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "腊梅",
+        "蜡梅"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P019.json"
+    },
+    {
+      "id": "P020",
+      "name": "铃兰",
+      "group": "铃兰",
+      "subgroup": "铃兰",
+      "roles": [
+        "配花",
+        "线条"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "铃兰"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": "/assets/catalog/P020/photo-reference-v1/cover.webp",
+      "coverKind": "photo",
+      "editorIds": [
+        "lily-of-valley"
+      ],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P020.json"
+    },
+    {
+      "id": "P021",
+      "name": "芍药",
+      "group": "芍药",
+      "subgroup": "芍药",
+      "roles": [
+        "主花"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "芍药"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P021.json"
+    },
+    {
+      "id": "P022",
+      "name": "牡丹",
+      "group": "牡丹",
+      "subgroup": "牡丹",
+      "roles": [
+        "主花"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "牡丹"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P022.json"
+    },
+    {
+      "id": "P023",
+      "name": "风铃草",
+      "group": "风铃草",
+      "subgroup": "风铃草",
+      "roles": [
+        "配花",
+        "线条"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "风铃草",
+        "风铃花"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P023.json"
+    },
+    {
+      "id": "P024",
+      "name": "茉莉",
+      "group": "茉莉",
+      "subgroup": "茉莉",
+      "roles": [
+        "配花",
+        "枝材"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "茉莉",
+        "茉莉花"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P024.json"
+    },
+    {
+      "id": "P025",
+      "name": "虞美人",
+      "group": "虞美人",
+      "subgroup": "虞美人",
+      "roles": [
+        "主花",
+        "配花"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "待核名；不自动同款匹配",
+      "searchNames": [
+        "虞美人"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P025.json"
+    },
+    {
+      "id": "P026",
+      "name": "络新妇",
+      "group": "络新妇",
+      "subgroup": "络新妇",
+      "roles": [
+        "配花",
+        "填充",
+        "线条"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "络新妇"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P026.json"
+    },
+    {
+      "id": "P027",
+      "name": "睡莲",
+      "group": "睡莲",
+      "subgroup": "睡莲",
+      "roles": [
+        "主花"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "睡莲"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P027.json"
+    },
+    {
+      "id": "P028",
+      "name": "马醉木",
+      "group": "马醉木",
+      "subgroup": "马醉木",
+      "roles": [
+        "叶材",
+        "枝材"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "待核名；不自动同款匹配",
+      "searchNames": [
+        "马醉木"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P028.json"
+    },
+    {
+      "id": "P029",
+      "name": "莲蓬",
+      "group": "莲蓬",
+      "subgroup": "莲蓬",
+      "roles": [
+        "果材",
+        "造型"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "莲蓬"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P029.json"
+    },
+    {
+      "id": "P030",
+      "name": "柔丽丝",
+      "group": "柔丽丝",
+      "subgroup": "柔丽丝",
+      "roles": [],
+      "roleStatus": "pending",
+      "nameStatus": "待核名；不自动同款匹配",
+      "searchNames": [
+        "柔丽丝"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P030.json"
+    },
+    {
+      "id": "P031",
+      "name": "天堂鸟",
+      "group": "天堂鸟",
+      "subgroup": "天堂鸟",
+      "roles": [
+        "主花",
+        "造型",
+        "线条"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "天堂鸟",
+        "鹤望兰"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P031.json"
+    },
+    {
+      "id": "P032",
+      "name": "小柿子",
+      "group": "小柿子",
+      "subgroup": "小柿子",
+      "roles": [
+        "果材",
+        "枝材"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "待核名；不自动同款匹配",
+      "searchNames": [
+        "小柿子"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P032.json"
+    },
+    {
+      "id": "P033",
+      "name": "南天竹",
+      "group": "南天竹",
+      "subgroup": "南天竹",
+      "roles": [
+        "叶材",
+        "果材",
+        "枝材"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "南天竹"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P033.json"
+    },
+    {
+      "id": "P034",
+      "name": "天鹅绒",
+      "group": "天鹅绒",
+      "subgroup": "天鹅绒",
+      "roles": [],
+      "roleStatus": "pending",
+      "nameStatus": "待核名；不自动同款匹配",
+      "searchNames": [
+        "天鹅绒",
+        "伯利恒之星"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P034.json"
+    },
+    {
+      "id": "P035",
+      "name": "秋色绣球",
+      "group": "秋色绣球",
+      "subgroup": "秋色绣球",
+      "roles": [
+        "主花",
+        "体量"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "秋色绣球"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P035.json"
+    },
+    {
+      "id": "P036",
+      "name": "南瓜",
+      "group": "南瓜",
+      "subgroup": "南瓜",
+      "roles": [
+        "果材",
+        "造型"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "待核名；不自动同款匹配",
+      "searchNames": [
+        "南瓜"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P036.json"
+    },
+    {
+      "id": "P037",
+      "name": "五代果",
+      "group": "五代果",
+      "subgroup": "五代果",
+      "roles": [
+        "果材",
+        "造型"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "五代果",
+        "乳茄"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P037.json"
+    },
+    {
+      "id": "P038",
+      "name": "冬青",
+      "group": "冬青",
+      "subgroup": "冬青",
+      "roles": [
+        "果材",
+        "枝材"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "待核名；不自动同款匹配",
+      "searchNames": [
+        "冬青"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P038.json"
+    },
+    {
+      "id": "P039",
+      "name": "针垫",
+      "group": "针垫",
+      "subgroup": "针垫",
+      "roles": [
+        "主花",
+        "造型"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "针垫"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P039.json"
+    },
+    {
+      "id": "P040",
+      "name": "火焰兰",
+      "group": "火焰兰",
+      "subgroup": "火焰兰",
+      "roles": [
+        "线条",
+        "配花"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "火焰兰"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P040.json"
+    },
+    {
+      "id": "P041",
+      "name": "红豆",
+      "group": "红豆",
+      "subgroup": "红豆",
+      "roles": [
+        "果材",
+        "配材"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "红豆",
+        "火龙珠"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P041.json"
+    },
+    {
+      "id": "P042",
+      "name": "龙柳",
+      "group": "龙柳",
+      "subgroup": "龙柳",
+      "roles": [
+        "枝材",
+        "线条"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "龙柳"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P042.json"
+    },
+    {
+      "id": "P043",
+      "name": "山归来",
+      "group": "山归来",
+      "subgroup": "山归来",
+      "roles": [
+        "果材",
+        "枝材"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "待核名；不自动同款匹配",
+      "searchNames": [
+        "山归来",
+        "菝葜"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P043.json"
+    },
+    {
+      "id": "P044",
+      "name": "火棘果",
+      "group": "火棘果",
+      "subgroup": "火棘果",
+      "roles": [
+        "果材",
+        "枝材"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "火棘果"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P044.json"
+    },
+    {
+      "id": "P045",
+      "name": "花毛茛",
+      "group": "花毛茛",
+      "subgroup": "花毛茛",
+      "roles": [
+        "主花",
+        "配花"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "花毛茛",
+        "洋牡丹"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P045.json"
+    },
+    {
+      "id": "P046",
+      "name": "紫罗兰",
+      "group": "紫罗兰",
+      "subgroup": "紫罗兰",
+      "roles": [
+        "配花",
+        "线条"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "紫罗兰"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P046.json"
+    },
+    {
+      "id": "P047",
+      "name": "金鱼草",
+      "group": "金鱼草",
+      "subgroup": "金鱼草",
+      "roles": [
+        "线条",
+        "配花"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "金鱼草"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P047.json"
+    },
+    {
+      "id": "P048",
+      "name": "香雪兰",
+      "group": "香雪兰",
+      "subgroup": "香雪兰",
+      "roles": [
+        "配花",
+        "线条"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "香雪兰"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P048.json"
+    },
+    {
+      "id": "P049",
+      "name": "剑兰",
+      "group": "剑兰",
+      "subgroup": "剑兰",
+      "roles": [
+        "线条",
+        "骨架"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "剑兰",
+        "唐菖蒲"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P049.json"
+    },
+    {
+      "id": "P050",
+      "name": "勿忘我（补血草）",
+      "group": "勿忘我（补血草）",
+      "subgroup": "勿忘我（补血草）",
+      "roles": [
+        "配花",
+        "填充"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "勿忘我（补血草）",
+        "补血草"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P050.json"
+    },
+    {
+      "id": "P051",
+      "name": "龟背叶",
+      "group": "龟背叶",
+      "subgroup": "龟背叶",
+      "roles": [
+        "叶材",
+        "造型"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "龟背叶"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P051.json"
+    },
+    {
+      "id": "P052",
+      "name": "单头切花玫瑰",
+      "group": "玫瑰",
+      "subgroup": "单头切花玫瑰",
+      "roles": [
+        "主花"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "单头切花玫瑰",
+        "玫瑰",
+        "切花月季"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": "/assets/catalog/P052/photo-reference-v1/cover.webp",
+      "coverKind": "photo",
+      "editorIds": [
+        "pink-rose",
+        "red-rose",
+        "white-rose-proud"
+      ],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P052.json"
+    },
+    {
+      "id": "P053",
+      "name": "多头切花玫瑰",
+      "group": "玫瑰",
+      "subgroup": "多头切花玫瑰",
+      "roles": [
+        "主花"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "多头切花玫瑰",
+        "玫瑰",
+        "Spray Rose"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P053.json"
+    },
+    {
+      "id": "P054",
+      "name": "切花月季“菲韵”",
+      "group": "玫瑰",
+      "subgroup": "切花月季“菲韵”",
+      "roles": [
+        "主花"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "品种资料已核实；国内在售未确认",
+      "searchNames": [
+        "切花月季“菲韵”",
+        "玫瑰",
+        "菲韵"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P054.json"
+    },
+    {
+      "id": "P055",
+      "name": "切花月季“金辉”",
+      "group": "玫瑰",
+      "subgroup": "切花月季“金辉”",
+      "roles": [
+        "主花"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "品种资料已核实；国内在售未确认",
+      "searchNames": [
+        "切花月季“金辉”",
+        "玫瑰",
+        "金辉"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P055.json"
+    },
+    {
+      "id": "P056",
+      "name": "单瓣洋桔梗",
+      "group": "洋桔梗",
+      "subgroup": "单瓣洋桔梗",
+      "roles": [
+        "主花",
+        "配花"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "单瓣洋桔梗",
+        "洋桔梗",
+        "单瓣草原龙胆"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P056.json"
+    },
+    {
+      "id": "P057",
+      "name": "重瓣洋桔梗",
+      "group": "洋桔梗",
+      "subgroup": "重瓣洋桔梗",
+      "roles": [
+        "主花",
+        "配花"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "重瓣洋桔梗",
+        "洋桔梗"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": "/assets/catalog/P057/photo-reference-v1/cover.webp",
+      "coverKind": "photo",
+      "editorIds": [
+        "lisianthus-piccolo"
+      ],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P057.json"
+    },
+    {
+      "id": "P058",
+      "name": "Mariachi洋桔梗",
+      "group": "洋桔梗",
+      "subgroup": "Mariachi洋桔梗",
+      "roles": [
+        "主花",
+        "配花"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "Mariachi洋桔梗",
+        "洋桔梗",
+        "Mariachi"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P058.json"
+    },
+    {
+      "id": "P059",
+      "name": "东方百合",
+      "group": "百合",
+      "subgroup": "东方百合",
+      "roles": [
+        "主花",
+        "线条"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "东方百合",
+        "百合",
+        "香水百合"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": "/assets/catalog/P059/photo-reference-v1/cover.webp",
+      "coverKind": "photo",
+      "editorIds": [
+        "oriental-lily-colet"
+      ],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P059.json"
+    },
+    {
+      "id": "P060",
+      "name": "亚洲百合",
+      "group": "百合",
+      "subgroup": "亚洲百合",
+      "roles": [
+        "主花",
+        "线条"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "亚洲百合",
+        "百合"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P060.json"
+    },
+    {
+      "id": "P061",
+      "name": "OT百合",
+      "group": "百合",
+      "subgroup": "OT百合",
+      "roles": [
+        "主花",
+        "线条"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "OT百合",
+        "百合"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P061.json"
+    },
+    {
+      "id": "P062",
+      "name": "LA百合",
+      "group": "百合",
+      "subgroup": "LA百合",
+      "roles": [
+        "主花",
+        "线条"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "LA百合",
+        "百合"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P062.json"
+    },
+    {
+      "id": "P063",
+      "name": "铁炮百合",
+      "group": "百合",
+      "subgroup": "铁炮百合",
+      "roles": [
+        "主花",
+        "线条"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "铁炮百合",
+        "百合"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P063.json"
+    },
+    {
+      "id": "P064",
+      "name": "重瓣百合",
+      "group": "百合",
+      "subgroup": "重瓣百合",
+      "roles": [
+        "主花",
+        "线条"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "重瓣百合",
+        "百合"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P064.json"
+    },
+    {
+      "id": "P065",
+      "name": "单头康乃馨",
+      "group": "康乃馨",
+      "subgroup": "单头康乃馨",
+      "roles": [
+        "主花",
+        "配花"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "单头康乃馨",
+        "康乃馨"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": "/assets/catalog/P065/photo-reference-v1/cover.webp",
+      "coverKind": "photo",
+      "editorIds": [
+        "carnation-green-shot"
+      ],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P065.json"
+    },
+    {
+      "id": "P066",
+      "name": "多头康乃馨",
+      "group": "康乃馨",
+      "subgroup": "多头康乃馨",
+      "roles": [
+        "主花",
+        "配花"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "多头康乃馨",
+        "康乃馨"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P066.json"
+    },
+    {
+      "id": "P067",
+      "name": "银叶桉切叶（E. cinerea）",
+      "group": "尤加利叶",
+      "subgroup": "银叶桉切叶（E. cinerea）",
+      "roles": [
+        "叶材",
+        "配材"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "银叶桉切叶（E. cinerea）",
+        "尤加利叶",
+        "Eucalyptus cinerea",
+        "银元桉"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": "/assets/catalog/P067/photo-reference-v1/cover.webp",
+      "coverKind": "photo",
+      "editorIds": [
+        "silver-eucalyptus"
+      ],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P067.json"
+    },
+    {
+      "id": "P068",
+      "name": "Baby Blue桉切叶",
+      "group": "尤加利叶",
+      "subgroup": "Baby Blue桉切叶",
+      "roles": [
+        "叶材",
+        "配材"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "Baby Blue桉切叶",
+        "尤加利叶",
+        "Baby Blue"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P068.json"
+    },
+    {
+      "id": "P069",
+      "name": "尤加利切叶（物种未定）",
+      "group": "尤加利叶",
+      "subgroup": "尤加利切叶（物种未定）",
+      "roles": [
+        "叶材",
+        "配材"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "待核物种及叶龄",
+      "searchNames": [
+        "尤加利切叶（物种未定）",
+        "尤加利叶"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": "/assets/workbench/eucalyptus-thumb.webp?v=2",
+      "coverKind": "model-preview",
+      "editorIds": [
+        "eucalyptus"
+      ],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P069.json"
+    },
+    {
+      "id": "P070",
+      "name": "标准非洲菊",
+      "group": "非洲菊",
+      "subgroup": "标准非洲菊",
+      "roles": [
+        "主花",
+        "配花"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "标准非洲菊",
+        "非洲菊"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P070.json"
+    },
+    {
+      "id": "P071",
+      "name": "迷你非洲菊",
+      "group": "非洲菊",
+      "subgroup": "迷你非洲菊",
+      "roles": [
+        "主花",
+        "配花"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "迷你非洲菊",
+        "非洲菊"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P071.json"
+    },
+    {
+      "id": "P072",
+      "name": "非洲菊“Atlanta”",
+      "group": "非洲菊",
+      "subgroup": "非洲菊“Atlanta”",
+      "roles": [
+        "主花",
+        "配花"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "非洲菊“Atlanta”",
+        "非洲菊",
+        "Atlanta"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": "/assets/catalog/P072/photo-reference-v1/cover.webp",
+      "coverKind": "photo",
+      "editorIds": [
+        "gerbera-atlanta"
+      ],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P072.json"
+    },
+    {
+      "id": "P073",
+      "name": "非洲菊“Annecy”",
+      "group": "非洲菊",
+      "subgroup": "非洲菊“Annecy”",
+      "roles": [
+        "主花",
+        "配花"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "非洲菊“Annecy”",
+        "非洲菊",
+        "Annecy"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": "/assets/catalog/P073/photo-reference-v1/cover.webp",
+      "coverKind": "photo",
+      "editorIds": [
+        "gerbera-annecy"
+      ],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P073.json"
+    },
+    {
+      "id": "P074",
+      "name": "单瓣郁金香",
+      "group": "郁金香",
+      "subgroup": "单瓣郁金香",
+      "roles": [
+        "主花",
+        "线条"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "单瓣郁金香",
+        "郁金香"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": "/assets/workbench/white-tulip-thumb.webp?v=3",
+      "coverKind": "model-preview",
+      "editorIds": [
+        "white-tulip"
+      ],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P074.json"
+    },
+    {
+      "id": "P075",
+      "name": "重瓣郁金香",
+      "group": "郁金香",
+      "subgroup": "重瓣郁金香",
+      "roles": [
+        "主花",
+        "线条"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "重瓣郁金香",
+        "郁金香"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P075.json"
+    },
+    {
+      "id": "P076",
+      "name": "鹦鹉郁金香",
+      "group": "郁金香",
+      "subgroup": "鹦鹉郁金香",
+      "roles": [
+        "主花",
+        "线条"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "鹦鹉郁金香",
+        "郁金香"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P076.json"
+    },
+    {
+      "id": "P077",
+      "name": "球型大丽花",
+      "group": "大丽花",
+      "subgroup": "球型大丽花",
+      "roles": [
+        "主花"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "球型大丽花",
+        "大丽花"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P077.json"
+    },
+    {
+      "id": "P078",
+      "name": "装饰型大丽花",
+      "group": "大丽花",
+      "subgroup": "装饰型大丽花",
+      "roles": [
+        "主花"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "装饰型大丽花",
+        "大丽花"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P078.json"
+    },
+    {
+      "id": "P079",
+      "name": "仙人掌型大丽花",
+      "group": "大丽花",
+      "subgroup": "仙人掌型大丽花",
+      "roles": [
+        "主花"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "仙人掌型大丽花",
+        "大丽花"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P079.json"
+    },
+    {
+      "id": "P080",
+      "name": "白花马蹄莲",
+      "group": "马蹄莲",
+      "subgroup": "白花马蹄莲",
+      "roles": [
+        "主花",
+        "造型",
+        "线条"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "白花马蹄莲",
+        "马蹄莲"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P080.json"
+    },
+    {
+      "id": "P081",
+      "name": "彩色马蹄莲",
+      "group": "马蹄莲",
+      "subgroup": "彩色马蹄莲",
+      "roles": [
+        "主花",
+        "造型",
+        "线条"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "彩色马蹄莲",
+        "马蹄莲"
+      ],
+      "seasonStatus": "reference",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P081.json"
+    },
+    {
+      "id": "P082",
+      "name": "满天星“Xlence”",
+      "group": "满天星",
+      "subgroup": "满天星“Xlence”",
+      "roles": [
+        "配花",
+        "填充"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "满天星“Xlence”",
+        "满天星",
+        "Xlence"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": "/assets/catalog/P082/photo-reference-v1/cover.webp",
+      "coverKind": "photo",
+      "editorIds": [
+        "gypsophila-xlence"
+      ],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P082.json"
+    },
+    {
+      "id": "P083",
+      "name": "满天星“Million Stars”",
+      "group": "满天星",
+      "subgroup": "满天星“Million Stars”",
+      "roles": [
+        "配花",
+        "填充"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别有来源；SKU待核实",
+      "searchNames": [
+        "满天星“Million Stars”",
+        "满天星",
+        "Million Stars"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P083.json"
+    },
+    {
+      "id": "P084",
+      "name": "千代兰",
+      "group": "千代兰",
+      "subgroup": "千代兰",
+      "roles": [],
+      "roleStatus": "pending",
+      "nameStatus": "图片名称已记录；物种/商品待核实",
+      "searchNames": [
+        "千代兰"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P084.json"
+    },
+    {
+      "id": "P085",
+      "name": "松虫草",
+      "group": "松虫草",
+      "subgroup": "松虫草",
+      "roles": [],
+      "roleStatus": "pending",
+      "nameStatus": "图片名称已记录；物种/商品待核实",
+      "searchNames": [
+        "松虫草"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P085.json"
+    },
+    {
+      "id": "P086",
+      "name": "跳舞兰",
+      "group": "跳舞兰",
+      "subgroup": "跳舞兰",
+      "roles": [
+        "线条",
+        "配花"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "类别/别名有机构资料；品种待核",
+      "searchNames": [
+        "跳舞兰"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P086.json"
+    },
+    {
+      "id": "P087",
+      "name": "姜荷花",
+      "group": "姜荷花",
+      "subgroup": "姜荷花",
+      "roles": [
+        "造型"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "切花用途有机构资料；品种待核",
+      "searchNames": [
+        "姜荷花"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P087.json"
+    },
+    {
+      "id": "P088",
+      "name": "松果菊",
+      "group": "松果菊",
+      "subgroup": "松果菊",
+      "roles": [],
+      "roleStatus": "pending",
+      "nameStatus": "图片名称已记录；物种/商品待核实",
+      "searchNames": [
+        "松果菊"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P088.json"
+    },
+    {
+      "id": "P089",
+      "name": "商陆",
+      "group": "商陆",
+      "subgroup": "商陆",
+      "roles": [],
+      "roleStatus": "pending",
+      "nameStatus": "图片名称已记录；物种/商品待核实",
+      "searchNames": [
+        "商陆"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P089.json"
+    },
+    {
+      "id": "P090",
+      "name": "芦苇草",
+      "group": "芦苇草",
+      "subgroup": "芦苇草",
+      "roles": [],
+      "roleStatus": "pending",
+      "nameStatus": "图片名称已记录；物种/商品待核实",
+      "searchNames": [
+        "芦苇草"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P090.json"
+    },
+    {
+      "id": "P091",
+      "name": "蓝星花",
+      "group": "蓝星花",
+      "subgroup": "蓝星花",
+      "roles": [],
+      "roleStatus": "pending",
+      "nameStatus": "图片名称已记录；物种/商品待核实",
+      "searchNames": [
+        "蓝星花"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P091.json"
+    },
+    {
+      "id": "P092",
+      "name": "诺贝松",
+      "group": "诺贝松",
+      "subgroup": "诺贝松",
+      "roles": [],
+      "roleStatus": "pending",
+      "nameStatus": "图片名称已记录；物种/商品待核实",
+      "searchNames": [
+        "诺贝松"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P092.json"
+    },
+    {
+      "id": "P093",
+      "name": "千层金",
+      "group": "千层金",
+      "subgroup": "千层金",
+      "roles": [],
+      "roleStatus": "pending",
+      "nameStatus": "图片名称已记录；物种/商品待核实",
+      "searchNames": [
+        "千层金"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P093.json"
+    },
+    {
+      "id": "P094",
+      "name": "袋鼠爪",
+      "group": "袋鼠爪",
+      "subgroup": "袋鼠爪",
+      "roles": [],
+      "roleStatus": "pending",
+      "nameStatus": "图片名称已记录；物种/商品待核实",
+      "searchNames": [
+        "袋鼠爪"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P094.json"
+    },
+    {
+      "id": "P095",
+      "name": "南蛇藤",
+      "group": "南蛇藤",
+      "subgroup": "南蛇藤",
+      "roles": [],
+      "roleStatus": "pending",
+      "nameStatus": "图片名称已记录；物种/商品待核实",
+      "searchNames": [
+        "南蛇藤"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P095.json"
+    },
+    {
+      "id": "P096",
+      "name": "小手球",
+      "group": "小手球",
+      "subgroup": "小手球",
+      "roles": [],
+      "roleStatus": "pending",
+      "nameStatus": "图片名称已记录；物种/商品待核实",
+      "searchNames": [
+        "小手球"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P096.json"
+    },
+    {
+      "id": "P097",
+      "name": "风信子",
+      "group": "风信子",
+      "subgroup": "风信子",
+      "roles": [],
+      "roleStatus": "pending",
+      "nameStatus": "图片名称已记录；物种/商品待核实",
+      "searchNames": [
+        "风信子"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P097.json"
+    },
+    {
+      "id": "P098",
+      "name": "黄金球",
+      "group": "黄金球",
+      "subgroup": "黄金球",
+      "roles": [],
+      "roleStatus": "pending",
+      "nameStatus": "图片名称已记录；物种/商品待核实",
+      "searchNames": [
+        "黄金球"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": "/assets/catalog/P098/photo-reference-v1/cover.webp",
+      "coverKind": "photo",
+      "editorIds": [
+        "craspedia-yellow"
+      ],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P098.json"
+    },
+    {
+      "id": "P099",
+      "name": "洋兰",
+      "group": "洋兰",
+      "subgroup": "洋兰",
+      "roles": [],
+      "roleStatus": "pending",
+      "nameStatus": "图片名称已记录；物种/商品待核实",
+      "searchNames": [
+        "洋兰"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P099.json"
+    },
+    {
+      "id": "P100",
+      "name": "海棠果",
+      "group": "海棠果",
+      "subgroup": "海棠果",
+      "roles": [],
+      "roleStatus": "pending",
+      "nameStatus": "图片名称已记录；物种/商品待核实",
+      "searchNames": [
+        "海棠果"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P100.json"
+    },
+    {
+      "id": "P101",
+      "name": "六出花",
+      "group": "六出花",
+      "subgroup": "六出花",
+      "roles": [
+        "主花",
+        "配花"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "育种商切花类别可核；中文商品对应待核",
+      "searchNames": [
+        "六出花"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P101.json"
+    },
+    {
+      "id": "P102",
+      "name": "山里红",
+      "group": "山里红",
+      "subgroup": "山里红",
+      "roles": [],
+      "roleStatus": "pending",
+      "nameStatus": "图片名称已记录；物种/商品待核实",
+      "searchNames": [
+        "山里红"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P102.json"
+    },
+    {
+      "id": "P103",
+      "name": "绿玲草",
+      "group": "绿玲草",
+      "subgroup": "绿玲草",
+      "roles": [],
+      "roleStatus": "pending",
+      "nameStatus": "图片名称已记录；物种/商品待核实",
+      "searchNames": [
+        "绿玲草"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P103.json"
+    },
+    {
+      "id": "P104",
+      "name": "小南瓜",
+      "group": "南瓜",
+      "subgroup": "小南瓜",
+      "roles": [
+        "果材",
+        "造型"
+      ],
+      "roleStatus": "project-suggestion",
+      "nameStatus": "图片标签已收录；物种和规格待核实",
+      "searchNames": [
+        "小南瓜",
+        "南瓜"
+      ],
+      "seasonStatus": "unknown",
+      "coverUrl": null,
+      "coverKind": null,
+      "editorIds": [],
+      "detailUrl": "/catalog/releases/8549c6d07d6d1bcb6722/products/P104.json"
+    }
+  ]
+}

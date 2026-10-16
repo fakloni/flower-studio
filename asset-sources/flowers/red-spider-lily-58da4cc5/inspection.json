@@ -1,0 +1,77 @@
+{
+  "name": "Red Spider Lily",
+  "folder": "asset-sources\\flowers\\red-spider-lily-58da4cc5",
+  "import_ok": true,
+  "mesh_objects": 7,
+  "raw_faces": 258970,
+  "images": 1,
+  "missing_images": [],
+  "bbox_source_units": {
+    "min": [
+      -0.2487342804670334,
+      -0.2291463315486908,
+      -0.016481846570968628
+    ],
+    "max": [
+      0.23063220083713531,
+      0.23878371715545654,
+      0.5964066982269287
+    ],
+    "extent": [
+      0.4793664813041687,
+      0.46793004870414734,
+      0.6128885447978973
+    ]
+  },
+  "objects": [
+    {
+      "name": "stem",
+      "type": "MESH",
+      "faces": 19986,
+      "modifiers": []
+    },
+    {
+      "name": "Red Spider Lily",
+      "type": "EMPTY",
+      "faces": 0,
+      "modifiers": []
+    },
+    {
+      "name": "mist",
+      "type": "MESH",
+      "faces": 384,
+      "modifiers": []
+    },
+    {
+      "name": "flowere",
+      "type": "MESH",
+      "faces": 47720,
+      "modifiers": []
+    },
+    {
+      "name": "flowerd",
+      "type": "MESH",
+      "faces": 47720,
+      "modifiers": []
+    },
+    {
+      "name": "flowerc",
+      "type": "MESH",
+      "faces": 47720,
+      "modifiers": []
+    },
+    {
+      "name": "flowerb",
+      "type": "MESH",
+      "faces": 47720,
+      "modifiers": []
+    },
+    {
+      "name": "flowera",
+      "type": "MESH",
+      "faces": 47720,
+      "modifiers": []
+    }
+  ],
+  "status": "imported_pending_stem_extraction_and_visual_review"
+}

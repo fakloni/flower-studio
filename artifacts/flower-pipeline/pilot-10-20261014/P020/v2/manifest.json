@@ -1,0 +1,93 @@
+{
+  "productId": "P020",
+  "route": "local-blender",
+  "status": "candidate-needs-visual-review",
+  "mediaOrigin": "model-render",
+  "physicalDimensionsVerified": false,
+  "sourceSpec": {
+    "schemaVersion": 1,
+    "productId": "P020",
+    "editorId": "lily-of-valley",
+    "name": "铃兰",
+    "color": "白色",
+    "role": "配花",
+    "route": "local-blender",
+    "archetype": "lily-of-valley",
+    "seed": 20261034,
+    "stemLengthM": 0.25,
+    "headDiameterM": 0.06,
+    "petalColor": [
+      0.91,
+      0.91,
+      0.84
+    ],
+    "headNormal": [
+      0.0,
+      -0.7599620223045349,
+      0.6499674916267395
+    ],
+    "logicalStems": 1,
+    "physicalDimensionsVerified": false,
+    "dimensionBasis": "Breeder/species reference and pilot modeling conventions; not measured SKU dimensions",
+    "unverifiedParts": [
+      "exact cultivar backside",
+      "specimen stem curvature",
+      "exact leaf/branch and petal counts"
+    ],
+    "references": [
+      {
+        "origin": "real-photo",
+        "path": "D:\\Projects\\flower-studio\\artifacts\\catalog-photo-fill\\originals\\P020\\Convallaria_majalis__rssHShKjFDTo.jfif",
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/convallaria-majalis/",
+        "author": "H Zell",
+        "license": "CC BY-SA 3.0",
+        "mappingScope": "species-or-category-reference"
+      }
+    ],
+    "renderResolution": [
+      400,
+      600
+    ],
+    "detailResolution": 480,
+    "visualStatus": "pilot-awaits-review",
+    "inputSpecSha256": "89578a771eb98c7143354e2a5d2ffbe58841edc0649e0e6bbc99e710d611b28b",
+    "builderSha256": "47e726c89b14e8f0ea76a3eff7d0040293d9123c446b5fa2cf08af91a2003caa",
+    "headCenter": [
+      0.0,
+      0.0,
+      0.25
+    ]
+  },
+  "files": [
+    "stem.glb",
+    "source.blend",
+    "front.png",
+    "left.png",
+    "back.png",
+    "right.png",
+    "head-front.png",
+    "head-back.png",
+    "head-quarter.png"
+  ],
+  "checks": {
+    "glbHeader": true,
+    "embeddedTextures": true,
+    "roundTrip": true,
+    "meshCount": 5,
+    "triangles": 13604,
+    "bytes": 252344,
+    "boundsM": {
+      "min": [
+        -0.13381272554397583,
+        -0.01798328012228012,
+        0.0
+      ],
+      "max": [
+        0.1502535045146942,
+        0.068659208714962,
+        0.25032752752304077
+      ]
+    },
+    "missingTextures": []
+  }
+}

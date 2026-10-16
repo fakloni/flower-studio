@@ -1,0 +1,52 @@
+D:\Projects\flower-studio\skills\flower-asset-pipeline\scripts\build_gerbera.py:34: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  mat.use_nodes = True
+INFO Draco is available, use library at D:\softwares\Blender\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_draco_bridge.dll
+INFO MeshOptimizer is available, use library at D:\softwares\Blender\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_meshopt_bridge.dll
+17:33:58 | INFO: Starting glTF 2.0 export
+17:33:58 | INFO: Extracting primitive: green-disk-florets
+17:33:58 | INFO: Primitives created: 5
+17:33:58 | INFO: Extracting primitive: inner-ray-row
+17:33:58 | INFO: Primitives created: 1
+17:33:58 | INFO: Extracting primitive: involucral-bracts
+17:33:58 | INFO: Primitives created: 1
+17:33:58 | INFO: Extracting primitive: peduncle-curve
+17:33:58 | INFO: Primitives created: 1
+17:33:58 | INFO: Extracting primitive: middle-ray-row
+17:33:58 | INFO: Primitives created: 1
+17:33:58 | INFO: Extracting primitive: outer-ray-row
+17:33:58 | INFO: Primitives created: 1
+17:33:58 | INFO: Extracting primitive: receptacle
+17:33:58 | INFO: Primitives created: 1
+17:33:58 | INFO: Extracting primitive: short-transitional-florets
+17:33:58 | INFO: Primitives created: 1
+17:33:58 | INFO: Finished glTF 2.0 export in 0.12425589561462402 s
+
+17:33:58 | INFO: Data are loaded, start creating Blender stuff
+17:33:58 | INFO: Blender create Mesh node green-disk-florets
+17:33:58 | INFO: Blender create Mesh node inner-ray-row
+17:33:59 | INFO: Blender create Mesh node involucral-bracts
+17:33:59 | INFO: Blender create Mesh node peduncle-curve
+17:33:59 | INFO: Blender create Mesh node middle-ray-row
+17:33:59 | INFO: Blender create Mesh node outer-ray-row
+17:33:59 | INFO: Blender create Mesh node receptacle
+17:33:59 | INFO: Blender create Mesh node short-transitional-florets
+17:33:59 | INFO: glTF import finished in 0.09s
+00:07.375  render           | Saved: 'D:\Projects\flower-studio\artifacts\flower-pipeline\pilot-10-20261014\P072\v1\front.png'
+VIEW_READY front
+00:08.703  render           | Saved: 'D:\Projects\flower-studio\artifacts\flower-pipeline\pilot-10-20261014\P072\v1\left.png'
+VIEW_READY left
+00:10.094  render           | Saved: 'D:\Projects\flower-studio\artifacts\flower-pipeline\pilot-10-20261014\P072\v1\back.png'
+VIEW_READY back
+00:11.438  render           | Saved: 'D:\Projects\flower-studio\artifacts\flower-pipeline\pilot-10-20261014\P072\v1\right.png'
+VIEW_READY right
+00:13.500  render           | Saved: 'D:\Projects\flower-studio\artifacts\flower-pipeline\pilot-10-20261014\P072\v1\head-front.png'
+VIEW_READY head-front
+00:15.594  render           | Saved: 'D:\Projects\flower-studio\artifacts\flower-pipeline\pilot-10-20261014\P072\v1\head-back.png'
+VIEW_READY head-back
+00:17.688  render           | Saved: 'D:\Projects\flower-studio\artifacts\flower-pipeline\pilot-10-20261014\P072\v1\head-quarter.png'
+VIEW_READY head-quarter
+Info: Saved as "source.blend"
+ASSET_READY D:\Projects\flower-studio\artifacts\flower-pipeline\pilot-10-20261014\P072\v1 49052 2615892
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

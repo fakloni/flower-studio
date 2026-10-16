@@ -1,0 +1,308 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 3,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "8607425": {
+        "pageid": 8607425,
+        "ns": 6,
+        "title": "File:COLLECTIE TROPENMUSEUM Orchidee (Dendrobium phalaenopsis Fitzg) TMnr 10006156.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 48711,
+            "width": 700,
+            "height": 440,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/COLLECTIE_TROPENMUSEUM_Orchidee_%28Dendrobium_phalaenopsis_Fitzg%29_TMnr_10006156.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:COLLECTIE_TROPENMUSEUM_Orchidee_(Dendrobium_phalaenopsis_Fitzg)_TMnr_10006156.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=8607425",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2009-11-27 07:46:54",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "COLLECTIE TROPENMUSEUM Orchidee (Dendrobium phalaenopsis Fitzg) TMnr 10006156",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Images from the Tropenmuseum|Dendrobium phalaenopsis|Black and white photographs of Indonesia|Unknown date|Template Unknown (author)|Black and white photographs of flowers in Indonesia",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Repronegatief. Orchidee (Dendrobium phalaenopsis Fitzg)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Unknown date",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Wereldmuseum_Amsterdam\" class=\"extiw\" title=\"w:en:Wereldmuseum Amsterdam\"><span title=\"anthropological museum located in Amsterdam, the Netherlands\">Wereldmuseum Amsterdam</span></a>\n</bdi>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.wereldmuseum.nl\">Collectie Wereldmuseum (v/h Tropenmuseum), part of the National Museum of World Cultures</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "56822358": {
+        "pageid": 56822358,
+        "ns": 6,
+        "title": "File:Dendrobium phalaenopsis-2-bsi-yercaud-salem-India.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4839106,
+            "width": 4608,
+            "height": 3456,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Dendrobium_phalaenopsis-2-bsi-yercaud-salem-India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Dendrobium_phalaenopsis-2-bsi-yercaud-salem-India.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=56822358",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-03-05 05:09:33",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Dendrobium phalaenopsis-2-bsi-yercaud-salem-India",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Dendrobium phalaenopsis|Files by User:Yercaud-elango|Flora of Botanical Garden Yercaud|Files by User:Yercaud-elango/Cultivated plants of Yercaud",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Orchidaceae-epiphyte,hybrid,flowers yellow.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-02-10 10:52:31",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Yercaud-elango\" title=\"User:Yercaud-elango\">Yercaud-elango</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "91943708": {
+        "pageid": 91943708,
+        "ns": 6,
+        "title": "File:太空秋石斛 Dendrobium phalaenopsis -香港北區花鳥蟲魚展 North District Flower Show, Hong Kong- (9198129073).jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 172503,
+            "width": 1629,
+            "height": 1573,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/%E5%A4%AA%E7%A9%BA%E7%A7%8B%E7%9F%B3%E6%96%9B_Dendrobium_phalaenopsis_-%E9%A6%99%E6%B8%AF%E5%8C%97%E5%8D%80%E8%8A%B1%E9%B3%A5%E8%9F%B2%E9%AD%9A%E5%B1%95_North_District_Flower_Show%2C_Hong_Kong-_%289198129073%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E5%A4%AA%E7%A9%BA%E7%A7%8B%E7%9F%B3%E6%96%9B_Dendrobium_phalaenopsis_-%E9%A6%99%E6%B8%AF%E5%8C%97%E5%8D%80%E8%8A%B1%E9%B3%A5%E8%9F%B2%E9%AD%9A%E5%B1%95_North_District_Flower_Show,_Hong_Kong-_(9198129073).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91943708",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-07-05 20:43:35",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "太空秋石斛 Dendrobium phalaenopsis -香港北區花鳥蟲魚展 North District Flower Show, Hong Kong- (9198129073)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Dendrobium phalaenopsis|Photographs by 阿橋 HQ|Hong Kong photographs taken on 2011-06-11|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|North District Flower Show",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.492360",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.139657",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "太空秋石斛 Dendrobium phalaenopsis [香港北區花鳥蟲魚展 North District Flower Show, Hong Kong]",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2011-06-11 20:30",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/nhq9801/9198129073/\">太空秋石斛 Dendrobium phalaenopsis [香港北區花鳥蟲魚展 North District Flower Show, Hong Kong]</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/52582306@N03\">阿橋 HQ</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "term": "eucalyptus",
+  "id": "94dd7ebe-303f-441b-886d-0b941aca0f62",
+  "base_id": "777e9bd4-5219-441d-929e-8f9a5c1c9798",
+  "name": "Eucalyptus Bouquet Vase",
+  "description": "This 3D asset features a eucalyptus bouquet arranged inside a dark tinted glass vase. It displays realistic round eucalyptus leaves in varied green‑toned shades with delicate branching stems. The glossy translucent glass vase has smooth reflections. Optimized for interior visualization, architectural rendering and scene decoration, with clean geometry and high‑quality PBR textures.",
+  "author": "Ken Xie",
+  "source_url": "https://www.blendkit.com/asset-gallery-detail/777e9bd4-5219-441d-929e-8f9a5c1c9798/",
+  "quality": 8.0,
+  "parameters": {
+    "sexualizedContent": false,
+    "joinBlenderkitDiscounts": true,
+    "addons": true,
+    "platforms": [
+      "windows-x64",
+      "macos-arm64",
+      "linux-x64",
+      "macos-x64",
+      "windows-arm64"
+    ],
+    "faceCount": 116023,
+    "productionLevel": "finished",
+    "procedural": true,
+    "modelStyle": "realistic",
+    "validatedManufacturer": true,
+    "validatedManufacturerDate": "2026-08-24T13:17:42.540270+00:00",
+    "validatedManufacturerActor": "no_data",
+    "purePbr": false,
+    "shaders": [
+      "[]"
+    ],
+    "animated": false,
+    "uv": true,
+    "engines": [
+      "[cycles]"
+    ],
+    "modifiers": [
+      "[]"
+    ],
+    "materials": [
+      "[Material.003 Material.007 Material.002 Material.005 Material.004 Material.006 Clean Glass.001]"
+    ],
+    "rig": false,
+    "simulation": false,
+    "dimensionX": 0.2966,
+    "dimensionY": 0.2635,
+    "dimensionZ": 0.3647,
+    "boundBoxMinX": -0.162,
+    "boundBoxMinY": -0.1266,
+    "boundBoxMinZ": 0.0008,
+    "boundBoxMaxX": 0.1346,
+    "boundBoxMaxY": 0.1369,
+    "boundBoxMaxZ": 0.3655,
+    "faceCountRender": 116023,
+    "meshPolyType": "quad_dominant",
+    "manifold": false,
+    "objectCount": 8,
+    "nodeCount": 0,
+    "textureCount": 0,
+    "megapixels": 0,
+    "gltfGeneratedDate": "2026-08-24",
+    "gltfGodotGeneratedDate": "2026-08-24",
+    "processingDate": "2026-08-24T13:19:59.759879+00:00"
+  },
+  "downloaded": [
+    {
+      "path": "asset-sources\\flowers\\eucalyptus-bouquet-vase-777e9bd4\\original.blend",
+      "bytes": 109813187,
+      "type": "blend"
+    },
+    {
+      "path": "asset-sources\\flowers\\eucalyptus-bouquet-vase-777e9bd4\\original.glb",
+      "bytes": 4534072,
+      "type": "gltf"
+    }
+  ],
+  "acquired_date": "2026-10-12",
+  "status": "downloaded_pending_blender_review"
+}

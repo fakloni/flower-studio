@@ -1,0 +1,188 @@
+{
+  "id": "P031",
+  "flowerId": "F034",
+  "name": "天堂鸟",
+  "group": "天堂鸟",
+  "subgroup": "天堂鸟",
+  "scientificName": "Strelitzia reginae",
+  "nameStatus": "类别有来源；SKU待核实",
+  "roles": [
+    "主花",
+    "造型",
+    "线条"
+  ],
+  "roleStatus": "project-suggestion",
+  "roleNotes": "主花；造型花；线条花",
+  "shapeNotes": "鹤望兰／天堂鸟",
+  "ornamentalPart": "花及舟状总苞",
+  "season": {
+    "text": "7–12月",
+    "basis": "地区植物志花期",
+    "region": "深圳植物志记载",
+    "intervals": [
+      {
+        "start": 7,
+        "end": 12,
+        "wrapsYear": false,
+        "precision": "month-reference"
+      }
+    ],
+    "status": "reference",
+    "source": {
+      "name": "深圳市中国科学院仙湖植物园·深圳植物志",
+      "urls": [
+        "https://www.iplant.cn/fsz/info/Strelitzia%20reginae"
+      ]
+    },
+    "unverifiedOriginal": "8–10月"
+  },
+  "dimensions": {
+    "object": "未核实／需明确测量部位",
+    "minCm": null,
+    "maxCm": null,
+    "valueType": null,
+    "scope": null,
+    "notes": "舟状总苞长度：13–20 cm（范围）\n橙色萼片长度：7.5–10 cm（范围）\n适用范围及来源见“尺寸证据”",
+    "source": {
+      "name": null,
+      "urls": []
+    }
+  },
+  "notes": "具体品种、颜色、开放阶段、枝长、花径及国内供货需按SKU确认。\n品类、花型、单/多头、开放阶段应分字段；本表是检索目录，不是互斥分类树。缺少SKU规格时不得自动标定真实比例。\n异形花应使用长宽高；舟状总苞长不是花头直径。不同地域和促成条件会改变花期。\n项目检索分组，非完整植物学分类。",
+  "source": {
+    "name": "深圳市中国科学院仙湖植物园·深圳植物志",
+    "urls": [
+      "https://www.iplant.cn/fsz/info/Strelitzia%20reginae"
+    ]
+  },
+  "checkedDate": "2026-10-13",
+  "availability": {
+    "status": "unknown",
+    "region": null
+  },
+  "sourceRecord": {
+    "sheet": "花材库",
+    "row": 32,
+    "values": {
+      "花材ID": "F034",
+      "原始／新增名称": "天堂鸟",
+      "用户清单Y／空白": "Y",
+      "规范名称／别名": "鹤望兰／天堂鸟\n鹤望兰；天堂鸟",
+      "学名／分类范围": "Strelitzia reginae",
+      "名称核对状态": "类别有来源；SKU待核实",
+      "花材角色（项目建议）": "主花；造型花；线条花",
+      "形态标签（项目建议）": "鹤望兰／天堂鸟",
+      "观赏部位": "花及舟状总苞",
+      "核实花季／果季": "7–12月",
+      "季节数据口径": "地区植物志花期",
+      "季节适用地区／对象": "深圳植物志记载",
+      "用户原始月份（未验证）": "8–10月",
+      "花头尺寸对象": "未核实／需明确测量部位",
+      "直径下限cm": null,
+      "直径上限cm": null,
+      "数值类型": null,
+      "尺寸适用物种／品种": null,
+      "其他尺寸及数量摘要": "舟状总苞长度：13–20 cm（范围）\n橙色萼片长度：7.5–10 cm（范围）\n适用范围及来源见“尺寸证据”",
+      "缺失信息／项目注意事项": "具体品种、颜色、开放阶段、枝长、花径及国内供货需按SKU确认。\n品类、花型、单/多头、开放阶段应分字段；本表是检索目录，不是互斥分类树。缺少SKU规格时不得自动标定真实比例。\n异形花应使用长宽高；舟状总苞长不是花头直径。不同地域和促成条件会改变花期。\n项目检索分组，非完整植物学分类。",
+      "季节来源名称": "深圳市中国科学院仙湖植物园·深圳植物志",
+      "季节来源URL": "https://www.iplant.cn/fsz/info/Strelitzia%20reginae",
+      "花头尺寸来源": null,
+      "花头尺寸来源URL": null,
+      "名称／资料来源": "深圳市中国科学院仙湖植物园·深圳植物志",
+      "名称／资料来源URL": "https://www.iplant.cn/fsz/info/Strelitzia%20reginae",
+      "核查日期": "2026-10-13",
+      "大类": "天堂鸟",
+      "小类": "天堂鸟",
+      "产品ID": "P031"
+    }
+  },
+  "aliases": [
+    {
+      "name": "鹤望兰",
+      "productId": "P031",
+      "relation": "同义名",
+      "restriction": null,
+      "status": "有资料依据",
+      "source": {
+        "name": "深圳市中国科学院仙湖植物园·深圳植物志",
+        "urls": [
+          "https://www.iplant.cn/fsz/info/Strelitzia%20reginae"
+        ]
+      }
+    },
+    {
+      "name": "天堂鸟",
+      "productId": "P031",
+      "relation": "平台规范商品名",
+      "restriction": "平台内部检索入口；不表示已对接同名商城SKU。",
+      "status": "需按具体商品确认",
+      "source": {
+        "name": "深圳市中国科学院仙湖植物园·深圳植物志",
+        "urls": [
+          "https://www.iplant.cn/fsz/info/Strelitzia%20reginae"
+        ]
+      }
+    }
+  ],
+  "imageReferences": [
+    {
+      "label": "天堂鸟",
+      "files": [
+        "01-eb0b4d29426c342582eba2178d518ad1.jpg"
+      ],
+      "productIds": [
+        "P031"
+      ],
+      "notes": "原表已有对应小类；具体品种和SKU仍按原核对状态。",
+      "seasonRestriction": "图片所列月份/全年为用户资料，未作为可靠供货期。",
+      "status": "reference-only"
+    }
+  ],
+  "assets": [],
+  "schemaVersion": 1,
+  "revision": "8549c6d07d6d1bcb6722",
+  "relatedEvidence": [
+    {
+      "id": "E047",
+      "flowerId": "F034",
+      "values": {
+        "证据ID": "E047",
+        "花材ID": "F034",
+        "花材名称": "天堂鸟",
+        "测量项目": "舟状总苞长度",
+        "下限／数值": 13,
+        "上限／数值": 20,
+        "单位": "cm",
+        "数值性质": "范围",
+        "适用物种／品种／商品": "鹤望兰总苞",
+        "证据类型": "植物形态参考",
+        "原数值口径（简记）": "13–20 cm",
+        "限制与解释": null,
+        "来源机构／资料": "深圳市中国科学院仙湖植物园·深圳植物志",
+        "来源URL": "https://www.iplant.cn/fsz/info/Strelitzia%20reginae",
+        "核查日期": "2026-10-13"
+      }
+    },
+    {
+      "id": "E048",
+      "flowerId": "F034",
+      "values": {
+        "证据ID": "E048",
+        "花材ID": "F034",
+        "花材名称": "天堂鸟",
+        "测量项目": "橙色萼片长度",
+        "下限／数值": 7.5,
+        "上限／数值": 10,
+        "单位": "cm",
+        "数值性质": "范围",
+        "适用物种／品种／商品": "鹤望兰单枚萼片",
+        "证据类型": "植物形态参考",
+        "原数值口径（简记）": "7.5–10 cm",
+        "限制与解释": "不可乘二当花径。",
+        "来源机构／资料": "深圳市中国科学院仙湖植物园·深圳植物志",
+        "来源URL": "https://www.iplant.cn/fsz/info/Strelitzia%20reginae",
+        "核查日期": "2026-10-13"
+      }
+    }
+  ]
+}

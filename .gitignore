@@ -1,0 +1,14 @@
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+__pycache__/
+*.py[cod]
+.env*
+!.env.example
+tmp/
+.venv-assets/
+asset-sources/.model-cache/
+*.blend1
+.sites-runtime/
+

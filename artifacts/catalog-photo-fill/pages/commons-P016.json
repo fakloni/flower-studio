@@ -1,0 +1,290 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 3,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "93517985": {
+        "pageid": 93517985,
+        "ns": 6,
+        "title": "File:Panicum capillare inflorescence (04).jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2171176,
+            "width": 2592,
+            "height": 1728,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Panicum_capillare_inflorescence_%2804%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Panicum_capillare_inflorescence_(04).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=93517985",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-08-25 15:49:30",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Panicum capillare inflorescence (04)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Panicum capillare|License review needed",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<i>Panicum capillare</i>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2012-09-20",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.tela-botanica.org/eflore/consultation/popup.php?module=popup-illustrations&amp;action=fiche&amp;referentiel=bdtfx&amp;id=90122\">https://www.tela-botanica.org/eflore/consultation/popup.php?module=popup-illustrations&amp;action=fiche&amp;referentiel=bdtfx&amp;id=90122</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Jacques Maréchal",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0 fr",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0 fr",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0-fr",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "93525535": {
+        "pageid": 93525535,
+        "ns": 6,
+        "title": "File:Panicum capillare inflorescence (18).jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 391607,
+            "width": 1348,
+            "height": 1854,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Panicum_capillare_inflorescence_%2818%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Panicum_capillare_inflorescence_(18).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=93525535",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-08-25 19:47:07",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Panicum capillare inflorescence (18)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Panicum capillare|License review needed",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<i>Panicum capillare</i>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2004-12-22",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://dbiodbs.units.it/carso/chiavi_pub26?spez=474\">http://dbiodbs.units.it/carso/chiavi_pub26?spez=474</a>   <a rel=\"nofollow\" class=\"external free\" href=\"http://dryades.units.it/dryades/plants/foto/TSB17962.jpg\">http://dryades.units.it/dryades/plants/foto/TSB17962.jpg</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Andrea Moro",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "93525618": {
+        "pageid": 93525618,
+        "ns": 6,
+        "title": "File:Panicum capillare inflorescence (21).jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 82809,
+            "width": 1037,
+            "height": 1812,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Panicum_capillare_inflorescence_%2821%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Panicum_capillare_inflorescence_(21).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=93525618",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-08-25 19:49:47",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Panicum capillare inflorescence (21)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Panicum capillare|License review needed",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<i>Panicum capillare</i>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2004-12-22",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://dbiodbs.units.it/carso/chiavi_pub26?spez=474\">http://dbiodbs.units.it/carso/chiavi_pub26?spez=474</a>   <a rel=\"nofollow\" class=\"external free\" href=\"http://dryades.units.it/dryades/plants/foto/TSB17965.jpg\">http://dryades.units.it/dryades/plants/foto/TSB17965.jpg</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Andrea Moro",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    }
+  }
+}

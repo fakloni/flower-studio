@@ -1,0 +1,527 @@
+{
+  "name": "Astilbe White Rose",
+  "folder": "asset-sources\\flowers\\astilbe-white-rose-55ed9e1d",
+  "import_ok": true,
+  "mesh_objects": 82,
+  "raw_faces": 231638,
+  "images": 2,
+  "missing_images": [],
+  "bbox_source_units": {
+    "min": [
+      -0.9420820474624634,
+      -0.9991381764411926,
+      -0.12681987881660461
+    ],
+    "max": [
+      0.9182504415512085,
+      0.7580038905143738,
+      0.9279794692993164
+    ],
+    "extent": [
+      1.8603324890136719,
+      1.7571420669555664,
+      1.054799348115921
+    ]
+  },
+  "objects": [
+    {
+      "name": "Saxifragaceae white.042",
+      "type": "MESH",
+      "faces": 2807,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae white.041",
+      "type": "MESH",
+      "faces": 2849,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae white.040",
+      "type": "MESH",
+      "faces": 2852,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae white.039",
+      "type": "MESH",
+      "faces": 2838,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae white.038",
+      "type": "MESH",
+      "faces": 2813,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae white.037",
+      "type": "MESH",
+      "faces": 2821,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae white.036",
+      "type": "MESH",
+      "faces": 2824,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae white.035",
+      "type": "MESH",
+      "faces": 2858,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae white.034",
+      "type": "MESH",
+      "faces": 2822,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae white.033",
+      "type": "MESH",
+      "faces": 2801,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae white.032",
+      "type": "MESH",
+      "faces": 2851,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae white.031",
+      "type": "MESH",
+      "faces": 2844,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae white.030",
+      "type": "MESH",
+      "faces": 2813,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae white.029",
+      "type": "MESH",
+      "faces": 2839,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae white.028",
+      "type": "MESH",
+      "faces": 2819,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae white.027",
+      "type": "MESH",
+      "faces": 2839,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae white.026",
+      "type": "MESH",
+      "faces": 2846,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae white.025",
+      "type": "MESH",
+      "faces": 2845,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae white.024",
+      "type": "MESH",
+      "faces": 2828,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae white.023",
+      "type": "MESH",
+      "faces": 2838,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae white.022",
+      "type": "MESH",
+      "faces": 2836,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae white.021",
+      "type": "MESH",
+      "faces": 2807,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae white.020",
+      "type": "MESH",
+      "faces": 2849,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae white.019",
+      "type": "MESH",
+      "faces": 2852,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae white.018",
+      "type": "MESH",
+      "faces": 2838,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae white.017",
+      "type": "MESH",
+      "faces": 2813,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae white.016",
+      "type": "MESH",
+      "faces": 2821,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae white.015",
+      "type": "MESH",
+      "faces": 2824,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae white.014",
+      "type": "MESH",
+      "faces": 2858,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae white.013",
+      "type": "MESH",
+      "faces": 2822,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae white.012",
+      "type": "MESH",
+      "faces": 2801,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae white.011",
+      "type": "MESH",
+      "faces": 2851,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae white.010",
+      "type": "MESH",
+      "faces": 2844,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae white.009",
+      "type": "MESH",
+      "faces": 2813,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae white.008",
+      "type": "MESH",
+      "faces": 2839,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae white.007",
+      "type": "MESH",
+      "faces": 2819,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae white.006",
+      "type": "MESH",
+      "faces": 2839,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae white.005",
+      "type": "MESH",
+      "faces": 2846,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae white.004",
+      "type": "MESH",
+      "faces": 2845,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae white.003",
+      "type": "MESH",
+      "faces": 2828,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae white.002",
+      "type": "MESH",
+      "faces": 2838,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae white.001",
+      "type": "MESH",
+      "faces": 2836,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae rose.040",
+      "type": "MESH",
+      "faces": 2825,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae rose.039",
+      "type": "MESH",
+      "faces": 2825,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae rose.038",
+      "type": "MESH",
+      "faces": 2822,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae rose.037",
+      "type": "MESH",
+      "faces": 2812,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae rose.036",
+      "type": "MESH",
+      "faces": 2817,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae rose.035",
+      "type": "MESH",
+      "faces": 2807,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae rose.034",
+      "type": "MESH",
+      "faces": 2799,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae rose.033",
+      "type": "MESH",
+      "faces": 2819,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae rose.032",
+      "type": "MESH",
+      "faces": 2825,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae rose.031",
+      "type": "MESH",
+      "faces": 2820,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae rose.030",
+      "type": "MESH",
+      "faces": 2828,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae rose.029",
+      "type": "MESH",
+      "faces": 2822,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae rose.028",
+      "type": "MESH",
+      "faces": 2814,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae rose.027",
+      "type": "MESH",
+      "faces": 2825,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae rose.026",
+      "type": "MESH",
+      "faces": 2815,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae rose.025",
+      "type": "MESH",
+      "faces": 2825,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae rose.024",
+      "type": "MESH",
+      "faces": 2816,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae rose.023",
+      "type": "MESH",
+      "faces": 2805,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae rose.022",
+      "type": "MESH",
+      "faces": 2790,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae rose.021",
+      "type": "MESH",
+      "faces": 2825,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae rose.020",
+      "type": "MESH",
+      "faces": 2825,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae rose.019",
+      "type": "MESH",
+      "faces": 2825,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae rose.018",
+      "type": "MESH",
+      "faces": 2822,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae rose.017",
+      "type": "MESH",
+      "faces": 2812,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae rose.016",
+      "type": "MESH",
+      "faces": 2817,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae rose.015",
+      "type": "MESH",
+      "faces": 2807,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae rose.014",
+      "type": "MESH",
+      "faces": 2799,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae rose.013",
+      "type": "MESH",
+      "faces": 2819,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae rose.012",
+      "type": "MESH",
+      "faces": 2825,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae rose.011",
+      "type": "MESH",
+      "faces": 2820,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae rose.010",
+      "type": "MESH",
+      "faces": 2828,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae rose.009",
+      "type": "MESH",
+      "faces": 2822,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae rose.008",
+      "type": "MESH",
+      "faces": 2814,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae rose.007",
+      "type": "MESH",
+      "faces": 2825,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae rose.006",
+      "type": "MESH",
+      "faces": 2815,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae rose.005",
+      "type": "MESH",
+      "faces": 2825,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae rose.004",
+      "type": "MESH",
+      "faces": 2816,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae rose.003",
+      "type": "MESH",
+      "faces": 2805,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae rose.002",
+      "type": "MESH",
+      "faces": 2790,
+      "modifiers": []
+    },
+    {
+      "name": "Saxifragaceae rose.001",
+      "type": "MESH",
+      "faces": 2825,
+      "modifiers": []
+    },
+    {
+      "name": "Astilbe White Rose",
+      "type": "EMPTY",
+      "faces": 0,
+      "modifiers": []
+    }
+  ],
+  "status": "imported_pending_stem_extraction_and_visual_review"
+}

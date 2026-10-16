@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "id": "rose",
+      "source": "public/assets/catalog/P052/pilot-model-v2/stem.glb",
+      "height": 0.6,
+      "length": 0.52,
+      "reference": "https://www.deruiter.com/product/proud",
+      "model": "/assets/insertion-lab/v1/rose.glb",
+      "joints": 25,
+      "removedLowerLeaves": [],
+      "physicalDimensionsVerified": false,
+      "status": "deformation-prototype-not-botanical-approval",
+      "route": "existing-local-Blender-candidate-to-independent-deformation-joints",
+      "limitations": [
+        "approximate leaf deformation",
+        "branch graph is not separately simulated",
+        "no physical petal collision",
+        "cultivar and backside not verified"
+      ],
+      "aiGenerationUsed": false
+    },
+    {
+      "id": "tulip",
+      "source": "public/assets/workbench/white-tulip.glb",
+      "height": 0.376,
+      "length": 0.46,
+      "reference": "docs/workbench-sample-pack.md; parameterized tulip category candidate",
+      "model": "/assets/insertion-lab/v1/tulip.glb",
+      "joints": 25,
+      "removedLowerLeaves": [
+        "white-tulip-leaf-0"
+      ],
+      "physicalDimensionsVerified": false,
+      "status": "deformation-prototype-not-botanical-approval",
+      "route": "existing-local-Blender-candidate-to-independent-deformation-joints",
+      "limitations": [
+        "approximate leaf deformation",
+        "branch graph is not separately simulated",
+        "no physical petal collision",
+        "cultivar and backside not verified"
+      ],
+      "aiGenerationUsed": false
+    },
+    {
+      "id": "eucalyptus",
+      "source": "public/assets/catalog/P067/pilot-model-v2/stem.glb",
+      "height": 0.65,
+      "length": 0.58,
+      "reference": "https://plants.ces.ncsu.edu/plants/eucalyptus-cinerea/",
+      "model": "/assets/insertion-lab/v1/eucalyptus.glb",
+      "joints": 25,
+      "removedLowerLeaves": [
+        "leaf-surfaces"
+      ],
+      "physicalDimensionsVerified": false,
+      "status": "deformation-prototype-not-botanical-approval",
+      "route": "existing-local-Blender-candidate-to-independent-deformation-joints",
+      "limitations": [
+        "approximate leaf deformation",
+        "branch graph is not separately simulated",
+        "no physical petal collision",
+        "cultivar and backside not verified"
+      ],
+      "aiGenerationUsed": false
+    }
+  ]
+}

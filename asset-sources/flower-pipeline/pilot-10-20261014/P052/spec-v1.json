@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "productId": "P052",
+  "editorId": "white-rose-proud",
+  "name": "白玫瑰 Proud",
+  "color": "白色",
+  "role": "主花",
+  "route": "local-blender",
+  "archetype": "rose",
+  "seed": 20261066,
+  "stemLengthM": 0.6,
+  "headDiameterM": 0.075,
+  "petalColor": [
+    0.89,
+    0.87,
+    0.79
+  ],
+  "headNormal": [
+    0,
+    -0.76,
+    0.65
+  ],
+  "logicalStems": 1,
+  "physicalDimensionsVerified": false,
+  "dimensionBasis": "Breeder/species reference and pilot modeling conventions; not measured SKU dimensions",
+  "unverifiedParts": [
+    "exact cultivar backside",
+    "specimen stem curvature",
+    "exact leaf/branch and petal counts"
+  ],
+  "references": [
+    {
+      "origin": "real-photo",
+      "path": "D:\\Projects\\flower-studio\\artifacts\\catalog-source-review\\candidates\\P052\\67dc2f421556161c76ece903_Proud1_i39hnz.avif",
+      "sourcePage": "https://www.deruiter.com/product/proud",
+      "author": "De Ruiter Innovations",
+      "license": "Use conditions not verified; local reference only",
+      "mappingScope": "category-reference-with-named-variety"
+    }
+  ],
+  "renderResolution": [
+    400,
+    600
+  ],
+  "detailResolution": 480,
+  "visualStatus": "pilot-awaits-review"
+}

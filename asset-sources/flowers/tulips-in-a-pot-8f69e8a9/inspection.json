@@ -1,0 +1,211 @@
+{
+  "name": "Tulips in a pot",
+  "folder": "asset-sources\\flowers\\tulips-in-a-pot-8f69e8a9",
+  "import_ok": true,
+  "mesh_objects": 22,
+  "raw_faces": 58051,
+  "images": 6,
+  "missing_images": [],
+  "bbox_source_units": {
+    "min": [
+      -0.24007217586040497,
+      -0.22800222039222717,
+      -0.03440466895699501
+    ],
+    "max": [
+      0.2020767331123352,
+      0.2393568754196167,
+      0.4117371439933777
+    ],
+    "extent": [
+      0.4421489089727402,
+      0.46735909581184387,
+      0.4461418129503727
+    ]
+  },
+  "objects": [
+    {
+      "name": "Tulips in a pot",
+      "type": "EMPTY",
+      "faces": 0,
+      "modifiers": []
+    },
+    {
+      "name": "pot",
+      "type": "MESH",
+      "faces": 97,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "leaf.010",
+      "type": "MESH",
+      "faces": 1776,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "leaf.009",
+      "type": "MESH",
+      "faces": 1432,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "leaf.008",
+      "type": "MESH",
+      "faces": 1952,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "leaf.007",
+      "type": "MESH",
+      "faces": 1952,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "leaf.006",
+      "type": "MESH",
+      "faces": 1952,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "leaf.005",
+      "type": "MESH",
+      "faces": 1952,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "leaf.004",
+      "type": "MESH",
+      "faces": 1776,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "leaf.003",
+      "type": "MESH",
+      "faces": 1952,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "leaf.002",
+      "type": "MESH",
+      "faces": 1952,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "leaf.001",
+      "type": "MESH",
+      "faces": 1952,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "flower.010",
+      "type": "MESH",
+      "faces": 3578,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "flower.009",
+      "type": "MESH",
+      "faces": 3580,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "flower.008",
+      "type": "MESH",
+      "faces": 3580,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "flower.007",
+      "type": "MESH",
+      "faces": 3580,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "flower.006",
+      "type": "MESH",
+      "faces": 3580,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "flower.005",
+      "type": "MESH",
+      "faces": 3580,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "flower.004",
+      "type": "MESH",
+      "faces": 3508,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "flower.003",
+      "type": "MESH",
+      "faces": 3580,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "flower.002",
+      "type": "MESH",
+      "faces": 3580,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "flower.001",
+      "type": "MESH",
+      "faces": 3580,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "flower",
+      "type": "MESH",
+      "faces": 3580,
+      "modifiers": [
+        "NODES"
+      ]
+    }
+  ],
+  "status": "imported_pending_stem_extraction_and_visual_review"
+}

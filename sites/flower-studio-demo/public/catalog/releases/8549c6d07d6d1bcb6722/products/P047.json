@@ -1,0 +1,161 @@
+{
+  "id": "P047",
+  "flowerId": "F052",
+  "name": "金鱼草",
+  "group": "金鱼草",
+  "subgroup": "金鱼草",
+  "scientificName": "Antirrhinum majus",
+  "nameStatus": "类别有来源；SKU待核实",
+  "roles": [
+    "线条",
+    "配花"
+  ],
+  "roleStatus": "project-suggestion",
+  "roleNotes": "线条花；配花",
+  "shapeNotes": "金鱼草",
+  "ornamentalPart": "花序",
+  "season": {
+    "text": "2–11月",
+    "basis": "地区植物志花期",
+    "region": "深圳植物志记载",
+    "intervals": [
+      {
+        "start": 2,
+        "end": 11,
+        "wrapsYear": false,
+        "precision": "month-reference"
+      }
+    ],
+    "status": "reference",
+    "source": {
+      "name": "深圳市中国科学院仙湖植物园·深圳植物志",
+      "urls": [
+        "https://www.iplant.cn/fsz/info/Antirrhinum%20majus"
+      ]
+    },
+    "unverifiedOriginal": null
+  },
+  "dimensions": {
+    "object": "未核实／需明确测量部位",
+    "minCm": null,
+    "maxCm": null,
+    "valueType": null,
+    "scope": null,
+    "notes": "花冠长度：3.5–4.5 cm（范围）\n花冠筒直径：0.9–1 cm（范围）\n适用范围及来源见“尺寸证据”",
+    "source": {
+      "name": null,
+      "urls": []
+    }
+  },
+  "notes": "具体品种、颜色、开放阶段、枝长、花径及国内供货需按SKU确认。\n品类、花型、单/多头、开放阶段应分字段；本表是检索目录，不是互斥分类树。缺少SKU规格时不得自动标定真实比例。\n单花不规则，花冠长度与花冠筒直径不能当整体花头直径；需测花穗长宽。\n项目检索分组，非完整植物学分类。",
+  "source": {
+    "name": "深圳市中国科学院仙湖植物园·深圳植物志",
+    "urls": [
+      "https://www.iplant.cn/fsz/info/Antirrhinum%20majus"
+    ]
+  },
+  "checkedDate": "2026-10-13",
+  "availability": {
+    "status": "unknown",
+    "region": null
+  },
+  "sourceRecord": {
+    "sheet": "花材库",
+    "row": 48,
+    "values": {
+      "花材ID": "F052",
+      "原始／新增名称": "金鱼草",
+      "用户清单Y／空白": null,
+      "规范名称／别名": "金鱼草",
+      "学名／分类范围": "Antirrhinum majus",
+      "名称核对状态": "类别有来源；SKU待核实",
+      "花材角色（项目建议）": "线条花；配花",
+      "形态标签（项目建议）": "金鱼草",
+      "观赏部位": "花序",
+      "核实花季／果季": "2–11月",
+      "季节数据口径": "地区植物志花期",
+      "季节适用地区／对象": "深圳植物志记载",
+      "用户原始月份（未验证）": null,
+      "花头尺寸对象": "未核实／需明确测量部位",
+      "直径下限cm": null,
+      "直径上限cm": null,
+      "数值类型": null,
+      "尺寸适用物种／品种": null,
+      "其他尺寸及数量摘要": "花冠长度：3.5–4.5 cm（范围）\n花冠筒直径：0.9–1 cm（范围）\n适用范围及来源见“尺寸证据”",
+      "缺失信息／项目注意事项": "具体品种、颜色、开放阶段、枝长、花径及国内供货需按SKU确认。\n品类、花型、单/多头、开放阶段应分字段；本表是检索目录，不是互斥分类树。缺少SKU规格时不得自动标定真实比例。\n单花不规则，花冠长度与花冠筒直径不能当整体花头直径；需测花穗长宽。\n项目检索分组，非完整植物学分类。",
+      "季节来源名称": "深圳市中国科学院仙湖植物园·深圳植物志",
+      "季节来源URL": "https://www.iplant.cn/fsz/info/Antirrhinum%20majus",
+      "花头尺寸来源": null,
+      "花头尺寸来源URL": null,
+      "名称／资料来源": "深圳市中国科学院仙湖植物园·深圳植物志",
+      "名称／资料来源URL": "https://www.iplant.cn/fsz/info/Antirrhinum%20majus",
+      "核查日期": "2026-10-13",
+      "大类": "金鱼草",
+      "小类": "金鱼草",
+      "产品ID": "P047"
+    }
+  },
+  "aliases": [
+    {
+      "name": "金鱼草",
+      "productId": "P047",
+      "relation": "平台规范商品名",
+      "restriction": "平台内部检索入口；不表示已对接同名商城SKU。",
+      "status": "需按具体商品确认",
+      "source": {
+        "name": "深圳市中国科学院仙湖植物园·深圳植物志",
+        "urls": [
+          "https://www.iplant.cn/fsz/info/Antirrhinum%20majus"
+        ]
+      }
+    }
+  ],
+  "imageReferences": [],
+  "assets": [],
+  "schemaVersion": 1,
+  "revision": "8549c6d07d6d1bcb6722",
+  "relatedEvidence": [
+    {
+      "id": "E063",
+      "flowerId": "F052",
+      "values": {
+        "证据ID": "E063",
+        "花材ID": "F052",
+        "花材名称": "金鱼草",
+        "测量项目": "花冠长度",
+        "下限／数值": 3.5,
+        "上限／数值": 4.5,
+        "单位": "cm",
+        "数值性质": "范围",
+        "适用物种／品种／商品": "金鱼草单花；非花序长度",
+        "证据类型": "植物形态参考",
+        "原数值口径（简记）": "3.5–4.5 cm",
+        "限制与解释": null,
+        "来源机构／资料": "深圳市中国科学院仙湖植物园·深圳植物志",
+        "来源URL": "https://www.iplant.cn/fsz/info/Antirrhinum%20majus",
+        "核查日期": "2026-10-13"
+      }
+    },
+    {
+      "id": "E064",
+      "flowerId": "F052",
+      "values": {
+        "证据ID": "E064",
+        "花材ID": "F052",
+        "花材名称": "金鱼草",
+        "测量项目": "花冠筒直径",
+        "下限／数值": 0.9,
+        "上限／数值": 1,
+        "单位": "cm",
+        "数值性质": "范围",
+        "适用物种／品种／商品": "金鱼草花冠筒；非花头直径",
+        "证据类型": "植物形态参考",
+        "原数值口径（简记）": "0.9–1 cm",
+        "限制与解释": null,
+        "来源机构／资料": "深圳市中国科学院仙湖植物园·深圳植物志",
+        "来源URL": "https://www.iplant.cn/fsz/info/Antirrhinum%20majus",
+        "核查日期": "2026-10-13"
+      }
+    }
+  ]
+}

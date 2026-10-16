@@ -1,0 +1,98 @@
+{
+  "productId": "P072",
+  "route": "local-blender",
+  "status": "candidate-needs-visual-review",
+  "mediaOrigin": "model-render",
+  "physicalDimensionsVerified": false,
+  "sourceSpec": {
+    "schemaVersion": 1,
+    "productId": "P072",
+    "editorId": "gerbera-atlanta",
+    "name": "非洲菊 Atlanta",
+    "color": "橙色",
+    "role": "主花",
+    "route": "local-blender",
+    "archetype": "gerbera",
+    "seed": 20261086,
+    "stemLengthM": 0.65,
+    "headDiameterM": 0.12,
+    "petalColor": [
+      0.93,
+      0.17,
+      0.012
+    ],
+    "headNormal": [
+      0.0,
+      -0.7599620223045349,
+      0.6499674916267395
+    ],
+    "logicalStems": 1,
+    "physicalDimensionsVerified": false,
+    "dimensionBasis": "Breeder/species reference and pilot modeling conventions; not measured SKU dimensions",
+    "unverifiedParts": [
+      "exact cultivar backside",
+      "specimen stem curvature",
+      "exact leaf/branch and petal counts"
+    ],
+    "references": [
+      {
+        "origin": "real-photo",
+        "path": "D:\\Projects\\flower-studio\\artifacts\\catalog-media-audit\\candidates\\P072\\0a90aa0bc4e1_atlanta_01.jpg",
+        "sourcePage": "https://www.hilverdaflorist.com/en/assortment/cut-flowers/assortment-cut-flowers/gerbera-standard-atlanta",
+        "author": "HilverdaFlorist",
+        "license": "Use conditions not verified; local reference only",
+        "mappingScope": null
+      },
+      {
+        "origin": "ai-image",
+        "path": "D:\\Projects\\flower-studio\\asset-sources\\flower-pipeline\\P072\\v1\\references\\ai-ray-floret-v1.png",
+        "use": "RGB petal texture, not botanical evidence"
+      }
+    ],
+    "renderResolution": [
+      400,
+      600
+    ],
+    "detailResolution": 480,
+    "visualStatus": "pilot-awaits-review",
+    "petalTexture": "D:\\Projects\\flower-studio\\asset-sources\\flower-pipeline\\P072\\v1\\references\\ai-ray-floret-v1.png",
+    "inputSpecSha256": "20ae3eb724b39e7eba70605e31809b17ce8d7348b0be8f894d349012d3c0bfae",
+    "headCenter": [
+      0.008999999612569809,
+      0.003000000026077032,
+      0.6499999761581421
+    ]
+  },
+  "files": [
+    "stem.glb",
+    "source.blend",
+    "front.png",
+    "left.png",
+    "back.png",
+    "right.png",
+    "head-front.png",
+    "head-back.png",
+    "head-quarter.png"
+  ],
+  "checks": {
+    "glbHeader": true,
+    "embeddedTextures": true,
+    "roundTrip": true,
+    "meshCount": 8,
+    "triangles": 49052,
+    "bytes": 2615892,
+    "boundsM": {
+      "min": [
+        -0.0507945716381073,
+        -0.03209398686885834,
+        -0.0001383389171678573
+      ],
+      "max": [
+        0.07056670635938644,
+        0.04639887809753418,
+        0.6923157572746277
+      ]
+    },
+    "missingTextures": []
+  }
+}

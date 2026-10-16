@@ -1,0 +1,93 @@
+{
+  "productId": "P052",
+  "route": "local-blender",
+  "status": "candidate-needs-visual-review",
+  "mediaOrigin": "model-render",
+  "physicalDimensionsVerified": false,
+  "sourceSpec": {
+    "schemaVersion": 1,
+    "productId": "P052",
+    "editorId": "white-rose-proud",
+    "name": "白玫瑰 Proud",
+    "color": "白色",
+    "role": "主花",
+    "route": "local-blender",
+    "archetype": "rose",
+    "seed": 20261066,
+    "stemLengthM": 0.6,
+    "headDiameterM": 0.075,
+    "petalColor": [
+      0.89,
+      0.87,
+      0.79
+    ],
+    "headNormal": [
+      0.0,
+      -0.7599620223045349,
+      0.6499674916267395
+    ],
+    "logicalStems": 1,
+    "physicalDimensionsVerified": false,
+    "dimensionBasis": "Breeder/species reference and pilot modeling conventions; not measured SKU dimensions",
+    "unverifiedParts": [
+      "exact cultivar backside",
+      "specimen stem curvature",
+      "exact leaf/branch and petal counts"
+    ],
+    "references": [
+      {
+        "origin": "real-photo",
+        "path": "D:\\Projects\\flower-studio\\artifacts\\catalog-source-review\\candidates\\P052\\67dc2f421556161c76ece903_Proud1_i39hnz.avif",
+        "sourcePage": "https://www.deruiter.com/product/proud",
+        "author": "De Ruiter Innovations",
+        "license": "Use conditions not verified; local reference only",
+        "mappingScope": "category-reference-with-named-variety"
+      }
+    ],
+    "renderResolution": [
+      400,
+      600
+    ],
+    "detailResolution": 480,
+    "visualStatus": "pilot-awaits-review",
+    "inputSpecSha256": "2d3262a58f806c05d1a52cffa4025e233470ab8fdcefc6ab354938e791d911b6",
+    "builderSha256": "47e726c89b14e8f0ea76a3eff7d0040293d9123c446b5fa2cf08af91a2003caa",
+    "headCenter": [
+      0.0,
+      0.0,
+      0.6000000238418579
+    ]
+  },
+  "files": [
+    "stem.glb",
+    "source.blend",
+    "front.png",
+    "left.png",
+    "back.png",
+    "right.png",
+    "head-front.png",
+    "head-back.png",
+    "head-quarter.png"
+  ],
+  "checks": {
+    "glbHeader": true,
+    "embeddedTextures": true,
+    "roundTrip": true,
+    "meshCount": 5,
+    "triangles": 46888,
+    "bytes": 855224,
+    "boundsM": {
+      "min": [
+        -0.07423866540193558,
+        -0.04794800654053688,
+        0.0
+      ],
+      "max": [
+        0.10406675189733505,
+        0.07384791225194931,
+        0.6473944187164307
+      ]
+    },
+    "missingTextures": []
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "id": "P049",
+  "flowerId": "F055",
+  "name": "剑兰",
+  "group": "剑兰",
+  "subgroup": "剑兰",
+  "scientificName": "Gladiolus × gandavensis",
+  "nameStatus": "类别有来源；SKU待核实",
+  "roles": [
+    "线条",
+    "骨架"
+  ],
+  "roleStatus": "project-suggestion",
+  "roleNotes": "线条花；骨架花",
+  "shapeNotes": "唐菖蒲／剑兰",
+  "ornamentalPart": "花序",
+  "season": {
+    "text": "7–9月",
+    "basis": "植物志/百科花期",
+    "region": "中国植物智记载",
+    "intervals": [
+      {
+        "start": 7,
+        "end": 9,
+        "wrapsYear": false,
+        "precision": "month-reference"
+      }
+    ],
+    "status": "reference",
+    "source": {
+      "name": "中国科学院植物研究所·植物智",
+      "urls": [
+        "https://www.iplant.cn/bk/1B4D517A81D35106"
+      ]
+    },
+    "unverifiedOriginal": null
+  },
+  "dimensions": {
+    "object": "未核实／需明确测量部位",
+    "minCm": null,
+    "maxCm": null,
+    "valueType": null,
+    "scope": null,
+    "notes": "花茎高度：50–80 cm（范围）\n适用范围及来源见“尺寸证据”",
+    "source": {
+      "name": null,
+      "urls": []
+    }
+  },
+  "notes": "具体品种、颜色、开放阶段、枝长、花径及国内供货需按SKU确认。\n品类、花型、单/多头、开放阶段应分字段；本表是检索目录，不是互斥分类树。缺少SKU规格时不得自动标定真实比例。\n花茎高度不是现售规格；单花数和花序长宽应按品种采集。\n项目检索分组，非完整植物学分类。",
+  "source": {
+    "name": "中国科学院植物研究所·植物智",
+    "urls": [
+      "https://www.iplant.cn/bk/1B4D517A81D35106"
+    ]
+  },
+  "checkedDate": "2026-10-13",
+  "availability": {
+    "status": "unknown",
+    "region": null
+  },
+  "sourceRecord": {
+    "sheet": "花材库",
+    "row": 50,
+    "values": {
+      "花材ID": "F055",
+      "原始／新增名称": "剑兰",
+      "用户清单Y／空白": null,
+      "规范名称／别名": "唐菖蒲／剑兰\n唐菖蒲；剑兰",
+      "学名／分类范围": "Gladiolus × gandavensis",
+      "名称核对状态": "类别有来源；SKU待核实",
+      "花材角色（项目建议）": "线条花；骨架花",
+      "形态标签（项目建议）": "唐菖蒲／剑兰",
+      "观赏部位": "花序",
+      "核实花季／果季": "7–9月",
+      "季节数据口径": "植物志/百科花期",
+      "季节适用地区／对象": "中国植物智记载",
+      "用户原始月份（未验证）": null,
+      "花头尺寸对象": "未核实／需明确测量部位",
+      "直径下限cm": null,
+      "直径上限cm": null,
+      "数值类型": null,
+      "尺寸适用物种／品种": null,
+      "其他尺寸及数量摘要": "花茎高度：50–80 cm（范围）\n适用范围及来源见“尺寸证据”",
+      "缺失信息／项目注意事项": "具体品种、颜色、开放阶段、枝长、花径及国内供货需按SKU确认。\n品类、花型、单/多头、开放阶段应分字段；本表是检索目录，不是互斥分类树。缺少SKU规格时不得自动标定真实比例。\n花茎高度不是现售规格；单花数和花序长宽应按品种采集。\n项目检索分组，非完整植物学分类。",
+      "季节来源名称": "中国科学院植物研究所·植物智",
+      "季节来源URL": "https://www.iplant.cn/bk/1B4D517A81D35106",
+      "花头尺寸来源": null,
+      "花头尺寸来源URL": null,
+      "名称／资料来源": "中国科学院植物研究所·植物智",
+      "名称／资料来源URL": "https://www.iplant.cn/bk/1B4D517A81D35106",
+      "核查日期": "2026-10-13",
+      "大类": "剑兰",
+      "小类": "剑兰",
+      "产品ID": "P049"
+    }
+  },
+  "aliases": [
+    {
+      "name": "唐菖蒲",
+      "productId": "P049",
+      "relation": "同义名",
+      "restriction": null,
+      "status": "有资料依据",
+      "source": {
+        "name": "中国科学院植物研究所·植物智",
+        "urls": [
+          "https://www.iplant.cn/bk/1B4D517A81D35106"
+        ]
+      }
+    },
+    {
+      "name": "剑兰",
+      "productId": "P049",
+      "relation": "平台规范商品名",
+      "restriction": "平台内部检索入口；不表示已对接同名商城SKU。",
+      "status": "需按具体商品确认",
+      "source": {
+        "name": "中国科学院植物研究所·植物智",
+        "urls": [
+          "https://www.iplant.cn/bk/1B4D517A81D35106"
+        ]
+      }
+    }
+  ],
+  "imageReferences": [
+    {
+      "label": "剑兰",
+      "files": [
+        "04-775fb83e5208f71610b98d33a902143a.jpg"
+      ],
+      "productIds": [
+        "P049"
+      ],
+      "notes": "原表已有对应小类；具体品种和SKU仍按原核对状态。",
+      "seasonRestriction": "图片所列月份/全年为用户资料，未作为可靠供货期。",
+      "status": "reference-only"
+    }
+  ],
+  "assets": [],
+  "schemaVersion": 1,
+  "revision": "c80bbbca4cdd571a6f8b",
+  "relatedEvidence": [
+    {
+      "id": "E068",
+      "flowerId": "F055",
+      "values": {
+        "证据ID": "E068",
+        "花材ID": "F055",
+        "花材名称": "剑兰",
+        "测量项目": "花茎高度",
+        "下限／数值": 50,
+        "上限／数值": 80,
+        "单位": "cm",
+        "数值性质": "范围",
+        "适用物种／品种／商品": "唐菖蒲植物形态",
+        "证据类型": "植物形态参考",
+        "原数值口径（简记）": "50–80 cm",
+        "限制与解释": "非现售切枝长度。",
+        "来源机构／资料": "中国科学院植物研究所·植物智",
+        "来源URL": "https://www.iplant.cn/bk/1B4D517A81D35106",
+        "核查日期": "2026-10-13"
+      }
+    }
+  ]
+}

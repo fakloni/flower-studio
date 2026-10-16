@@ -1,0 +1,52 @@
+[
+  {
+    "productId": "P072",
+    "status": "generated-needs-visual-review",
+    "out": "D:\\Projects\\flower-studio\\artifacts\\flower-pipeline\\pilot-10-20261014\\P072\\v1"
+  },
+  {
+    "productId": "P073",
+    "status": "generated-needs-visual-review",
+    "out": "D:\\Projects\\flower-studio\\artifacts\\flower-pipeline\\pilot-10-20261014\\P073\\v1"
+  },
+  {
+    "productId": "P052",
+    "status": "generated-needs-visual-review",
+    "out": "D:\\Projects\\flower-studio\\artifacts\\flower-pipeline\\pilot-10-20261014\\P052\\v1"
+  },
+  {
+    "productId": "P065",
+    "status": "generated-needs-visual-review",
+    "out": "D:\\Projects\\flower-studio\\artifacts\\flower-pipeline\\pilot-10-20261014\\P065\\v1"
+  },
+  {
+    "productId": "P059",
+    "status": "generated-needs-visual-review",
+    "out": "D:\\Projects\\flower-studio\\artifacts\\flower-pipeline\\pilot-10-20261014\\P059\\v1"
+  },
+  {
+    "productId": "P020",
+    "status": "generated-needs-visual-review",
+    "out": "D:\\Projects\\flower-studio\\artifacts\\flower-pipeline\\pilot-10-20261014\\P020\\v1"
+  },
+  {
+    "productId": "P082",
+    "status": "generated-needs-visual-review",
+    "out": "D:\\Projects\\flower-studio\\artifacts\\flower-pipeline\\pilot-10-20261014\\P082\\v1"
+  },
+  {
+    "productId": "P067",
+    "status": "generated-needs-visual-review",
+    "out": "D:\\Projects\\flower-studio\\artifacts\\flower-pipeline\\pilot-10-20261014\\P067\\v1"
+  },
+  {
+    "productId": "P098",
+    "status": "generated-needs-visual-review",
+    "out": "D:\\Projects\\flower-studio\\artifacts\\flower-pipeline\\pilot-10-20261014\\P098\\v1"
+  },
+  {
+    "productId": "P057",
+    "status": "generated-needs-visual-review",
+    "out": "D:\\Projects\\flower-studio\\artifacts\\flower-pipeline\\pilot-10-20261014\\P057\\v1"
+  }
+]

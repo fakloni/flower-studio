@@ -1,0 +1,78 @@
+{
+  "term": "rose",
+  "id": "95fa6fa6-9311-4acf-9db2-6f70102b3cd5",
+  "base_id": "ea9ca32a-c914-4309-b9cd-3d243f42f286",
+  "name": "Roses in Twisted Glass Vase",
+  "description": "This photorealistic 3D model depicts a delicate floral arrangement featuring two soft pink roses with lush green leaves, elegantly displayed in a twisted, transparent glass vase against a minimalist dark background.",
+  "author": "Ken Xie",
+  "source_url": "https://www.blendkit.com/asset-gallery-detail/ea9ca32a-c914-4309-b9cd-3d243f42f286/",
+  "quality": 8.0,
+  "parameters": {
+    "sexualizedContent": false,
+    "joinBlenderkitDiscounts": true,
+    "addons": true,
+    "platforms": [
+      "windows-x64",
+      "macos-arm64",
+      "linux-x64",
+      "macos-x64",
+      "windows-arm64"
+    ],
+    "faceCount": 30040,
+    "productionLevel": "finished",
+    "procedural": true,
+    "modelStyle": "realistic",
+    "condition": "new",
+    "validatedManufacturer": true,
+    "validatedManufacturerDate": "2026-07-02T09:47:49.775102+00:00",
+    "validatedManufacturerActor": "no_data",
+    "shaders": [
+      "[]"
+    ],
+    "uv": true,
+    "engines": [
+      "[cycles]"
+    ],
+    "modifiers": [
+      "[subsurf]"
+    ],
+    "materials": [
+      "[Material.001 Material.005 Material.004 Material.006 Material.002 Advanced Glass With Imperfections]"
+    ],
+    "rig": false,
+    "simulation": false,
+    "dimensionX": 0.2833,
+    "dimensionY": 0.3105,
+    "dimensionZ": 0.336,
+    "boundBoxMinX": -0.1149,
+    "boundBoxMinY": -0.1854,
+    "boundBoxMinZ": 0.0002,
+    "boundBoxMaxX": 0.1684,
+    "boundBoxMaxY": 0.1251,
+    "boundBoxMaxZ": 0.3363,
+    "faceCountRender": 119986,
+    "meshPolyType": "quad_dominant",
+    "manifold": false,
+    "objectCount": 9,
+    "nodeCount": 0,
+    "textureCount": 0,
+    "megapixels": 0,
+    "gltfGeneratedDate": "2026-07-02",
+    "gltfGodotGeneratedError": "bg_returncode=-11 [Errno 2] No such file or directory: '/tmp/tmplj4rf4ad/ea9ca32a-c914-4309-b9cd-3d243f42f286_resdata.json' Files are None",
+    "processingDate": "2026-07-02T09:49:54.859290+00:00"
+  },
+  "downloaded": [
+    {
+      "path": "asset-sources\\flowers\\roses-in-twisted-glass-vase-ea9ca32a\\original.blend",
+      "bytes": 12717540,
+      "type": "blend"
+    },
+    {
+      "path": "asset-sources\\flowers\\roses-in-twisted-glass-vase-ea9ca32a\\original.glb",
+      "bytes": 1180448,
+      "type": "gltf"
+    }
+  ],
+  "acquired_date": "2026-10-12",
+  "status": "downloaded_pending_blender_review"
+}

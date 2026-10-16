@@ -1,0 +1,82 @@
+{
+  "term": "tulip",
+  "id": "f96047c8-13c5-4cd8-8762-18d53a3f9782",
+  "base_id": "8f69e8a9-6394-487b-9426-898edef0398e",
+  "name": "Tulips in a pot",
+  "description": "Bouquet of tulips in a metal pot with patterns",
+  "author": "Mesk911 ",
+  "source_url": "https://www.blendkit.com/asset-gallery-detail/8f69e8a9-6394-487b-9426-898edef0398e/",
+  "quality": 4.5,
+  "parameters": {
+    "sexualizedContent": false,
+    "joinBlenderkitDiscounts": true,
+    "addons": true,
+    "platforms": [
+      "windows-x64",
+      "macos-arm64",
+      "linux-x64",
+      "macos-x64",
+      "windows-arm64"
+    ],
+    "faceCount": 58051,
+    "textureResolutionMax": 1109,
+    "productionLevel": "finished",
+    "procedural": false,
+    "modelStyle": "realistic",
+    "purePbr": true,
+    "shaders": [
+      "principled",
+      "translucent",
+      "mix shader",
+      "transparent",
+      "add shader"
+    ],
+    "animated": false,
+    "pbrType": "metallic",
+    "uv": true,
+    "textureResolutionMin": 225,
+    "engines": [
+      "cycles"
+    ],
+    "modifiers": [
+      ""
+    ],
+    "materials": [
+      "kashpo",
+      "leaf",
+      "petal",
+      "pestle",
+      "stamen"
+    ],
+    "rig": false,
+    "simulation": false,
+    "dimensionX": 0.4173,
+    "dimensionY": 0.3883,
+    "dimensionZ": 0.4117,
+    "boundBoxMinX": -0.2266,
+    "boundBoxMinY": -0.1917,
+    "boundBoxMinZ": 0.0,
+    "boundBoxMaxX": 0.1907,
+    "boundBoxMaxY": 0.1966,
+    "boundBoxMaxZ": 0.4117,
+    "faceCountRender": 58051,
+    "meshPolyType": "quad_dominant",
+    "manifold": false,
+    "objectCount": 23,
+    "nodeCount": 30,
+    "textureCount": 6,
+    "megapixels": 1,
+    "imageCaptionInterrogator": "there is a white vase with white flowers in it, octane render : :, knitted mesh material, tulip, it\\'s name is greeny, generative adversarial network, model miniature, white frame border, inspired by Laurits Tuxen, rpg item render, paper cup, octsne render",
+    "imageAltTextGen3": "\"Nature-inspired 3D model of a metal pot holding a bouquet of tulips, rendered with Octane for Blender 3D. The intricate patterns on the pot and knitted mesh material add a realistic touch to the white flowers. Perfect for interior design and virtual reality applications.\"",
+    "imageAltTextGen4v": "White tulip bouquet 3D model in ornate pot for Blender rendering."
+  },
+  "downloaded": [
+    {
+      "path": "asset-sources\\flowers\\tulips-in-a-pot-8f69e8a9\\original.blend",
+      "bytes": 1951901,
+      "type": "blend"
+    }
+  ],
+  "acquired_date": "2026-10-12",
+  "status": "downloaded_pending_blender_review"
+}

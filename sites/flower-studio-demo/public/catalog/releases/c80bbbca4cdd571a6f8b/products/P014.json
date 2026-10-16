@@ -1,0 +1,188 @@
+{
+  "id": "P014",
+  "flowerId": "F015",
+  "name": "绿毛球",
+  "group": "绿毛球",
+  "subgroup": "绿毛球",
+  "scientificName": "Dianthus（Green Ball商品系列）",
+  "nameStatus": "类别有来源；SKU待核实",
+  "roles": [
+    "配花",
+    "质感"
+  ],
+  "roleStatus": "project-suggestion",
+  "roleNotes": "配花；质感材",
+  "shapeNotes": "Dianthus Green Ball",
+  "ornamentalPart": "绿色球状观赏头",
+  "season": {
+    "text": null,
+    "basis": null,
+    "region": null,
+    "intervals": null,
+    "status": "unknown",
+    "source": {
+      "name": null,
+      "urls": []
+    },
+    "unverifiedOriginal": null
+  },
+  "dimensions": {
+    "object": "绿色观赏头直径",
+    "minCm": 6,
+    "maxCm": 6,
+    "valueType": "约值",
+    "scope": "Green Ball产品描述",
+    "notes": "绿色观赏头采收目标直径：8 cm（目标值）\n栽培茎高：50–60 cm（范围）\n适用范围及来源见“尺寸证据”\n绿色观赏头直径：6–6 cm；约值；Green Ball产品描述。详“花材库”F015及“尺寸证据”。",
+    "source": {
+      "name": "Ball SB·Dianthus Green Ball",
+      "urls": [
+        "https://www.ballsb.com/en/variety/208-dianthus-green-ball-en"
+      ]
+    }
+  },
+  "notes": "具体品种、颜色、开放阶段、枝长、花径及国内供货需按SKU确认。\n品类、花型、单/多头、开放阶段应分字段；本表是检索目录，不是互斥分类树。缺少SKU规格时不得自动标定真实比例。\n育种商称非开花型。同页产品描述约6 cm，采收指南目标8 cm，分别记录；不能拼成统一6–8 cm范围。\n项目检索分组，非完整植物学分类。",
+  "source": {
+    "name": "Ball SB·Dianthus Green Ball",
+    "urls": [
+      "https://www.ballsb.com/en/variety/208-dianthus-green-ball-en"
+    ]
+  },
+  "checkedDate": "2026-10-13",
+  "availability": {
+    "status": "unknown",
+    "region": null
+  },
+  "sourceRecord": {
+    "sheet": "花材库",
+    "row": 15,
+    "values": {
+      "花材ID": "F015",
+      "原始／新增名称": "绿毛球",
+      "用户清单Y／空白": "Y",
+      "规范名称／别名": "Dianthus Green Ball\n绿毛球",
+      "学名／分类范围": "Dianthus（Green Ball商品系列）",
+      "名称核对状态": "类别有来源；SKU待核实",
+      "花材角色（项目建议）": "配花；质感材",
+      "形态标签（项目建议）": "Dianthus Green Ball",
+      "观赏部位": "绿色球状观赏头",
+      "核实花季／果季": null,
+      "季节数据口径": null,
+      "季节适用地区／对象": null,
+      "用户原始月份（未验证）": null,
+      "花头尺寸对象": "绿色观赏头直径",
+      "直径下限cm": 6,
+      "直径上限cm": 6,
+      "数值类型": "约值",
+      "尺寸适用物种／品种": "Green Ball产品描述",
+      "其他尺寸及数量摘要": "绿色观赏头采收目标直径：8 cm（目标值）\n栽培茎高：50–60 cm（范围）\n适用范围及来源见“尺寸证据”\n绿色观赏头直径：6–6 cm；约值；Green Ball产品描述。详“花材库”F015及“尺寸证据”。",
+      "缺失信息／项目注意事项": "具体品种、颜色、开放阶段、枝长、花径及国内供货需按SKU确认。\n品类、花型、单/多头、开放阶段应分字段；本表是检索目录，不是互斥分类树。缺少SKU规格时不得自动标定真实比例。\n育种商称非开花型。同页产品描述约6 cm，采收指南目标8 cm，分别记录；不能拼成统一6–8 cm范围。\n项目检索分组，非完整植物学分类。",
+      "季节来源名称": null,
+      "季节来源URL": null,
+      "花头尺寸来源": "Ball SB·Dianthus Green Ball",
+      "花头尺寸来源URL": "https://www.ballsb.com/en/variety/208-dianthus-green-ball-en",
+      "名称／资料来源": "Ball SB·Dianthus Green Ball",
+      "名称／资料来源URL": "https://www.ballsb.com/en/variety/208-dianthus-green-ball-en",
+      "核查日期": "2026-10-13",
+      "大类": "绿毛球",
+      "小类": "绿毛球",
+      "产品ID": "P014"
+    }
+  },
+  "aliases": [
+    {
+      "name": "绿毛球",
+      "productId": "P014",
+      "relation": "平台规范商品名",
+      "restriction": "平台内部检索入口；不表示已对接同名商城SKU。",
+      "status": "需按具体商品确认",
+      "source": {
+        "name": "Ball SB·Dianthus Green Ball",
+        "urls": [
+          "https://www.ballsb.com/en/variety/208-dianthus-green-ball-en"
+        ]
+      }
+    }
+  ],
+  "imageReferences": [
+    {
+      "label": "绿毛球",
+      "files": [
+        "03-b1b615d4829d42d48e8ed874b8c5ccf5.jpg"
+      ],
+      "productIds": [
+        "P014"
+      ],
+      "notes": "原表已有对应小类；具体品种和SKU仍按原核对状态。",
+      "seasonRestriction": "图片所列月份/全年为用户资料，未作为可靠供货期。",
+      "status": "reference-only"
+    }
+  ],
+  "assets": [],
+  "schemaVersion": 1,
+  "revision": "c80bbbca4cdd571a6f8b",
+  "relatedEvidence": [
+    {
+      "id": "E027",
+      "flowerId": "F015",
+      "values": {
+        "证据ID": "E027",
+        "花材ID": "F015",
+        "花材名称": "绿毛球",
+        "测量项目": "绿色观赏头直径",
+        "下限／数值": 6,
+        "上限／数值": 6,
+        "单位": "cm",
+        "数值性质": "约值",
+        "适用物种／品种／商品": "Green Ball产品描述",
+        "证据类型": "育种商产品资料",
+        "原数值口径（简记）": "6 cm",
+        "限制与解释": null,
+        "来源机构／资料": "Ball SB·Dianthus Green Ball",
+        "来源URL": "https://www.ballsb.com/en/variety/208-dianthus-green-ball-en",
+        "核查日期": "2026-10-13"
+      }
+    },
+    {
+      "id": "E028",
+      "flowerId": "F015",
+      "values": {
+        "证据ID": "E028",
+        "花材ID": "F015",
+        "花材名称": "绿毛球",
+        "测量项目": "绿色观赏头采收目标直径",
+        "下限／数值": 8,
+        "上限／数值": 8,
+        "单位": "cm",
+        "数值性质": "目标值",
+        "适用物种／品种／商品": "Green Ball采收指南",
+        "证据类型": "育种商栽培指南",
+        "原数值口径（简记）": "8 cm",
+        "限制与解释": "采收目标不是所有到货花头的实测值。",
+        "来源机构／资料": "Ball SB·Dianthus Green Ball",
+        "来源URL": "https://www.ballsb.com/en/variety/208-dianthus-green-ball-en",
+        "核查日期": "2026-10-13"
+      }
+    },
+    {
+      "id": "E029",
+      "flowerId": "F015",
+      "values": {
+        "证据ID": "E029",
+        "花材ID": "F015",
+        "花材名称": "绿毛球",
+        "测量项目": "栽培茎高",
+        "下限／数值": 50,
+        "上限／数值": 60,
+        "单位": "cm",
+        "数值性质": "范围",
+        "适用物种／品种／商品": "Green Ball栽培资料",
+        "证据类型": "育种商栽培指南",
+        "原数值口径（简记）": "50–60 cm",
+        "限制与解释": "须与国内到货枝长核对。",
+        "来源机构／资料": "Ball SB·Dianthus Green Ball",
+        "来源URL": "https://www.ballsb.com/en/variety/208-dianthus-green-ball-en",
+        "核查日期": "2026-10-13"
+      }
+    }
+  ]
+}

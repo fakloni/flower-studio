@@ -1,0 +1,123 @@
+{
+  "id": "P016",
+  "flowerId": "F017",
+  "name": "喷泉草",
+  "group": "喷泉草",
+  "subgroup": "喷泉草",
+  "scientificName": null,
+  "nameStatus": "待核名；不自动同款匹配",
+  "roles": [
+    "草材",
+    "填充",
+    "线条"
+  ],
+  "roleStatus": "project-suggestion",
+  "roleNotes": "草材；填充材；线条材",
+  "shapeNotes": "喷泉草（商品名）",
+  "ornamentalPart": "草花序",
+  "season": {
+    "text": null,
+    "basis": null,
+    "region": null,
+    "intervals": null,
+    "status": "unknown",
+    "source": {
+      "name": null,
+      "urls": []
+    },
+    "unverifiedOriginal": null
+  },
+  "dimensions": {
+    "object": "未核实／需明确测量部位",
+    "minCm": null,
+    "maxCm": null,
+    "valueType": null,
+    "scope": null,
+    "notes": null,
+    "source": {
+      "name": null,
+      "urls": []
+    }
+  },
+  "notes": "具体品种、颜色、开放阶段、枝长、花径及国内供货需按SKU确认。\n品类、花型、单/多头、开放阶段应分字段；本表是检索目录，不是互斥分类树。缺少SKU规格时不得自动标定真实比例。\n页面标Panicum elegans，但中文别名混用；不把狼尾草或弓果黍强行确定为同物种。确认实物和学名前暂不录尺寸。\n项目检索分组，非完整植物学分类。",
+  "source": {
+    "name": "酒泉花卉种子·喷泉草P27411",
+    "urls": [
+      "https://www.jqhh.cn/products/P27411"
+    ]
+  },
+  "checkedDate": "2026-10-13",
+  "availability": {
+    "status": "unknown",
+    "region": null
+  },
+  "sourceRecord": {
+    "sheet": "花材库",
+    "row": 17,
+    "values": {
+      "花材ID": "F017",
+      "原始／新增名称": "喷泉草",
+      "用户清单Y／空白": "Y",
+      "规范名称／别名": "喷泉草（商品名）\n喷泉草",
+      "学名／分类范围": null,
+      "名称核对状态": "待核名；不自动同款匹配",
+      "花材角色（项目建议）": "草材；填充材；线条材",
+      "形态标签（项目建议）": "喷泉草（商品名）",
+      "观赏部位": "草花序",
+      "核实花季／果季": null,
+      "季节数据口径": null,
+      "季节适用地区／对象": null,
+      "用户原始月份（未验证）": null,
+      "花头尺寸对象": "未核实／需明确测量部位",
+      "直径下限cm": null,
+      "直径上限cm": null,
+      "数值类型": null,
+      "尺寸适用物种／品种": null,
+      "其他尺寸及数量摘要": null,
+      "缺失信息／项目注意事项": "具体品种、颜色、开放阶段、枝长、花径及国内供货需按SKU确认。\n品类、花型、单/多头、开放阶段应分字段；本表是检索目录，不是互斥分类树。缺少SKU规格时不得自动标定真实比例。\n页面标Panicum elegans，但中文别名混用；不把狼尾草或弓果黍强行确定为同物种。确认实物和学名前暂不录尺寸。\n项目检索分组，非完整植物学分类。",
+      "季节来源名称": null,
+      "季节来源URL": null,
+      "花头尺寸来源": null,
+      "花头尺寸来源URL": null,
+      "名称／资料来源": "酒泉花卉种子·喷泉草P27411",
+      "名称／资料来源URL": "https://www.jqhh.cn/products/P27411",
+      "核查日期": "2026-10-13",
+      "大类": "喷泉草",
+      "小类": "喷泉草",
+      "产品ID": "P016"
+    }
+  },
+  "aliases": [
+    {
+      "name": "喷泉草",
+      "productId": "P016",
+      "relation": "平台规范商品名",
+      "restriction": "平台内部检索入口；不表示已对接同名商城SKU。",
+      "status": "需按具体商品确认",
+      "source": {
+        "name": "酒泉花卉种子·喷泉草P27411",
+        "urls": [
+          "https://www.jqhh.cn/products/P27411"
+        ]
+      }
+    }
+  ],
+  "imageReferences": [
+    {
+      "label": "喷泉草",
+      "files": [
+        "03-b1b615d4829d42d48e8ed874b8c5ccf5.jpg"
+      ],
+      "productIds": [
+        "P016"
+      ],
+      "notes": "原表已有对应小类；具体品种和SKU仍按原核对状态。",
+      "seasonRestriction": "图片所列月份/全年为用户资料，未作为可靠供货期。",
+      "status": "reference-only"
+    }
+  ],
+  "assets": [],
+  "schemaVersion": 1,
+  "revision": "97659202af61b5930ec9",
+  "relatedEvidence": []
+}

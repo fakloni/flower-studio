@@ -1,0 +1,173 @@
+[
+  {
+    "id": "pink-rose",
+    "bytes": 1309156,
+    "faces": 35792,
+    "mesh_objects": 1,
+    "decoded_images": [
+      {
+        "name": "znzmoModel-1109912606-0011",
+        "size": [
+          486,
+          1024
+        ]
+      },
+      {
+        "name": "znzmoModel-1109912606-0012",
+        "size": [
+          486,
+          1024
+        ]
+      },
+      {
+        "name": "znzmoModel-1109912606-0016",
+        "size": [
+          238,
+          1024
+        ]
+      },
+      {
+        "name": "znzmoModel-1109912606-0017",
+        "size": [
+          238,
+          1024
+        ]
+      }
+    ],
+    "valid_buffer_ranges": true,
+    "previews_exist": true,
+    "source_exists": true,
+    "file_validation_passed": true,
+    "browser_validation": "not_run",
+    "visual_validation": "Blender front and side inspected; close-up object connection and browser appearance pending",
+    "passed": true
+  },
+  {
+    "id": "white-tulip",
+    "bytes": 683856,
+    "faces": 10948,
+    "mesh_objects": 2,
+    "decoded_images": [
+      {
+        "name": "leaf3",
+        "size": [
+          225,
+          583
+        ]
+      },
+      {
+        "name": "leaf_b",
+        "size": [
+          225,
+          583
+        ]
+      },
+      {
+        "name": "petal1",
+        "size": [
+          289,
+          481
+        ]
+      },
+      {
+        "name": "petal_b",
+        "size": [
+          289,
+          481
+        ]
+      },
+      {
+        "name": "petal_r",
+        "size": [
+          289,
+          481
+        ]
+      }
+    ],
+    "valid_buffer_ranges": true,
+    "previews_exist": true,
+    "source_exists": true,
+    "file_validation_passed": true,
+    "browser_validation": "not_run",
+    "visual_validation": "Blender front and side inspected; close-up object connection and browser appearance pending",
+    "passed": true
+  },
+  {
+    "id": "eucalyptus",
+    "bytes": 4829860,
+    "faces": 52364,
+    "mesh_objects": 5,
+    "decoded_images": [
+      {
+        "name": "Eucalyptus Colorg2",
+        "size": [
+          349,
+          314
+        ]
+      },
+      {
+        "name": "mat_vray Eucalyptus Colorg454_diffuse",
+        "size": [
+          624,
+          1024
+        ]
+      },
+      {
+        "name": "mat_vray Eucalyptus Colorg454_diffuse.001",
+        "size": [
+          624,
+          1024
+        ]
+      },
+      {
+        "name": "mat_vray Eucalyptus Colorg4_reflection",
+        "size": [
+          349,
+          314
+        ]
+      },
+      {
+        "name": "mat_vray Eucalyptus Colorg4_reflection.001",
+        "size": [
+          349,
+          314
+        ]
+      }
+    ],
+    "valid_buffer_ranges": true,
+    "previews_exist": true,
+    "source_exists": true,
+    "file_validation_passed": true,
+    "browser_validation": "not_run",
+    "visual_validation": "Blender front and side inspected; close-up object connection and browser appearance pending",
+    "passed": true
+  },
+  {
+    "id": "ivory-bud",
+    "bytes": 401320,
+    "faces": 22220,
+    "mesh_objects": 1,
+    "decoded_images": [],
+    "valid_buffer_ranges": true,
+    "previews_exist": true,
+    "source_exists": true,
+    "file_validation_passed": true,
+    "browser_validation": "not_run",
+    "visual_validation": "Blender front and side inspected; close-up object connection and browser appearance pending",
+    "passed": true
+  },
+  {
+    "id": "sage-fluted",
+    "bytes": 401312,
+    "faces": 22220,
+    "mesh_objects": 1,
+    "decoded_images": [],
+    "valid_buffer_ranges": true,
+    "previews_exist": true,
+    "source_exists": true,
+    "file_validation_passed": true,
+    "browser_validation": "not_run",
+    "visual_validation": "Blender front and side inspected; close-up object connection and browser appearance pending",
+    "passed": true
+  }
+]

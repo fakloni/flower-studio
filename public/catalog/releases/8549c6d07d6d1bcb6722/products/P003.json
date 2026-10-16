@@ -1,0 +1,177 @@
+{
+  "id": "P003",
+  "flowerId": "F050",
+  "name": "大单头切菊",
+  "group": "菊花",
+  "subgroup": "大单头切菊",
+  "scientificName": "Dendranthema morifolium（来源用名）",
+  "nameStatus": "类别有来源；SKU待核实",
+  "roles": [
+    "主花",
+    "配花"
+  ],
+  "roleStatus": "project-suggestion",
+  "roleNotes": "主花；配花",
+  "shapeNotes": "独轮切花形式；品种决定具体花型",
+  "ornamentalPart": "头状花序",
+  "season": {
+    "text": "9月至翌年3月",
+    "basis": "地区植物志花期",
+    "region": "深圳植物志；非全国供货期",
+    "intervals": [
+      {
+        "start": 9,
+        "end": 3,
+        "wrapsYear": true,
+        "precision": "month-reference"
+      }
+    ],
+    "status": "reference",
+    "source": {
+      "name": "深圳市中国科学院仙湖植物园·深圳植物志",
+      "urls": [
+        "https://www.iplant.cn/fsz/info/Dendranthema%20morifolium"
+      ]
+    },
+    "unverifiedOriginal": null
+  },
+  "dimensions": {
+    "object": "细分产品花径（详数值类型）",
+    "minCm": 8,
+    "maxCm": 15,
+    "valueType": "通常范围",
+    "scope": "独轮菊类别常规参考；不是指定SKU",
+    "notes": "头状花序少见最大直径：≤20 cm（少见上限）\n适用范围及来源见“尺寸证据”\n每枝花头数：1；通常参考，非SKU保证；来源：https://yllhj.beijing.gov.cn/ztxx/bjhx/bzhz/201611/t20161104_758451.shtml\n头状花序直径：2.5–15 cm；范围；植物志常规范围；另记少数达20 cm。详“花材库”F050及“尺寸证据”。",
+    "source": {
+      "name": "细分产品资料（来源URL见右）",
+      "urls": [
+        "https://yllhj.beijing.gov.cn/ztxx/bjhx/bzhz/201611/t20161104_758451.shtml"
+      ]
+    }
+  },
+  "notes": "具体品种、颜色、开放阶段、枝长、花径及国内供货需按SKU确认。\n独轮切菊留一个花蕾，花径一般8-15cm；仍需具体SKU与开放阶段确认。\n形态记录2.5–15 cm，少数达20 cm；普通范围上下限不包含少数20 cm情形。品种间差异过大，不能直接约束全部SKU。\n菊花为本项目花艺检索组；洋甘菊与小菊分别保留，不代表同属或同种。",
+  "source": {
+    "name": "北京市园林绿化局·切花菊分类\n深圳市中国科学院仙湖植物园·深圳植物志",
+    "urls": [
+      "https://yllhj.beijing.gov.cn/ztxx/bjhx/bzhz/201611/t20161104_758451.shtml",
+      "https://www.iplant.cn/fsz/info/Dendranthema%20morifolium"
+    ]
+  },
+  "checkedDate": "2026-10-13",
+  "availability": {
+    "status": "unknown",
+    "region": null
+  },
+  "sourceRecord": {
+    "sheet": "花材库",
+    "row": 4,
+    "values": {
+      "花材ID": "F050",
+      "原始／新增名称": "大单头切菊",
+      "用户清单Y／空白": null,
+      "规范名称／别名": "菊花（切菊须分单头/多头）\n独轮菊；大单头切菊",
+      "学名／分类范围": "Dendranthema morifolium（来源用名）",
+      "名称核对状态": "类别有来源；SKU待核实",
+      "花材角色（项目建议）": "主花；配花",
+      "形态标签（项目建议）": "独轮切花形式；品种决定具体花型",
+      "观赏部位": "头状花序",
+      "核实花季／果季": "9月至翌年3月",
+      "季节数据口径": "地区植物志花期",
+      "季节适用地区／对象": "深圳植物志；非全国供货期",
+      "用户原始月份（未验证）": null,
+      "花头尺寸对象": "细分产品花径（详数值类型）",
+      "直径下限cm": 8,
+      "直径上限cm": 15,
+      "数值类型": "通常范围",
+      "尺寸适用物种／品种": "独轮菊类别常规参考；不是指定SKU",
+      "其他尺寸及数量摘要": "头状花序少见最大直径：≤20 cm（少见上限）\n适用范围及来源见“尺寸证据”\n每枝花头数：1；通常参考，非SKU保证；来源：https://yllhj.beijing.gov.cn/ztxx/bjhx/bzhz/201611/t20161104_758451.shtml\n头状花序直径：2.5–15 cm；范围；植物志常规范围；另记少数达20 cm。详“花材库”F050及“尺寸证据”。",
+      "缺失信息／项目注意事项": "具体品种、颜色、开放阶段、枝长、花径及国内供货需按SKU确认。\n独轮切菊留一个花蕾，花径一般8-15cm；仍需具体SKU与开放阶段确认。\n形态记录2.5–15 cm，少数达20 cm；普通范围上下限不包含少数20 cm情形。品种间差异过大，不能直接约束全部SKU。\n菊花为本项目花艺检索组；洋甘菊与小菊分别保留，不代表同属或同种。",
+      "季节来源名称": "深圳市中国科学院仙湖植物园·深圳植物志",
+      "季节来源URL": "https://www.iplant.cn/fsz/info/Dendranthema%20morifolium",
+      "花头尺寸来源": "细分产品资料（来源URL见右）",
+      "花头尺寸来源URL": "https://yllhj.beijing.gov.cn/ztxx/bjhx/bzhz/201611/t20161104_758451.shtml",
+      "名称／资料来源": "北京市园林绿化局·切花菊分类\n深圳市中国科学院仙湖植物园·深圳植物志",
+      "名称／资料来源URL": "https://yllhj.beijing.gov.cn/ztxx/bjhx/bzhz/201611/t20161104_758451.shtml\nhttps://www.iplant.cn/fsz/info/Dendranthema%20morifolium",
+      "核查日期": "2026-10-13",
+      "大类": "菊花",
+      "小类": "大单头切菊",
+      "产品ID": "P003"
+    }
+  },
+  "aliases": [
+    {
+      "name": "独轮菊",
+      "productId": "P003",
+      "relation": "近义商品名",
+      "restriction": "只在鲜切语境下映射；不是所有独本盆菊。",
+      "status": "需按具体商品确认",
+      "source": {
+        "name": "北京市园林绿化局·切花菊分类",
+        "urls": [
+          "https://yllhj.beijing.gov.cn/ztxx/bjhx/bzhz/201611/t20161104_758451.shtml"
+        ]
+      }
+    },
+    {
+      "name": "大单头切菊",
+      "productId": "P003",
+      "relation": "平台规范商品名",
+      "restriction": "平台内部检索入口；不表示已对接同名商城SKU。",
+      "status": "需按具体商品确认",
+      "source": {
+        "name": "北京市园林绿化局·切花菊分类",
+        "urls": [
+          "https://yllhj.beijing.gov.cn/ztxx/bjhx/bzhz/201611/t20161104_758451.shtml"
+        ]
+      }
+    }
+  ],
+  "imageReferences": [],
+  "assets": [],
+  "schemaVersion": 1,
+  "revision": "8549c6d07d6d1bcb6722",
+  "relatedEvidence": [
+    {
+      "id": "E061",
+      "flowerId": "F050",
+      "values": {
+        "证据ID": "E061",
+        "花材ID": "F050",
+        "花材名称": "菊花",
+        "测量项目": "头状花序直径",
+        "下限／数值": 2.5,
+        "上限／数值": 15,
+        "单位": "cm",
+        "数值性质": "范围",
+        "适用物种／品种／商品": "植物志常规范围；另记少数达20 cm",
+        "证据类型": "植物形态参考",
+        "原数值口径（简记）": "2.5–15（–20）cm",
+        "限制与解释": null,
+        "来源机构／资料": "深圳市中国科学院仙湖植物园·深圳植物志",
+        "来源URL": "https://www.iplant.cn/fsz/info/Dendranthema%20morifolium",
+        "核查日期": "2026-10-13"
+      }
+    },
+    {
+      "id": "E062",
+      "flowerId": "F050",
+      "values": {
+        "证据ID": "E062",
+        "花材ID": "F050",
+        "花材名称": "菊花",
+        "测量项目": "头状花序少见最大直径",
+        "下限／数值": null,
+        "上限／数值": 20,
+        "单位": "cm",
+        "数值性质": "少见上限",
+        "适用物种／品种／商品": "植物志括号扩展值",
+        "证据类型": "植物形态参考",
+        "原数值口径（简记）": "（–20）cm",
+        "限制与解释": null,
+        "来源机构／资料": "深圳市中国科学院仙湖植物园·深圳植物志",
+        "来源URL": "https://www.iplant.cn/fsz/info/Dendranthema%20morifolium",
+        "核查日期": "2026-10-13"
+      }
+    }
+  ]
+}

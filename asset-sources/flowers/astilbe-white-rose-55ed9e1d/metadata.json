@@ -1,0 +1,77 @@
+{
+  "term": "rose",
+  "id": "158e576c-af6f-41b3-8e30-6bccc488c01a",
+  "base_id": "55ed9e1d-2ef8-4e40-b7ba-f818f09b92a0",
+  "name": "Astilbe White Rose",
+  "description": "Astilbe /əˈstɪlbiː/ is a genus of 18 species of rhizomatous flowering plants within the family Saxifragaceae, native to mountain ravines and woodlands in Asia and North America.",
+  "author": "Alexander Novgorodtsev",
+  "source_url": "https://www.blendkit.com/asset-gallery-detail/55ed9e1d-2ef8-4e40-b7ba-f818f09b92a0/",
+  "quality": 7.923076923076923,
+  "parameters": {
+    "sexualizedContent": false,
+    "joinBlenderkitDiscounts": true,
+    "addons": true,
+    "platforms": [
+      "windows-x64",
+      "macos-arm64",
+      "linux-x64",
+      "macos-x64",
+      "windows-arm64"
+    ],
+    "faceCount": 231638,
+    "textureResolutionMax": 1202,
+    "productionLevel": "finished",
+    "procedural": false,
+    "modelStyle": "realistic",
+    "condition": "new",
+    "purePbr": true,
+    "shaders": [
+      "translucent",
+      "mix shader",
+      "transparent",
+      "principled"
+    ],
+    "pbrType": "metallic",
+    "uv": true,
+    "textureResolutionMin": 800,
+    "engines": [
+      "cycles"
+    ],
+    "modifiers": [
+      ""
+    ],
+    "materials": [
+      "Ligularia leaf",
+      "Ligularia stem",
+      "Ligularia flwoer 2",
+      "Ligularia flwoers"
+    ],
+    "rig": false,
+    "simulation": false,
+    "dimensionX": 1.3941,
+    "dimensionY": 1.3819,
+    "dimensionZ": 0.8247,
+    "boundBoxMinX": -0.6877,
+    "boundBoxMinY": -0.7531,
+    "boundBoxMinZ": -0.0017,
+    "boundBoxMaxX": 0.7064,
+    "boundBoxMaxY": 0.6288,
+    "boundBoxMaxZ": 0.823,
+    "faceCountRender": 231638,
+    "meshPolyType": "quad_dominant",
+    "manifold": false,
+    "objectCount": 83,
+    "nodeCount": 41,
+    "textureCount": 2,
+    "megapixels": 2
+  },
+  "downloaded": [
+    {
+      "path": "asset-sources\\flowers\\astilbe-white-rose-55ed9e1d\\original.blend",
+      "bytes": 14143663,
+      "type": "blend"
+    }
+  ],
+  "acquired_date": "2026-10-12",
+  "status": "downloaded_pending_blender_review"
+}

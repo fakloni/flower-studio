@@ -1,0 +1,25 @@
+{
+  "format": "s0-recipe-input/1",
+  "name": "春日·粉白花意",
+  "status": "comparison_fixture_not_published_template",
+  "scene": "vase-arrangement",
+  "vase_id": "ivory-bud",
+  "quantity_unit": "stem",
+  "ingredients": [
+    { "asset_id": "pink-rose", "name": "粉玫瑰", "count": 3 },
+    { "asset_id": "white-tulip", "name": "白郁金香", "count": 2 },
+    { "asset_id": "eucalyptus", "name": "尤加利", "count": 3 }
+  ],
+  "instances": [
+    { "id": "rose-01", "asset_id": "pink-rose" },
+    { "id": "rose-02", "asset_id": "pink-rose" },
+    { "id": "rose-03", "asset_id": "pink-rose" },
+    { "id": "tulip-01", "asset_id": "white-tulip" },
+    { "id": "tulip-02", "asset_id": "white-tulip" },
+    { "id": "eucalyptus-01", "asset_id": "eucalyptus" },
+    { "id": "eucalyptus-02", "asset_id": "eucalyptus" },
+    { "id": "eucalyptus-03", "asset_id": "eucalyptus" }
+  ],
+  "layout_format": "pending_renderer_comparison",
+  "physical_arrangement_validated": false
+}

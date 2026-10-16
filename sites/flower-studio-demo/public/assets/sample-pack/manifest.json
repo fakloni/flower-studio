@@ -1,0 +1,291 @@
+{
+  "version": 1,
+  "created": "2026-10-12",
+  "assets": [
+    {
+      "id": "pink-rose",
+      "name": "粉玫瑰",
+      "kind": "flower",
+      "unit": "meter",
+      "logical_stems": 1,
+      "insertion_point": [
+        0,
+        0,
+        0
+      ],
+      "stem_axis": [
+        0,
+        0,
+        1
+      ],
+      "display_height_cm": 48.0,
+      "physical_dimensions_verified": false,
+      "model": "pink-rose.glb",
+      "previews": {
+        "front": "pink-rose-front.png",
+        "side": "pink-rose-side.png"
+      },
+      "source": "asset-sources\\flowers\\roses-in-twisted-glass-vase-ea9ca32a\\original.blend",
+      "editable_source": "asset-sources\\sample-pack\\pink-rose.blend",
+      "model_bytes": 1309156,
+      "status": "single_stem_sample_candidate",
+      "note": "单独提取一支玫瑰；缩小纹理并降低细分。",
+      "texture_repack": [],
+      "web_previews": {
+        "front": "pink-rose-front.webp",
+        "side": "pink-rose-side.webp"
+      },
+      "coordinate_system": {
+        "source": "Blender Z-up",
+        "runtime": "glTF Y-up",
+        "conversion": "Blender glTF exporter default axis conversion"
+      },
+      "runtime_stem_axis": [
+        0,
+        1,
+        0
+      ],
+      "runtime_insertion_point": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "white-tulip",
+      "name": "白郁金香",
+      "kind": "flower",
+      "unit": "meter",
+      "logical_stems": 1,
+      "insertion_point": [
+        0,
+        0,
+        0
+      ],
+      "stem_axis": [
+        0,
+        0,
+        1
+      ],
+      "display_height_cm": 46.0,
+      "physical_dimensions_verified": false,
+      "model": "white-tulip.glb",
+      "previews": {
+        "front": "white-tulip-front.png",
+        "side": "white-tulip-side.png"
+      },
+      "source": "asset-sources\\flowers\\tulips-in-a-pot-8f69e8a9\\original.blend",
+      "editable_source": "asset-sources\\sample-pack\\white-tulip.blend",
+      "model_bytes": 683856,
+      "status": "single_stem_sample_candidate",
+      "note": "一支花茎和花头，补入并调整一片来源叶片；叶片连接需在近景复核。",
+      "texture_repack": [
+        {
+          "size": [
+            289,
+            481
+          ],
+          "before_bytes": 160628,
+          "after_bytes": 131349,
+          "bit_depth": 8
+        }
+      ],
+      "web_previews": {
+        "front": "white-tulip-front.webp",
+        "side": "white-tulip-side.webp"
+      },
+      "coordinate_system": {
+        "source": "Blender Z-up",
+        "runtime": "glTF Y-up",
+        "conversion": "Blender glTF exporter default axis conversion"
+      },
+      "runtime_stem_axis": [
+        0,
+        1,
+        0
+      ],
+      "runtime_insertion_point": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "eucalyptus",
+      "name": "尤加利",
+      "kind": "flower",
+      "unit": "meter",
+      "logical_stems": 1,
+      "insertion_point": [
+        0,
+        0,
+        0
+      ],
+      "stem_axis": [
+        0,
+        0,
+        1
+      ],
+      "display_height_cm": 50.0,
+      "physical_dimensions_verified": false,
+      "model": "eucalyptus.glb",
+      "previews": {
+        "front": "eucalyptus-front.png",
+        "side": "eucalyptus-side.png"
+      },
+      "source": "asset-sources\\flowers\\eucalyptus-bouquet-vase-777e9bd4\\original.blend",
+      "editable_source": "asset-sources\\sample-pack\\eucalyptus.blend",
+      "model_bytes": 4829860,
+      "status": "single_stem_sample_candidate",
+      "note": "从三个主枝连通分量中提取一个，按最近连接顶点归属副枝，再将叶片归属到主枝与副枝；枝叶连接仍需近景与网页复核。",
+      "extraction": {
+        "source_main_stem_components": 3,
+        "selected_main_stem": 0,
+        "assigned_components": {
+          "Colorg54": 7228,
+          "Colorg456": 14,
+          "Colorg455": 15,
+          "Colorg4": 11
+        }
+      },
+      "texture_repack": [
+        {
+          "size": [
+            349,
+            314
+          ],
+          "before_bytes": 292145,
+          "after_bytes": 88561,
+          "bit_depth": 8
+        },
+        {
+          "size": [
+            349,
+            314
+          ],
+          "before_bytes": 98306,
+          "after_bytes": 74961,
+          "bit_depth": 8
+        },
+        {
+          "size": [
+            624,
+            1024
+          ],
+          "before_bytes": 4277106,
+          "after_bytes": 1675754,
+          "bit_depth": 8
+        },
+        {
+          "size": [
+            624,
+            1024
+          ],
+          "before_bytes": 4264909,
+          "after_bytes": 1638099,
+          "bit_depth": 8
+        }
+      ],
+      "web_previews": {
+        "front": "eucalyptus-front.webp",
+        "side": "eucalyptus-side.webp"
+      },
+      "coordinate_system": {
+        "source": "Blender Z-up",
+        "runtime": "glTF Y-up",
+        "conversion": "Blender glTF exporter default axis conversion"
+      },
+      "runtime_stem_axis": [
+        0,
+        1,
+        0
+      ],
+      "runtime_insertion_point": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "ivory-bud",
+      "name": "奶油白细口瓶",
+      "kind": "vase",
+      "unit": "meter",
+      "dimensions": {
+        "height_cm": 23.2,
+        "mouth_inner_diameter_cm": 4.2,
+        "max_body_diameter_cm": 15.0
+      },
+      "dimensions_type": "constructed_model_dimensions",
+      "mouth_center": [
+        0,
+        0,
+        0.23199999999999998
+      ],
+      "model": "ivory-bud.glb",
+      "model_bytes": 401320,
+      "previews": {
+        "front": "ivory-bud-front.png",
+        "side": "ivory-bud-side.png"
+      },
+      "editable_source": "asset-sources\\sample-pack\\ivory-bud.blend",
+      "status": "decimated_vase_sample",
+      "texture_repack": [],
+      "web_previews": {
+        "front": "ivory-bud-front.webp",
+        "side": "ivory-bud-side.webp"
+      },
+      "coordinate_system": {
+        "source": "Blender Z-up",
+        "runtime": "glTF Y-up",
+        "conversion": "Blender glTF exporter default axis conversion"
+      },
+      "runtime_mouth_center": [
+        0,
+        0.23199999999999998,
+        0
+      ]
+    },
+    {
+      "id": "sage-fluted",
+      "name": "鼠尾草绿竖纹瓶",
+      "kind": "vase",
+      "unit": "meter",
+      "dimensions": {
+        "height_cm": 26.2,
+        "mouth_inner_diameter_cm": 9.8,
+        "max_body_diameter_cm": 13.4
+      },
+      "dimensions_type": "constructed_model_dimensions",
+      "mouth_center": [
+        0,
+        0,
+        0.262
+      ],
+      "model": "sage-fluted.glb",
+      "model_bytes": 401312,
+      "previews": {
+        "front": "sage-fluted-front.png",
+        "side": "sage-fluted-side.png"
+      },
+      "editable_source": "asset-sources\\sample-pack\\sage-fluted.blend",
+      "status": "decimated_vase_sample",
+      "texture_repack": [],
+      "web_previews": {
+        "front": "sage-fluted-front.webp",
+        "side": "sage-fluted-side.webp"
+      },
+      "coordinate_system": {
+        "source": "Blender Z-up",
+        "runtime": "glTF Y-up",
+        "conversion": "Blender glTF exporter default axis conversion"
+      },
+      "runtime_mouth_center": [
+        0,
+        0.262,
+        0
+      ]
+    }
+  ],
+  "total_model_bytes": 7625504
+}

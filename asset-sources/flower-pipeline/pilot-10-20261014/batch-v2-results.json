@@ -1,0 +1,27 @@
+[
+  {
+    "productId": "P052",
+    "status": "generated-needs-visual-review",
+    "out": "D:\\Projects\\flower-studio\\artifacts\\flower-pipeline\\pilot-10-20261014\\P052\\v2"
+  },
+  {
+    "productId": "P065",
+    "status": "generated-needs-visual-review",
+    "out": "D:\\Projects\\flower-studio\\artifacts\\flower-pipeline\\pilot-10-20261014\\P065\\v2"
+  },
+  {
+    "productId": "P020",
+    "status": "generated-needs-visual-review",
+    "out": "D:\\Projects\\flower-studio\\artifacts\\flower-pipeline\\pilot-10-20261014\\P020\\v2"
+  },
+  {
+    "productId": "P067",
+    "status": "generated-needs-visual-review",
+    "out": "D:\\Projects\\flower-studio\\artifacts\\flower-pipeline\\pilot-10-20261014\\P067\\v2"
+  },
+  {
+    "productId": "P057",
+    "status": "generated-needs-visual-review",
+    "out": "D:\\Projects\\flower-studio\\artifacts\\flower-pipeline\\pilot-10-20261014\\P057\\v2"
+  }
+]

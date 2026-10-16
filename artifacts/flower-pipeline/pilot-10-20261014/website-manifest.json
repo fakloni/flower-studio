@@ -1,0 +1,317 @@
+{
+  "models": [
+    {
+      "productId": "P072",
+      "editorId": "gerbera-atlanta",
+      "name": "非洲菊 Atlanta",
+      "version": 1,
+      "modelUrl": "/assets/catalog/P072/pilot-model-v1/stem.glb",
+      "source": "D:\\Projects\\flower-studio\\artifacts\\flower-pipeline\\pilot-10-20261014\\P072\\v1",
+      "photoUrl": "/assets/catalog/P072/photo-reference-v1/cover.webp",
+      "checks": {
+        "glbHeader": true,
+        "embeddedTextures": true,
+        "roundTrip": true,
+        "meshCount": 8,
+        "triangles": 49052,
+        "bytes": 2615892,
+        "boundsM": {
+          "min": [
+            -0.0507945716381073,
+            -0.03209398686885834,
+            -0.0001383389171678573
+          ],
+          "max": [
+            0.07056670635938644,
+            0.04639887809753418,
+            0.6923157572746277
+          ]
+        },
+        "missingTextures": []
+      },
+      "visualReview": "Reviewed for local website trial; exact cultivar reconstruction not verified"
+    },
+    {
+      "productId": "P073",
+      "editorId": "gerbera-annecy",
+      "name": "非洲菊 Annecy",
+      "version": 1,
+      "modelUrl": "/assets/catalog/P073/pilot-model-v1/stem.glb",
+      "source": "D:\\Projects\\flower-studio\\artifacts\\flower-pipeline\\pilot-10-20261014\\P073\\v1",
+      "photoUrl": "/assets/catalog/P073/photo-reference-v1/cover.webp",
+      "checks": {
+        "glbHeader": true,
+        "embeddedTextures": true,
+        "roundTrip": true,
+        "meshCount": 8,
+        "triangles": 49052,
+        "bytes": 1083304,
+        "boundsM": {
+          "min": [
+            -0.026651842519640923,
+            -0.0180476363748312,
+            -0.00017964732251130044
+          ],
+          "max": [
+            0.044014737010002136,
+            0.02958024851977825,
+            0.5234345197677612
+          ]
+        },
+        "missingTextures": []
+      },
+      "visualReview": "Reviewed for local website trial; exact cultivar reconstruction not verified"
+    },
+    {
+      "productId": "P052",
+      "editorId": "white-rose-proud",
+      "name": "白玫瑰 Proud",
+      "version": 2,
+      "modelUrl": "/assets/catalog/P052/pilot-model-v2/stem.glb",
+      "source": "D:\\Projects\\flower-studio\\artifacts\\flower-pipeline\\pilot-10-20261014\\P052\\v2",
+      "photoUrl": "/assets/catalog/P052/photo-reference-v1/cover.webp",
+      "checks": {
+        "glbHeader": true,
+        "embeddedTextures": true,
+        "roundTrip": true,
+        "meshCount": 5,
+        "triangles": 46888,
+        "bytes": 855224,
+        "boundsM": {
+          "min": [
+            -0.07423866540193558,
+            -0.04794800654053688,
+            0.0
+          ],
+          "max": [
+            0.10406675189733505,
+            0.07384791225194931,
+            0.6473944187164307
+          ]
+        },
+        "missingTextures": []
+      },
+      "visualReview": "Reviewed for local website trial; exact cultivar reconstruction not verified"
+    },
+    {
+      "productId": "P065",
+      "editorId": "carnation-green-shot",
+      "name": "康乃馨 Green Shot",
+      "version": 2,
+      "modelUrl": "/assets/catalog/P065/pilot-model-v2/stem.glb",
+      "source": "D:\\Projects\\flower-studio\\artifacts\\flower-pipeline\\pilot-10-20261014\\P065\\v2",
+      "photoUrl": "/assets/catalog/P065/photo-reference-v1/cover.webp",
+      "checks": {
+        "glbHeader": true,
+        "embeddedTextures": true,
+        "roundTrip": true,
+        "meshCount": 5,
+        "triangles": 44112,
+        "bytes": 805576,
+        "boundsM": {
+          "min": [
+            -0.08591797202825546,
+            -0.09028112143278122,
+            0.0
+          ],
+          "max": [
+            0.09327356517314911,
+            0.08964720368385315,
+            0.6056340932846069
+          ]
+        },
+        "missingTextures": []
+      },
+      "visualReview": "Reviewed for local website trial; exact cultivar reconstruction not verified"
+    },
+    {
+      "productId": "P059",
+      "editorId": "oriental-lily-colet",
+      "name": "东方百合 Colet",
+      "version": 1,
+      "modelUrl": "/assets/catalog/P059/pilot-model-v1/stem.glb",
+      "source": "D:\\Projects\\flower-studio\\artifacts\\flower-pipeline\\pilot-10-20261014\\P059\\v1",
+      "photoUrl": "/assets/catalog/P059/photo-reference-v1/cover.webp",
+      "checks": {
+        "glbHeader": true,
+        "embeddedTextures": true,
+        "roundTrip": true,
+        "meshCount": 5,
+        "triangles": 34376,
+        "bytes": 660464,
+        "boundsM": {
+          "min": [
+            -0.13904233276844025,
+            -0.08969471603631973,
+            -4.120257653994486e-05
+          ],
+          "max": [
+            0.134416401386261,
+            0.08696358650922775,
+            0.7102648019790649
+          ]
+        },
+        "missingTextures": []
+      },
+      "visualReview": "Reviewed for local website trial; exact cultivar reconstruction not verified"
+    },
+    {
+      "productId": "P020",
+      "editorId": "lily-of-valley",
+      "name": "铃兰",
+      "version": 2,
+      "modelUrl": "/assets/catalog/P020/pilot-model-v2/stem.glb",
+      "source": "D:\\Projects\\flower-studio\\artifacts\\flower-pipeline\\pilot-10-20261014\\P020\\v2",
+      "photoUrl": "/assets/catalog/P020/photo-reference-v1/cover.webp",
+      "checks": {
+        "glbHeader": true,
+        "embeddedTextures": true,
+        "roundTrip": true,
+        "meshCount": 5,
+        "triangles": 13604,
+        "bytes": 252344,
+        "boundsM": {
+          "min": [
+            -0.13381272554397583,
+            -0.01798328012228012,
+            0.0
+          ],
+          "max": [
+            0.1502535045146942,
+            0.068659208714962,
+            0.25032752752304077
+          ]
+        },
+        "missingTextures": []
+      },
+      "visualReview": "Reviewed for local website trial; exact cultivar reconstruction not verified"
+    },
+    {
+      "productId": "P082",
+      "editorId": "gypsophila-xlence",
+      "name": "满天星 Xlence",
+      "version": 1,
+      "modelUrl": "/assets/catalog/P082/pilot-model-v1/stem.glb",
+      "source": "D:\\Projects\\flower-studio\\artifacts\\flower-pipeline\\pilot-10-20261014\\P082\\v1",
+      "photoUrl": "/assets/catalog/P082/photo-reference-v1/cover.webp",
+      "checks": {
+        "glbHeader": true,
+        "embeddedTextures": true,
+        "roundTrip": true,
+        "meshCount": 3,
+        "triangles": 120468,
+        "bytes": 2242540,
+        "boundsM": {
+          "min": [
+            -0.13554298877716064,
+            -0.12009492516517639,
+            -2.9373008146649227e-05
+          ],
+          "max": [
+            0.1344083845615387,
+            0.11527004837989807,
+            0.646119236946106
+          ]
+        },
+        "missingTextures": []
+      },
+      "visualReview": "Reviewed for local website trial; exact cultivar reconstruction not verified"
+    },
+    {
+      "productId": "P067",
+      "editorId": "silver-eucalyptus",
+      "name": "银叶桉",
+      "version": 2,
+      "modelUrl": "/assets/catalog/P067/pilot-model-v2/stem.glb",
+      "source": "D:\\Projects\\flower-studio\\artifacts\\flower-pipeline\\pilot-10-20261014\\P067\\v2",
+      "photoUrl": "/assets/catalog/P067/photo-reference-v1/cover.webp",
+      "checks": {
+        "glbHeader": true,
+        "embeddedTextures": true,
+        "roundTrip": true,
+        "meshCount": 3,
+        "triangles": 11832,
+        "bytes": 218756,
+        "boundsM": {
+          "min": [
+            -0.05644286796450615,
+            -0.05495665594935417,
+            0.0
+          ],
+          "max": [
+            0.06576425582170486,
+            0.05764516815543175,
+            0.6499999761581421
+          ]
+        },
+        "missingTextures": []
+      },
+      "visualReview": "Reviewed for local website trial; exact cultivar reconstruction not verified"
+    },
+    {
+      "productId": "P098",
+      "editorId": "craspedia-yellow",
+      "name": "黄金球",
+      "version": 1,
+      "modelUrl": "/assets/catalog/P098/pilot-model-v1/stem.glb",
+      "source": "D:\\Projects\\flower-studio\\artifacts\\flower-pipeline\\pilot-10-20261014\\P098\\v1",
+      "photoUrl": "/assets/catalog/P098/photo-reference-v1/cover.webp",
+      "checks": {
+        "glbHeader": true,
+        "embeddedTextures": true,
+        "roundTrip": true,
+        "meshCount": 2,
+        "triangles": 28572,
+        "bytes": 601520,
+        "boundsM": {
+          "min": [
+            -0.008078377693891525,
+            -0.0110618369653821,
+            -2.9373008146649227e-05
+          ],
+          "max": [
+            0.022088300436735153,
+            0.01908113807439804,
+            0.6350739598274231
+          ]
+        },
+        "missingTextures": []
+      },
+      "visualReview": "Reviewed for local website trial; exact cultivar reconstruction not verified"
+    },
+    {
+      "productId": "P057",
+      "editorId": "lisianthus-piccolo",
+      "name": "洋桔梗 Piccolo",
+      "version": 2,
+      "modelUrl": "/assets/catalog/P057/pilot-model-v2/stem.glb",
+      "source": "D:\\Projects\\flower-studio\\artifacts\\flower-pipeline\\pilot-10-20261014\\P057\\v2",
+      "photoUrl": "/assets/catalog/P057/photo-reference-v1/cover.webp",
+      "checks": {
+        "glbHeader": true,
+        "embeddedTextures": true,
+        "roundTrip": true,
+        "meshCount": 5,
+        "triangles": 80432,
+        "bytes": 1465148,
+        "boundsM": {
+          "min": [
+            -0.10002005100250244,
+            -0.058206956833601,
+            0.0
+          ],
+          "max": [
+            0.08756516873836517,
+            0.05882129445672035,
+            0.6584852933883667
+          ]
+        },
+        "missingTextures": []
+      },
+      "visualReview": "Reviewed for local website trial; exact cultivar reconstruction not verified"
+    }
+  ],
+  "modelCount": 10,
+  "route": "local-blender",
+  "tripoCalled": false
+}

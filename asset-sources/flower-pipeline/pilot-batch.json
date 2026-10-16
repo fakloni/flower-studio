@@ -1,0 +1,5 @@
+{
+  "jobs": [
+    {"spec": "P072/v1/spec.json", "out": "../../artifacts/flower-pipeline/P072/v3", "samples": 16}
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "name": "Roses in Twisted Glass Vase",
+  "folder": "asset-sources\\flowers\\roses-in-twisted-glass-vase-ea9ca32a",
+  "import_ok": true,
+  "mesh_objects": 8,
+  "raw_faces": 30040,
+  "images": 9,
+  "missing_images": [],
+  "bbox_source_units": {
+    "min": [
+      -0.11485673487186432,
+      -0.1853720098733902,
+      0.00021566804207395762
+    ],
+    "max": [
+      0.16844817996025085,
+      0.1255260854959488,
+      0.3369680643081665
+    ],
+    "extent": [
+      0.2833049148321152,
+      0.310898095369339,
+      0.33675239626609255
+    ]
+  },
+  "objects": [
+    {
+      "name": "water",
+      "type": "MESH",
+      "faces": 2752,
+      "modifiers": []
+    },
+    {
+      "name": "Roses in Twisted Glass Vase",
+      "type": "EMPTY",
+      "faces": 0,
+      "modifiers": []
+    },
+    {
+      "name": "rose.001",
+      "type": "MESH",
+      "faces": 4987,
+      "modifiers": [
+        "SUBSURF"
+      ]
+    },
+    {
+      "name": "rose",
+      "type": "MESH",
+      "faces": 5047,
+      "modifiers": [
+        "SUBSURF"
+      ]
+    },
+    {
+      "name": "leaf.004",
+      "type": "MESH",
+      "faces": 2737,
+      "modifiers": []
+    },
+    {
+      "name": "leaf.003",
+      "type": "MESH",
+      "faces": 2203,
+      "modifiers": []
+    },
+    {
+      "name": "leaf.002",
+      "type": "MESH",
+      "faces": 2729,
+      "modifiers": []
+    },
+    {
+      "name": "leaf.001",
+      "type": "MESH",
+      "faces": 2161,
+      "modifiers": []
+    },
+    {
+      "name": "Glass Vase",
+      "type": "MESH",
+      "faces": 7424,
+      "modifiers": []
+    }
+  ],
+  "status": "imported_pending_stem_extraction_and_visual_review"
+}

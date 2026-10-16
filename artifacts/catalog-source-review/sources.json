@@ -1,0 +1,259 @@
+[
+  {
+    "id": "ppbc",
+    "name": "植物智／PPBC 中国植物图像库",
+    "type": "植物研究机构图库",
+    "url": "https://ppbc.iplant.cn/",
+    "evidenceUrl": "https://ppbc.iplant.cn/about",
+    "status": "图库及机构身份已核实，逐物种选图仍需完成",
+    "scope": "物种核名、花叶枝果细节；不直接证明商家 SKU",
+    "photoTypes": "植株、花、叶、果、器官近景，按摄影记录检索",
+    "access": "部分图片列表动态加载",
+    "reuse": "逐图保留作者及版权状态，非默认开放许可",
+    "productIds": []
+  },
+  {
+    "id": "hilverda",
+    "name": "HilverdaFlorist",
+    "type": "育种方",
+    "url": "https://www.hilverdaflorist.com/en/assortment/cut-flowers/series-cut-flowers/carnation",
+    "status": "已核实 Standard／Spray 康乃馨目录及品种图片入口",
+    "scope": "康乃馨、非洲菊、六出花类别及其具名品种",
+    "photoTypes": "花头产品图，部分环境／整支图；高清下载入口",
+    "access": "部分高清下载需进一步操作",
+    "reuse": "发布用途逐项核对；此前图片仅作为本地候选",
+    "productIds": [
+      "P065",
+      "P066",
+      "P070",
+      "P071",
+      "P072",
+      "P073",
+      "P101"
+    ]
+  },
+  {
+    "id": "deliflor",
+    "name": "Deliflor",
+    "type": "育种方",
+    "url": "https://deliflor.nl/en-us/assortment",
+    "evidenceUrl": "https://deliflor.nl/Portals/2/OpenContent/Files/1345/4901.04.24_-_DEL_-_Brochure_Assortiment_Update_-_Proef_4.pdf",
+    "status": "已核实 Disbud／Spray／Santini 目录及带品种名的产品照片目录",
+    "scope": "菊花商品类别；乒乓菊和小菊需另挑合适花型，不能按目录类别直接等同",
+    "photoTypes": "品种花头图、产品目录",
+    "access": "目录可浏览；品种筛选部分为动态页面",
+    "reuse": "来源记录保留，图片再利用要求待核",
+    "productIds": [
+      "P001",
+      "P002",
+      "P003",
+      "P004",
+      "P005"
+    ]
+  },
+  {
+    "id": "sakata",
+    "name": "Sakata Ornamentals",
+    "type": "育种方",
+    "url": "https://sakataornamentals.eu/product-category/series/mariachi/",
+    "evidenceUrl": "https://sakataornamentals.eu/product/mariachi/",
+    "status": "已核实 Mariachi 页面和图片目录；Piccolo 页面本次抓取超时",
+    "scope": "洋桔梗单／重瓣类别及 Mariachi 系列，不能混同其他育种方同名系列",
+    "photoTypes": "系列及颜色产品图，图片下载目录",
+    "access": "网页检索可见；直接采集此前返回403，暂未取得本地图",
+    "reuse": "目录明示可用于展示 Sakata 品种，下载前需看 image disclaimer",
+    "productIds": [
+      "P056",
+      "P057",
+      "P058"
+    ]
+  },
+  {
+    "id": "danziger",
+    "name": "Danziger",
+    "type": "育种方",
+    "url": "https://www.danzigeronline.com/catalog/cut_flowers_catalog/xlence/",
+    "evidenceUrl": "https://www.danzigeronline.com/catalog/cut_flowers_catalog/million-stars/",
+    "status": "已核实 XLENCE／MILLION STARS 品种页与 Shot on location 实地照片栏目",
+    "scope": "具名满天星；2026–27切花目录另有补血草、松虫草、黄金球等候选类别",
+    "photoTypes": "产品图、枝条／田间图、实地拍摄，带品种标签",
+    "access": "页面可浏览；不能把 Million Stars II 当作 Million Stars",
+    "reuse": "出版／模型改编用途另记授权状态",
+    "productIds": [
+      "P050",
+      "P082",
+      "P083",
+      "P085",
+      "P098"
+    ]
+  },
+  {
+    "id": "ballsb",
+    "name": "Ball SB",
+    "type": "育种／种苗方",
+    "url": "https://www.ballsb.com/en/variety/208-dianthus-green-ball-en",
+    "status": "此前3张真实候选图已保存并视觉检查",
+    "scope": "Green Ball 绿毛球类别；尚未映射商家实物 SKU",
+    "photoTypes": "单支全景、中景、花头俯视特写",
+    "access": "可取得本地候选",
+    "reuse": "本地参考，公开用途待核",
+    "productIds": [
+      "P014"
+    ]
+  },
+  {
+    "id": "hydrangeaworld",
+    "name": "Hydrangeaworld",
+    "type": "切花供应商及育种方联合平台",
+    "url": "https://www.hydrangeaworld.com/en/cut-flower/range/",
+    "status": "已核实 Fresh／Classic 切花分类与带照片的目录入口",
+    "scope": "鲜切绣球与秋色阶段，不能用盆栽图直接代表切花规格",
+    "photoTypes": "分类参考、品种目录、设计与组合图",
+    "access": "网页及PDF目录入口可浏览",
+    "reuse": "逐图记录用途和来源",
+    "productIds": [
+      "P007",
+      "P035"
+    ]
+  },
+  {
+    "id": "vandenbos",
+    "name": "Van den Bos Flowerbulbs",
+    "type": "专业球根供应商",
+    "url": "https://www.vandenbos.com/en",
+    "evidenceUrl": "https://www.vandenbos.com/en/catalogus-lily",
+    "status": "已核实百合／小苍兰／马蹄莲切花目录入口；目录具体品种图片仍需动态页面选取",
+    "scope": "球根切花的品种采集入口；不能把所有马蹄莲自动标为白花马蹄莲",
+    "photoTypes": "品种目录，具体图待选",
+    "access": "目录为动态页面，本次文本抓取为空，不视为无图片",
+    "reuse": "逐图核对",
+    "productIds": [
+      "P048",
+      "P059",
+      "P060",
+      "P061",
+      "P062",
+      "P063",
+      "P064",
+      "P081"
+    ]
+  },
+  {
+    "id": "anthura",
+    "name": "Anthura",
+    "type": "育种方及专门照片库",
+    "url": "https://anthura.nl/en/photo-library/phalaenopsis-cut-photos/",
+    "evidenceUrl": "https://anthura.nl/en/products/phalaenopsis-cut/manila/",
+    "status": "已核实切花蝴蝶兰照片库及 Manila 两张产品照片",
+    "scope": "P018 蝴蝶兰类别；P012掌只有核名后才考虑其红掌图库",
+    "photoTypes": "单花与切枝产品图，高清照片库",
+    "access": "Manila 产品页公开的全尺寸图片已保存两张；照片库批量高清请求另有邮箱／公司表单，本轮未提交",
+    "reuse": "照片库要求注明 Anthura 及品种名；具体用途仍保留记录",
+    "productIds": [
+      "P018",
+      "P012"
+    ]
+  },
+  {
+    "id": "takii",
+    "name": "Takii Europe",
+    "type": "育种方",
+    "url": "https://takii.eu/brands/sunrich/",
+    "evidenceUrl": "https://takii.eu/products/heli-annu-sunrich-f1-gold/",
+    "status": "已核实 Sunrich 及具体 Sunrich F1 Gold 页面",
+    "scope": "向日葵类别中的 Sunrich 品种例，不自动等同已有 Summer Orange 来源",
+    "photoTypes": "品牌／品种照片",
+    "access": "可浏览",
+    "reuse": "逐图核对",
+    "productIds": [
+      "P006"
+    ]
+  },
+  {
+    "id": "deruiter",
+    "name": "De Ruiter Innovations",
+    "type": "育种方",
+    "url": "https://www.deruiter.com/about-us",
+    "evidenceUrl": "https://www.deruiter.com/product/proud",
+    "status": "已核实单头／多头玫瑰育种范围及 Proud 具名品种图片幻灯片",
+    "scope": "P052／P053类别参考；Proud不是菲韵或金辉",
+    "photoTypes": "花头、阶段及幻灯片照片，逐图选取",
+    "access": "可浏览",
+    "reuse": "逐图核对",
+    "productIds": [
+      "P052",
+      "P053"
+    ]
+  },
+  {
+    "id": "marginpar",
+    "name": "Marginpar",
+    "type": "切花生产方",
+    "url": "https://www.marginpar.com/flowers",
+    "evidenceUrl": "https://www.marginpar.com/about-us/farms/mr-farm",
+    "status": "已核实 Astilbe、Scabiosa、Craspedia、Hypericum、Echinacea 等具名切花目录",
+    "scope": "络新妇、红豆类别；松虫草、黄金球、松果菊作为待核名候选",
+    "photoTypes": "具名产品、生产及设计照片",
+    "access": "可浏览，后续逐产品选图",
+    "reuse": "逐图核对",
+    "productIds": [
+      "P026",
+      "P041",
+      "P085",
+      "P088",
+      "P098"
+    ]
+  },
+  {
+    "id": "ncsu",
+    "name": "NC State Extension Plant Toolbox",
+    "type": "大学植物资料与图片库",
+    "url": "https://plants.ces.ncsu.edu/",
+    "evidenceUrl": "https://plants.ces.ncsu.edu/plants/eucalyptus-cinerea/",
+    "status": "已核实 E. cinerea 叶枝图及 Monstera deliciosa 叶片近景，标明作者和逐图许可证",
+    "scope": "银叶桉、龟背叶物种／器官参考；不代表具体商业 SKU",
+    "photoTypes": "植株、叶枝、器官近景",
+    "access": "旧签名图片链接返回403；刷新源页面取得当前链接后，所选两图已成功保存",
+    "reuse": "逐图不同许可，部分CC BY、部分NC/ND，不能按整站统一使用",
+    "productIds": [
+      "P051",
+      "P067"
+    ]
+  },
+  {
+    "id": "sanbi",
+    "name": "SANBI PlantZAfrica",
+    "type": "国家生物多样性研究机构",
+    "url": "https://pza.sanbi.org/leucospermum-cordifolium",
+    "status": "已核实针垫参照物种页面、形态说明及照片标注；本次后续请求有访问失败",
+    "scope": "Leucospermum cordifolium 的物种参考，P039具体园艺品种仍待核",
+    "photoTypes": "自然植株、花序、生态照片",
+    "access": "保留页面入口，不能凭一次失败认定无图",
+    "reuse": "作者／机构与用途另记",
+    "productIds": [
+      "P039"
+    ]
+  },
+  {
+    "id": "rhs",
+    "name": "Royal Horticultural Society（RHS）",
+    "type": "园艺机构",
+    "url": "https://www.rhs.org.uk/plants/dahlia/growing-guide",
+    "evidenceUrl": "https://www.rhs.org.uk/plants/206477/dahlia-lakeland-sunset-%28c%29/details",
+    "status": "已找到具名大丽花花型资料；部分页面访问不稳定，具体图仍需打开选取",
+    "scope": "郁金香／大丽花花型与具名品种检索；花型组不等于单一物种照片",
+    "photoTypes": "园艺品种照片和栽培资料",
+    "access": "部分详情请求失败，不把所有详情标为已核实图片",
+    "reuse": "逐图核对",
+    "productIds": [
+      "P017",
+      "P074",
+      "P075",
+      "P076",
+      "P077",
+      "P078",
+      "P079",
+      "P080"
+    ]
+  }
+]

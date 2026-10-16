@@ -1,0 +1,29 @@
+{
+  "jobs": [
+    {
+      "spec": "D:\\Projects\\flower-studio\\asset-sources\\flower-pipeline\\pilot-10-20261014\\P052\\spec-v1.json",
+      "out": "D:\\Projects\\flower-studio\\artifacts\\flower-pipeline\\pilot-10-20261014\\P052\\v2",
+      "samples": 8
+    },
+    {
+      "spec": "D:\\Projects\\flower-studio\\asset-sources\\flower-pipeline\\pilot-10-20261014\\P065\\spec-v1.json",
+      "out": "D:\\Projects\\flower-studio\\artifacts\\flower-pipeline\\pilot-10-20261014\\P065\\v2",
+      "samples": 8
+    },
+    {
+      "spec": "D:\\Projects\\flower-studio\\asset-sources\\flower-pipeline\\pilot-10-20261014\\P020\\spec-v1.json",
+      "out": "D:\\Projects\\flower-studio\\artifacts\\flower-pipeline\\pilot-10-20261014\\P020\\v2",
+      "samples": 8
+    },
+    {
+      "spec": "D:\\Projects\\flower-studio\\asset-sources\\flower-pipeline\\pilot-10-20261014\\P067\\spec-v1.json",
+      "out": "D:\\Projects\\flower-studio\\artifacts\\flower-pipeline\\pilot-10-20261014\\P067\\v2",
+      "samples": 8
+    },
+    {
+      "spec": "D:\\Projects\\flower-studio\\asset-sources\\flower-pipeline\\pilot-10-20261014\\P057\\spec-v1.json",
+      "out": "D:\\Projects\\flower-studio\\artifacts\\flower-pipeline\\pilot-10-20261014\\P057\\v2",
+      "samples": 8
+    }
+  ]
+}

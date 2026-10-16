@@ -1,0 +1,122 @@
+{
+  "productId": "P072",
+  "route": "local-blender",
+  "status": "candidate-needs-visual-review",
+  "mediaOrigin": "model-render",
+  "physicalDimensionsVerified": false,
+  "sourceSpec": {
+    "schemaVersion": 1,
+    "productId": "P072",
+    "name": "Atlanta 非洲菊单支建模试点",
+    "route": "local-blender",
+    "archetype": "gerbera",
+    "seed": 20261014,
+    "stemLengthM": 0.65,
+    "headDiameterM": 0.12,
+    "headNormal": [
+      0.0,
+      -0.7219882011413574,
+      0.6919053196907043
+    ],
+    "petalTexture": "references/ai-ray-floret-v1.png",
+    "identityStatus": "appearance-reference-not-specimen-reconstruction",
+    "physicalDimensionsVerified": false,
+    "dimensionBasis": "Breeder category reference: 65 cm stem, 11–13 cm head. Chosen model parameters; not specimen measurements.",
+    "references": [
+      {
+        "origin": "real-photo",
+        "view": "head-front",
+        "path": "../../../../artifacts/catalog-media-audit/candidates/P072/0a90aa0bc4e1_atlanta_01.jpg",
+        "sourcePage": "https://www.hilverdaflorist.com/en/assortment/cut-flowers/assortment-cut-flowers/gerbera-standard-atlanta"
+      },
+      {
+        "origin": "botanical-description",
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/gerbera-jamesonii/common-name/gerbera-daisy/",
+        "scope": "Species-level leafless peduncle with one head; not Atlanta-specific back-side evidence."
+      },
+      {
+        "origin": "ai-image",
+        "path": "references/ai-whole-stem-v1.png",
+        "status": "appearance-reference-only-proportion-failed",
+        "notes": "Whole-stem image has a head that is too large relative to the stem; do not derive dimensions from it."
+      },
+      {
+        "origin": "ai-image",
+        "path": "references/ai-ray-floret-v1.png",
+        "status": "material-reference",
+        "notes": "RGBA with soft alpha halo; builder samples interior RGB and uses real petal geometry rather than the alpha outline."
+      }
+    ],
+    "unverifiedParts": [
+      "precise petal count",
+      "back-side bract arrangement",
+      "stem curvature",
+      "floret texture",
+      "exact cultivar geometry"
+    ],
+    "inputSpecSha256": "ef76d1e0c8ff0a43c1bfc69d2d14397461c59be224dda98af30290b0ad25470e",
+    "headCenter": [
+      0.008999999612569809,
+      0.003000000026077032,
+      0.6499999761581421
+    ]
+  },
+  "files": [
+    "stem.glb",
+    "source.blend",
+    "front.png",
+    "left.png",
+    "back.png",
+    "right.png",
+    "head-front.png",
+    "head-back.png",
+    "head-quarter.png"
+  ],
+  "checks": {
+    "glbHeader": true,
+    "embeddedTextures": true,
+    "roundTrip": true,
+    "meshCount": 8,
+    "triangles": 49052,
+    "bytes": 2615928,
+    "boundsM": {
+      "min": [
+        -0.05023152753710747,
+        -0.03599473088979721,
+        -0.0001383389171678573
+      ],
+      "max": [
+        0.06880839914083481,
+        0.049043845385313034,
+        0.6901367902755737
+      ]
+    },
+    "missingTextures": [],
+    "transparentPngCount": 7
+  },
+  "visualReview": {
+    "status": "needs-refinement",
+    "date": "2026-10-14",
+    "notes": [
+      "Petal arrangement and inner-ring structure remain more regular than breeder photo.",
+      "Back-side and stem curvature inferred; exact cultivar structure unverified."
+    ],
+    "browserCheck": {
+      "glbLoaded": true,
+      "triangles": 49052,
+      "headAndBackControls": true,
+      "relevantConsoleErrors": []
+    }
+  },
+  "fileSha256": {
+    "stem.glb": "a6fae9a05c226db0b13c7b9335f72f00561ff83f7ee82c9bf6eb9991c16fc7ab",
+    "source.blend": "f5ea33ef0e6bf55d90333b43df8d01901a0d37d3332e6835b5f11b2c7ff359a2",
+    "front.png": "47b23dfd3193579ea5b47eded54b5fd1cc302cad5e6a0f06f88509cced0b7a8d",
+    "left.png": "935968133e792e5b6c6991ddd15aa5c460e0c6cf598acb6205d83d5ab34122d2",
+    "back.png": "e0d4c0e83c64b78d67e42d1cbf3fe8bcc1691e71668417858abe2649172f21ae",
+    "right.png": "04b3cbdb79ddeb9ff1afb6997e1051cd9ee7f0d6b485e49205c0c51f22747a12",
+    "head-front.png": "6fcbf7a51b38c8e7279e15f320e98d6c7885b334d686b764536f323bf353ebae",
+    "head-back.png": "c296a305487e54f11f387fdcac78b276cd83801749eac7a1ef716f66cee2d864",
+    "head-quarter.png": "902829ec656bfa7e795a808a189fc751f398663d744e108340436ac4511b7cdb"
+  }
+}

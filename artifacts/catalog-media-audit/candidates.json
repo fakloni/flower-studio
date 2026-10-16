@@ -1,0 +1,149 @@
+[
+  {
+    "productIds": [
+      "P014"
+    ],
+    "sourcePage": "https://www.ballsb.com/en/variety/208-dianthus-green-ball-en",
+    "imageUrl": "https://www.ballsb.com/uploads/galleries/387/en/img-GREENBALL-PLANO-GENERAL.jpg",
+    "sourceAlt": "GREEN BALL®",
+    "sourceOrganization": "Ball SB",
+    "retrievedDate": "2026-10-14",
+    "publicationStatus": "private-candidate",
+    "authorizationStatus": "not-assessed",
+    "sameSpecimenMultiView": false,
+    "reviewStatus": "visually-reviewed-candidate",
+    "localPath": "candidates/P014/img-GREENBALL-PLANO-GENERAL.jpg",
+    "width": 400,
+    "height": 640,
+    "bytes": 49608,
+    "sha256": "0cfcd020e3449245cfcd2beb89f702b2ccc12454064f904f2d8c4c7d449d0a9e",
+    "visualReviewNotes": "侧前方单支参考，茎底端被画面截断。",
+    "viewType": "single-stem-partial"
+  },
+  {
+    "productIds": [
+      "P014"
+    ],
+    "sourcePage": "https://www.ballsb.com/en/variety/208-dianthus-green-ball-en",
+    "imageUrl": "https://www.ballsb.com/uploads/galleries/388/en/img-GRENNBALL-PLANO-MEDIO-.jpg",
+    "sourceAlt": "GREEN BALL®",
+    "sourceOrganization": "Ball SB",
+    "retrievedDate": "2026-10-14",
+    "publicationStatus": "private-candidate",
+    "authorizationStatus": "not-assessed",
+    "sameSpecimenMultiView": false,
+    "reviewStatus": "visually-reviewed-candidate",
+    "localPath": "candidates/P014/img-GRENNBALL-PLANO-MEDIO-.jpg",
+    "width": 400,
+    "height": 640,
+    "bytes": 78362,
+    "sha256": "da8f387c2361de9a79c40df49ffe6d83232df78cae885ad066c8de811d3ee9b2",
+    "visualReviewNotes": "与全景图方向基本相同，主要是取景距离变化，不算独立侧视图。",
+    "viewType": "same-angle-medium"
+  },
+  {
+    "productIds": [
+      "P014"
+    ],
+    "sourcePage": "https://www.ballsb.com/en/variety/208-dianthus-green-ball-en",
+    "imageUrl": "https://www.ballsb.com/uploads/galleries/389/en/img-GREENBALL-PRIMER-PLANO.jpg",
+    "sourceAlt": "GREEN BALL®",
+    "sourceOrganization": "Ball SB",
+    "retrievedDate": "2026-10-14",
+    "publicationStatus": "private-candidate",
+    "authorizationStatus": "not-assessed",
+    "sameSpecimenMultiView": false,
+    "reviewStatus": "visually-reviewed-candidate",
+    "localPath": "candidates/P014/img-GREENBALL-PRIMER-PLANO.jpg",
+    "width": 400,
+    "height": 640,
+    "bytes": 108462,
+    "sha256": "3e6c46069a047b315498ab013a04c9a230138ce28b3f2a1b905ff3efabab500d",
+    "visualReviewNotes": "花头俯视特写；可辅助辨认质感，不作为 Tripo 的正侧背输入。",
+    "viewType": "head-closeup"
+  },
+  {
+    "productIds": [
+      "P065"
+    ],
+    "sourcePage": "https://www.hilverdaflorist.com/en/assortment/cut-flowers/assortment-cut-flowers/carnation-standard-greenshot",
+    "imageUrl": "https://www.hilverdaflorist.com/files/_thumbnail/763/20ce6f3f337e_hilverdaflorist_standard_carnation_green_shot_4_2.jpg",
+    "sourceAlt": "",
+    "sourceOrganization": "HilverdaFlorist",
+    "retrievedDate": "2026-10-14",
+    "publicationStatus": "private-candidate",
+    "authorizationStatus": "not-assessed",
+    "sameSpecimenMultiView": false,
+    "reviewStatus": "visually-reviewed-candidate",
+    "localPath": "candidates/P065/20ce6f3f337e_hilverdaflorist_standard_carnation_green_shot_4_2.jpg",
+    "width": 1280,
+    "height": 1920,
+    "bytes": 238049,
+    "sha256": "6cd1a49532c04793dacbf280e665d3efcea1e96310332b06fa495e14e5b47a6a",
+    "visualReviewNotes": "Green Shot 花头环境特写；无完整茎叶，与白底图无法确认同一标本。",
+    "viewType": "head-closeup"
+  },
+  {
+    "productIds": [
+      "P065"
+    ],
+    "sourcePage": "https://www.hilverdaflorist.com/en/assortment/cut-flowers/assortment-cut-flowers/carnation-standard-greenshot",
+    "imageUrl": "https://www.hilverdaflorist.com/files/_thumbnail/751/0a90aa0bc4e1_greenshot_01.jpg",
+    "sourceAlt": "",
+    "sourceOrganization": "HilverdaFlorist",
+    "retrievedDate": "2026-10-14",
+    "publicationStatus": "private-candidate",
+    "authorizationStatus": "not-assessed",
+    "sameSpecimenMultiView": false,
+    "reviewStatus": "visually-reviewed-candidate",
+    "localPath": "candidates/P065/0a90aa0bc4e1_greenshot_01.jpg",
+    "width": 700,
+    "height": 700,
+    "bytes": 72631,
+    "sha256": "46fb6665e8d813f097f705f95a6c2c46a7e6184c7f8a232bdccb6064f1b78605",
+    "visualReviewNotes": "Green Shot 白底花头正面；仅代表单头康乃馨中的一个绿色品种。",
+    "viewType": "head-front"
+  },
+  {
+    "productIds": [
+      "P072"
+    ],
+    "sourcePage": "https://www.hilverdaflorist.com/en/assortment/cut-flowers/assortment-cut-flowers/gerbera-standard-atlanta",
+    "imageUrl": "https://www.hilverdaflorist.com/files/_thumbnail/967/0a90aa0bc4e1_atlanta_01.jpg",
+    "sourceAlt": "",
+    "sourceOrganization": "HilverdaFlorist",
+    "retrievedDate": "2026-10-14",
+    "publicationStatus": "private-candidate",
+    "authorizationStatus": "not-assessed",
+    "sameSpecimenMultiView": false,
+    "reviewStatus": "visually-reviewed-candidate",
+    "localPath": "candidates/P072/0a90aa0bc4e1_atlanta_01.jpg",
+    "width": 700,
+    "height": 700,
+    "bytes": 94883,
+    "sha256": "a7acae88b81311b12ad41acdfd5ee70f10a68554a5b7e57992ba957b8fd90203",
+    "visualReviewNotes": "Atlanta 橙色花头正面；对应 P072，缺少侧背及完整花茎。",
+    "viewType": "head-front"
+  },
+  {
+    "productIds": [
+      "P073"
+    ],
+    "sourcePage": "https://www.hilverdaflorist.com/en/assortment/cut-flowers/assortment-cut-flowers/gerbera-mini-annecy",
+    "imageUrl": "https://www.hilverdaflorist.com/files/_thumbnail/2962/0a90aa0bc4e1_hilverdaflorist_gerbera_mini_annecy.jpg",
+    "sourceAlt": "Product photo of Gerbera Mini Annecy. A petite and divine-looking white Gerbera with a fresh green centre and soft, delicate petals. Its exceptional beauty is matched by an excellent vase life ",
+    "sourceOrganization": "HilverdaFlorist",
+    "retrievedDate": "2026-10-14",
+    "publicationStatus": "private-candidate",
+    "authorizationStatus": "not-assessed",
+    "sameSpecimenMultiView": false,
+    "reviewStatus": "visually-reviewed-candidate",
+    "localPath": "candidates/P073/0a90aa0bc4e1_hilverdaflorist_gerbera_mini_annecy.jpg",
+    "width": 700,
+    "height": 700,
+    "bytes": 43161,
+    "sha256": "818642dc4b96c1bb1a8049a3a76f9f45d88dc5570fa26f3dda789b1221dc8bb0",
+    "visualReviewNotes": "Annecy 白色花头正面；对应 P073，缺少侧背及完整花茎。",
+    "viewType": "head-front"
+  }
+]

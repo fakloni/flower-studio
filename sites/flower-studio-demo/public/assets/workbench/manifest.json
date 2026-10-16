@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "updated": "2026-10-13",
+  "constructed_assets": [
+    {
+      "id": "white-tulip",
+      "kind": "flower",
+      "logical_stems": 1,
+      "model": "white-tulip.glb",
+      "unit": "meter",
+      "source_axis": "Blender Z-up",
+      "runtime_axis": "glTF Y-up",
+      "height_cm": 46,
+      "physical_dimensions_verified": false,
+      "editable_source": "asset-sources/workbench/white-tulip.blend",
+      "builder": "tools/build_workbench_tulip.py",
+      "previews": {
+        "front": "white-tulip-front.webp",
+        "side": "white-tulip-side.webp",
+        "thumbnail": "white-tulip-thumb.webp"
+      }
+    }
+  ],
+  "adapted_assets": [
+    {
+      "id": "spider-lily",
+      "model": "spider-lily.glb",
+      "editable_source": "asset-sources/workbench/spider-lily.blend",
+      "builder": "tools/prepare_workbench_media.py -- --only spider-lily",
+      "changes": "排除体积雾；将程序化花瓣颜色简化为网页支持的表面材质。",
+      "physical_dimensions_verified": false
+    }
+  ],
+  "note": "其余模型的原始记录见素材库与 sample-pack/manifest.json；工作台的花茎聚拢处理在渲染层完成。"
+}

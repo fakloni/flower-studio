@@ -1,0 +1,249 @@
+{
+  "id": "P020",
+  "flowerId": "F022",
+  "name": "铃兰",
+  "group": "铃兰",
+  "subgroup": "铃兰",
+  "scientificName": "Convallaria majalis",
+  "nameStatus": "类别有来源；SKU待核实",
+  "roles": [
+    "配花",
+    "线条"
+  ],
+  "roleStatus": "project-suggestion",
+  "roleNotes": "配花；线条花",
+  "shapeNotes": "铃兰",
+  "ornamentalPart": "花序",
+  "season": {
+    "text": "5–6月",
+    "basis": "自然花期参考",
+    "region": "天津中药植物园资料",
+    "intervals": [
+      {
+        "start": 5,
+        "end": 6,
+        "wrapsYear": false,
+        "precision": "month-reference"
+      }
+    ],
+    "status": "reference",
+    "source": {
+      "name": "天津中医药大学·天津中药植物园",
+      "urls": [
+        "https://tjzyzwy.tjutcm.edu.cn/info/1115/1289.htm"
+      ]
+    },
+    "unverifiedOriginal": "1–3月"
+  },
+  "dimensions": {
+    "object": "单花直径",
+    "minCm": 0.5,
+    "maxCm": 0.7,
+    "valueType": "约范围",
+    "scope": "铃兰；小钟形花",
+    "notes": "花葶高度：15–30 cm（范围）\n适用范围及来源见“尺寸证据”\n单花直径：0.5–0.7 cm；约范围；铃兰；小钟形花。详“花材库”F022及“尺寸证据”。",
+    "source": {
+      "name": "天津中医药大学·天津中药植物园",
+      "urls": [
+        "https://tjzyzwy.tjutcm.edu.cn/info/1115/1289.htm"
+      ]
+    }
+  },
+  "notes": "具体品种、颜色、开放阶段、枝长、花径及国内供货需按SKU确认。\n品类、花型、单/多头、开放阶段应分字段；本表是检索目录，不是互斥分类树。缺少SKU规格时不得自动标定真实比例。\n与用户1–3月提示不同；冬季促成栽培不可当自然花期。须区分一枝花葶和其上多朵小花。\n项目检索分组，非完整植物学分类。",
+  "source": {
+    "name": "天津中医药大学·天津中药植物园",
+    "urls": [
+      "https://tjzyzwy.tjutcm.edu.cn/info/1115/1289.htm"
+    ]
+  },
+  "checkedDate": "2026-10-13",
+  "availability": {
+    "status": "unknown",
+    "region": null
+  },
+  "sourceRecord": {
+    "sheet": "花材库",
+    "row": 21,
+    "values": {
+      "花材ID": "F022",
+      "原始／新增名称": "铃兰",
+      "用户清单Y／空白": "Y",
+      "规范名称／别名": "铃兰",
+      "学名／分类范围": "Convallaria majalis",
+      "名称核对状态": "类别有来源；SKU待核实",
+      "花材角色（项目建议）": "配花；线条花",
+      "形态标签（项目建议）": "铃兰",
+      "观赏部位": "花序",
+      "核实花季／果季": "5–6月",
+      "季节数据口径": "自然花期参考",
+      "季节适用地区／对象": "天津中药植物园资料",
+      "用户原始月份（未验证）": "1–3月",
+      "花头尺寸对象": "单花直径",
+      "直径下限cm": 0.5,
+      "直径上限cm": 0.7,
+      "数值类型": "约范围",
+      "尺寸适用物种／品种": "铃兰；小钟形花",
+      "其他尺寸及数量摘要": "花葶高度：15–30 cm（范围）\n适用范围及来源见“尺寸证据”\n单花直径：0.5–0.7 cm；约范围；铃兰；小钟形花。详“花材库”F022及“尺寸证据”。",
+      "缺失信息／项目注意事项": "具体品种、颜色、开放阶段、枝长、花径及国内供货需按SKU确认。\n品类、花型、单/多头、开放阶段应分字段；本表是检索目录，不是互斥分类树。缺少SKU规格时不得自动标定真实比例。\n与用户1–3月提示不同；冬季促成栽培不可当自然花期。须区分一枝花葶和其上多朵小花。\n项目检索分组，非完整植物学分类。",
+      "季节来源名称": "天津中医药大学·天津中药植物园",
+      "季节来源URL": "https://tjzyzwy.tjutcm.edu.cn/info/1115/1289.htm",
+      "花头尺寸来源": "天津中医药大学·天津中药植物园",
+      "花头尺寸来源URL": "https://tjzyzwy.tjutcm.edu.cn/info/1115/1289.htm",
+      "名称／资料来源": "天津中医药大学·天津中药植物园",
+      "名称／资料来源URL": "https://tjzyzwy.tjutcm.edu.cn/info/1115/1289.htm",
+      "核查日期": "2026-10-13",
+      "大类": "铃兰",
+      "小类": "铃兰",
+      "产品ID": "P020"
+    }
+  },
+  "aliases": [
+    {
+      "name": "铃兰",
+      "productId": "P020",
+      "relation": "平台规范商品名",
+      "restriction": "平台内部检索入口；不表示已对接同名商城SKU。",
+      "status": "需按具体商品确认",
+      "source": {
+        "name": "天津中医药大学·天津中药植物园",
+        "urls": [
+          "https://tjzyzwy.tjutcm.edu.cn/info/1115/1289.htm"
+        ]
+      }
+    }
+  ],
+  "imageReferences": [
+    {
+      "label": "铃兰",
+      "files": [
+        "04-775fb83e5208f71610b98d33a902143a.jpg"
+      ],
+      "productIds": [
+        "P020"
+      ],
+      "notes": "原表已有对应小类；具体品种和SKU仍按原核对状态。",
+      "seasonRestriction": "图片所列月份/全年为用户资料，未作为可靠供货期。",
+      "status": "reference-only"
+    }
+  ],
+  "assets": [
+    {
+      "id": "p020-photo-reference-v1",
+      "version": 1,
+      "productId": "P020",
+      "variantId": "lily-of-valley-photo-reference",
+      "kind": "photo",
+      "mappingStatus": "category-or-variety-reference",
+      "authorizationStatus": "source-recorded-local-reference",
+      "publicationStatus": "local-reference",
+      "coverUrl": "/assets/catalog/P020/photo-reference-v1/cover.webp",
+      "sourceUrl": "https://plants.ces.ncsu.edu/plants/convallaria-majalis/",
+      "author": "H Zell",
+      "license": "CC BY-SA 3.0",
+      "mediaOrigin": "real-photo",
+      "notes": "物种／类别照片参考，非商家实物或完整多角度重建素材。",
+      "files": [
+        {
+          "url": "/assets/catalog/P020/photo-reference-v1/cover.webp",
+          "sha256": "b12f48e3c4044563a1d13aac06ab7017521fabb07eef2e228fba74d2dbaa0a1c",
+          "bytes": 116662
+        }
+      ]
+    },
+    {
+      "id": "p020-pilot-model-v2",
+      "version": 2,
+      "productId": "P020",
+      "variantId": "lily-of-valley",
+      "kind": "model-preview",
+      "mappingStatus": "category-or-variety-reference",
+      "authorizationStatus": "local-model-reference",
+      "publicationStatus": "local-reference",
+      "coverUrl": "/assets/catalog/P020/pilot-model-v2/head-front.webp",
+      "mediaOrigin": "model-render",
+      "notes": "根据真实照片参数化建模的单支试点；背面、精确瓣数及枝叶数量含推测，尺寸未实测。",
+      "sourceUrl": "https://plants.ces.ncsu.edu/plants/convallaria-majalis/",
+      "physicalDimensionsVerified": false,
+      "editor": {
+        "id": "lily-of-valley",
+        "name": "铃兰",
+        "color": "白色",
+        "role": "配花",
+        "isPilot": true,
+        "height": 0.25032752752304077,
+        "model": "/assets/catalog/P020/pilot-model-v2/stem.glb",
+        "image": "/assets/catalog/P020/pilot-model-v2/front.webp",
+        "sideImage": "/assets/catalog/P020/pilot-model-v2/left.webp",
+        "thumb": "/assets/catalog/P020/pilot-model-v2/head-front.webp"
+      },
+      "files": [
+        {
+          "url": "/assets/catalog/P020/pilot-model-v2/head-front.webp",
+          "sha256": "bfaf86f00bf54ce93817b74624712ca636a5596a75a5619751357017198a58bb",
+          "bytes": 8098
+        },
+        {
+          "url": "/assets/catalog/P020/pilot-model-v2/stem.glb",
+          "sha256": "3822384c378c60ced4e068986a50d999294734c1e892134029431613aa467fd1",
+          "bytes": 252344
+        },
+        {
+          "url": "/assets/catalog/P020/pilot-model-v2/front.webp",
+          "sha256": "849cec30589c056187846a02a2b0a4b74422c7d7eaaacc7cded88336c7e112b1",
+          "bytes": 8812
+        },
+        {
+          "url": "/assets/catalog/P020/pilot-model-v2/left.webp",
+          "sha256": "7a898496aa8b9cfa55c140f58b951c18293b7a4144668988d6e298893b0ce5c6",
+          "bytes": 5098
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 1,
+  "revision": "8549c6d07d6d1bcb6722",
+  "relatedEvidence": [
+    {
+      "id": "E036",
+      "flowerId": "F022",
+      "values": {
+        "证据ID": "E036",
+        "花材ID": "F022",
+        "花材名称": "铃兰",
+        "测量项目": "单花直径",
+        "下限／数值": 0.5,
+        "上限／数值": 0.7,
+        "单位": "cm",
+        "数值性质": "约范围",
+        "适用物种／品种／商品": "铃兰；小钟形花",
+        "证据类型": "植物形态参考",
+        "原数值口径（简记）": "约5–7 mm",
+        "限制与解释": null,
+        "来源机构／资料": "天津中医药大学·天津中药植物园",
+        "来源URL": "https://tjzyzwy.tjutcm.edu.cn/info/1115/1289.htm",
+        "核查日期": "2026-10-13"
+      }
+    },
+    {
+      "id": "E037",
+      "flowerId": "F022",
+      "values": {
+        "证据ID": "E037",
+        "花材ID": "F022",
+        "花材名称": "铃兰",
+        "测量项目": "花葶高度",
+        "下限／数值": 15,
+        "上限／数值": 30,
+        "单位": "cm",
+        "数值性质": "范围",
+        "适用物种／品种／商品": "铃兰植物形态",
+        "证据类型": "植物形态参考",
+        "原数值口径（简记）": "15–30 cm",
+        "限制与解释": "不是市场等级。",
+        "来源机构／资料": "天津中医药大学·天津中药植物园",
+        "来源URL": "https://tjzyzwy.tjutcm.edu.cn/info/1115/1289.htm",
+        "核查日期": "2026-10-13"
+      }
+    }
+  ]
+}

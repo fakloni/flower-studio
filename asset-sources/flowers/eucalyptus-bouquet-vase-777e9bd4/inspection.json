@@ -1,0 +1,77 @@
+{
+  "name": "Eucalyptus Bouquet Vase",
+  "folder": "asset-sources\\flowers\\eucalyptus-bouquet-vase-777e9bd4",
+  "import_ok": true,
+  "mesh_objects": 7,
+  "raw_faces": 116023,
+  "images": 5,
+  "missing_images": [],
+  "bbox_source_units": {
+    "min": [
+      -0.20600956678390503,
+      -0.18492504954338074,
+      0.0007831879775039852
+    ],
+    "max": [
+      0.1881152242422104,
+      0.2005658745765686,
+      0.36546653509140015
+    ],
+    "extent": [
+      0.3941247910261154,
+      0.38549092411994934,
+      0.36468334711389616
+    ]
+  },
+  "objects": [
+    {
+      "name": "Water",
+      "type": "MESH",
+      "faces": 2296,
+      "modifiers": []
+    },
+    {
+      "name": "Eucalyptus Bouquet Vase",
+      "type": "EMPTY",
+      "faces": 0,
+      "modifiers": []
+    },
+    {
+      "name": "Colorg54",
+      "type": "MESH",
+      "faces": 27829,
+      "modifiers": []
+    },
+    {
+      "name": "Colorg456",
+      "type": "MESH",
+      "faces": 18400,
+      "modifiers": []
+    },
+    {
+      "name": "Colorg455",
+      "type": "MESH",
+      "faces": 11118,
+      "modifiers": []
+    },
+    {
+      "name": "Colorg454",
+      "type": "MESH",
+      "faces": 30900,
+      "modifiers": []
+    },
+    {
+      "name": "Colorg4",
+      "type": "MESH",
+      "faces": 15768,
+      "modifiers": []
+    },
+    {
+      "name": "Colorg3",
+      "type": "MESH",
+      "faces": 9712,
+      "modifiers": []
+    }
+  ],
+  "status": "imported_pending_stem_extraction_and_visual_review"
+}

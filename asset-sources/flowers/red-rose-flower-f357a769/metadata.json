@@ -1,0 +1,70 @@
+{
+  "term": "rose",
+  "id": "d787bf32-f23c-40d5-be61-03fda5207109",
+  "base_id": "f357a769-16a9-4ece-a9fe-17d322d6e8ee",
+  "name": "Red rose flower",
+  "description": "red rose flower \r\n\r\npoly : 1053\r\n\r\n4K PBR material\r\n\r\nready for Eevee and cycles",
+  "author": "Soran Mohammadi",
+  "source_url": "https://www.blendkit.com/asset-gallery-detail/f357a769-16a9-4ece-a9fe-17d322d6e8ee/",
+  "quality": 9.25,
+  "parameters": {
+    "sexualizedContent": false,
+    "joinBlenderkitDiscounts": true,
+    "addons": true,
+    "platforms": [
+      "windows-x64",
+      "macos-arm64",
+      "linux-x64",
+      "macos-x64",
+      "windows-arm64"
+    ],
+    "faceCount": 1053,
+    "productionLevel": "finished",
+    "procedural": true,
+    "modelStyle": "realistic",
+    "condition": "new",
+    "purePbr": true,
+    "shaders": [
+      "[]"
+    ],
+    "uv": true,
+    "engines": [
+      "[cycles]"
+    ],
+    "modifiers": [
+      "[solidify subsurf]"
+    ],
+    "materials": [
+      "[Material_5_Mat Material_4_Mat Material_3_Mat Material_2_Mat Material_Mat]"
+    ],
+    "rig": false,
+    "simulation": false,
+    "dimensionX": 0.1997,
+    "dimensionY": 0.1926,
+    "dimensionZ": 0.4277,
+    "boundBoxMinX": -0.0962,
+    "boundBoxMinY": -0.0923,
+    "boundBoxMinZ": -0.0001,
+    "boundBoxMaxX": 0.1035,
+    "boundBoxMaxY": 0.1003,
+    "boundBoxMaxZ": 0.4276,
+    "faceCountRender": 16925,
+    "meshPolyType": "quad_dominant",
+    "manifold": false,
+    "objectCount": 7,
+    "nodeCount": 0,
+    "textureCount": 0,
+    "megapixels": 0,
+    "gltfGeneratedError": "[Errno 2] No such file or directory: '/tmp/tmpc2tuf8q7/f357a769-16a9-4ece-a9fe-17d322d6e8ee_resdata.json' Files are None",
+    "gltfGodotGeneratedError": "[Errno 2] No such file or directory: '/tmp/tmpwpn2d4um/f357a769-16a9-4ece-a9fe-17d322d6e8ee_resdata.json' Files are None"
+  },
+  "downloaded": [
+    {
+      "path": "asset-sources\\flowers\\red-rose-flower-f357a769\\original.blend",
+      "bytes": 9844298,
+      "type": "blend"
+    }
+  ],
+  "acquired_date": "2026-10-12",
+  "status": "downloaded_pending_blender_review"
+}

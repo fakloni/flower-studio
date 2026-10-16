@@ -1,0 +1,93 @@
+{
+  "productId": "P057",
+  "route": "local-blender",
+  "status": "candidate-needs-visual-review",
+  "mediaOrigin": "model-render",
+  "physicalDimensionsVerified": false,
+  "sourceSpec": {
+    "schemaVersion": 1,
+    "productId": "P057",
+    "editorId": "lisianthus-piccolo",
+    "name": "洋桔梗 Piccolo",
+    "color": "白色",
+    "role": "配花",
+    "route": "local-blender",
+    "archetype": "lisianthus",
+    "seed": 20261071,
+    "stemLengthM": 0.62,
+    "headDiameterM": 0.06,
+    "petalColor": [
+      0.9,
+      0.88,
+      0.81
+    ],
+    "headNormal": [
+      0.0,
+      -0.7599620223045349,
+      0.6499674916267395
+    ],
+    "logicalStems": 1,
+    "physicalDimensionsVerified": false,
+    "dimensionBasis": "Breeder/species reference and pilot modeling conventions; not measured SKU dimensions",
+    "unverifiedParts": [
+      "exact cultivar backside",
+      "specimen stem curvature",
+      "exact leaf/branch and petal counts"
+    ],
+    "references": [
+      {
+        "origin": "real-photo",
+        "path": "D:\\Projects\\flower-studio\\artifacts\\catalog-photo-fill\\originals\\P057\\Lisianthus_grandiflorum-Piccolo_2_White_Pure_17919_C_1.webp",
+        "sourcePage": "https://www.florensis.com/en/products/cut-flowers/cut-flowers/lisianthus-sp/lisianthus-sp-piccolo",
+        "author": "Florensis / photographer not individually stated",
+        "license": "Use conditions not verified; local reference only",
+        "mappingScope": "named-product-category-reference"
+      }
+    ],
+    "renderResolution": [
+      400,
+      600
+    ],
+    "detailResolution": 480,
+    "visualStatus": "pilot-awaits-review",
+    "inputSpecSha256": "1b19dccc689c3b11719e47824e980e2e7563d9df29725718a79dfc9267e344f2",
+    "builderSha256": "47e726c89b14e8f0ea76a3eff7d0040293d9123c446b5fa2cf08af91a2003caa",
+    "headCenter": [
+      0.0,
+      0.0,
+      0.6200000047683716
+    ]
+  },
+  "files": [
+    "stem.glb",
+    "source.blend",
+    "front.png",
+    "left.png",
+    "back.png",
+    "right.png",
+    "head-front.png",
+    "head-back.png",
+    "head-quarter.png"
+  ],
+  "checks": {
+    "glbHeader": true,
+    "embeddedTextures": true,
+    "roundTrip": true,
+    "meshCount": 5,
+    "triangles": 80432,
+    "bytes": 1465148,
+    "boundsM": {
+      "min": [
+        -0.10002005100250244,
+        -0.058206956833601,
+        0.0
+      ],
+      "max": [
+        0.08756516873836517,
+        0.05882129445672035,
+        0.6584852933883667
+      ]
+    },
+    "missingTextures": []
+  }
+}

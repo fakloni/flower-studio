@@ -1,0 +1,9651 @@
+[
+  {
+    "name": "Astilbe White Rose",
+    "folder": "asset-sources\\flowers\\astilbe-white-rose-55ed9e1d",
+    "import_ok": true,
+    "mesh_objects": 82,
+    "raw_faces": 231638,
+    "images": 2,
+    "missing_images": [],
+    "bbox_source_units": {
+      "min": [
+        -0.9420820474624634,
+        -0.9991381764411926,
+        -0.12681987881660461
+      ],
+      "max": [
+        0.9182504415512085,
+        0.7580038905143738,
+        0.9279794692993164
+      ],
+      "extent": [
+        1.8603324890136719,
+        1.7571420669555664,
+        1.054799348115921
+      ]
+    },
+    "objects": [
+      {
+        "name": "Saxifragaceae white.042",
+        "type": "MESH",
+        "faces": 2807,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae white.041",
+        "type": "MESH",
+        "faces": 2849,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae white.040",
+        "type": "MESH",
+        "faces": 2852,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae white.039",
+        "type": "MESH",
+        "faces": 2838,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae white.038",
+        "type": "MESH",
+        "faces": 2813,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae white.037",
+        "type": "MESH",
+        "faces": 2821,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae white.036",
+        "type": "MESH",
+        "faces": 2824,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae white.035",
+        "type": "MESH",
+        "faces": 2858,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae white.034",
+        "type": "MESH",
+        "faces": 2822,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae white.033",
+        "type": "MESH",
+        "faces": 2801,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae white.032",
+        "type": "MESH",
+        "faces": 2851,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae white.031",
+        "type": "MESH",
+        "faces": 2844,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae white.030",
+        "type": "MESH",
+        "faces": 2813,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae white.029",
+        "type": "MESH",
+        "faces": 2839,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae white.028",
+        "type": "MESH",
+        "faces": 2819,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae white.027",
+        "type": "MESH",
+        "faces": 2839,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae white.026",
+        "type": "MESH",
+        "faces": 2846,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae white.025",
+        "type": "MESH",
+        "faces": 2845,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae white.024",
+        "type": "MESH",
+        "faces": 2828,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae white.023",
+        "type": "MESH",
+        "faces": 2838,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae white.022",
+        "type": "MESH",
+        "faces": 2836,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae white.021",
+        "type": "MESH",
+        "faces": 2807,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae white.020",
+        "type": "MESH",
+        "faces": 2849,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae white.019",
+        "type": "MESH",
+        "faces": 2852,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae white.018",
+        "type": "MESH",
+        "faces": 2838,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae white.017",
+        "type": "MESH",
+        "faces": 2813,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae white.016",
+        "type": "MESH",
+        "faces": 2821,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae white.015",
+        "type": "MESH",
+        "faces": 2824,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae white.014",
+        "type": "MESH",
+        "faces": 2858,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae white.013",
+        "type": "MESH",
+        "faces": 2822,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae white.012",
+        "type": "MESH",
+        "faces": 2801,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae white.011",
+        "type": "MESH",
+        "faces": 2851,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae white.010",
+        "type": "MESH",
+        "faces": 2844,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae white.009",
+        "type": "MESH",
+        "faces": 2813,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae white.008",
+        "type": "MESH",
+        "faces": 2839,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae white.007",
+        "type": "MESH",
+        "faces": 2819,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae white.006",
+        "type": "MESH",
+        "faces": 2839,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae white.005",
+        "type": "MESH",
+        "faces": 2846,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae white.004",
+        "type": "MESH",
+        "faces": 2845,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae white.003",
+        "type": "MESH",
+        "faces": 2828,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae white.002",
+        "type": "MESH",
+        "faces": 2838,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae white.001",
+        "type": "MESH",
+        "faces": 2836,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae rose.040",
+        "type": "MESH",
+        "faces": 2825,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae rose.039",
+        "type": "MESH",
+        "faces": 2825,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae rose.038",
+        "type": "MESH",
+        "faces": 2822,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae rose.037",
+        "type": "MESH",
+        "faces": 2812,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae rose.036",
+        "type": "MESH",
+        "faces": 2817,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae rose.035",
+        "type": "MESH",
+        "faces": 2807,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae rose.034",
+        "type": "MESH",
+        "faces": 2799,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae rose.033",
+        "type": "MESH",
+        "faces": 2819,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae rose.032",
+        "type": "MESH",
+        "faces": 2825,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae rose.031",
+        "type": "MESH",
+        "faces": 2820,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae rose.030",
+        "type": "MESH",
+        "faces": 2828,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae rose.029",
+        "type": "MESH",
+        "faces": 2822,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae rose.028",
+        "type": "MESH",
+        "faces": 2814,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae rose.027",
+        "type": "MESH",
+        "faces": 2825,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae rose.026",
+        "type": "MESH",
+        "faces": 2815,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae rose.025",
+        "type": "MESH",
+        "faces": 2825,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae rose.024",
+        "type": "MESH",
+        "faces": 2816,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae rose.023",
+        "type": "MESH",
+        "faces": 2805,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae rose.022",
+        "type": "MESH",
+        "faces": 2790,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae rose.021",
+        "type": "MESH",
+        "faces": 2825,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae rose.020",
+        "type": "MESH",
+        "faces": 2825,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae rose.019",
+        "type": "MESH",
+        "faces": 2825,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae rose.018",
+        "type": "MESH",
+        "faces": 2822,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae rose.017",
+        "type": "MESH",
+        "faces": 2812,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae rose.016",
+        "type": "MESH",
+        "faces": 2817,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae rose.015",
+        "type": "MESH",
+        "faces": 2807,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae rose.014",
+        "type": "MESH",
+        "faces": 2799,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae rose.013",
+        "type": "MESH",
+        "faces": 2819,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae rose.012",
+        "type": "MESH",
+        "faces": 2825,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae rose.011",
+        "type": "MESH",
+        "faces": 2820,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae rose.010",
+        "type": "MESH",
+        "faces": 2828,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae rose.009",
+        "type": "MESH",
+        "faces": 2822,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae rose.008",
+        "type": "MESH",
+        "faces": 2814,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae rose.007",
+        "type": "MESH",
+        "faces": 2825,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae rose.006",
+        "type": "MESH",
+        "faces": 2815,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae rose.005",
+        "type": "MESH",
+        "faces": 2825,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae rose.004",
+        "type": "MESH",
+        "faces": 2816,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae rose.003",
+        "type": "MESH",
+        "faces": 2805,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae rose.002",
+        "type": "MESH",
+        "faces": 2790,
+        "modifiers": []
+      },
+      {
+        "name": "Saxifragaceae rose.001",
+        "type": "MESH",
+        "faces": 2825,
+        "modifiers": []
+      },
+      {
+        "name": "Astilbe White Rose",
+        "type": "EMPTY",
+        "faces": 0,
+        "modifiers": []
+      }
+    ],
+    "status": "imported_pending_stem_extraction_and_visual_review"
+  },
+  {
+    "name": "Dahlia flowers",
+    "folder": "asset-sources\\flowers\\dahlia-flowers-6cc4f9e4",
+    "import_ok": true,
+    "mesh_objects": 1060,
+    "raw_faces": 1429651,
+    "images": 7,
+    "missing_images": [],
+    "bbox_source_units": {
+      "min": [
+        -0.8252536654472351,
+        -1.031775951385498,
+        -0.09575042128562927
+      ],
+      "max": [
+        0.7535099387168884,
+        1.0368319749832153,
+        0.9534122943878174
+      ],
+      "extent": [
+        1.5787636041641235,
+        2.0686079263687134,
+        1.0491627156734467
+      ]
+    },
+    "objects": [
+      {
+        "name": "LEAF.801",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.800",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.799",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.798",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.797",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.796",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.795",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.794",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.793",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.792",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.791",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.790",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.789",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.788",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.787",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.786",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.785",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.784",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.783",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.782",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.781",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.780",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.779",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.778",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.777",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.776",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.775",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.774",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.773",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.772",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.771",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.770",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.769",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.768",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.767",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.766",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.765",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.764",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.763",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.762",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.761",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.760",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.759",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.758",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.757",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.756",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.755",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.754",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.753",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.752",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.751",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.750",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.749",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.748",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.747",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.746",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.745",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.744",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.743",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.742",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.741",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.740",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.739",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.738",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.737",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.736",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.735",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.734",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.733",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.732",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.731",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.730",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.729",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.728",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.727",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.726",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.725",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.724",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.723",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.722",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.721",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.720",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.719",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.718",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.717",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.716",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.715",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.714",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.713",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.712",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.711",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.710",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.709",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.708",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.707",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.706",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.705",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.704",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.703",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.702",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.701",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.700",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.699",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.698",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.697",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.696",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.695",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.694",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.693",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.692",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.691",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.690",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.689",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.688",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.687",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.686",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.685",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.684",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.683",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.682",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.681",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.680",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.679",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.678",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.677",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.676",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.675",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.674",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.673",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.672",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.671",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.670",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.669",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.668",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.667",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.666",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.665",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.664",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.663",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.662",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.661",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.660",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.659",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.658",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.657",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.656",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.655",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.654",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.653",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.652",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.651",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.650",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.649",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.648",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.647",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.646",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.645",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.644",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.643",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.642",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.641",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.640",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.639",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.638",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.637",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.636",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.635",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.634",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.633",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.632",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.631",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.630",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.629",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.628",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.627",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.626",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.625",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.624",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.623",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.622",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.621",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.620",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.619",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.618",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.617",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.616",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.615",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.614",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.613",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.612",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.611",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.610",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.609",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.608",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.607",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.606",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.605",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.604",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.603",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.602",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.601",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.600",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.599",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.598",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.597",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.596",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.595",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.594",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.593",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.592",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.591",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.590",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.589",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.588",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.587",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.586",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.585",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.584",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.583",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.582",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.581",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.580",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.579",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.578",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.577",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.576",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.575",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.574",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.573",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.572",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.571",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.570",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.569",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.568",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.567",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.566",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.565",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.564",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.563",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.562",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.561",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.560",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.559",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.558",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.557",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.556",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.555",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.554",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.553",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.552",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.551",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.550",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.549",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.548",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.547",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.546",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.545",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.544",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.543",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.542",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.541",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.540",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.539",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.538",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.537",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.536",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.535",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.534",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.533",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.532",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.531",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.530",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.529",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.528",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.527",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.526",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.525",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.524",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.523",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.522",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.521",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.520",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.519",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.518",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.517",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.516",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.515",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.514",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.513",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.512",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.511",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.510",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.509",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.508",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.507",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.506",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.505",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.504",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.503",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.502",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.501",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.500",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.499",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.498",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.497",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.496",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.495",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.494",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.493",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.492",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.491",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.490",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.489",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.488",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.487",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.486",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.485",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.484",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.483",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.482",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.481",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.480",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.479",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.478",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.477",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.476",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.475",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.474",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.473",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.472",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.471",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.470",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.469",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.468",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.467",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.466",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.465",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.464",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.463",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.462",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.461",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.460",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.459",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.458",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.457",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.456",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.455",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.454",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.453",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.452",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.451",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.450",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.449",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.448",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.447",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.446",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.445",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.444",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.443",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.442",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.441",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.440",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.439",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.438",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.437",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.436",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.435",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.434",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.433",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.432",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.431",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.430",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.429",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.428",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.427",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.426",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.425",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.424",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.423",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.422",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.421",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.420",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.419",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.418",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.417",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.416",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.415",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.414",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.413",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.412",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.411",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.410",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.409",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.408",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.407",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.406",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.405",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.404",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.403",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.402",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.401",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.400",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.399",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.398",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.397",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.396",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.395",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.394",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.393",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.392",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.391",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.390",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.389",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.388",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.387",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.386",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.385",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.384",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.383",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.382",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.381",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.380",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.379",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.378",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.377",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.376",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.375",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.374",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.373",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.372",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.371",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.370",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.369",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.368",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.367",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.366",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.365",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.364",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.363",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.362",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.361",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.360",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.359",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.358",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.357",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.356",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.355",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.354",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.353",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.352",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.351",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.350",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.349",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.348",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.347",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.346",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.345",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.344",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.343",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.342",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.341",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.340",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.339",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.338",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.337",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.336",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.335",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.334",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.333",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.332",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.331",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.330",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.329",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.328",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.327",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.326",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.325",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.324",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.323",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.322",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.321",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.320",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.319",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.318",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.317",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.316",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.315",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.314",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.313",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.312",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.311",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.310",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.309",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.308",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.307",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.306",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.305",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.304",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.303",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.302",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.301",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.300",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.299",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.298",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.297",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.296",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.295",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.294",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.293",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.292",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.291",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.290",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.289",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.288",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.287",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.286",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.285",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.284",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.283",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.282",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.281",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.280",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.279",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.278",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.277",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.276",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.275",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.274",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.273",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.272",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.271",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.270",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.269",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.268",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.267",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.266",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.265",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.264",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.263",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.262",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.261",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.260",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.259",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.258",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.257",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.256",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.255",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.254",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.253",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.252",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.251",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.250",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.249",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.248",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.247",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.246",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.245",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.244",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.243",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.242",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.241",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.240",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.239",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.238",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.237",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.236",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.235",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.234",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.233",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.232",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.231",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.230",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.229",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.228",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.227",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.226",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.225",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.224",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.223",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.222",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.221",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.220",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.219",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.218",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.217",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.216",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.215",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.214",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.213",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.212",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.211",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.210",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.209",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.208",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.207",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.206",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.205",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.204",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.203",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.202",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.201",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.200",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.199",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.198",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.197",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.196",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.195",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.194",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.193",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.192",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.191",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.190",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.189",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.188",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.187",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.186",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.185",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.184",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.183",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.182",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.181",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.180",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.179",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.178",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.177",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.176",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.175",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.174",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.173",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.172",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.171",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.170",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.169",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.168",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.167",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.166",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.165",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.164",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.163",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.162",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.161",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.160",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.159",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.158",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.157",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.156",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.155",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.154",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.153",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.152",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.151",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.150",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.149",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.148",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.147",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.146",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.145",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.144",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.143",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.142",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.141",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.140",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.139",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.138",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.137",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.136",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.135",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.134",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.133",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.132",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.131",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.130",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.129",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.128",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.127",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.126",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.125",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.124",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.123",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.122",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.121",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.120",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.119",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.118",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.117",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.116",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.115",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.114",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.113",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.112",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.111",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.110",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.109",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.108",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.107",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.106",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.105",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.104",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.103",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.102",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.101",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.100",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.099",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.098",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.097",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.096",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.095",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.094",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.093",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.092",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.091",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.090",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.089",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.088",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.087",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.086",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.085",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.084",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.083",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.082",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.081",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.080",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.079",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.078",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.077",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.076",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.075",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.074",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.073",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.072",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.071",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.070",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.069",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.068",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.067",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.066",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.065",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.064",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.063",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.062",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.061",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.060",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.059",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.058",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.057",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.056",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.055",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.054",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.053",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.052",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.051",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.050",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.049",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.048",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.047",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.046",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.045",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.044",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.043",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.042",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.041",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.040",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.039",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.038",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.037",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.036",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.035",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.034",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.033",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.032",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.031",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.030",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.029",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.028",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.027",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.026",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.025",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.024",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.023",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.022",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.021",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.020",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.019",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.018",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.017",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.016",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.015",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.014",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.013",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.012",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.011",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.010",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.009",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.008",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.007",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.006",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.005",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.004",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.003",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "LEAF.002",
+        "type": "MESH",
+        "faces": 16,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "ground",
+        "type": "MESH",
+        "faces": 121,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.259",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.258",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.257",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.256",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.255",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.254",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.253",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.252",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.251",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.250",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.249",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.248",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.247",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.246",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.245",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.244",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.243",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.242",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.241",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.240",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.239",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.238",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.237",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.236",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.235",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.234",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.233",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.232",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.231",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.230",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.229",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.228",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.227",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.226",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.225",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.224",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.223",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.222",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.221",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.220",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.219",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.218",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.217",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.216",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.215",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.214",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.213",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.212",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.211",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.210",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.209",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.208",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.207",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.206",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.205",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.204",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.203",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.202",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.201",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.200",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.199",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.198",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.197",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.196",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.195",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.194",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.193",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.192",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.191",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.190",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.189",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.188",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.187",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.186",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.185",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.184",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.183",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.182",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.181",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.180",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.179",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.178",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.177",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.176",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.175",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.174",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.173",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.172",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.171",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.170",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.169",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.168",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.167",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.166",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.165",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.164",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.163",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.162",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.161",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.160",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.159",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.158",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.157",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.156",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.155",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.154",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.153",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.152",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.151",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.150",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.149",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.148",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.147",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.146",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.145",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.144",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.143",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.142",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.141",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.140",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.139",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.138",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.137",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.136",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.135",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.134",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.133",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.132",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.131",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.130",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.129",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.128",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.127",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.126",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.125",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.124",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.123",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.122",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.121",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.120",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.119",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.118",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.117",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.116",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.115",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.114",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.113",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.112",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.111",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.110",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.109",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.108",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.107",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.106",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.105",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.104",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.103",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.102",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.101",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.100",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.099",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.098",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.097",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.096",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.095",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.094",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.093",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.092",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.091",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.090",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.089",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.088",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.087",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.086",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.085",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.084",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.083",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.082",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.081",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.080",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.079",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.078",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.077",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.076",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.075",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.074",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.073",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.072",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.071",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.070",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.069",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.068",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.067",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.066",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.065",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.064",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.063",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.062",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.061",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.060",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.059",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.058",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.057",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.056",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.055",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.054",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.053",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.052",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.051",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.050",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.049",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.048",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.047",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.046",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.045",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.044",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.043",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.042",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.041",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.040",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.039",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.038",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.037",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.036",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.035",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.034",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.033",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.032",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.031",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.030",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.029",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.028",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.027",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.026",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.025",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.024",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.023",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.022",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.021",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.020",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.019",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.018",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.017",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.016",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.015",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.014",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.013",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.012",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.011",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.010",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.009",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.008",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.007",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.006",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.005",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.004",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.003",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.002",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "dahlia.001",
+        "type": "MESH",
+        "faces": 5470,
+        "modifiers": []
+      },
+      {
+        "name": "Dahlia flowers",
+        "type": "EMPTY",
+        "faces": 0,
+        "modifiers": []
+      }
+    ],
+    "status": "imported_pending_stem_extraction_and_visual_review"
+  },
+  {
+    "name": "Eucalyptus Bouquet Vase",
+    "folder": "asset-sources\\flowers\\eucalyptus-bouquet-vase-777e9bd4",
+    "import_ok": true,
+    "mesh_objects": 7,
+    "raw_faces": 116023,
+    "images": 5,
+    "missing_images": [],
+    "bbox_source_units": {
+      "min": [
+        -0.20600956678390503,
+        -0.18492504954338074,
+        0.0007831879775039852
+      ],
+      "max": [
+        0.1881152242422104,
+        0.2005658745765686,
+        0.36546653509140015
+      ],
+      "extent": [
+        0.3941247910261154,
+        0.38549092411994934,
+        0.36468334711389616
+      ]
+    },
+    "objects": [
+      {
+        "name": "Water",
+        "type": "MESH",
+        "faces": 2296,
+        "modifiers": []
+      },
+      {
+        "name": "Eucalyptus Bouquet Vase",
+        "type": "EMPTY",
+        "faces": 0,
+        "modifiers": []
+      },
+      {
+        "name": "Colorg54",
+        "type": "MESH",
+        "faces": 27829,
+        "modifiers": []
+      },
+      {
+        "name": "Colorg456",
+        "type": "MESH",
+        "faces": 18400,
+        "modifiers": []
+      },
+      {
+        "name": "Colorg455",
+        "type": "MESH",
+        "faces": 11118,
+        "modifiers": []
+      },
+      {
+        "name": "Colorg454",
+        "type": "MESH",
+        "faces": 30900,
+        "modifiers": []
+      },
+      {
+        "name": "Colorg4",
+        "type": "MESH",
+        "faces": 15768,
+        "modifiers": []
+      },
+      {
+        "name": "Colorg3",
+        "type": "MESH",
+        "faces": 9712,
+        "modifiers": []
+      }
+    ],
+    "status": "imported_pending_stem_extraction_and_visual_review"
+  },
+  {
+    "name": "Flower Sunflower Medium",
+    "folder": "asset-sources\\flowers\\flower-sunflower-medium-d446d9ba",
+    "import_ok": true,
+    "mesh_objects": 1,
+    "raw_faces": 346,
+    "images": 4,
+    "missing_images": [],
+    "bbox_source_units": {
+      "min": [
+        -0.4377749264240265,
+        -0.3795492351055145,
+        0.0
+      ],
+      "max": [
+        0.3912852704524994,
+        0.4991510510444641,
+        2.2426297664642334
+      ],
+      "extent": [
+        0.8290601968765259,
+        0.8787002861499786,
+        2.2426297664642334
+      ]
+    },
+    "objects": [
+      {
+        "name": "Flower Sunflower Medium",
+        "type": "MESH",
+        "faces": 346,
+        "modifiers": []
+      }
+    ],
+    "status": "imported_pending_stem_extraction_and_visual_review"
+  },
+  {
+    "name": "Hydrangea  light yellow",
+    "folder": "asset-sources\\flowers\\hydrangea-light-yellow-0a565b11",
+    "import_ok": true,
+    "mesh_objects": 2,
+    "raw_faces": 2185230,
+    "images": 1,
+    "missing_images": [],
+    "bbox_source_units": {
+      "min": [
+        -0.6190577149391174,
+        -0.8934770226478577,
+        -0.5159278512001038
+      ],
+      "max": [
+        5.758327960968018,
+        17.134347915649414,
+        1.8295961618423462
+      ],
+      "extent": [
+        6.377385675907135,
+        18.02782493829727,
+        2.34552401304245
+      ]
+    },
+    "objects": [
+      {
+        "name": "спирея березолистная у дома",
+        "type": "MESH",
+        "faces": 2560,
+        "modifiers": [
+          "DISPLACE",
+          "PARTICLE_SYSTEM"
+        ]
+      },
+      {
+        "name": "hydrangea yellow",
+        "type": "MESH",
+        "faces": 2182670,
+        "modifiers": []
+      },
+      {
+        "name": "Hydrangea  light yellow",
+        "type": "EMPTY",
+        "faces": 0,
+        "modifiers": []
+      }
+    ],
+    "status": "imported_pending_stem_extraction_and_visual_review"
+  },
+  {
+    "name": "Red rose flower",
+    "folder": "asset-sources\\flowers\\red-rose-flower-f357a769",
+    "import_ok": true,
+    "mesh_objects": 6,
+    "raw_faces": 1053,
+    "images": 19,
+    "missing_images": [],
+    "bbox_source_units": {
+      "min": [
+        -0.10056789964437485,
+        -0.09464529901742935,
+        -8.773167064646259e-05
+      ],
+      "max": [
+        0.10497249662876129,
+        0.1031082272529602,
+        0.4298827350139618
+      ],
+      "extent": [
+        0.20554039627313614,
+        0.19775352627038956,
+        0.42997046668460825
+      ]
+    },
+    "objects": [
+      {
+        "name": "roz",
+        "type": "MESH",
+        "faces": 0,
+        "modifiers": []
+      },
+      {
+        "name": "Red rose flower",
+        "type": "EMPTY",
+        "faces": 0,
+        "modifiers": []
+      },
+      {
+        "name": "Material_5",
+        "type": "MESH",
+        "faces": 150,
+        "modifiers": [
+          "SOLIDIFY",
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "Material_4",
+        "type": "MESH",
+        "faces": 541,
+        "modifiers": []
+      },
+      {
+        "name": "Material_3",
+        "type": "MESH",
+        "faces": 90,
+        "modifiers": [
+          "SOLIDIFY",
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "Material_2",
+        "type": "MESH",
+        "faces": 132,
+        "modifiers": [
+          "SOLIDIFY",
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "Material",
+        "type": "MESH",
+        "faces": 140,
+        "modifiers": [
+          "SOLIDIFY",
+          "SUBSURF"
+        ]
+      }
+    ],
+    "status": "imported_pending_stem_extraction_and_visual_review"
+  },
+  {
+    "name": "Red Spider Lily",
+    "folder": "asset-sources\\flowers\\red-spider-lily-58da4cc5",
+    "import_ok": true,
+    "mesh_objects": 7,
+    "raw_faces": 258970,
+    "images": 1,
+    "missing_images": [],
+    "bbox_source_units": {
+      "min": [
+        -0.2487342804670334,
+        -0.2291463315486908,
+        -0.016481846570968628
+      ],
+      "max": [
+        0.23063220083713531,
+        0.23878371715545654,
+        0.5964066982269287
+      ],
+      "extent": [
+        0.4793664813041687,
+        0.46793004870414734,
+        0.6128885447978973
+      ]
+    },
+    "objects": [
+      {
+        "name": "stem",
+        "type": "MESH",
+        "faces": 19986,
+        "modifiers": []
+      },
+      {
+        "name": "Red Spider Lily",
+        "type": "EMPTY",
+        "faces": 0,
+        "modifiers": []
+      },
+      {
+        "name": "mist",
+        "type": "MESH",
+        "faces": 384,
+        "modifiers": []
+      },
+      {
+        "name": "flowere",
+        "type": "MESH",
+        "faces": 47720,
+        "modifiers": []
+      },
+      {
+        "name": "flowerd",
+        "type": "MESH",
+        "faces": 47720,
+        "modifiers": []
+      },
+      {
+        "name": "flowerc",
+        "type": "MESH",
+        "faces": 47720,
+        "modifiers": []
+      },
+      {
+        "name": "flowerb",
+        "type": "MESH",
+        "faces": 47720,
+        "modifiers": []
+      },
+      {
+        "name": "flowera",
+        "type": "MESH",
+        "faces": 47720,
+        "modifiers": []
+      }
+    ],
+    "status": "imported_pending_stem_extraction_and_visual_review"
+  },
+  {
+    "name": "Roses in Twisted Glass Vase",
+    "folder": "asset-sources\\flowers\\roses-in-twisted-glass-vase-ea9ca32a",
+    "import_ok": true,
+    "mesh_objects": 8,
+    "raw_faces": 30040,
+    "images": 9,
+    "missing_images": [],
+    "bbox_source_units": {
+      "min": [
+        -0.11485673487186432,
+        -0.1853720098733902,
+        0.00021566804207395762
+      ],
+      "max": [
+        0.16844817996025085,
+        0.1255260854959488,
+        0.3369680643081665
+      ],
+      "extent": [
+        0.2833049148321152,
+        0.310898095369339,
+        0.33675239626609255
+      ]
+    },
+    "objects": [
+      {
+        "name": "water",
+        "type": "MESH",
+        "faces": 2752,
+        "modifiers": []
+      },
+      {
+        "name": "Roses in Twisted Glass Vase",
+        "type": "EMPTY",
+        "faces": 0,
+        "modifiers": []
+      },
+      {
+        "name": "rose.001",
+        "type": "MESH",
+        "faces": 4987,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "rose",
+        "type": "MESH",
+        "faces": 5047,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "leaf.004",
+        "type": "MESH",
+        "faces": 2737,
+        "modifiers": []
+      },
+      {
+        "name": "leaf.003",
+        "type": "MESH",
+        "faces": 2203,
+        "modifiers": []
+      },
+      {
+        "name": "leaf.002",
+        "type": "MESH",
+        "faces": 2729,
+        "modifiers": []
+      },
+      {
+        "name": "leaf.001",
+        "type": "MESH",
+        "faces": 2161,
+        "modifiers": []
+      },
+      {
+        "name": "Glass Vase",
+        "type": "MESH",
+        "faces": 7424,
+        "modifiers": []
+      }
+    ],
+    "status": "imported_pending_stem_extraction_and_visual_review"
+  },
+  {
+    "name": "SJ-Mystic Garden Serenity Fern",
+    "folder": "asset-sources\\flowers\\sj-mystic-garden-serenity-fern-b7527f26",
+    "import_ok": true,
+    "mesh_objects": 61,
+    "raw_faces": 514016,
+    "images": 22,
+    "missing_images": [],
+    "bbox_source_units": {
+      "min": [
+        -0.6917106509208679,
+        -0.7027814388275146,
+        -0.03242673724889755
+      ],
+      "max": [
+        0.7135517597198486,
+        0.7219464182853699,
+        1.4238353967666626
+      ],
+      "extent": [
+        1.4052624106407166,
+        1.4247278571128845,
+        1.4562621340155602
+      ]
+    },
+    "objects": [
+      {
+        "name": "Trunk_9.001",
+        "type": "MESH",
+        "faces": 1046,
+        "modifiers": []
+      },
+      {
+        "name": "Trunk_8.001",
+        "type": "MESH",
+        "faces": 948,
+        "modifiers": []
+      },
+      {
+        "name": "Trunk_7.001",
+        "type": "MESH",
+        "faces": 623,
+        "modifiers": []
+      },
+      {
+        "name": "Trunk_6.001",
+        "type": "MESH",
+        "faces": 792,
+        "modifiers": []
+      },
+      {
+        "name": "Trunk_5.001",
+        "type": "MESH",
+        "faces": 677,
+        "modifiers": []
+      },
+      {
+        "name": "Trunk_4.001",
+        "type": "MESH",
+        "faces": 728,
+        "modifiers": []
+      },
+      {
+        "name": "Trunk_3.001",
+        "type": "MESH",
+        "faces": 703,
+        "modifiers": []
+      },
+      {
+        "name": "Trunk_2.001",
+        "type": "MESH",
+        "faces": 832,
+        "modifiers": []
+      },
+      {
+        "name": "Trunk_18.001",
+        "type": "MESH",
+        "faces": 876,
+        "modifiers": []
+      },
+      {
+        "name": "Trunk_17.001",
+        "type": "MESH",
+        "faces": 694,
+        "modifiers": []
+      },
+      {
+        "name": "Trunk_16.001",
+        "type": "MESH",
+        "faces": 767,
+        "modifiers": []
+      },
+      {
+        "name": "Trunk_15.001",
+        "type": "MESH",
+        "faces": 795,
+        "modifiers": []
+      },
+      {
+        "name": "Trunk_14.001",
+        "type": "MESH",
+        "faces": 967,
+        "modifiers": []
+      },
+      {
+        "name": "Trunk_13.001",
+        "type": "MESH",
+        "faces": 1052,
+        "modifiers": []
+      },
+      {
+        "name": "Trunk_12.002",
+        "type": "MESH",
+        "faces": 804,
+        "modifiers": []
+      },
+      {
+        "name": "Trunk_11.001",
+        "type": "MESH",
+        "faces": 752,
+        "modifiers": []
+      },
+      {
+        "name": "Trunk_10.002",
+        "type": "MESH",
+        "faces": 644,
+        "modifiers": []
+      },
+      {
+        "name": "SJ-Mystic Garden Serenity Fern",
+        "type": "EMPTY",
+        "faces": 0,
+        "modifiers": []
+      },
+      {
+        "name": "Frond_9.001",
+        "type": "MESH",
+        "faces": 52,
+        "modifiers": []
+      },
+      {
+        "name": "Frond_8.001",
+        "type": "MESH",
+        "faces": 52,
+        "modifiers": []
+      },
+      {
+        "name": "Frond_7.001",
+        "type": "MESH",
+        "faces": 52,
+        "modifiers": []
+      },
+      {
+        "name": "Frond_6.001",
+        "type": "MESH",
+        "faces": 21,
+        "modifiers": []
+      },
+      {
+        "name": "Frond_5.001",
+        "type": "MESH",
+        "faces": 21,
+        "modifiers": []
+      },
+      {
+        "name": "Frond_4.001",
+        "type": "MESH",
+        "faces": 52,
+        "modifiers": []
+      },
+      {
+        "name": "Frond_31.001",
+        "type": "MESH",
+        "faces": 52,
+        "modifiers": []
+      },
+      {
+        "name": "Frond_30.001",
+        "type": "MESH",
+        "faces": 52,
+        "modifiers": []
+      },
+      {
+        "name": "Frond_3.001",
+        "type": "MESH",
+        "faces": 52,
+        "modifiers": []
+      },
+      {
+        "name": "Frond_29.001",
+        "type": "MESH",
+        "faces": 52,
+        "modifiers": []
+      },
+      {
+        "name": "Frond_28.001",
+        "type": "MESH",
+        "faces": 52,
+        "modifiers": []
+      },
+      {
+        "name": "Frond_27.001",
+        "type": "MESH",
+        "faces": 21,
+        "modifiers": []
+      },
+      {
+        "name": "Frond_26.001",
+        "type": "MESH",
+        "faces": 52,
+        "modifiers": []
+      },
+      {
+        "name": "Frond_25.001",
+        "type": "MESH",
+        "faces": 52,
+        "modifiers": []
+      },
+      {
+        "name": "Frond_24.001",
+        "type": "MESH",
+        "faces": 52,
+        "modifiers": []
+      },
+      {
+        "name": "Frond_23.001",
+        "type": "MESH",
+        "faces": 52,
+        "modifiers": []
+      },
+      {
+        "name": "Frond_22.001",
+        "type": "MESH",
+        "faces": 52,
+        "modifiers": []
+      },
+      {
+        "name": "Frond_21.001",
+        "type": "MESH",
+        "faces": 52,
+        "modifiers": []
+      },
+      {
+        "name": "Frond_20.001",
+        "type": "MESH",
+        "faces": 21,
+        "modifiers": []
+      },
+      {
+        "name": "Frond_2.001",
+        "type": "MESH",
+        "faces": 52,
+        "modifiers": []
+      },
+      {
+        "name": "Frond_19.001",
+        "type": "MESH",
+        "faces": 52,
+        "modifiers": []
+      },
+      {
+        "name": "Frond_18.001",
+        "type": "MESH",
+        "faces": 52,
+        "modifiers": []
+      },
+      {
+        "name": "Frond_17.001",
+        "type": "MESH",
+        "faces": 52,
+        "modifiers": []
+      },
+      {
+        "name": "Frond_16.001",
+        "type": "MESH",
+        "faces": 52,
+        "modifiers": []
+      },
+      {
+        "name": "Frond_15.001",
+        "type": "MESH",
+        "faces": 21,
+        "modifiers": []
+      },
+      {
+        "name": "Frond_14.001",
+        "type": "MESH",
+        "faces": 21,
+        "modifiers": []
+      },
+      {
+        "name": "Frond_13.001",
+        "type": "MESH",
+        "faces": 52,
+        "modifiers": []
+      },
+      {
+        "name": "Frond_12.001",
+        "type": "MESH",
+        "faces": 52,
+        "modifiers": []
+      },
+      {
+        "name": "Frond_11.001",
+        "type": "MESH",
+        "faces": 52,
+        "modifiers": []
+      },
+      {
+        "name": "Frond_10.001",
+        "type": "MESH",
+        "faces": 52,
+        "modifiers": []
+      },
+      {
+        "name": "F_9.001",
+        "type": "MESH",
+        "faces": 32566,
+        "modifiers": []
+      },
+      {
+        "name": "F_8.001",
+        "type": "MESH",
+        "faces": 32201,
+        "modifiers": []
+      },
+      {
+        "name": "F_7.001",
+        "type": "MESH",
+        "faces": 35141,
+        "modifiers": []
+      },
+      {
+        "name": "F_6.001",
+        "type": "MESH",
+        "faces": 31494,
+        "modifiers": []
+      },
+      {
+        "name": "F_5.001",
+        "type": "MESH",
+        "faces": 28693,
+        "modifiers": []
+      },
+      {
+        "name": "F_4.001",
+        "type": "MESH",
+        "faces": 31116,
+        "modifiers": []
+      },
+      {
+        "name": "F_3.001",
+        "type": "MESH",
+        "faces": 35214,
+        "modifiers": []
+      },
+      {
+        "name": "F_2.001",
+        "type": "MESH",
+        "faces": 33205,
+        "modifiers": []
+      },
+      {
+        "name": "F_13.001",
+        "type": "MESH",
+        "faces": 50438,
+        "modifiers": []
+      },
+      {
+        "name": "F_12.001",
+        "type": "MESH",
+        "faces": 41014,
+        "modifiers": []
+      },
+      {
+        "name": "F_11.001",
+        "type": "MESH",
+        "faces": 37276,
+        "modifiers": []
+      },
+      {
+        "name": "F_10.001",
+        "type": "MESH",
+        "faces": 41787,
+        "modifiers": []
+      },
+      {
+        "name": "F3_2.001",
+        "type": "MESH",
+        "faces": 38746,
+        "modifiers": []
+      },
+      {
+        "name": "F3.001",
+        "type": "MESH",
+        "faces": 30051,
+        "modifiers": []
+      }
+    ],
+    "status": "imported_pending_stem_extraction_and_visual_review"
+  },
+  {
+    "name": "Tulips",
+    "folder": "asset-sources\\flowers\\tulips-0491f2a6",
+    "import_ok": true,
+    "mesh_objects": 4,
+    "raw_faces": 47365,
+    "images": 10,
+    "missing_images": [],
+    "bbox_source_units": {
+      "min": [
+        -0.16060209274291992,
+        -0.09213489294052124,
+        5.960464477539063e-08
+      ],
+      "max": [
+        0.16060209274291992,
+        0.09213489294052124,
+        0.1418716311454773
+      ],
+      "extent": [
+        0.32120418548583984,
+        0.18426978588104248,
+        0.14187157154083252
+      ]
+    },
+    "objects": [
+      {
+        "name": "Tulips",
+        "type": "EMPTY",
+        "faces": 0,
+        "modifiers": []
+      },
+      {
+        "name": "Stem.002",
+        "type": "MESH",
+        "faces": 23058,
+        "modifiers": []
+      },
+      {
+        "name": "Stem.001",
+        "type": "MESH",
+        "faces": 23058,
+        "modifiers": []
+      },
+      {
+        "name": "Pot",
+        "type": "MESH",
+        "faces": 1248,
+        "modifiers": [
+          "SUBSURF"
+        ]
+      },
+      {
+        "name": "Dirt",
+        "type": "MESH",
+        "faces": 1,
+        "modifiers": [
+          "SUBSURF",
+          "PARTICLE_SYSTEM",
+          "PARTICLE_SYSTEM"
+        ]
+      }
+    ],
+    "status": "imported_pending_stem_extraction_and_visual_review"
+  },
+  {
+    "name": "Tulips in a pot",
+    "folder": "asset-sources\\flowers\\tulips-in-a-pot-8f69e8a9",
+    "import_ok": true,
+    "mesh_objects": 22,
+    "raw_faces": 58051,
+    "images": 6,
+    "missing_images": [],
+    "bbox_source_units": {
+      "min": [
+        -0.24007217586040497,
+        -0.22800222039222717,
+        -0.03440466895699501
+      ],
+      "max": [
+        0.2020767331123352,
+        0.2393568754196167,
+        0.4117371439933777
+      ],
+      "extent": [
+        0.4421489089727402,
+        0.46735909581184387,
+        0.4461418129503727
+      ]
+    },
+    "objects": [
+      {
+        "name": "Tulips in a pot",
+        "type": "EMPTY",
+        "faces": 0,
+        "modifiers": []
+      },
+      {
+        "name": "pot",
+        "type": "MESH",
+        "faces": 97,
+        "modifiers": [
+          "NODES"
+        ]
+      },
+      {
+        "name": "leaf.010",
+        "type": "MESH",
+        "faces": 1776,
+        "modifiers": [
+          "NODES"
+        ]
+      },
+      {
+        "name": "leaf.009",
+        "type": "MESH",
+        "faces": 1432,
+        "modifiers": [
+          "NODES"
+        ]
+      },
+      {
+        "name": "leaf.008",
+        "type": "MESH",
+        "faces": 1952,
+        "modifiers": [
+          "NODES"
+        ]
+      },
+      {
+        "name": "leaf.007",
+        "type": "MESH",
+        "faces": 1952,
+        "modifiers": [
+          "NODES"
+        ]
+      },
+      {
+        "name": "leaf.006",
+        "type": "MESH",
+        "faces": 1952,
+        "modifiers": [
+          "NODES"
+        ]
+      },
+      {
+        "name": "leaf.005",
+        "type": "MESH",
+        "faces": 1952,
+        "modifiers": [
+          "NODES"
+        ]
+      },
+      {
+        "name": "leaf.004",
+        "type": "MESH",
+        "faces": 1776,
+        "modifiers": [
+          "NODES"
+        ]
+      },
+      {
+        "name": "leaf.003",
+        "type": "MESH",
+        "faces": 1952,
+        "modifiers": [
+          "NODES"
+        ]
+      },
+      {
+        "name": "leaf.002",
+        "type": "MESH",
+        "faces": 1952,
+        "modifiers": [
+          "NODES"
+        ]
+      },
+      {
+        "name": "leaf.001",
+        "type": "MESH",
+        "faces": 1952,
+        "modifiers": [
+          "NODES"
+        ]
+      },
+      {
+        "name": "flower.010",
+        "type": "MESH",
+        "faces": 3578,
+        "modifiers": [
+          "NODES"
+        ]
+      },
+      {
+        "name": "flower.009",
+        "type": "MESH",
+        "faces": 3580,
+        "modifiers": [
+          "NODES"
+        ]
+      },
+      {
+        "name": "flower.008",
+        "type": "MESH",
+        "faces": 3580,
+        "modifiers": [
+          "NODES"
+        ]
+      },
+      {
+        "name": "flower.007",
+        "type": "MESH",
+        "faces": 3580,
+        "modifiers": [
+          "NODES"
+        ]
+      },
+      {
+        "name": "flower.006",
+        "type": "MESH",
+        "faces": 3580,
+        "modifiers": [
+          "NODES"
+        ]
+      },
+      {
+        "name": "flower.005",
+        "type": "MESH",
+        "faces": 3580,
+        "modifiers": [
+          "NODES"
+        ]
+      },
+      {
+        "name": "flower.004",
+        "type": "MESH",
+        "faces": 3508,
+        "modifiers": [
+          "NODES"
+        ]
+      },
+      {
+        "name": "flower.003",
+        "type": "MESH",
+        "faces": 3580,
+        "modifiers": [
+          "NODES"
+        ]
+      },
+      {
+        "name": "flower.002",
+        "type": "MESH",
+        "faces": 3580,
+        "modifiers": [
+          "NODES"
+        ]
+      },
+      {
+        "name": "flower.001",
+        "type": "MESH",
+        "faces": 3580,
+        "modifiers": [
+          "NODES"
+        ]
+      },
+      {
+        "name": "flower",
+        "type": "MESH",
+        "faces": 3580,
+        "modifiers": [
+          "NODES"
+        ]
+      }
+    ],
+    "status": "imported_pending_stem_extraction_and_visual_review"
+  },
+  {
+    "name": "Yellow Flower",
+    "folder": "asset-sources\\flowers\\yellow-flower-66a70890",
+    "import_ok": true,
+    "mesh_objects": 1,
+    "raw_faces": 436,
+    "images": 1,
+    "missing_images": [],
+    "bbox_source_units": {
+      "min": [
+        -0.03215779364109039,
+        -0.033160340040922165,
+        -1.2508070312833297e-07
+      ],
+      "max": [
+        0.040328286588191986,
+        0.0370374396443367,
+        0.3066978454589844
+      ],
+      "extent": [
+        0.07248608022928238,
+        0.07019777968525887,
+        0.3066979705396875
+      ]
+    },
+    "objects": [
+      {
+        "name": "Yellow Flower",
+        "type": "EMPTY",
+        "faces": 0,
+        "modifiers": []
+      },
+      {
+        "name": "Flower.001",
+        "type": "MESH",
+        "faces": 436,
+        "modifiers": []
+      }
+    ],
+    "status": "imported_pending_stem_extraction_and_visual_review"
+  }
+]

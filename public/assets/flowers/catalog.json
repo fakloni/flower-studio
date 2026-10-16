@@ -1,0 +1,134 @@
+[
+  {
+    "id": "red-rose",
+    "name": "红玫瑰",
+    "source_url": "https://www.blendkit.com/asset-gallery-detail/f357a769-16a9-4ece-a9fe-17d322d6e8ee/",
+    "source_folder": "asset-sources\\flowers\\red-rose-flower-f357a769",
+    "model": "/assets/flowers/red-rose.glb",
+    "preview": "/assets/flowers/red-rose.png",
+    "source": "prepared.blend",
+    "preview_height_m": 0.5,
+    "physical_dimensions_verified": false,
+    "logical_stems": 1,
+    "status": "preview_candidate_needs_botanical_and_web_render_review",
+    "selected_objects": [
+      "roz",
+      "Material_5",
+      "Material_4",
+      "Material_3",
+      "Material_2",
+      "Material"
+    ]
+  },
+  {
+    "id": "spider-lily",
+    "name": "红花石蒜",
+    "source_url": "https://www.blendkit.com/asset-gallery-detail/58da4cc5-9a30-470b-9dd0-b66a7614fd44/",
+    "source_folder": "asset-sources\\flowers\\red-spider-lily-58da4cc5",
+    "model": "/assets/flowers/spider-lily.glb",
+    "preview": "/assets/flowers/spider-lily.png",
+    "source": "prepared.blend",
+    "preview_height_m": 0.5,
+    "physical_dimensions_verified": false,
+    "logical_stems": 1,
+    "status": "preview_candidate_needs_botanical_and_web_render_review",
+    "selected_objects": [
+      "stem",
+      "mist",
+      "flowere",
+      "flowerd",
+      "flowerc",
+      "flowerb",
+      "flowera"
+    ]
+  },
+  {
+    "id": "sunflower",
+    "name": "向日葵",
+    "source_url": "https://www.blendkit.com/asset-gallery-detail/d446d9ba-2346-435b-985d-13620a0908f5/",
+    "source_folder": "asset-sources\\flowers\\flower-sunflower-medium-d446d9ba",
+    "model": "/assets/flowers/sunflower.glb",
+    "preview": "/assets/flowers/sunflower.png",
+    "source": "prepared.blend",
+    "preview_height_m": 0.5,
+    "physical_dimensions_verified": false,
+    "logical_stems": 1,
+    "status": "preview_candidate_needs_botanical_and_web_render_review",
+    "selected_objects": [
+      "Flower Sunflower Medium"
+    ]
+  },
+  {
+    "id": "yellow-flower",
+    "name": "黄色花材",
+    "source_url": "https://www.blendkit.com/asset-gallery-detail/66a70890-e58f-44e3-b7ba-0748e953c32e/",
+    "source_folder": "asset-sources\\flowers\\yellow-flower-66a70890",
+    "model": "/assets/flowers/yellow-flower.glb",
+    "preview": "/assets/flowers/yellow-flower.png",
+    "source": "prepared.blend",
+    "preview_height_m": 0.5,
+    "physical_dimensions_verified": false,
+    "logical_stems": 1,
+    "status": "preview_candidate_needs_botanical_and_web_render_review",
+    "selected_objects": [
+      "Flower.001"
+    ]
+  },
+  {
+    "id": "white-tulip",
+    "name": "白郁金香",
+    "source_url": "https://www.blendkit.com/asset-gallery-detail/8f69e8a9-6394-487b-9426-898edef0398e/",
+    "source_folder": "asset-sources\\flowers\\tulips-in-a-pot-8f69e8a9",
+    "model": "/assets/flowers/white-tulip.glb",
+    "preview": "/assets/flowers/white-tulip.png",
+    "source": "prepared.blend",
+    "preview_height_m": 0.5,
+    "physical_dimensions_verified": false,
+    "logical_stems": 1,
+    "status": "preview_candidate_needs_botanical_and_web_render_review",
+    "selected_objects": [
+      "flower"
+    ]
+  },
+  {
+    "id": "pink-roses-pair",
+    "name": "粉玫瑰双支",
+    "source_url": "https://www.blendkit.com/asset-gallery-detail/ea9ca32a-c914-4309-b9cd-3d243f42f286/",
+    "source_folder": "asset-sources\\flowers\\roses-in-twisted-glass-vase-ea9ca32a",
+    "model": "/assets/flowers/pink-roses-pair.glb",
+    "preview": "/assets/flowers/pink-roses-pair.png",
+    "source": "prepared.blend",
+    "preview_height_m": 0.5,
+    "physical_dimensions_verified": false,
+    "logical_stems": 2,
+    "status": "preview_candidate_needs_botanical_and_web_render_review",
+    "selected_objects": [
+      "rose.001",
+      "rose",
+      "leaf.004",
+      "leaf.003",
+      "leaf.002",
+      "leaf.001"
+    ]
+  },
+  {
+    "id": "eucalyptus-bouquet",
+    "name": "尤加利组合",
+    "source_url": "https://www.blendkit.com/asset-gallery-detail/777e9bd4-5219-441d-929e-8f9a5c1c9798/",
+    "source_folder": "asset-sources\\flowers\\eucalyptus-bouquet-vase-777e9bd4",
+    "model": "/assets/flowers/eucalyptus-bouquet.glb",
+    "preview": "/assets/flowers/eucalyptus-bouquet.png",
+    "source": "prepared.blend",
+    "preview_height_m": 0.5,
+    "physical_dimensions_verified": false,
+    "logical_stems": null,
+    "status": "preview_candidate_needs_botanical_and_web_render_review",
+    "selected_objects": [
+      "Colorg54",
+      "Colorg456",
+      "Colorg455",
+      "Colorg454",
+      "Colorg4"
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+{
+  "productId": "P098",
+  "route": "local-blender",
+  "status": "candidate-needs-visual-review",
+  "mediaOrigin": "model-render",
+  "physicalDimensionsVerified": false,
+  "sourceSpec": {
+    "schemaVersion": 1,
+    "productId": "P098",
+    "editorId": "craspedia-yellow",
+    "name": "黄金球",
+    "color": "黄色",
+    "role": "配花",
+    "route": "local-blender",
+    "archetype": "craspedia",
+    "seed": 20261112,
+    "stemLengthM": 0.62,
+    "headDiameterM": 0.028,
+    "petalColor": [
+      0.75,
+      0.44,
+      0.008
+    ],
+    "headNormal": [
+      0.0,
+      -0.7599620223045349,
+      0.6499674916267395
+    ],
+    "logicalStems": 1,
+    "physicalDimensionsVerified": false,
+    "dimensionBasis": "Breeder/species reference and pilot modeling conventions; not measured SKU dimensions",
+    "unverifiedParts": [
+      "exact cultivar backside",
+      "specimen stem curvature",
+      "exact leaf/branch and petal counts"
+    ],
+    "references": [
+      {
+        "origin": "real-photo",
+        "path": "D:\\Projects\\flower-studio\\artifacts\\catalog-photo-fill\\originals\\j-fac\\craspedia.jpg",
+        "sourcePage": "https://jikebana.com/materials/fac/",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "mappingScope": "market-label-reference-only"
+      }
+    ],
+    "renderResolution": [
+      400,
+      600
+    ],
+    "detailResolution": 480,
+    "visualStatus": "pilot-awaits-review",
+    "inputSpecSha256": "4ed6fe1d02cdd2f3a696c0755f4868ff2974d7b2bc1b6ba19b3587a99c66db90",
+    "headCenter": [
+      0.007000000216066837,
+      0.004000000189989805,
+      0.6200000047683716
+    ]
+  },
+  "files": [
+    "stem.glb",
+    "source.blend",
+    "front.png",
+    "left.png",
+    "back.png",
+    "right.png",
+    "head-front.png",
+    "head-back.png",
+    "head-quarter.png"
+  ],
+  "checks": {
+    "glbHeader": true,
+    "embeddedTextures": true,
+    "roundTrip": true,
+    "meshCount": 2,
+    "triangles": 28572,
+    "bytes": 601520,
+    "boundsM": {
+      "min": [
+        -0.008078377693891525,
+        -0.0110618369653821,
+        -2.9373008146649227e-05
+      ],
+      "max": [
+        0.022088300436735153,
+        0.01908113807439804,
+        0.6350739598274231
+      ]
+    },
+    "missingTextures": []
+  }
+}

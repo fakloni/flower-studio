@@ -1,0 +1,154 @@
+{
+  "id": "P022",
+  "flowerId": "F024",
+  "name": "牡丹",
+  "group": "牡丹",
+  "subgroup": "牡丹",
+  "scientificName": "Paeonia suffruticosa",
+  "nameStatus": "类别有来源；SKU待核实",
+  "roles": [
+    "主花"
+  ],
+  "roleStatus": "project-suggestion",
+  "roleNotes": "主花",
+  "shapeNotes": "牡丹",
+  "ornamentalPart": "花",
+  "season": {
+    "text": "5月",
+    "basis": "植物志花期",
+    "region": "中国植物志记载",
+    "intervals": [
+      {
+        "start": 5,
+        "end": 5,
+        "wrapsYear": false,
+        "precision": "month-reference"
+      }
+    ],
+    "status": "reference",
+    "source": {
+      "name": "中国科学院植物研究所·植物智／中国植物志",
+      "urls": [
+        "https://www.iplant.cn/z/frps/23796"
+      ]
+    },
+    "unverifiedOriginal": "4–5月"
+  },
+  "dimensions": {
+    "object": "单花直径",
+    "minCm": 10,
+    "maxCm": 17,
+    "valueType": "范围",
+    "scope": "牡丹植物形态",
+    "notes": "单花直径：10–17 cm；范围；牡丹植物形态。详“花材库”F024及“尺寸证据”。",
+    "source": {
+      "name": "中国科学院植物研究所·植物智／中国植物志",
+      "urls": [
+        "https://www.iplant.cn/z/frps/23796"
+      ]
+    }
+  },
+  "notes": "具体品种、颜色、开放阶段、枝长、花径及国内供货需按SKU确认。\n品类、花型、单/多头、开放阶段应分字段；本表是检索目录，不是互斥分类树。缺少SKU规格时不得自动标定真实比例。\n地区和品种可改变花期；不把4–6 cm花梗长度当切枝长度。\n项目检索分组，非完整植物学分类。",
+  "source": {
+    "name": "中国科学院植物研究所·植物智／中国植物志",
+    "urls": [
+      "https://www.iplant.cn/z/frps/23796"
+    ]
+  },
+  "checkedDate": "2026-10-13",
+  "availability": {
+    "status": "unknown",
+    "region": null
+  },
+  "sourceRecord": {
+    "sheet": "花材库",
+    "row": 23,
+    "values": {
+      "花材ID": "F024",
+      "原始／新增名称": "牡丹",
+      "用户清单Y／空白": "Y",
+      "规范名称／别名": "牡丹",
+      "学名／分类范围": "Paeonia suffruticosa",
+      "名称核对状态": "类别有来源；SKU待核实",
+      "花材角色（项目建议）": "主花",
+      "形态标签（项目建议）": "牡丹",
+      "观赏部位": "花",
+      "核实花季／果季": "5月",
+      "季节数据口径": "植物志花期",
+      "季节适用地区／对象": "中国植物志记载",
+      "用户原始月份（未验证）": "4–5月",
+      "花头尺寸对象": "单花直径",
+      "直径下限cm": 10,
+      "直径上限cm": 17,
+      "数值类型": "范围",
+      "尺寸适用物种／品种": "牡丹植物形态",
+      "其他尺寸及数量摘要": "单花直径：10–17 cm；范围；牡丹植物形态。详“花材库”F024及“尺寸证据”。",
+      "缺失信息／项目注意事项": "具体品种、颜色、开放阶段、枝长、花径及国内供货需按SKU确认。\n品类、花型、单/多头、开放阶段应分字段；本表是检索目录，不是互斥分类树。缺少SKU规格时不得自动标定真实比例。\n地区和品种可改变花期；不把4–6 cm花梗长度当切枝长度。\n项目检索分组，非完整植物学分类。",
+      "季节来源名称": "中国科学院植物研究所·植物智／中国植物志",
+      "季节来源URL": "https://www.iplant.cn/z/frps/23796",
+      "花头尺寸来源": "中国科学院植物研究所·植物智／中国植物志",
+      "花头尺寸来源URL": "https://www.iplant.cn/z/frps/23796",
+      "名称／资料来源": "中国科学院植物研究所·植物智／中国植物志",
+      "名称／资料来源URL": "https://www.iplant.cn/z/frps/23796",
+      "核查日期": "2026-10-13",
+      "大类": "牡丹",
+      "小类": "牡丹",
+      "产品ID": "P022"
+    }
+  },
+  "aliases": [
+    {
+      "name": "牡丹",
+      "productId": "P022",
+      "relation": "平台规范商品名",
+      "restriction": "平台内部检索入口；不表示已对接同名商城SKU。",
+      "status": "需按具体商品确认",
+      "source": {
+        "name": "中国科学院植物研究所·植物智／中国植物志",
+        "urls": [
+          "https://www.iplant.cn/z/frps/23796"
+        ]
+      }
+    }
+  ],
+  "imageReferences": [
+    {
+      "label": "牡丹",
+      "files": [
+        "04-775fb83e5208f71610b98d33a902143a.jpg"
+      ],
+      "productIds": [
+        "P022"
+      ],
+      "notes": "原表已有对应小类；具体品种和SKU仍按原核对状态。",
+      "seasonRestriction": "图片所列月份/全年为用户资料，未作为可靠供货期。",
+      "status": "reference-only"
+    }
+  ],
+  "assets": [],
+  "schemaVersion": 1,
+  "revision": "c80bbbca4cdd571a6f8b",
+  "relatedEvidence": [
+    {
+      "id": "E040",
+      "flowerId": "F024",
+      "values": {
+        "证据ID": "E040",
+        "花材ID": "F024",
+        "花材名称": "牡丹",
+        "测量项目": "单花直径",
+        "下限／数值": 10,
+        "上限／数值": 17,
+        "单位": "cm",
+        "数值性质": "范围",
+        "适用物种／品种／商品": "牡丹植物形态",
+        "证据类型": "植物形态参考",
+        "原数值口径（简记）": "10–17 cm",
+        "限制与解释": null,
+        "来源机构／资料": "中国科学院植物研究所·植物智／中国植物志",
+        "来源URL": "https://www.iplant.cn/z/frps/23796",
+        "核查日期": "2026-10-13"
+      }
+    }
+  ]
+}

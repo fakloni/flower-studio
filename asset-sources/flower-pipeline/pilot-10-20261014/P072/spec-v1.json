@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "productId": "P072",
+  "editorId": "gerbera-atlanta",
+  "name": "非洲菊 Atlanta",
+  "color": "橙色",
+  "role": "主花",
+  "route": "local-blender",
+  "archetype": "gerbera",
+  "seed": 20261086,
+  "stemLengthM": 0.65,
+  "headDiameterM": 0.12,
+  "petalColor": [
+    0.93,
+    0.17,
+    0.012
+  ],
+  "headNormal": [
+    0,
+    -0.76,
+    0.65
+  ],
+  "logicalStems": 1,
+  "physicalDimensionsVerified": false,
+  "dimensionBasis": "Breeder/species reference and pilot modeling conventions; not measured SKU dimensions",
+  "unverifiedParts": [
+    "exact cultivar backside",
+    "specimen stem curvature",
+    "exact leaf/branch and petal counts"
+  ],
+  "references": [
+    {
+      "origin": "real-photo",
+      "path": "D:\\Projects\\flower-studio\\artifacts\\catalog-media-audit\\candidates\\P072\\0a90aa0bc4e1_atlanta_01.jpg",
+      "sourcePage": "https://www.hilverdaflorist.com/en/assortment/cut-flowers/assortment-cut-flowers/gerbera-standard-atlanta",
+      "author": "HilverdaFlorist",
+      "license": "Use conditions not verified; local reference only",
+      "mappingScope": null
+    },
+    {
+      "origin": "ai-image",
+      "path": "D:\\Projects\\flower-studio\\asset-sources\\flower-pipeline\\P072\\v1\\references\\ai-ray-floret-v1.png",
+      "use": "RGB petal texture, not botanical evidence"
+    }
+  ],
+  "renderResolution": [
+    400,
+    600
+  ],
+  "detailResolution": 480,
+  "visualStatus": "pilot-awaits-review",
+  "petalTexture": "D:\\Projects\\flower-studio\\asset-sources\\flower-pipeline\\P072\\v1\\references\\ai-ray-floret-v1.png"
+}

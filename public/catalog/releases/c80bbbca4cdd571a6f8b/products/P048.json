@@ -1,0 +1,155 @@
+{
+  "id": "P048",
+  "flowerId": "F053",
+  "name": "香雪兰",
+  "group": "香雪兰",
+  "subgroup": "香雪兰",
+  "scientificName": "Freesia refracta（物种参照）",
+  "nameStatus": "类别有来源；SKU待核实",
+  "roles": [
+    "配花",
+    "线条"
+  ],
+  "roleStatus": "project-suggestion",
+  "roleNotes": "配花；线条花",
+  "shapeNotes": "香雪兰／小苍兰",
+  "ornamentalPart": "花序",
+  "season": {
+    "text": "4–5月",
+    "basis": "地区植物志花期",
+    "region": "深圳植物志记载",
+    "intervals": [
+      {
+        "start": 4,
+        "end": 5,
+        "wrapsYear": false,
+        "precision": "month-reference"
+      }
+    ],
+    "status": "reference",
+    "source": {
+      "name": "深圳市中国科学院仙湖植物园·深圳植物志",
+      "urls": [
+        "https://www.iplant.cn/fsz/info/Freesia%20refracta"
+      ]
+    },
+    "unverifiedOriginal": null
+  },
+  "dimensions": {
+    "object": "单花直径",
+    "minCm": 2,
+    "maxCm": 3,
+    "valueType": "范围",
+    "scope": "Freesia refracta植物智记录",
+    "notes": "单花直径：2–3 cm；范围；Freesia refracta植物智记录。详“花材库”F053及“尺寸证据”。",
+    "source": {
+      "name": "中国科学院植物研究所·植物智",
+      "urls": [
+        "https://www.iplant.cn/bk/933B40162AFF0DBF"
+      ]
+    }
+  },
+  "notes": "具体品种、颜色、开放阶段、枝长、花径及国内供货需按SKU确认。\n品类、花型、单/多头、开放阶段应分字段；本表是检索目录，不是互斥分类树。缺少SKU规格时不得自动标定真实比例。\n花径是F. refracta物种参照；现代大花、重瓣切花品种应单独测量。\n项目检索分组，非完整植物学分类。",
+  "source": {
+    "name": "中国科学院植物研究所·植物智",
+    "urls": [
+      "https://www.iplant.cn/bk/933B40162AFF0DBF"
+    ]
+  },
+  "checkedDate": "2026-10-13",
+  "availability": {
+    "status": "unknown",
+    "region": null
+  },
+  "sourceRecord": {
+    "sheet": "花材库",
+    "row": 49,
+    "values": {
+      "花材ID": "F053",
+      "原始／新增名称": "香雪兰",
+      "用户清单Y／空白": null,
+      "规范名称／别名": "香雪兰／小苍兰\n香雪兰",
+      "学名／分类范围": "Freesia refracta（物种参照）",
+      "名称核对状态": "类别有来源；SKU待核实",
+      "花材角色（项目建议）": "配花；线条花",
+      "形态标签（项目建议）": "香雪兰／小苍兰",
+      "观赏部位": "花序",
+      "核实花季／果季": "4–5月",
+      "季节数据口径": "地区植物志花期",
+      "季节适用地区／对象": "深圳植物志记载",
+      "用户原始月份（未验证）": null,
+      "花头尺寸对象": "单花直径",
+      "直径下限cm": 2,
+      "直径上限cm": 3,
+      "数值类型": "范围",
+      "尺寸适用物种／品种": "Freesia refracta植物智记录",
+      "其他尺寸及数量摘要": "单花直径：2–3 cm；范围；Freesia refracta植物智记录。详“花材库”F053及“尺寸证据”。",
+      "缺失信息／项目注意事项": "具体品种、颜色、开放阶段、枝长、花径及国内供货需按SKU确认。\n品类、花型、单/多头、开放阶段应分字段；本表是检索目录，不是互斥分类树。缺少SKU规格时不得自动标定真实比例。\n花径是F. refracta物种参照；现代大花、重瓣切花品种应单独测量。\n项目检索分组，非完整植物学分类。",
+      "季节来源名称": "深圳市中国科学院仙湖植物园·深圳植物志",
+      "季节来源URL": "https://www.iplant.cn/fsz/info/Freesia%20refracta",
+      "花头尺寸来源": "中国科学院植物研究所·植物智",
+      "花头尺寸来源URL": "https://www.iplant.cn/bk/933B40162AFF0DBF",
+      "名称／资料来源": "中国科学院植物研究所·植物智",
+      "名称／资料来源URL": "https://www.iplant.cn/bk/933B40162AFF0DBF",
+      "核查日期": "2026-10-13",
+      "大类": "香雪兰",
+      "小类": "香雪兰",
+      "产品ID": "P048"
+    }
+  },
+  "aliases": [
+    {
+      "name": "香雪兰",
+      "productId": "P048",
+      "relation": "平台规范商品名",
+      "restriction": "平台内部检索入口；不表示已对接同名商城SKU。",
+      "status": "需按具体商品确认",
+      "source": {
+        "name": "中国科学院植物研究所·植物智",
+        "urls": [
+          "https://www.iplant.cn/bk/933B40162AFF0DBF"
+        ]
+      }
+    }
+  ],
+  "imageReferences": [
+    {
+      "label": "香雪兰",
+      "files": [
+        "04-775fb83e5208f71610b98d33a902143a.jpg"
+      ],
+      "productIds": [
+        "P048"
+      ],
+      "notes": "原表已有对应小类；具体品种和SKU仍按原核对状态。",
+      "seasonRestriction": "图片所列月份/全年为用户资料，未作为可靠供货期。",
+      "status": "reference-only"
+    }
+  ],
+  "assets": [],
+  "schemaVersion": 1,
+  "revision": "c80bbbca4cdd571a6f8b",
+  "relatedEvidence": [
+    {
+      "id": "E065",
+      "flowerId": "F053",
+      "values": {
+        "证据ID": "E065",
+        "花材ID": "F053",
+        "花材名称": "香雪兰",
+        "测量项目": "单花直径",
+        "下限／数值": 2,
+        "上限／数值": 3,
+        "单位": "cm",
+        "数值性质": "范围",
+        "适用物种／品种／商品": "Freesia refracta植物智记录",
+        "证据类型": "植物形态参考",
+        "原数值口径（简记）": "2–3 cm",
+        "限制与解释": null,
+        "来源机构／资料": "中国科学院植物研究所·植物智",
+        "来源URL": "https://www.iplant.cn/bk/933B40162AFF0DBF",
+        "核查日期": "2026-10-13"
+      }
+    }
+  ]
+}

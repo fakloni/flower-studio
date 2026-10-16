@@ -1,0 +1,401 @@
+{
+  "name": "SJ-Mystic Garden Serenity Fern",
+  "folder": "asset-sources\\flowers\\sj-mystic-garden-serenity-fern-b7527f26",
+  "import_ok": true,
+  "mesh_objects": 61,
+  "raw_faces": 514016,
+  "images": 22,
+  "missing_images": [],
+  "bbox_source_units": {
+    "min": [
+      -0.6917106509208679,
+      -0.7027814388275146,
+      -0.03242673724889755
+    ],
+    "max": [
+      0.7135517597198486,
+      0.7219464182853699,
+      1.4238353967666626
+    ],
+    "extent": [
+      1.4052624106407166,
+      1.4247278571128845,
+      1.4562621340155602
+    ]
+  },
+  "objects": [
+    {
+      "name": "Trunk_9.001",
+      "type": "MESH",
+      "faces": 1046,
+      "modifiers": []
+    },
+    {
+      "name": "Trunk_8.001",
+      "type": "MESH",
+      "faces": 948,
+      "modifiers": []
+    },
+    {
+      "name": "Trunk_7.001",
+      "type": "MESH",
+      "faces": 623,
+      "modifiers": []
+    },
+    {
+      "name": "Trunk_6.001",
+      "type": "MESH",
+      "faces": 792,
+      "modifiers": []
+    },
+    {
+      "name": "Trunk_5.001",
+      "type": "MESH",
+      "faces": 677,
+      "modifiers": []
+    },
+    {
+      "name": "Trunk_4.001",
+      "type": "MESH",
+      "faces": 728,
+      "modifiers": []
+    },
+    {
+      "name": "Trunk_3.001",
+      "type": "MESH",
+      "faces": 703,
+      "modifiers": []
+    },
+    {
+      "name": "Trunk_2.001",
+      "type": "MESH",
+      "faces": 832,
+      "modifiers": []
+    },
+    {
+      "name": "Trunk_18.001",
+      "type": "MESH",
+      "faces": 876,
+      "modifiers": []
+    },
+    {
+      "name": "Trunk_17.001",
+      "type": "MESH",
+      "faces": 694,
+      "modifiers": []
+    },
+    {
+      "name": "Trunk_16.001",
+      "type": "MESH",
+      "faces": 767,
+      "modifiers": []
+    },
+    {
+      "name": "Trunk_15.001",
+      "type": "MESH",
+      "faces": 795,
+      "modifiers": []
+    },
+    {
+      "name": "Trunk_14.001",
+      "type": "MESH",
+      "faces": 967,
+      "modifiers": []
+    },
+    {
+      "name": "Trunk_13.001",
+      "type": "MESH",
+      "faces": 1052,
+      "modifiers": []
+    },
+    {
+      "name": "Trunk_12.002",
+      "type": "MESH",
+      "faces": 804,
+      "modifiers": []
+    },
+    {
+      "name": "Trunk_11.001",
+      "type": "MESH",
+      "faces": 752,
+      "modifiers": []
+    },
+    {
+      "name": "Trunk_10.002",
+      "type": "MESH",
+      "faces": 644,
+      "modifiers": []
+    },
+    {
+      "name": "SJ-Mystic Garden Serenity Fern",
+      "type": "EMPTY",
+      "faces": 0,
+      "modifiers": []
+    },
+    {
+      "name": "Frond_9.001",
+      "type": "MESH",
+      "faces": 52,
+      "modifiers": []
+    },
+    {
+      "name": "Frond_8.001",
+      "type": "MESH",
+      "faces": 52,
+      "modifiers": []
+    },
+    {
+      "name": "Frond_7.001",
+      "type": "MESH",
+      "faces": 52,
+      "modifiers": []
+    },
+    {
+      "name": "Frond_6.001",
+      "type": "MESH",
+      "faces": 21,
+      "modifiers": []
+    },
+    {
+      "name": "Frond_5.001",
+      "type": "MESH",
+      "faces": 21,
+      "modifiers": []
+    },
+    {
+      "name": "Frond_4.001",
+      "type": "MESH",
+      "faces": 52,
+      "modifiers": []
+    },
+    {
+      "name": "Frond_31.001",
+      "type": "MESH",
+      "faces": 52,
+      "modifiers": []
+    },
+    {
+      "name": "Frond_30.001",
+      "type": "MESH",
+      "faces": 52,
+      "modifiers": []
+    },
+    {
+      "name": "Frond_3.001",
+      "type": "MESH",
+      "faces": 52,
+      "modifiers": []
+    },
+    {
+      "name": "Frond_29.001",
+      "type": "MESH",
+      "faces": 52,
+      "modifiers": []
+    },
+    {
+      "name": "Frond_28.001",
+      "type": "MESH",
+      "faces": 52,
+      "modifiers": []
+    },
+    {
+      "name": "Frond_27.001",
+      "type": "MESH",
+      "faces": 21,
+      "modifiers": []
+    },
+    {
+      "name": "Frond_26.001",
+      "type": "MESH",
+      "faces": 52,
+      "modifiers": []
+    },
+    {
+      "name": "Frond_25.001",
+      "type": "MESH",
+      "faces": 52,
+      "modifiers": []
+    },
+    {
+      "name": "Frond_24.001",
+      "type": "MESH",
+      "faces": 52,
+      "modifiers": []
+    },
+    {
+      "name": "Frond_23.001",
+      "type": "MESH",
+      "faces": 52,
+      "modifiers": []
+    },
+    {
+      "name": "Frond_22.001",
+      "type": "MESH",
+      "faces": 52,
+      "modifiers": []
+    },
+    {
+      "name": "Frond_21.001",
+      "type": "MESH",
+      "faces": 52,
+      "modifiers": []
+    },
+    {
+      "name": "Frond_20.001",
+      "type": "MESH",
+      "faces": 21,
+      "modifiers": []
+    },
+    {
+      "name": "Frond_2.001",
+      "type": "MESH",
+      "faces": 52,
+      "modifiers": []
+    },
+    {
+      "name": "Frond_19.001",
+      "type": "MESH",
+      "faces": 52,
+      "modifiers": []
+    },
+    {
+      "name": "Frond_18.001",
+      "type": "MESH",
+      "faces": 52,
+      "modifiers": []
+    },
+    {
+      "name": "Frond_17.001",
+      "type": "MESH",
+      "faces": 52,
+      "modifiers": []
+    },
+    {
+      "name": "Frond_16.001",
+      "type": "MESH",
+      "faces": 52,
+      "modifiers": []
+    },
+    {
+      "name": "Frond_15.001",
+      "type": "MESH",
+      "faces": 21,
+      "modifiers": []
+    },
+    {
+      "name": "Frond_14.001",
+      "type": "MESH",
+      "faces": 21,
+      "modifiers": []
+    },
+    {
+      "name": "Frond_13.001",
+      "type": "MESH",
+      "faces": 52,
+      "modifiers": []
+    },
+    {
+      "name": "Frond_12.001",
+      "type": "MESH",
+      "faces": 52,
+      "modifiers": []
+    },
+    {
+      "name": "Frond_11.001",
+      "type": "MESH",
+      "faces": 52,
+      "modifiers": []
+    },
+    {
+      "name": "Frond_10.001",
+      "type": "MESH",
+      "faces": 52,
+      "modifiers": []
+    },
+    {
+      "name": "F_9.001",
+      "type": "MESH",
+      "faces": 32566,
+      "modifiers": []
+    },
+    {
+      "name": "F_8.001",
+      "type": "MESH",
+      "faces": 32201,
+      "modifiers": []
+    },
+    {
+      "name": "F_7.001",
+      "type": "MESH",
+      "faces": 35141,
+      "modifiers": []
+    },
+    {
+      "name": "F_6.001",
+      "type": "MESH",
+      "faces": 31494,
+      "modifiers": []
+    },
+    {
+      "name": "F_5.001",
+      "type": "MESH",
+      "faces": 28693,
+      "modifiers": []
+    },
+    {
+      "name": "F_4.001",
+      "type": "MESH",
+      "faces": 31116,
+      "modifiers": []
+    },
+    {
+      "name": "F_3.001",
+      "type": "MESH",
+      "faces": 35214,
+      "modifiers": []
+    },
+    {
+      "name": "F_2.001",
+      "type": "MESH",
+      "faces": 33205,
+      "modifiers": []
+    },
+    {
+      "name": "F_13.001",
+      "type": "MESH",
+      "faces": 50438,
+      "modifiers": []
+    },
+    {
+      "name": "F_12.001",
+      "type": "MESH",
+      "faces": 41014,
+      "modifiers": []
+    },
+    {
+      "name": "F_11.001",
+      "type": "MESH",
+      "faces": 37276,
+      "modifiers": []
+    },
+    {
+      "name": "F_10.001",
+      "type": "MESH",
+      "faces": 41787,
+      "modifiers": []
+    },
+    {
+      "name": "F3_2.001",
+      "type": "MESH",
+      "faces": 38746,
+      "modifiers": []
+    },
+    {
+      "name": "F3.001",
+      "type": "MESH",
+      "faces": 30051,
+      "modifiers": []
+    }
+  ],
+  "status": "imported_pending_stem_extraction_and_visual_review"
+}

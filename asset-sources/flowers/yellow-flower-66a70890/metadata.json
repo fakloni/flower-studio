@@ -1,0 +1,79 @@
+{
+  "term": "sunflower",
+  "id": "d2c0a53d-bd9f-4269-a21c-90513583b643",
+  "base_id": "66a70890-e58f-44e3-b7ba-0748e953c32e",
+  "name": "Yellow Flower",
+  "description": "A simple flower for your garden.",
+  "author": "Rex Hans",
+  "source_url": "https://www.blendkit.com/asset-gallery-detail/66a70890-e58f-44e3-b7ba-0748e953c32e/",
+  "quality": 8.0,
+  "parameters": {
+    "sexualizedContent": false,
+    "joinBlenderkitDiscounts": true,
+    "addons": true,
+    "platforms": [
+      "windows-x64",
+      "macos-arm64",
+      "linux-x64",
+      "macos-x64",
+      "windows-arm64"
+    ],
+    "faceCount": 436,
+    "textureResolutionMax": 2048,
+    "productionLevel": "finished",
+    "procedural": false,
+    "modelStyle": "realistic",
+    "condition": "new",
+    "designYear": 2025,
+    "purePbr": true,
+    "shaders": [
+      "[transparent mix shader translucent principled]"
+    ],
+    "pbrType": "metallic",
+    "uv": true,
+    "textureResolutionMin": 2048,
+    "engines": [
+      "[cycles]"
+    ],
+    "modifiers": [
+      "[]"
+    ],
+    "materials": [
+      "[Leaves Flower]"
+    ],
+    "rig": false,
+    "simulation": false,
+    "dimensionX": 0.0725,
+    "dimensionY": 0.0702,
+    "dimensionZ": 0.3067,
+    "boundBoxMinX": -0.0322,
+    "boundBoxMinY": -0.0332,
+    "boundBoxMinZ": 0.0,
+    "boundBoxMaxX": 0.0403,
+    "boundBoxMaxY": 0.037,
+    "boundBoxMaxZ": 0.3067,
+    "faceCountRender": 436,
+    "meshPolyType": "quad_dominant",
+    "manifold": false,
+    "objectCount": 2,
+    "nodeCount": 18,
+    "textureCount": 1,
+    "megapixels": 4,
+    "gltfGeneratedDate": "2025-02-20",
+    "gltfGodotGeneratedDate": "2025-02-20"
+  },
+  "downloaded": [
+    {
+      "path": "asset-sources\\flowers\\yellow-flower-66a70890\\original.blend",
+      "bytes": 983028,
+      "type": "blend"
+    },
+    {
+      "path": "asset-sources\\flowers\\yellow-flower-66a70890\\original.glb",
+      "bytes": 57032,
+      "type": "gltf"
+    }
+  ],
+  "acquired_date": "2026-10-12",
+  "status": "downloaded_pending_blender_review"
+}

@@ -1,0 +1,93 @@
+{
+  "productId": "P082",
+  "route": "local-blender",
+  "status": "candidate-needs-visual-review",
+  "mediaOrigin": "model-render",
+  "physicalDimensionsVerified": false,
+  "sourceSpec": {
+    "schemaVersion": 1,
+    "productId": "P082",
+    "editorId": "gypsophila-xlence",
+    "name": "满天星 Xlence",
+    "color": "白色",
+    "role": "配花",
+    "route": "local-blender",
+    "archetype": "gypsophila",
+    "seed": 20261096,
+    "stemLengthM": 0.62,
+    "headDiameterM": 0.25,
+    "petalColor": [
+      0.89,
+      0.89,
+      0.82
+    ],
+    "headNormal": [
+      0.0,
+      -0.7599620223045349,
+      0.6499674916267395
+    ],
+    "logicalStems": 1,
+    "physicalDimensionsVerified": false,
+    "dimensionBasis": "Breeder/species reference and pilot modeling conventions; not measured SKU dimensions",
+    "unverifiedParts": [
+      "exact cultivar backside",
+      "specimen stem curvature",
+      "exact leaf/branch and petal counts"
+    ],
+    "references": [
+      {
+        "origin": "real-photo",
+        "path": "D:\\Projects\\flower-studio\\artifacts\\catalog-source-review\\candidates\\P082\\XLENCE.jpg.webp",
+        "sourcePage": "https://www.danzigeronline.com/catalog/cut_flowers_catalog/xlence/",
+        "author": "Danziger",
+        "license": "Use conditions not verified; local reference only",
+        "mappingScope": "named-variety-reference"
+      }
+    ],
+    "renderResolution": [
+      400,
+      600
+    ],
+    "detailResolution": 480,
+    "visualStatus": "pilot-awaits-review",
+    "flowerDiameterM": 0.011,
+    "inputSpecSha256": "0759d87bb88e62f02f013afbbfd81c8ea6f77dbd59e7b39c2735b49374c0ccda",
+    "headCenter": [
+      0,
+      0,
+      0.5828
+    ]
+  },
+  "files": [
+    "stem.glb",
+    "source.blend",
+    "front.png",
+    "left.png",
+    "back.png",
+    "right.png",
+    "head-front.png",
+    "head-back.png",
+    "head-quarter.png"
+  ],
+  "checks": {
+    "glbHeader": true,
+    "embeddedTextures": true,
+    "roundTrip": true,
+    "meshCount": 3,
+    "triangles": 120468,
+    "bytes": 2242540,
+    "boundsM": {
+      "min": [
+        -0.13554298877716064,
+        -0.12009492516517639,
+        -2.9373008146649227e-05
+      ],
+      "max": [
+        0.1344083845615387,
+        0.11527004837989807,
+        0.646119236946106
+      ]
+    },
+    "missingTextures": []
+  }
+}

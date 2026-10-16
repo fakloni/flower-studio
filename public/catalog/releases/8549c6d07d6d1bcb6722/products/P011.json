@@ -1,0 +1,164 @@
+{
+  "id": "P011",
+  "flowerId": "F011",
+  "name": "栀子叶",
+  "group": "栀子叶",
+  "subgroup": "栀子叶",
+  "scientificName": "Gardenia jasminoides",
+  "nameStatus": "类别有来源；SKU待核实",
+  "roles": [
+    "叶材"
+  ],
+  "roleStatus": "project-suggestion",
+  "roleNotes": "叶材",
+  "shapeNotes": "栀子叶",
+  "ornamentalPart": "叶枝",
+  "season": {
+    "text": null,
+    "basis": null,
+    "region": null,
+    "intervals": null,
+    "status": "unknown",
+    "source": {
+      "name": null,
+      "urls": []
+    },
+    "unverifiedOriginal": null
+  },
+  "dimensions": {
+    "object": "不适用：参见叶/果/枝尺寸",
+    "minCm": null,
+    "maxCm": null,
+    "valueType": null,
+    "scope": null,
+    "notes": "叶片长度：3–25 cm（范围）\n叶片宽度：1.5–8 cm（范围）\n适用范围及来源见“尺寸证据”",
+    "source": {
+      "name": null,
+      "urls": []
+    }
+  },
+  "notes": "具体品种、颜色、开放阶段、枝长、花径及国内供货需按SKU确认。\n品类、花型、单/多头、开放阶段应分字段；本表是检索目录，不是互斥分类树。缺少SKU规格时不得自动标定真实比例。\n尺寸为天然叶片宽范围，不是切枝长；叶材供货不由栀子花期决定。\n项目检索分组，非完整植物学分类。",
+  "source": {
+    "name": "深圳市中国科学院仙湖植物园·深圳植物志",
+    "urls": [
+      "https://www.iplant.cn/fsz/info/Gardenia%20jasminoides"
+    ]
+  },
+  "checkedDate": "2026-10-13",
+  "availability": {
+    "status": "unknown",
+    "region": null
+  },
+  "sourceRecord": {
+    "sheet": "花材库",
+    "row": 12,
+    "values": {
+      "花材ID": "F011",
+      "原始／新增名称": "栀子叶",
+      "用户清单Y／空白": "Y",
+      "规范名称／别名": "栀子叶",
+      "学名／分类范围": "Gardenia jasminoides",
+      "名称核对状态": "类别有来源；SKU待核实",
+      "花材角色（项目建议）": "叶材",
+      "形态标签（项目建议）": "栀子叶",
+      "观赏部位": "叶枝",
+      "核实花季／果季": null,
+      "季节数据口径": null,
+      "季节适用地区／对象": null,
+      "用户原始月份（未验证）": null,
+      "花头尺寸对象": "不适用：参见叶/果/枝尺寸",
+      "直径下限cm": null,
+      "直径上限cm": null,
+      "数值类型": null,
+      "尺寸适用物种／品种": null,
+      "其他尺寸及数量摘要": "叶片长度：3–25 cm（范围）\n叶片宽度：1.5–8 cm（范围）\n适用范围及来源见“尺寸证据”",
+      "缺失信息／项目注意事项": "具体品种、颜色、开放阶段、枝长、花径及国内供货需按SKU确认。\n品类、花型、单/多头、开放阶段应分字段；本表是检索目录，不是互斥分类树。缺少SKU规格时不得自动标定真实比例。\n尺寸为天然叶片宽范围，不是切枝长；叶材供货不由栀子花期决定。\n项目检索分组，非完整植物学分类。",
+      "季节来源名称": null,
+      "季节来源URL": null,
+      "花头尺寸来源": null,
+      "花头尺寸来源URL": null,
+      "名称／资料来源": "深圳市中国科学院仙湖植物园·深圳植物志",
+      "名称／资料来源URL": "https://www.iplant.cn/fsz/info/Gardenia%20jasminoides",
+      "核查日期": "2026-10-13",
+      "大类": "栀子叶",
+      "小类": "栀子叶",
+      "产品ID": "P011"
+    }
+  },
+  "aliases": [
+    {
+      "name": "栀子叶",
+      "productId": "P011",
+      "relation": "平台规范商品名",
+      "restriction": "平台内部检索入口；不表示已对接同名商城SKU。",
+      "status": "需按具体商品确认",
+      "source": {
+        "name": "深圳市中国科学院仙湖植物园·深圳植物志",
+        "urls": [
+          "https://www.iplant.cn/fsz/info/Gardenia%20jasminoides"
+        ]
+      }
+    }
+  ],
+  "imageReferences": [
+    {
+      "label": "栀子叶",
+      "files": [
+        "02-49ed89ef125ca1b305e969d4c3dc4548.jpg"
+      ],
+      "productIds": [
+        "P011"
+      ],
+      "notes": "原表已有对应小类；具体品种和SKU仍按原核对状态。",
+      "seasonRestriction": "图片所列月份/全年为用户资料，未作为可靠供货期。",
+      "status": "reference-only"
+    }
+  ],
+  "assets": [],
+  "schemaVersion": 1,
+  "revision": "8549c6d07d6d1bcb6722",
+  "relatedEvidence": [
+    {
+      "id": "E021",
+      "flowerId": "F011",
+      "values": {
+        "证据ID": "E021",
+        "花材ID": "F011",
+        "花材名称": "栀子叶",
+        "测量项目": "叶片长度",
+        "下限／数值": 3,
+        "上限／数值": 25,
+        "单位": "cm",
+        "数值性质": "范围",
+        "适用物种／品种／商品": "栀子叶；植物志范围",
+        "证据类型": "植物形态参考",
+        "原数值口径（简记）": "3–25 cm",
+        "限制与解释": null,
+        "来源机构／资料": "深圳市中国科学院仙湖植物园·深圳植物志",
+        "来源URL": "https://www.iplant.cn/fsz/info/Gardenia%20jasminoides",
+        "核查日期": "2026-10-13"
+      }
+    },
+    {
+      "id": "E022",
+      "flowerId": "F011",
+      "values": {
+        "证据ID": "E022",
+        "花材ID": "F011",
+        "花材名称": "栀子叶",
+        "测量项目": "叶片宽度",
+        "下限／数值": 1.5,
+        "上限／数值": 8,
+        "单位": "cm",
+        "数值性质": "范围",
+        "适用物种／品种／商品": "栀子叶；植物志范围",
+        "证据类型": "植物形态参考",
+        "原数值口径（简记）": "1.5–8 cm",
+        "限制与解释": null,
+        "来源机构／资料": "深圳市中国科学院仙湖植物园·深圳植物志",
+        "来源URL": "https://www.iplant.cn/fsz/info/Gardenia%20jasminoides",
+        "核查日期": "2026-10-13"
+      }
+    }
+  ]
+}

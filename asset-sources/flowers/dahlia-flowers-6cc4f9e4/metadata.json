@@ -1,0 +1,76 @@
+{
+  "term": "dahlia",
+  "id": "190c579f-4a32-488f-9056-6e97a1e35cdf",
+  "base_id": "6cc4f9e4-1a6f-4851-8915-445888c88b5a",
+  "name": "Dahlia flowers",
+  "description": "Dahlias are vibrant, tuberous perennials native to Central America. Known for their stunning, symmetrical blooms, they come in a wide array of colors, shapes, and sizes, ranging from small pom-poms to large, dramatic flowers. They thrive in full sun and well-drained soil, blooming from midsummer through autumn, making them popular in gardens and floral arrangements. Dahlias symbolize elegance, inner strength, and creativity.",
+  "author": "Tomasz Czerniak",
+  "source_url": "https://www.blendkit.com/asset-gallery-detail/6cc4f9e4-1a6f-4851-8915-445888c88b5a/",
+  "quality": 9.0,
+  "parameters": {
+    "sexualizedContent": false,
+    "joinBlenderkitDiscounts": true,
+    "addons": true,
+    "platforms": [
+      "windows-x64",
+      "macos-arm64",
+      "linux-x64",
+      "macos-x64",
+      "windows-arm64"
+    ],
+    "faceCount": 1429651,
+    "textureResolutionMax": 4096,
+    "productionLevel": "finished",
+    "procedural": false,
+    "modelStyle": "realistic",
+    "purePbr": false,
+    "shaders": [
+      "[translucent mix shader principled add shader]"
+    ],
+    "animated": false,
+    "uv": true,
+    "textureResolutionMin": 176,
+    "engines": [
+      "[cycles]"
+    ],
+    "modifiers": [
+      "[subsurf]"
+    ],
+    "materials": [
+      "[Leaf Rocky Ground 04 Material.003 Material.003 leaf.olive Material.001]"
+    ],
+    "rig": false,
+    "simulation": true,
+    "dimensionX": 1.3668,
+    "dimensionY": 1.9886,
+    "dimensionZ": 0.9536,
+    "boundBoxMinX": -0.7001,
+    "boundBoxMinY": -0.9752,
+    "boundBoxMinZ": -0.0601,
+    "boundBoxMaxX": 0.6667,
+    "boundBoxMaxY": 1.0134,
+    "boundBoxMaxZ": 0.8935,
+    "faceCountRender": 1468051,
+    "meshPolyType": "quad_dominant",
+    "manifold": false,
+    "objectCount": 1061,
+    "nodeCount": 50,
+    "textureCount": 7,
+    "megapixels": 81,
+    "gltfGeneratedDate": "2024-11-21"
+  },
+  "downloaded": [
+    {
+      "path": "asset-sources\\flowers\\dahlia-flowers-6cc4f9e4\\original.blend",
+      "bytes": 239129791,
+      "type": "blend"
+    },
+    {
+      "path": "asset-sources\\flowers\\dahlia-flowers-6cc4f9e4\\original.glb",
+      "bytes": 32517220,
+      "type": "gltf"
+    }
+  ],
+  "acquired_date": "2026-10-12",
+  "status": "downloaded_pending_blender_review"
+}

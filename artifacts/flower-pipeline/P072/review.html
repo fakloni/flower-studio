@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="zh-CN">
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>非洲菊 · 单支建模试点</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#f5f3ee;color:#283c2f;font:15px/1.6 system-ui,sans-serif}main{max-width:1320px;margin:auto;padding:28px}h1{font-size:27px;margin:0}p{margin:8px 0;color:#647064}.panes{display:grid;grid-template-columns:1fr 1.35fr;gap:22px;margin-top:22px}.panel{background:#fffdf9;border:1px solid #dfe3d9;border-radius:12px;padding:18px}.reference{width:100%;height:460px;object-fit:contain}#stage{height:530px;position:relative;background:#f9f7f1;border-radius:8px;overflow:hidden}canvas{width:100%;height:100%;display:block}button{padding:8px 16px;background:white;color:#283c2f;border:1px solid #c7d0c4;border-radius:6px;cursor:pointer;margin-right:7px}button[aria-pressed=true]{background:#334c3d;color:white}#status{font-size:13px}.toolbar{margin:12px 0}.details{display:grid;grid-template-columns:repeat(3,1fr);gap:15px;margin-top:20px}.details img{width:100%;background:#fffdf9}a{color:#426148}h2{font-size:17px;margin:0 0 8px}@media(max-width:760px){main{padding:15px}.panes{grid-template-columns:1fr}.reference{height:280px}#stage{height:460px}.details{grid-template-columns:1fr}}
+</style>
+<script type="importmap">{"imports":{"three":"/node_modules/three/build/three.module.js","three/addons/":"/node_modules/three/examples/jsm/"}}</script>
+<main>
+<h1>非洲菊 · 单支建模试点</h1>
+<p>真实花头照片指导外观，AI 图片辅助材质，Blender 控制尺寸与结构。当前为制作候选，精确品种结构及背面仍待复核。</p>
+<div class="panes">
+<section class="panel"><h2>真实花头参考 · Atlanta</h2><img class="reference" src="/artifacts/catalog-media-audit/candidates/P072/0a90aa0bc4e1_atlanta_01.jpg" alt="育种方的 Atlanta 橙色非洲菊花头"><p><a href="https://www.hilverdaflorist.com/en/assortment/cut-flowers/assortment-cut-flowers/gerbera-standard-atlanta">HilverdaFlorist 原始来源</a> · 原图证明正面外观。</p></section>
+<section class="panel"><h2>可旋转的单支模型</h2><div id="stage"></div><div class="toolbar"><button data-view="whole" aria-pressed="true">整支</button><button data-view="head" aria-pressed="false">花头</button><button data-view="back" aria-pressed="false">背面</button></div><div id="status" role="status">模型正在载入…</div><p>拖动旋转，滚轮缩放。尺寸采用来源参考参数，未实测这支花。</p><a href="v3/stem.glb" download>下载 GLB</a> · <a href="v3/source.blend" download>下载 Blender 源文件</a></section>
+</div>
+<div class="details"><section class="panel"><h2>模型渲染 · 正面</h2><img src="v3/head-front.png" alt="模型花头正面"></section><section class="panel"><h2>模型渲染 · 背面</h2><img src="v3/head-back.png" alt="模型花托背面"></section><section class="panel"><h2>模型渲染 · 侧前方</h2><img src="v3/head-quarter.png" alt="模型花头侧前方"></section></div>
+</main>
+<script type="module">
+import * as THREE from 'three';
+import {GLTFLoader} from 'three/addons/loaders/GLTFLoader.js';
+import {OrbitControls} from 'three/addons/controls/OrbitControls.js';
+const stage=document.getElementById('stage'),status=document.getElementById('status');
+try{
+ const renderer=new THREE.WebGLRenderer({antialias:true});renderer.setPixelRatio(Math.min(devicePixelRatio,2));renderer.setClearColor(0xf9f7f1);renderer.outputColorSpace=THREE.SRGBColorSpace;renderer.toneMapping=THREE.ACESFilmicToneMapping;renderer.toneMappingExposure=.85;stage.appendChild(renderer.domElement);
+ const scene=new THREE.Scene(),camera=new THREE.PerspectiveCamera(38,1,.001,10),controls=new OrbitControls(camera,renderer.domElement);controls.enableDamping=true;
+ scene.add(new THREE.HemisphereLight(0xffffff,0x788371,1.7));const light=new THREE.DirectionalLight(0xffffff,2.2);light.position.set(-.3,1,.5);scene.add(light);const fill=new THREE.DirectionalLight(0xffffff,1);fill.position.set(.5,.4,-.4);scene.add(fill);
+ function view(name){const head=new THREE.Vector3(.009,.65,-.003);if(name==='whole'){controls.target.set(.005,.335,0);camera.position.set(.18,.40,1.10)}else{controls.target.copy(head);const direction=new THREE.Vector3(0,.69,.72).normalize().multiplyScalar(name==='back'?-.24:.24);camera.position.copy(head).add(direction)}controls.update();document.querySelectorAll('[data-view]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.view===name)));stage.dataset.view=name;}
+ function resize(){renderer.setSize(stage.clientWidth,stage.clientHeight);camera.aspect=stage.clientWidth/stage.clientHeight;camera.updateProjectionMatrix()}new ResizeObserver(resize).observe(stage);resize();view('whole');
+ new GLTFLoader().load('v3/stem.glb',gltf=>{scene.add(gltf.scene);let triangles=0;gltf.scene.traverse(o=>{if(o.isMesh)triangles+=(o.geometry.index?o.geometry.index.count:o.geometry.attributes.position.count)/3});status.textContent=`已载入 · 单支候选 · ${triangles.toLocaleString('zh-CN')} 个三角面`;stage.dataset.loaded='true';},undefined,e=>{console.error(e);status.textContent='模型载入失败，请检查本地预览服务。';stage.dataset.loaded='false'});
+ document.querySelectorAll('[data-view]').forEach(button=>button.addEventListener('click',()=>view(button.dataset.view)));
+ renderer.setAnimationLoop(()=>{controls.update();renderer.render(scene,camera)});
+}catch(e){console.error(e);status.textContent='此环境无法创建 3D 预览，可查看下方渲染图片。'}
+</script>
+</html>

@@ -1,0 +1,303 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 3,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "81569799": {
+        "pageid": 81569799,
+        "ns": 6,
+        "title": "File:Acomis macra.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 260502,
+            "width": 790,
+            "height": 2663,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Acomis_macra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Acomis_macra.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81569799",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-08-24 03:06:52",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Acomis macra",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Photos uploaded from Flickr by Fæ using a script|Extracted images|Files from Internet Archive Book Images Flickr stream|Files from Flickr's 'The Commons'|Comprehensive catalogue of Queensland plants, both indigenous and naturalised (1909)|Acomis macra - botanical illustrations",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<br>\n<p><b>Identifier</b>: comprehensivecat00bail (<a class=\"external text\" href=\"https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&amp;profile=default&amp;fulltext=Search&amp;search=insource%3A%2Fcomprehensivecat00bail%2F\">find matches</a>)<br>\n<b>Title</b>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookidcomprehensivecat00bail\">Comprehensive catalogue of Queensland plants, both indigenous and naturalised. To which are added, where known, the aboriginal and other vernacular names; with numerous illustrations, and copious notes on the properties, features, &amp;c., of the plants</a><br>\n<b>Year</b>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookyear1909\">1909</a> (<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookdecade1900\">1900s</a>)<br>\n<b>Authors</b>:  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookauthorBailey__Frederick_Manson__1827_1915\">Bailey, Frederick Manson, 1827-1915</a><br>\n<b>Subjects</b>:  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/booksubjectBotany\">Botany</a><br>\n<b>Publisher</b>:  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookpublisherBrisbane__A__J__Cumming__government_printer\">Brisbane, A. J. Cumming, government printer</a><br>\n<b>Contributing Library</b>:  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookcontributorSmithsonian_Libraries\">Smithsonian Libraries</a><br>\n<b>Digitizing Sponsor</b>:  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/booksponsorBiodiversity_Heritage_Library\">Biodiversity Heritage Library</a><br>\n<br>\n<b>View Book Page</b>: <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/stream/comprehensivecat00bail/comprehensivecat00bail#page/n296/mode/1up\">Book Viewer</a><br>\n<b>About This Book</b>: <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/details/comprehensivecat00bail\">Catalog Entry</a><br>\n<b>View All Images</b>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookidcomprehensivecat00bail\">All Images From Book</a><br>\nClick here to <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/stream/comprehensivecat00bail/comprehensivecat00bail#page/n296/mode/1up\"><b>view book online</b></a> to see this illustration in context in a browseable online version of this book.<br>\n<br>\n<b>Text Appearing Before Image:</b><br>\n<i>68 LXV. COMPOSITE. Rutidosis, DC. helichrysoides, DC. lencantha, F. v. M. Murchisonii, F.v.M. (Fig. 239.)Ammobium, R. Br. alatum, R. Br.Eriochlamys, Sond. et F. v. M. Behrii, S. et M.Phacellothrix, F. v. M. cladochaeta, F. v. M. = Rutidosis Broivnii, Benth.; Helichry-sum cladochcptum, F. v. M.Acomis, F. v. M. Rutidosis, F. v. M. macra, F.v.M. (Fig. 240.) Lesteri, Burkill in Kew Bull. (1901) 140.M)^riocephalus, Benth. rhizocephalus, Benth. Rudallii, Benth. Stuartii, Benth.Angianthus, JVendl. brachypappus, F. v. M. pusillus, Benth.Gnephosis, Cass. arachnoidea, Turcz. cyathopappa, Benth. eriocarpa, Benth.•Calocephalus, R. Br. platycephalus, Benth. citreus, Less. Sonderi, F. v. M. Dittrichii, F. v. M.Gnaphalodes, A. Gray. uliginosum, A. Gray.Craspedia, Forst. Richea, Cass. pleiocephala, F. v. M. chrysantha, Benth. globosa, Benth.Fodolepis, Labill. rhytidochlamys, F.v.M. longipedata, A. Cunn. 1 acuminata, R. Br. canescens, A. Cunn. Siemssenia, F. v. M. Lessoni, Benth. LXV. COMPOSITE. 269</i><br>\n<b>Text Appearing After Image:</b><br>\n<i>f\\che-nQ.. B-nl. 239. Rutidosis Murchisonii, F. V. M. 24C. ACOMIS MACRA, F. V- M. 244. Centipeda racemosa, Hook. 270 LXV. COMPOSITE.</i><br>\n<br>\n<b>Note About Images</b><br>\n</p>\n<i>Please note that these images are extracted from scanned page images that may have been digitally enhanced for readability - coloration and appearance of these illustrations may not perfectly resemble the original work.</i>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1909",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/internetarchivebookimages/14596221529/\">https://www.flickr.com/photos/internetarchivebookimages/14596221529/</a>\n</p>\n<ul><li>Source book page: <a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/stream/comprehensivecat00bail/comprehensivecat00bail#page/n296/mode/1up\">https://archive.org/stream/comprehensivecat00bail/comprehensivecat00bail#page/n296/mode/1up</a></li></ul>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/126377022@N07\">Internet Archive Book Images</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "At the time of upload, the image license was automatically confirmed using the Flickr <a href=\"https://en.wikipedia.org/wiki/API\" class=\"extiw\" title=\"en:API\">API</a>. For more information see <a href=\"//commons.wikimedia.org/wiki/User:F%C3%A6/Flickr_API_detail\" title=\"User:Fæ/Flickr API detail\">Flickr API detail</a>.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "No restrictions",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "No known copyright restrictions",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://www.flickr.com/commons/usage/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "81569811": {
+        "pageid": 81569811,
+        "ns": 6,
+        "title": "File:Centipeda racemosa.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 255579,
+            "width": 965,
+            "height": 2077,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Centipeda_racemosa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Centipeda_racemosa.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81569811",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-08-24 03:09:08",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Centipeda racemosa",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Photos uploaded from Flickr by Fæ using a script|Extracted images|Files from Internet Archive Book Images Flickr stream|Files from Flickr's 'The Commons'|Comprehensive catalogue of Queensland plants, both indigenous and naturalised (1909)|Centipeda racemosa - botanical illustrations",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<br>\n<p><b>Identifier</b>: comprehensivecat00bail (<a class=\"external text\" href=\"https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&amp;profile=default&amp;fulltext=Search&amp;search=insource%3A%2Fcomprehensivecat00bail%2F\">find matches</a>)<br>\n<b>Title</b>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookidcomprehensivecat00bail\">Comprehensive catalogue of Queensland plants, both indigenous and naturalised. To which are added, where known, the aboriginal and other vernacular names; with numerous illustrations, and copious notes on the properties, features, &amp;c., of the plants</a><br>\n<b>Year</b>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookyear1909\">1909</a> (<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookdecade1900\">1900s</a>)<br>\n<b>Authors</b>:  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookauthorBailey__Frederick_Manson__1827_1915\">Bailey, Frederick Manson, 1827-1915</a><br>\n<b>Subjects</b>:  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/booksubjectBotany\">Botany</a><br>\n<b>Publisher</b>:  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookpublisherBrisbane__A__J__Cumming__government_printer\">Brisbane, A. J. Cumming, government printer</a><br>\n<b>Contributing Library</b>:  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookcontributorSmithsonian_Libraries\">Smithsonian Libraries</a><br>\n<b>Digitizing Sponsor</b>:  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/booksponsorBiodiversity_Heritage_Library\">Biodiversity Heritage Library</a><br>\n<br>\n<b>View Book Page</b>: <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/stream/comprehensivecat00bail/comprehensivecat00bail#page/n296/mode/1up\">Book Viewer</a><br>\n<b>About This Book</b>: <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/details/comprehensivecat00bail\">Catalog Entry</a><br>\n<b>View All Images</b>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookidcomprehensivecat00bail\">All Images From Book</a><br>\nClick here to <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/stream/comprehensivecat00bail/comprehensivecat00bail#page/n296/mode/1up\"><b>view book online</b></a> to see this illustration in context in a browseable online version of this book.<br>\n<br>\n<b>Text Appearing Before Image:</b><br>\n<i>68 LXV. COMPOSITE. Rutidosis, DC. helichrysoides, DC. lencantha, F. v. M. Murchisonii, F.v.M. (Fig. 239.)Ammobium, R. Br. alatum, R. Br.Eriochlamys, Sond. et F. v. M. Behrii, S. et M.Phacellothrix, F. v. M. cladochaeta, F. v. M. = Rutidosis Broivnii, Benth.; Helichry-sum cladochcptum, F. v. M.Acomis, F. v. M. Rutidosis, F. v. M. macra, F.v.M. (Fig. 240.) Lesteri, Burkill in Kew Bull. (1901) 140.M)^riocephalus, Benth. rhizocephalus, Benth. Rudallii, Benth. Stuartii, Benth.Angianthus, JVendl. brachypappus, F. v. M. pusillus, Benth.Gnephosis, Cass. arachnoidea, Turcz. cyathopappa, Benth. eriocarpa, Benth.•Calocephalus, R. Br. platycephalus, Benth. citreus, Less. Sonderi, F. v. M. Dittrichii, F. v. M.Gnaphalodes, A. Gray. uliginosum, A. Gray.Craspedia, Forst. Richea, Cass. pleiocephala, F. v. M. chrysantha, Benth. globosa, Benth.Fodolepis, Labill. rhytidochlamys, F.v.M. longipedata, A. Cunn. 1 acuminata, R. Br. canescens, A. Cunn. Siemssenia, F. v. M. Lessoni, Benth. LXV. COMPOSITE. 269</i><br>\n<b>Text Appearing After Image:</b><br>\n<i>f\\che-nQ.. B-nl. 239. Rutidosis Murchisonii, F. V. M. 24C. ACOMIS MACRA, F. V- M. 244. Centipeda racemosa, Hook. 270 LXV. COMPOSITE.</i><br>\n<br>\n<b>Note About Images</b><br>\n</p>\n<i>Please note that these images are extracted from scanned page images that may have been digitally enhanced for readability - coloration and appearance of these illustrations may not perfectly resemble the original work.</i>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1909",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/internetarchivebookimages/14596221529/\">https://www.flickr.com/photos/internetarchivebookimages/14596221529/</a>\n</p>\n<ul><li>Source book page: <a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/stream/comprehensivecat00bail/comprehensivecat00bail#page/n296/mode/1up\">https://archive.org/stream/comprehensivecat00bail/comprehensivecat00bail#page/n296/mode/1up</a></li></ul>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/126377022@N07\">Internet Archive Book Images</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "At the time of upload, the image license was automatically confirmed using the Flickr <a href=\"https://en.wikipedia.org/wiki/API\" class=\"extiw\" title=\"en:API\">API</a>. For more information see <a href=\"//commons.wikimedia.org/wiki/User:F%C3%A6/Flickr_API_detail\" title=\"User:Fæ/Flickr API detail\">Flickr API detail</a>.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "No restrictions",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "No known copyright restrictions",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://www.flickr.com/commons/usage/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "151119716": {
+        "pageid": 151119716,
+        "ns": 6,
+        "title": "File:Craspedia globosa.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5372331,
+            "width": 2592,
+            "height": 4608,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Craspedia_globosa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Craspedia_globosa.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151119716",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-08-03 13:25:16",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Craspedia globosa",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Pycnosorus globosus|Potted plants|Self-published work|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "54.426500",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "10.167206",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Trommelstöckchen",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-08-03 15:18:05",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Hnsjrgnweis\" title=\"User:Hnsjrgnweis\">Hnsjrgnweis</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    }
+  }
+}

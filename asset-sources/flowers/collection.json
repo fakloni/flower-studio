@@ -1,0 +1,930 @@
+[
+  {
+    "term": "rose",
+    "id": "158e576c-af6f-41b3-8e30-6bccc488c01a",
+    "base_id": "55ed9e1d-2ef8-4e40-b7ba-f818f09b92a0",
+    "name": "Astilbe White Rose",
+    "description": "Astilbe /əˈstɪlbiː/ is a genus of 18 species of rhizomatous flowering plants within the family Saxifragaceae, native to mountain ravines and woodlands in Asia and North America.",
+    "author": "Alexander Novgorodtsev",
+    "source_url": "https://www.blendkit.com/asset-gallery-detail/55ed9e1d-2ef8-4e40-b7ba-f818f09b92a0/",
+    "quality": 7.923076923076923,
+    "parameters": {
+      "sexualizedContent": false,
+      "joinBlenderkitDiscounts": true,
+      "addons": true,
+      "platforms": [
+        "windows-x64",
+        "macos-arm64",
+        "linux-x64",
+        "macos-x64",
+        "windows-arm64"
+      ],
+      "faceCount": 231638,
+      "textureResolutionMax": 1202,
+      "productionLevel": "finished",
+      "procedural": false,
+      "modelStyle": "realistic",
+      "condition": "new",
+      "purePbr": true,
+      "shaders": [
+        "translucent",
+        "mix shader",
+        "transparent",
+        "principled"
+      ],
+      "pbrType": "metallic",
+      "uv": true,
+      "textureResolutionMin": 800,
+      "engines": [
+        "cycles"
+      ],
+      "modifiers": [
+        ""
+      ],
+      "materials": [
+        "Ligularia leaf",
+        "Ligularia stem",
+        "Ligularia flwoer 2",
+        "Ligularia flwoers"
+      ],
+      "rig": false,
+      "simulation": false,
+      "dimensionX": 1.3941,
+      "dimensionY": 1.3819,
+      "dimensionZ": 0.8247,
+      "boundBoxMinX": -0.6877,
+      "boundBoxMinY": -0.7531,
+      "boundBoxMinZ": -0.0017,
+      "boundBoxMaxX": 0.7064,
+      "boundBoxMaxY": 0.6288,
+      "boundBoxMaxZ": 0.823,
+      "faceCountRender": 231638,
+      "meshPolyType": "quad_dominant",
+      "manifold": false,
+      "objectCount": 83,
+      "nodeCount": 41,
+      "textureCount": 2,
+      "megapixels": 2
+    },
+    "downloaded": [
+      {
+        "path": "asset-sources\\flowers\\astilbe-white-rose-55ed9e1d\\original.blend",
+        "bytes": 14143663,
+        "type": "blend"
+      }
+    ],
+    "acquired_date": "2026-10-12",
+    "status": "downloaded_pending_blender_review"
+  },
+  {
+    "term": "rose",
+    "id": "d787bf32-f23c-40d5-be61-03fda5207109",
+    "base_id": "f357a769-16a9-4ece-a9fe-17d322d6e8ee",
+    "name": "Red rose flower",
+    "description": "red rose flower \r\n\r\npoly : 1053\r\n\r\n4K PBR material\r\n\r\nready for Eevee and cycles",
+    "author": "Soran Mohammadi",
+    "source_url": "https://www.blendkit.com/asset-gallery-detail/f357a769-16a9-4ece-a9fe-17d322d6e8ee/",
+    "quality": 9.25,
+    "parameters": {
+      "sexualizedContent": false,
+      "joinBlenderkitDiscounts": true,
+      "addons": true,
+      "platforms": [
+        "windows-x64",
+        "macos-arm64",
+        "linux-x64",
+        "macos-x64",
+        "windows-arm64"
+      ],
+      "faceCount": 1053,
+      "productionLevel": "finished",
+      "procedural": true,
+      "modelStyle": "realistic",
+      "condition": "new",
+      "purePbr": true,
+      "shaders": [
+        "[]"
+      ],
+      "uv": true,
+      "engines": [
+        "[cycles]"
+      ],
+      "modifiers": [
+        "[solidify subsurf]"
+      ],
+      "materials": [
+        "[Material_5_Mat Material_4_Mat Material_3_Mat Material_2_Mat Material_Mat]"
+      ],
+      "rig": false,
+      "simulation": false,
+      "dimensionX": 0.1997,
+      "dimensionY": 0.1926,
+      "dimensionZ": 0.4277,
+      "boundBoxMinX": -0.0962,
+      "boundBoxMinY": -0.0923,
+      "boundBoxMinZ": -0.0001,
+      "boundBoxMaxX": 0.1035,
+      "boundBoxMaxY": 0.1003,
+      "boundBoxMaxZ": 0.4276,
+      "faceCountRender": 16925,
+      "meshPolyType": "quad_dominant",
+      "manifold": false,
+      "objectCount": 7,
+      "nodeCount": 0,
+      "textureCount": 0,
+      "megapixels": 0,
+      "gltfGeneratedError": "[Errno 2] No such file or directory: '/tmp/tmpc2tuf8q7/f357a769-16a9-4ece-a9fe-17d322d6e8ee_resdata.json' Files are None",
+      "gltfGodotGeneratedError": "[Errno 2] No such file or directory: '/tmp/tmpwpn2d4um/f357a769-16a9-4ece-a9fe-17d322d6e8ee_resdata.json' Files are None"
+    },
+    "downloaded": [
+      {
+        "path": "asset-sources\\flowers\\red-rose-flower-f357a769\\original.blend",
+        "bytes": 9844298,
+        "type": "blend"
+      }
+    ],
+    "acquired_date": "2026-10-12",
+    "status": "downloaded_pending_blender_review"
+  },
+  {
+    "term": "rose",
+    "id": "95fa6fa6-9311-4acf-9db2-6f70102b3cd5",
+    "base_id": "ea9ca32a-c914-4309-b9cd-3d243f42f286",
+    "name": "Roses in Twisted Glass Vase",
+    "description": "This photorealistic 3D model depicts a delicate floral arrangement featuring two soft pink roses with lush green leaves, elegantly displayed in a twisted, transparent glass vase against a minimalist dark background.",
+    "author": "Ken Xie",
+    "source_url": "https://www.blendkit.com/asset-gallery-detail/ea9ca32a-c914-4309-b9cd-3d243f42f286/",
+    "quality": 8.0,
+    "parameters": {
+      "sexualizedContent": false,
+      "joinBlenderkitDiscounts": true,
+      "addons": true,
+      "platforms": [
+        "windows-x64",
+        "macos-arm64",
+        "linux-x64",
+        "macos-x64",
+        "windows-arm64"
+      ],
+      "faceCount": 30040,
+      "productionLevel": "finished",
+      "procedural": true,
+      "modelStyle": "realistic",
+      "condition": "new",
+      "validatedManufacturer": true,
+      "validatedManufacturerDate": "2026-07-02T09:47:49.775102+00:00",
+      "validatedManufacturerActor": "no_data",
+      "shaders": [
+        "[]"
+      ],
+      "uv": true,
+      "engines": [
+        "[cycles]"
+      ],
+      "modifiers": [
+        "[subsurf]"
+      ],
+      "materials": [
+        "[Material.001 Material.005 Material.004 Material.006 Material.002 Advanced Glass With Imperfections]"
+      ],
+      "rig": false,
+      "simulation": false,
+      "dimensionX": 0.2833,
+      "dimensionY": 0.3105,
+      "dimensionZ": 0.336,
+      "boundBoxMinX": -0.1149,
+      "boundBoxMinY": -0.1854,
+      "boundBoxMinZ": 0.0002,
+      "boundBoxMaxX": 0.1684,
+      "boundBoxMaxY": 0.1251,
+      "boundBoxMaxZ": 0.3363,
+      "faceCountRender": 119986,
+      "meshPolyType": "quad_dominant",
+      "manifold": false,
+      "objectCount": 9,
+      "nodeCount": 0,
+      "textureCount": 0,
+      "megapixels": 0,
+      "gltfGeneratedDate": "2026-07-02",
+      "gltfGodotGeneratedError": "bg_returncode=-11 [Errno 2] No such file or directory: '/tmp/tmplj4rf4ad/ea9ca32a-c914-4309-b9cd-3d243f42f286_resdata.json' Files are None",
+      "processingDate": "2026-07-02T09:49:54.859290+00:00"
+    },
+    "downloaded": [
+      {
+        "path": "asset-sources\\flowers\\roses-in-twisted-glass-vase-ea9ca32a\\original.blend",
+        "bytes": 12717540,
+        "type": "blend"
+      },
+      {
+        "path": "asset-sources\\flowers\\roses-in-twisted-glass-vase-ea9ca32a\\original.glb",
+        "bytes": 1180448,
+        "type": "gltf"
+      }
+    ],
+    "acquired_date": "2026-10-12",
+    "status": "downloaded_pending_blender_review"
+  },
+  {
+    "term": "tulip",
+    "id": "f96047c8-13c5-4cd8-8762-18d53a3f9782",
+    "base_id": "8f69e8a9-6394-487b-9426-898edef0398e",
+    "name": "Tulips in a pot",
+    "description": "Bouquet of tulips in a metal pot with patterns",
+    "author": "Mesk911 ",
+    "source_url": "https://www.blendkit.com/asset-gallery-detail/8f69e8a9-6394-487b-9426-898edef0398e/",
+    "quality": 4.5,
+    "parameters": {
+      "sexualizedContent": false,
+      "joinBlenderkitDiscounts": true,
+      "addons": true,
+      "platforms": [
+        "windows-x64",
+        "macos-arm64",
+        "linux-x64",
+        "macos-x64",
+        "windows-arm64"
+      ],
+      "faceCount": 58051,
+      "textureResolutionMax": 1109,
+      "productionLevel": "finished",
+      "procedural": false,
+      "modelStyle": "realistic",
+      "purePbr": true,
+      "shaders": [
+        "principled",
+        "translucent",
+        "mix shader",
+        "transparent",
+        "add shader"
+      ],
+      "animated": false,
+      "pbrType": "metallic",
+      "uv": true,
+      "textureResolutionMin": 225,
+      "engines": [
+        "cycles"
+      ],
+      "modifiers": [
+        ""
+      ],
+      "materials": [
+        "kashpo",
+        "leaf",
+        "petal",
+        "pestle",
+        "stamen"
+      ],
+      "rig": false,
+      "simulation": false,
+      "dimensionX": 0.4173,
+      "dimensionY": 0.3883,
+      "dimensionZ": 0.4117,
+      "boundBoxMinX": -0.2266,
+      "boundBoxMinY": -0.1917,
+      "boundBoxMinZ": 0.0,
+      "boundBoxMaxX": 0.1907,
+      "boundBoxMaxY": 0.1966,
+      "boundBoxMaxZ": 0.4117,
+      "faceCountRender": 58051,
+      "meshPolyType": "quad_dominant",
+      "manifold": false,
+      "objectCount": 23,
+      "nodeCount": 30,
+      "textureCount": 6,
+      "megapixels": 1,
+      "imageCaptionInterrogator": "there is a white vase with white flowers in it, octane render : :, knitted mesh material, tulip, it\\'s name is greeny, generative adversarial network, model miniature, white frame border, inspired by Laurits Tuxen, rpg item render, paper cup, octsne render",
+      "imageAltTextGen3": "\"Nature-inspired 3D model of a metal pot holding a bouquet of tulips, rendered with Octane for Blender 3D. The intricate patterns on the pot and knitted mesh material add a realistic touch to the white flowers. Perfect for interior design and virtual reality applications.\"",
+      "imageAltTextGen4v": "White tulip bouquet 3D model in ornate pot for Blender rendering."
+    },
+    "downloaded": [
+      {
+        "path": "asset-sources\\flowers\\tulips-in-a-pot-8f69e8a9\\original.blend",
+        "bytes": 1951901,
+        "type": "blend"
+      }
+    ],
+    "acquired_date": "2026-10-12",
+    "status": "downloaded_pending_blender_review"
+  },
+  {
+    "term": "tulip",
+    "id": "8badc532-0be7-45a6-8a67-25af80b2b9ed",
+    "base_id": "0491f2a6-9522-453f-baa0-fdb005995667",
+    "name": "Tulips",
+    "description": "Red, Orange, Pink and Yellow Tulips in Planter",
+    "author": "Rick Van Dyk",
+    "source_url": "https://www.blendkit.com/asset-gallery-detail/0491f2a6-9522-453f-baa0-fdb005995667/",
+    "quality": 7.0,
+    "parameters": {
+      "sexualizedContent": false,
+      "joinBlenderkitDiscounts": true,
+      "addons": true,
+      "platforms": [
+        "windows-x64",
+        "macos-arm64",
+        "linux-x64",
+        "macos-x64",
+        "windows-arm64"
+      ],
+      "faceCount": 47365,
+      "textureResolutionMax": 1024,
+      "productionLevel": "finished",
+      "procedural": false,
+      "modelStyle": "realistic",
+      "condition": "new",
+      "shaders": [
+        "mix shader",
+        "translucent",
+        "principled"
+      ],
+      "uv": true,
+      "textureResolutionMin": 1024,
+      "engines": [
+        "cycles"
+      ],
+      "modifiers": [
+        "subsurf",
+        "particle system"
+      ],
+      "materials": [
+        "Leaft2.002",
+        "PetalRedYellow.007",
+        "Leaf3.002",
+        "Leaf1.002",
+        "PetalRedYellow.008",
+        "PetalRedYellow.005",
+        "PetalRedYellow.006",
+        "Clay 01.002",
+        "forest ground 1.002"
+      ],
+      "rig": false,
+      "simulation": true,
+      "dimensionX": 0.321,
+      "dimensionY": 0.184,
+      "dimensionZ": 0.1404,
+      "boundBoxMinX": -0.1605,
+      "boundBoxMinY": -0.092,
+      "boundBoxMinZ": 0.0001,
+      "boundBoxMaxX": 0.1605,
+      "boundBoxMaxY": 0.092,
+      "boundBoxMaxZ": 0.1406,
+      "faceCountRender": 66100,
+      "meshPolyType": "quad_dominant",
+      "manifold": false,
+      "objectCount": 5,
+      "nodeCount": 121,
+      "textureCount": 10,
+      "megapixels": 10,
+      "imageCaptionInterrogator": "there are many different colored flowers in a vase on a table, kitbash 3 d texture vibrant, brutalist illustration, brick, inspired by Willem Jacobsz Delff, 8k archival print, tulip, award winning work, procedural, spring vibes, creating a thin monolith, trending on artstattion, pot plants",
+      "imageAltTextGen3": "\"Vibrant Tulip Bouquet in a Planter - 3D Model for Blender 3D\"",
+      "imageAltTextGen4v": "Colorful tulip bouquet 3D model with detailed petals and leaves, ideal for Blender rendering."
+    },
+    "downloaded": [
+      {
+        "path": "asset-sources\\flowers\\tulips-0491f2a6\\original.blend",
+        "bytes": 5603019,
+        "type": "blend"
+      }
+    ],
+    "acquired_date": "2026-10-12",
+    "status": "downloaded_pending_blender_review"
+  },
+  {
+    "term": "hydrangea",
+    "id": "a56857f6-b2bb-4bbf-8fb1-d034e3984347",
+    "base_id": "0a565b11-2f7a-4925-939d-1a9048824fae",
+    "name": "Hydrangea  light yellow",
+    "description": "A plant that has a bright color and belongs to the class dicotyledonous, the order dogwood, the family hydrangea, the genus hydrangea. The Latin name hydrangea hydrangea means \"vessel of water\".",
+    "author": "Alexander Novgorodtsev",
+    "source_url": "https://www.blendkit.com/asset-gallery-detail/0a565b11-2f7a-4925-939d-1a9048824fae/",
+    "quality": 9.444444444444445,
+    "parameters": {
+      "sexualizedContent": false,
+      "joinBlenderkitDiscounts": true,
+      "addons": true,
+      "platforms": [
+        "windows-x64",
+        "macos-arm64",
+        "linux-x64",
+        "macos-x64",
+        "windows-arm64"
+      ],
+      "faceCount": 2182670,
+      "textureResolutionMax": 1200,
+      "productionLevel": "finished",
+      "procedural": false,
+      "modelStyle": "realistic",
+      "condition": "new",
+      "purePbr": true,
+      "shaders": [
+        "principled",
+        "mix shader",
+        "transparent",
+        "translucent"
+      ],
+      "pbrType": "metallic",
+      "uv": true,
+      "textureResolutionMin": 800,
+      "engines": [
+        "cycles"
+      ],
+      "modifiers": [
+        ""
+      ],
+      "materials": [
+        "hydrangea leaf",
+        "hydrangea stem",
+        "small flower stems",
+        "alpha bud",
+        "hydrangea flower light yellow",
+        "hydrangea flower light yellow 2"
+      ],
+      "rig": false,
+      "simulation": false,
+      "dimensionX": 1.3004,
+      "dimensionY": 1.6689,
+      "dimensionZ": 0.8343,
+      "boundBoxMinX": -0.5461,
+      "boundBoxMinY": -0.7522,
+      "boundBoxMinZ": -0.0349,
+      "boundBoxMaxX": 0.7543,
+      "boundBoxMaxY": 0.9166,
+      "boundBoxMaxZ": 0.7993,
+      "faceCountRender": 2182670,
+      "meshPolyType": "tri_dominant",
+      "manifold": false,
+      "objectCount": 2,
+      "nodeCount": 44,
+      "textureCount": 1,
+      "megapixels": 1,
+      "imageAltTextGen4v": "Light yellow Hydrangea 3D model showing detailed textures and realistic shading, suitable for Blender nature scenes."
+    },
+    "downloaded": [
+      {
+        "path": "asset-sources\\flowers\\hydrangea-light-yellow-0a565b11\\original.blend",
+        "bytes": 79945152,
+        "type": "blend"
+      }
+    ],
+    "acquired_date": "2026-10-12",
+    "status": "downloaded_pending_blender_review"
+  },
+  {
+    "term": "lily",
+    "id": "99405ff2-af3c-49fa-aeb1-b157314e2e68",
+    "base_id": "58da4cc5-9a30-470b-9dd0-b66a7614fd44",
+    "name": "Red Spider Lily",
+    "description": "Red Spider Lily or Lycoris radiata has showy, bright-red flowers. When in full bloom, spindly stamens, likened to the image of spider legs.",
+    "author": "Miklós Malinovszky",
+    "source_url": "https://www.blendkit.com/asset-gallery-detail/58da4cc5-9a30-470b-9dd0-b66a7614fd44/",
+    "quality": 7.0,
+    "parameters": {
+      "sexualizedContent": false,
+      "joinBlenderkitDiscounts": true,
+      "addons": true,
+      "platforms": [
+        "windows-x64",
+        "macos-arm64",
+        "linux-x64",
+        "macos-x64",
+        "windows-arm64"
+      ],
+      "faceCount": 258970,
+      "textureResolutionMax": 1024,
+      "productionLevel": "finished",
+      "procedural": false,
+      "modelStyle": "realistic",
+      "purePbr": false,
+      "shaders": [
+        "[principled principled volume]"
+      ],
+      "animated": false,
+      "uv": true,
+      "textureResolutionMin": 1024,
+      "engines": [
+        "[cycles]"
+      ],
+      "modifiers": [
+        "[]"
+      ],
+      "materials": [
+        "[stem mist flowerRed flowerStem flowerPollen flowerDarkRed flowerYellow]"
+      ],
+      "rig": false,
+      "simulation": false,
+      "dimensionX": 0.4794,
+      "dimensionY": 0.4679,
+      "dimensionZ": 0.6129,
+      "boundBoxMinX": -0.2487,
+      "boundBoxMinY": -0.2291,
+      "boundBoxMinZ": -0.0165,
+      "boundBoxMaxX": 0.2306,
+      "boundBoxMaxY": 0.2388,
+      "boundBoxMaxZ": 0.5964,
+      "faceCountRender": 258970,
+      "meshPolyType": "quad",
+      "manifold": false,
+      "objectCount": 8,
+      "nodeCount": 45,
+      "textureCount": 1,
+      "megapixels": 1,
+      "imageAltTextGen4v": "Detailed 3D render of a Red Spider Lily with vibrant petals and realistic textures for Blender modeling."
+    },
+    "downloaded": [
+      {
+        "path": "asset-sources\\flowers\\red-spider-lily-58da4cc5\\original.blend",
+        "bytes": 14855160,
+        "type": "blend"
+      }
+    ],
+    "acquired_date": "2026-10-12",
+    "status": "downloaded_pending_blender_review"
+  },
+  {
+    "term": "dahlia",
+    "id": "190c579f-4a32-488f-9056-6e97a1e35cdf",
+    "base_id": "6cc4f9e4-1a6f-4851-8915-445888c88b5a",
+    "name": "Dahlia flowers",
+    "description": "Dahlias are vibrant, tuberous perennials native to Central America. Known for their stunning, symmetrical blooms, they come in a wide array of colors, shapes, and sizes, ranging from small pom-poms to large, dramatic flowers. They thrive in full sun and well-drained soil, blooming from midsummer through autumn, making them popular in gardens and floral arrangements. Dahlias symbolize elegance, inner strength, and creativity.",
+    "author": "Tomasz Czerniak",
+    "source_url": "https://www.blendkit.com/asset-gallery-detail/6cc4f9e4-1a6f-4851-8915-445888c88b5a/",
+    "quality": 9.0,
+    "parameters": {
+      "sexualizedContent": false,
+      "joinBlenderkitDiscounts": true,
+      "addons": true,
+      "platforms": [
+        "windows-x64",
+        "macos-arm64",
+        "linux-x64",
+        "macos-x64",
+        "windows-arm64"
+      ],
+      "faceCount": 1429651,
+      "textureResolutionMax": 4096,
+      "productionLevel": "finished",
+      "procedural": false,
+      "modelStyle": "realistic",
+      "purePbr": false,
+      "shaders": [
+        "[translucent mix shader principled add shader]"
+      ],
+      "animated": false,
+      "uv": true,
+      "textureResolutionMin": 176,
+      "engines": [
+        "[cycles]"
+      ],
+      "modifiers": [
+        "[subsurf]"
+      ],
+      "materials": [
+        "[Leaf Rocky Ground 04 Material.003 Material.003 leaf.olive Material.001]"
+      ],
+      "rig": false,
+      "simulation": true,
+      "dimensionX": 1.3668,
+      "dimensionY": 1.9886,
+      "dimensionZ": 0.9536,
+      "boundBoxMinX": -0.7001,
+      "boundBoxMinY": -0.9752,
+      "boundBoxMinZ": -0.0601,
+      "boundBoxMaxX": 0.6667,
+      "boundBoxMaxY": 1.0134,
+      "boundBoxMaxZ": 0.8935,
+      "faceCountRender": 1468051,
+      "meshPolyType": "quad_dominant",
+      "manifold": false,
+      "objectCount": 1061,
+      "nodeCount": 50,
+      "textureCount": 7,
+      "megapixels": 81,
+      "gltfGeneratedDate": "2024-11-21"
+    },
+    "downloaded": [
+      {
+        "path": "asset-sources\\flowers\\dahlia-flowers-6cc4f9e4\\original.blend",
+        "bytes": 239129791,
+        "type": "blend"
+      },
+      {
+        "path": "asset-sources\\flowers\\dahlia-flowers-6cc4f9e4\\original.glb",
+        "bytes": 32517220,
+        "type": "gltf"
+      }
+    ],
+    "acquired_date": "2026-10-12",
+    "status": "downloaded_pending_blender_review"
+  },
+  {
+    "term": "orchid",
+    "id": "9a517065-6ded-4c61-8bf3-b6447f1a0c08",
+    "base_id": "b7527f26-6d8a-45c9-97c5-19889c042fed",
+    "name": "SJ-Mystic Garden Serenity Fern",
+    "description": "Step into a world of botanical enchantment with our stunning Lavender Crystal Fantasy Bloom! This mesmerizing plant captures the essence of nature’s beauty, blending the elegance of delicate purple petals with a shimmering crystalline texture. A perfect addition to any 3D interior or exterior scene, this exquisite creation brings a sense of tranquility and sophistication.Designed with precision, this 3D botanical masterpiece is ideal for architectural visualization, gaming environments, and CGI rendering. Every intricate detail, from the gentle lavender hues to the intricately crafted leaves, exudes realism and charm. Whether placed in a modern space or a dreamy fantasy setting, this piece adds an element of serenity and luxury.Elevate your digital projects with this breathtaking design, crafted for artists and creators who appreciate beauty in every detail. Available now for download, this model is optimized for high-quality rendering, ensuring seamless integration into your creative workflow. Let your imagination flourish with the elegance of nature’s finest artistry!",
+    "author": "sahra javid",
+    "source_url": "https://www.blendkit.com/asset-gallery-detail/b7527f26-6d8a-45c9-97c5-19889c042fed/",
+    "quality": 10.0,
+    "parameters": {
+      "sexualizedContent": false,
+      "joinBlenderkitDiscounts": true,
+      "addons": true,
+      "platforms": [
+        "windows-x64",
+        "macos-arm64",
+        "linux-x64",
+        "macos-x64",
+        "windows-arm64"
+      ],
+      "faceCount": 514016,
+      "productionLevel": "finished",
+      "procedural": true,
+      "modelStyle": "realistic",
+      "condition": "new",
+      "designer": "SJ",
+      "designCollection": "Bush-Exterior",
+      "designYear": 2025,
+      "purePbr": true,
+      "shaders": [
+        "[]"
+      ],
+      "uv": true,
+      "engines": [
+        "[cycles]"
+      ],
+      "modifiers": [
+        "[]"
+      ],
+      "materials": [
+        "[bark.001 leaves_Mat.001 leaf_Mat.002 bark_Mat.003 flower_Mat.002]"
+      ],
+      "rig": false,
+      "simulation": false,
+      "dimensionX": 1.4053,
+      "dimensionY": 1.4247,
+      "dimensionZ": 1.4563,
+      "boundBoxMinX": -0.6917,
+      "boundBoxMinY": -0.7028,
+      "boundBoxMinZ": -0.0324,
+      "boundBoxMaxX": 0.7136,
+      "boundBoxMaxY": 0.7219,
+      "boundBoxMaxZ": 1.4238,
+      "faceCountRender": 514016,
+      "meshPolyType": "quad_dominant",
+      "manifold": false,
+      "objectCount": 62,
+      "nodeCount": 0,
+      "textureCount": 0,
+      "megapixels": 0,
+      "gltfGeneratedDate": "2025-02-21",
+      "gltfGodotGeneratedDate": "2025-02-21"
+    },
+    "downloaded": [
+      {
+        "path": "asset-sources\\flowers\\sj-mystic-garden-serenity-fern-b7527f26\\original.blend",
+        "bytes": 108658909,
+        "type": "blend"
+      },
+      {
+        "path": "asset-sources\\flowers\\sj-mystic-garden-serenity-fern-b7527f26\\original.glb",
+        "bytes": 7521872,
+        "type": "gltf"
+      }
+    ],
+    "acquired_date": "2026-10-12",
+    "status": "downloaded_pending_blender_review"
+  },
+  {
+    "term": "eucalyptus",
+    "id": "94dd7ebe-303f-441b-886d-0b941aca0f62",
+    "base_id": "777e9bd4-5219-441d-929e-8f9a5c1c9798",
+    "name": "Eucalyptus Bouquet Vase",
+    "description": "This 3D asset features a eucalyptus bouquet arranged inside a dark tinted glass vase. It displays realistic round eucalyptus leaves in varied green‑toned shades with delicate branching stems. The glossy translucent glass vase has smooth reflections. Optimized for interior visualization, architectural rendering and scene decoration, with clean geometry and high‑quality PBR textures.",
+    "author": "Ken Xie",
+    "source_url": "https://www.blendkit.com/asset-gallery-detail/777e9bd4-5219-441d-929e-8f9a5c1c9798/",
+    "quality": 8.0,
+    "parameters": {
+      "sexualizedContent": false,
+      "joinBlenderkitDiscounts": true,
+      "addons": true,
+      "platforms": [
+        "windows-x64",
+        "macos-arm64",
+        "linux-x64",
+        "macos-x64",
+        "windows-arm64"
+      ],
+      "faceCount": 116023,
+      "productionLevel": "finished",
+      "procedural": true,
+      "modelStyle": "realistic",
+      "validatedManufacturer": true,
+      "validatedManufacturerDate": "2026-08-24T13:17:42.540270+00:00",
+      "validatedManufacturerActor": "no_data",
+      "purePbr": false,
+      "shaders": [
+        "[]"
+      ],
+      "animated": false,
+      "uv": true,
+      "engines": [
+        "[cycles]"
+      ],
+      "modifiers": [
+        "[]"
+      ],
+      "materials": [
+        "[Material.003 Material.007 Material.002 Material.005 Material.004 Material.006 Clean Glass.001]"
+      ],
+      "rig": false,
+      "simulation": false,
+      "dimensionX": 0.2966,
+      "dimensionY": 0.2635,
+      "dimensionZ": 0.3647,
+      "boundBoxMinX": -0.162,
+      "boundBoxMinY": -0.1266,
+      "boundBoxMinZ": 0.0008,
+      "boundBoxMaxX": 0.1346,
+      "boundBoxMaxY": 0.1369,
+      "boundBoxMaxZ": 0.3655,
+      "faceCountRender": 116023,
+      "meshPolyType": "quad_dominant",
+      "manifold": false,
+      "objectCount": 8,
+      "nodeCount": 0,
+      "textureCount": 0,
+      "megapixels": 0,
+      "gltfGeneratedDate": "2026-08-24",
+      "gltfGodotGeneratedDate": "2026-08-24",
+      "processingDate": "2026-08-24T13:19:59.759879+00:00"
+    },
+    "downloaded": [
+      {
+        "path": "asset-sources\\flowers\\eucalyptus-bouquet-vase-777e9bd4\\original.blend",
+        "bytes": 109813187,
+        "type": "blend"
+      },
+      {
+        "path": "asset-sources\\flowers\\eucalyptus-bouquet-vase-777e9bd4\\original.glb",
+        "bytes": 4534072,
+        "type": "gltf"
+      }
+    ],
+    "acquired_date": "2026-10-12",
+    "status": "downloaded_pending_blender_review"
+  },
+  {
+    "term": "sunflower",
+    "id": "2bd6db3a-83eb-4573-9dbd-687736c52b8f",
+    "base_id": "d446d9ba-2346-435b-985d-13620a0908f5",
+    "name": "Flower Sunflower Medium",
+    "description": "Realistic Flowers for games and 3D scenes. There is the node in the material to change the color of flower. Elevate your virtual worlds with Hand crafted, realistic optimal Hedges. Perfect for Gardens,Urban scenes, Backyars, or Royal Castles.",
+    "author": "Amanpreet Bajwa",
+    "source_url": "https://www.blendkit.com/asset-gallery-detail/d446d9ba-2346-435b-985d-13620a0908f5/",
+    "quality": 7.75,
+    "parameters": {
+      "sexualizedContent": false,
+      "joinBlenderkitDiscounts": true,
+      "addons": true,
+      "platforms": [
+        "windows-x64",
+        "macos-arm64",
+        "linux-x64",
+        "macos-x64",
+        "windows-arm64"
+      ],
+      "faceCount": 346,
+      "productionLevel": "finished",
+      "procedural": true,
+      "modelStyle": "realistic",
+      "condition": "new",
+      "purePbr": true,
+      "shaders": [
+        ""
+      ],
+      "pbrType": "metallic",
+      "uv": true,
+      "engines": [
+        "cycles"
+      ],
+      "modifiers": [
+        ""
+      ],
+      "materials": [
+        "M_Flower_Sunflower"
+      ],
+      "rig": false,
+      "simulation": false,
+      "dimensionX": 0.8291,
+      "dimensionY": 0.8787,
+      "dimensionZ": 2.2426,
+      "boundBoxMinX": -0.4378,
+      "boundBoxMinY": -0.3795,
+      "boundBoxMinZ": 0.0,
+      "boundBoxMaxX": 0.3913,
+      "boundBoxMaxY": 0.4992,
+      "boundBoxMaxZ": 2.2426,
+      "faceCountRender": 346,
+      "meshPolyType": "tri_dominant",
+      "manifold": false,
+      "objectCount": 1,
+      "nodeCount": 0,
+      "textureCount": 0,
+      "megapixels": 0,
+      "gltfGeneratedDate": "2023-12-13"
+    },
+    "downloaded": [
+      {
+        "path": "asset-sources\\flowers\\flower-sunflower-medium-d446d9ba\\original.blend",
+        "bytes": 4847283,
+        "type": "blend"
+      },
+      {
+        "path": "asset-sources\\flowers\\flower-sunflower-medium-d446d9ba\\original.glb",
+        "bytes": 16300,
+        "type": "gltf"
+      }
+    ],
+    "acquired_date": "2026-10-12",
+    "status": "downloaded_pending_blender_review"
+  },
+  {
+    "term": "sunflower",
+    "id": "d2c0a53d-bd9f-4269-a21c-90513583b643",
+    "base_id": "66a70890-e58f-44e3-b7ba-0748e953c32e",
+    "name": "Yellow Flower",
+    "description": "A simple flower for your garden.",
+    "author": "Rex Hans",
+    "source_url": "https://www.blendkit.com/asset-gallery-detail/66a70890-e58f-44e3-b7ba-0748e953c32e/",
+    "quality": 8.0,
+    "parameters": {
+      "sexualizedContent": false,
+      "joinBlenderkitDiscounts": true,
+      "addons": true,
+      "platforms": [
+        "windows-x64",
+        "macos-arm64",
+        "linux-x64",
+        "macos-x64",
+        "windows-arm64"
+      ],
+      "faceCount": 436,
+      "textureResolutionMax": 2048,
+      "productionLevel": "finished",
+      "procedural": false,
+      "modelStyle": "realistic",
+      "condition": "new",
+      "designYear": 2025,
+      "purePbr": true,
+      "shaders": [
+        "[transparent mix shader translucent principled]"
+      ],
+      "pbrType": "metallic",
+      "uv": true,
+      "textureResolutionMin": 2048,
+      "engines": [
+        "[cycles]"
+      ],
+      "modifiers": [
+        "[]"
+      ],
+      "materials": [
+        "[Leaves Flower]"
+      ],
+      "rig": false,
+      "simulation": false,
+      "dimensionX": 0.0725,
+      "dimensionY": 0.0702,
+      "dimensionZ": 0.3067,
+      "boundBoxMinX": -0.0322,
+      "boundBoxMinY": -0.0332,
+      "boundBoxMinZ": 0.0,
+      "boundBoxMaxX": 0.0403,
+      "boundBoxMaxY": 0.037,
+      "boundBoxMaxZ": 0.3067,
+      "faceCountRender": 436,
+      "meshPolyType": "quad_dominant",
+      "manifold": false,
+      "objectCount": 2,
+      "nodeCount": 18,
+      "textureCount": 1,
+      "megapixels": 4,
+      "gltfGeneratedDate": "2025-02-20",
+      "gltfGodotGeneratedDate": "2025-02-20"
+    },
+    "downloaded": [
+      {
+        "path": "asset-sources\\flowers\\yellow-flower-66a70890\\original.blend",
+        "bytes": 983028,
+        "type": "blend"
+      },
+      {
+        "path": "asset-sources\\flowers\\yellow-flower-66a70890\\original.glb",
+        "bytes": 57032,
+        "type": "gltf"
+      }
+    ],
+    "acquired_date": "2026-10-12",
+    "status": "downloaded_pending_blender_review"
+  }
+]

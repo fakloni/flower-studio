@@ -1,0 +1,95 @@
+{
+  "productId": "P072",
+  "route": "local-blender",
+  "status": "candidate-needs-visual-review",
+  "mediaOrigin": "model-render",
+  "physicalDimensionsVerified": false,
+  "sourceSpec": {
+    "schemaVersion": 1,
+    "productId": "P072",
+    "name": "Atlanta 非洲菊单支建模试点",
+    "route": "local-blender",
+    "archetype": "gerbera",
+    "seed": 20261014,
+    "stemLengthM": 0.65,
+    "headDiameterM": 0.12,
+    "headNormal": [
+      0.0,
+      -0.7219882011413574,
+      0.6919053196907043
+    ],
+    "petalTexture": "references/ai-ray-floret-v1.png",
+    "identityStatus": "appearance-reference-not-specimen-reconstruction",
+    "physicalDimensionsVerified": false,
+    "dimensionBasis": "Breeder category reference: 65 cm stem, 11–13 cm head. Chosen model parameters; not specimen measurements.",
+    "references": [
+      {
+        "origin": "real-photo",
+        "view": "head-front",
+        "path": "../../../../artifacts/catalog-media-audit/candidates/P072/0a90aa0bc4e1_atlanta_01.jpg",
+        "sourcePage": "https://www.hilverdaflorist.com/en/assortment/cut-flowers/assortment-cut-flowers/gerbera-standard-atlanta"
+      },
+      {
+        "origin": "botanical-description",
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/gerbera-jamesonii/common-name/gerbera-daisy/",
+        "scope": "Species-level leafless peduncle with one head; not Atlanta-specific back-side evidence."
+      },
+      {
+        "origin": "ai-image",
+        "path": "references/ai-whole-stem-v1.png",
+        "status": "appearance-reference-only-proportion-failed",
+        "notes": "Whole-stem image has a head that is too large relative to the stem; do not derive dimensions from it."
+      },
+      {
+        "origin": "ai-image",
+        "path": "references/ai-ray-floret-v1.png",
+        "status": "material-reference",
+        "notes": "RGBA with soft alpha halo; builder samples interior RGB and uses real petal geometry rather than the alpha outline."
+      }
+    ],
+    "unverifiedParts": [
+      "precise petal count",
+      "back-side bract arrangement",
+      "stem curvature",
+      "floret texture",
+      "exact cultivar geometry"
+    ],
+    "headCenter": [
+      0.008999999612569809,
+      0.003000000026077032,
+      0.6499999761581421
+    ]
+  },
+  "files": [
+    "stem.glb",
+    "source.blend",
+    "front.png",
+    "left.png",
+    "back.png",
+    "right.png",
+    "head-front.png",
+    "head-back.png",
+    "head-quarter.png"
+  ],
+  "checks": {
+    "glbHeader": true,
+    "embeddedTextures": true,
+    "roundTrip": true,
+    "meshCount": 8,
+    "triangles": 56372,
+    "bytes": 2767848,
+    "boundsM": {
+      "min": [
+        -0.05023547634482384,
+        -0.03618098795413971,
+        -0.0001383389171678573
+      ],
+      "max": [
+        0.0688452199101448,
+        0.049158189445734024,
+        0.6902661919593811
+      ]
+    },
+    "missingTextures": []
+  }
+}

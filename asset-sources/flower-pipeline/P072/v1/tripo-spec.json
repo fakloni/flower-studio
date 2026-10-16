@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "productId": "P072",
+  "route": "tripo-blender",
+  "tripo": {
+    "model": "v3.1-20260211",
+    "faceLimit": 30000,
+    "inputReview": "blocked-proportion",
+    "images": [{"view": "front", "path": "references/ai-whole-stem-v1.png", "origin": "ai-image"}]
+  },
+  "notes": "Dry-run only: generated whole-stem image has incorrect head/stem ratio. Correct it or obtain a real whole-stem image before setting inputReview=ready. No live API Key is configured."
+}

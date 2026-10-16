@@ -1,0 +1,50 @@
+{
+  "name": "Hydrangea  light yellow",
+  "folder": "asset-sources\\flowers\\hydrangea-light-yellow-0a565b11",
+  "import_ok": true,
+  "mesh_objects": 2,
+  "raw_faces": 2185230,
+  "images": 1,
+  "missing_images": [],
+  "bbox_source_units": {
+    "min": [
+      -0.6190577149391174,
+      -0.8934770226478577,
+      -0.5159278512001038
+    ],
+    "max": [
+      5.758327960968018,
+      17.134347915649414,
+      1.8295961618423462
+    ],
+    "extent": [
+      6.377385675907135,
+      18.02782493829727,
+      2.34552401304245
+    ]
+  },
+  "objects": [
+    {
+      "name": "спирея березолистная у дома",
+      "type": "MESH",
+      "faces": 2560,
+      "modifiers": [
+        "DISPLACE",
+        "PARTICLE_SYSTEM"
+      ]
+    },
+    {
+      "name": "hydrangea yellow",
+      "type": "MESH",
+      "faces": 2182670,
+      "modifiers": []
+    },
+    {
+      "name": "Hydrangea  light yellow",
+      "type": "EMPTY",
+      "faces": 0,
+      "modifiers": []
+    }
+  ],
+  "status": "imported_pending_stem_extraction_and_visual_review"
+}

@@ -1,0 +1,122 @@
+{
+  "id": "P086",
+  "flowerId": null,
+  "name": "跳舞兰",
+  "group": "跳舞兰",
+  "subgroup": "跳舞兰",
+  "scientificName": null,
+  "nameStatus": "类别/别名有机构资料；品种待核",
+  "roles": [
+    "线条",
+    "配花"
+  ],
+  "roleStatus": "project-suggestion",
+  "roleNotes": "线条花；配花",
+  "shapeNotes": "跳舞兰类切花；品种与每枝花数另核",
+  "ornamentalPart": null,
+  "season": {
+    "text": null,
+    "basis": null,
+    "region": null,
+    "intervals": null,
+    "status": "unknown",
+    "source": {
+      "name": null,
+      "urls": []
+    },
+    "unverifiedOriginal": null
+  },
+  "dimensions": {
+    "object": null,
+    "minCm": null,
+    "maxCm": null,
+    "valueType": null,
+    "scope": null,
+    "notes": null,
+    "source": {
+      "name": null,
+      "urls": []
+    }
+  },
+  "notes": "图片标签是收录依据，图片所列月份没有当作可靠花季或供货期；缺失字段保持空白。\n品类、花型、单/多头、开放阶段应分字段；本表是检索目录，不是互斥分类树。缺少SKU规格时不得自动标定真实比例。\n项目检索分组，非完整植物学分类。",
+  "source": {
+    "name": "湖南省林业局·跳舞兰",
+    "urls": [
+      "https://lyj.hunan.gov.cn/tslm_71206/lykp/syjs/201512/t20151227_2611802.html"
+    ]
+  },
+  "checkedDate": "2026-10-13",
+  "availability": {
+    "status": "unknown",
+    "region": null
+  },
+  "sourceRecord": {
+    "sheet": "花材库",
+    "row": 87,
+    "values": {
+      "花材ID": null,
+      "原始／新增名称": "跳舞兰",
+      "用户清单Y／空白": null,
+      "规范名称／别名": "跳舞兰",
+      "学名／分类范围": null,
+      "名称核对状态": "类别/别名有机构资料；品种待核",
+      "花材角色（项目建议）": "线条花；配花",
+      "形态标签（项目建议）": "跳舞兰类切花；品种与每枝花数另核",
+      "观赏部位": null,
+      "核实花季／果季": null,
+      "季节数据口径": null,
+      "季节适用地区／对象": null,
+      "用户原始月份（未验证）": null,
+      "花头尺寸对象": null,
+      "直径下限cm": null,
+      "直径上限cm": null,
+      "数值类型": null,
+      "尺寸适用物种／品种": null,
+      "其他尺寸及数量摘要": null,
+      "缺失信息／项目注意事项": "图片标签是收录依据，图片所列月份没有当作可靠花季或供货期；缺失字段保持空白。\n品类、花型、单/多头、开放阶段应分字段；本表是检索目录，不是互斥分类树。缺少SKU规格时不得自动标定真实比例。\n项目检索分组，非完整植物学分类。",
+      "季节来源名称": null,
+      "季节来源URL": null,
+      "花头尺寸来源": null,
+      "花头尺寸来源URL": null,
+      "名称／资料来源": "湖南省林业局·跳舞兰",
+      "名称／资料来源URL": "https://lyj.hunan.gov.cn/tslm_71206/lykp/syjs/201512/t20151227_2611802.html",
+      "核查日期": "2026-10-13",
+      "大类": "跳舞兰",
+      "小类": "跳舞兰",
+      "产品ID": "P086"
+    }
+  },
+  "aliases": [
+    {
+      "name": "跳舞兰",
+      "productId": "P086",
+      "relation": "平台规范商品名",
+      "restriction": "平台内部检索入口；不表示已对接同名商城SKU。",
+      "status": "需按具体商品确认",
+      "source": {
+        "name": "湖南省林业局·跳舞兰",
+        "urls": [
+          "https://lyj.hunan.gov.cn/tslm_71206/lykp/syjs/201512/t20151227_2611802.html"
+        ]
+      }
+    }
+  ],
+  "imageReferences": [
+    {
+      "label": "跳舞兰",
+      "files": [
+        "04-775fb83e5208f71610b98d33a902143a.jpg"
+      ],
+      "productIds": [
+        "P086"
+      ],
+      "notes": "原表已有对应小类；具体品种和SKU仍按原核对状态。",
+      "seasonRestriction": "图片所列月份/全年为用户资料，未作为可靠供货期。",
+      "status": "reference-only"
+    }
+  ],
+  "assets": [],
+  "schemaVersion": 1,
+  "revision": "8549c6d07d6d1bcb6722",
+  "relatedEvidence": []
+}

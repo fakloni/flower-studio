@@ -1,0 +1,180 @@
+{
+  "id": "P037",
+  "flowerId": "F040",
+  "name": "五代果",
+  "group": "五代果",
+  "subgroup": "五代果",
+  "scientificName": "Solanum mammosum",
+  "nameStatus": "类别有来源；SKU待核实",
+  "roles": [
+    "果材",
+    "造型"
+  ],
+  "roleStatus": "project-suggestion",
+  "roleNotes": "果材；造型材",
+  "shapeNotes": "乳茄／五代同堂",
+  "ornamentalPart": "果实及枝条",
+  "season": {
+    "text": "夏季开花；秋季结果",
+    "basis": "季节性花果期",
+    "region": "深圳植物志记载",
+    "intervals": null,
+    "status": "reference",
+    "source": {
+      "name": "深圳市中国科学院仙湖植物园·深圳植物志",
+      "urls": [
+        "https://www.iplant.cn/fsz/info/Solanum%20mammosum"
+      ]
+    },
+    "unverifiedOriginal": "8–10月"
+  },
+  "dimensions": {
+    "object": "不适用：参见叶/果/枝尺寸",
+    "minCm": null,
+    "maxCm": null,
+    "valueType": null,
+    "scope": null,
+    "notes": "果实长度：5–7 cm（范围）\n果实直径：3–5 cm（范围）\n适用范围及来源见“尺寸证据”",
+    "source": {
+      "name": null,
+      "urls": []
+    }
+  },
+  "notes": "具体品种、颜色、开放阶段、枝长、花径及国内供货需按SKU确认。\n品类、花型、单/多头、开放阶段应分字段；本表是检索目录，不是互斥分类树。缺少SKU规格时不得自动标定真实比例。\n果实须建长宽而非用一个圆直径表现；观赏果身份不能推定可食。\n项目检索分组，非完整植物学分类。",
+  "source": {
+    "name": "深圳市中国科学院仙湖植物园·深圳植物志",
+    "urls": [
+      "https://www.iplant.cn/fsz/info/Solanum%20mammosum"
+    ]
+  },
+  "checkedDate": "2026-10-13",
+  "availability": {
+    "status": "unknown",
+    "region": null
+  },
+  "sourceRecord": {
+    "sheet": "花材库",
+    "row": 38,
+    "values": {
+      "花材ID": "F040",
+      "原始／新增名称": "五代果",
+      "用户清单Y／空白": "Y",
+      "规范名称／别名": "乳茄／五代同堂\n乳茄；五代果",
+      "学名／分类范围": "Solanum mammosum",
+      "名称核对状态": "类别有来源；SKU待核实",
+      "花材角色（项目建议）": "果材；造型材",
+      "形态标签（项目建议）": "乳茄／五代同堂",
+      "观赏部位": "果实及枝条",
+      "核实花季／果季": "夏季开花；秋季结果",
+      "季节数据口径": "季节性花果期",
+      "季节适用地区／对象": "深圳植物志记载",
+      "用户原始月份（未验证）": "8–10月",
+      "花头尺寸对象": "不适用：参见叶/果/枝尺寸",
+      "直径下限cm": null,
+      "直径上限cm": null,
+      "数值类型": null,
+      "尺寸适用物种／品种": null,
+      "其他尺寸及数量摘要": "果实长度：5–7 cm（范围）\n果实直径：3–5 cm（范围）\n适用范围及来源见“尺寸证据”",
+      "缺失信息／项目注意事项": "具体品种、颜色、开放阶段、枝长、花径及国内供货需按SKU确认。\n品类、花型、单/多头、开放阶段应分字段；本表是检索目录，不是互斥分类树。缺少SKU规格时不得自动标定真实比例。\n果实须建长宽而非用一个圆直径表现；观赏果身份不能推定可食。\n项目检索分组，非完整植物学分类。",
+      "季节来源名称": "深圳市中国科学院仙湖植物园·深圳植物志",
+      "季节来源URL": "https://www.iplant.cn/fsz/info/Solanum%20mammosum",
+      "花头尺寸来源": null,
+      "花头尺寸来源URL": null,
+      "名称／资料来源": "深圳市中国科学院仙湖植物园·深圳植物志",
+      "名称／资料来源URL": "https://www.iplant.cn/fsz/info/Solanum%20mammosum",
+      "核查日期": "2026-10-13",
+      "大类": "五代果",
+      "小类": "五代果",
+      "产品ID": "P037"
+    }
+  },
+  "aliases": [
+    {
+      "name": "乳茄",
+      "productId": "P037",
+      "relation": "同义名",
+      "restriction": null,
+      "status": "有资料依据",
+      "source": {
+        "name": "深圳市中国科学院仙湖植物园·深圳植物志",
+        "urls": [
+          "https://www.iplant.cn/fsz/info/Solanum%20mammosum"
+        ]
+      }
+    },
+    {
+      "name": "五代果",
+      "productId": "P037",
+      "relation": "平台规范商品名",
+      "restriction": "平台内部检索入口；不表示已对接同名商城SKU。",
+      "status": "需按具体商品确认",
+      "source": {
+        "name": "深圳市中国科学院仙湖植物园·深圳植物志",
+        "urls": [
+          "https://www.iplant.cn/fsz/info/Solanum%20mammosum"
+        ]
+      }
+    }
+  ],
+  "imageReferences": [
+    {
+      "label": "五代果",
+      "files": [
+        "01-eb0b4d29426c342582eba2178d518ad1.jpg"
+      ],
+      "productIds": [
+        "P037"
+      ],
+      "notes": "原表已有对应小类；具体品种和SKU仍按原核对状态。",
+      "seasonRestriction": "图片所列月份/全年为用户资料，未作为可靠供货期。",
+      "status": "reference-only"
+    }
+  ],
+  "assets": [],
+  "schemaVersion": 1,
+  "revision": "c80bbbca4cdd571a6f8b",
+  "relatedEvidence": [
+    {
+      "id": "E052",
+      "flowerId": "F040",
+      "values": {
+        "证据ID": "E052",
+        "花材ID": "F040",
+        "花材名称": "五代果",
+        "测量项目": "果实长度",
+        "下限／数值": 5,
+        "上限／数值": 7,
+        "单位": "cm",
+        "数值性质": "范围",
+        "适用物种／品种／商品": "乳茄成熟果",
+        "证据类型": "植物形态参考",
+        "原数值口径（简记）": "5–7 cm",
+        "限制与解释": null,
+        "来源机构／资料": "深圳市中国科学院仙湖植物园·深圳植物志",
+        "来源URL": "https://www.iplant.cn/fsz/info/Solanum%20mammosum",
+        "核查日期": "2026-10-13"
+      }
+    },
+    {
+      "id": "E053",
+      "flowerId": "F040",
+      "values": {
+        "证据ID": "E053",
+        "花材ID": "F040",
+        "花材名称": "五代果",
+        "测量项目": "果实直径",
+        "下限／数值": 3,
+        "上限／数值": 5,
+        "单位": "cm",
+        "数值性质": "范围",
+        "适用物种／品种／商品": "乳茄成熟果",
+        "证据类型": "植物形态参考",
+        "原数值口径（简记）": "3–5 cm",
+        "限制与解释": null,
+        "来源机构／资料": "深圳市中国科学院仙湖植物园·深圳植物志",
+        "来源URL": "https://www.iplant.cn/fsz/info/Solanum%20mammosum",
+        "核查日期": "2026-10-13"
+      }
+    }
+  ]
+}

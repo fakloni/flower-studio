@@ -1,0 +1,92 @@
+{
+  "productId": "P059",
+  "route": "local-blender",
+  "status": "candidate-needs-visual-review",
+  "mediaOrigin": "model-render",
+  "physicalDimensionsVerified": false,
+  "sourceSpec": {
+    "schemaVersion": 1,
+    "productId": "P059",
+    "editorId": "oriental-lily-colet",
+    "name": "东方百合 Colet",
+    "color": "粉色",
+    "role": "主花",
+    "route": "local-blender",
+    "archetype": "lily",
+    "seed": 20261073,
+    "stemLengthM": 0.65,
+    "headDiameterM": 0.13,
+    "petalColor": [
+      0.63,
+      0.25,
+      0.4
+    ],
+    "headNormal": [
+      0.0,
+      -0.7599620223045349,
+      0.6499674916267395
+    ],
+    "logicalStems": 1,
+    "physicalDimensionsVerified": false,
+    "dimensionBasis": "Breeder/species reference and pilot modeling conventions; not measured SKU dimensions",
+    "unverifiedParts": [
+      "exact cultivar backside",
+      "specimen stem curvature",
+      "exact leaf/branch and petal counts"
+    ],
+    "references": [
+      {
+        "origin": "real-photo",
+        "path": "D:\\Projects\\flower-studio\\artifacts\\catalog-photo-fill\\originals\\P059\\vandenbos-page13-object690.png",
+        "sourcePage": "https://www.vandenbos.com/en/catalogus-lily",
+        "author": "Van den Bos Flowerbulbs / individual photographer unspecified",
+        "license": "Catalog photo; reuse conditions not verified. Local reference only.",
+        "mappingScope": "category-reference-with-catalog-labelled-cultivar"
+      }
+    ],
+    "renderResolution": [
+      400,
+      600
+    ],
+    "detailResolution": 480,
+    "visualStatus": "pilot-awaits-review",
+    "inputSpecSha256": "ba6d3b1a81de3a39291e0367eec3970df2338b23965f0aa5a455c61fa965cf8f",
+    "headCenter": [
+      0.007000000216066837,
+      0.004000000189989805,
+      0.6499999761581421
+    ]
+  },
+  "files": [
+    "stem.glb",
+    "source.blend",
+    "front.png",
+    "left.png",
+    "back.png",
+    "right.png",
+    "head-front.png",
+    "head-back.png",
+    "head-quarter.png"
+  ],
+  "checks": {
+    "glbHeader": true,
+    "embeddedTextures": true,
+    "roundTrip": true,
+    "meshCount": 5,
+    "triangles": 34376,
+    "bytes": 660464,
+    "boundsM": {
+      "min": [
+        -0.13904233276844025,
+        -0.08969471603631973,
+        -4.120257653994486e-05
+      ],
+      "max": [
+        0.134416401386261,
+        0.08696358650922775,
+        0.7102648019790649
+      ]
+    },
+    "missingTextures": []
+  }
+}

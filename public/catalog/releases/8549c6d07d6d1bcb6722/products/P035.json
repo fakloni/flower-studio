@@ -1,0 +1,124 @@
+{
+  "id": "P035",
+  "flowerId": "F038",
+  "name": "秋色绣球",
+  "group": "秋色绣球",
+  "subgroup": "秋色绣球",
+  "scientificName": "Hydrangea macrophylla 园艺品种（须核对）",
+  "nameStatus": "类别有来源；SKU待核实",
+  "roles": [
+    "主花",
+    "体量"
+  ],
+  "roleStatus": "project-suggestion",
+  "roleNotes": "主花；体量花",
+  "shapeNotes": "成熟转色绣球（Classic类型）",
+  "ornamentalPart": "成熟转色花序",
+  "season": {
+    "text": "6–12月；10–11月较集中",
+    "basis": "海外市场供应参考",
+    "region": "荷兰行业资料；不是中国供货期",
+    "intervals": null,
+    "status": "reference",
+    "source": {
+      "name": "Hydrangeaworld·种植者/育种者联合资料",
+      "urls": [
+        "https://www.hydrangeaworld.com/snijbloem/assortiment/"
+      ]
+    },
+    "unverifiedOriginal": "8–10月"
+  },
+  "dimensions": {
+    "object": "未核实／需明确测量部位",
+    "minCm": null,
+    "maxCm": null,
+    "valueType": null,
+    "scope": null,
+    "notes": null,
+    "source": {
+      "name": null,
+      "urls": []
+    }
+  },
+  "notes": "具体品种、颜色、开放阶段、枝长、花径及国内供货需按SKU确认。\n品类、花型、单/多头、开放阶段应分字段；本表是检索目录，不是互斥分类树。缺少SKU规格时不得自动标定真实比例。\n本行不复制普通绣球花径作为秋色商品规格；应记录品种、转色阶段、花序实际长宽。\n项目检索分组，非完整植物学分类。",
+  "source": {
+    "name": "Hydrangeaworld·种植者/育种者联合资料",
+    "urls": [
+      "https://www.hydrangeaworld.com/snijbloem/assortiment/"
+    ]
+  },
+  "checkedDate": "2026-10-13",
+  "availability": {
+    "status": "unknown",
+    "region": null
+  },
+  "sourceRecord": {
+    "sheet": "花材库",
+    "row": 36,
+    "values": {
+      "花材ID": "F038",
+      "原始／新增名称": "秋色绣球",
+      "用户清单Y／空白": "Y",
+      "规范名称／别名": "成熟转色绣球（Classic类型）\n秋色绣球",
+      "学名／分类范围": "Hydrangea macrophylla 园艺品种（须核对）",
+      "名称核对状态": "类别有来源；SKU待核实",
+      "花材角色（项目建议）": "主花；体量花",
+      "形态标签（项目建议）": "成熟转色绣球（Classic类型）",
+      "观赏部位": "成熟转色花序",
+      "核实花季／果季": "6–12月；10–11月较集中",
+      "季节数据口径": "海外市场供应参考",
+      "季节适用地区／对象": "荷兰行业资料；不是中国供货期",
+      "用户原始月份（未验证）": "8–10月",
+      "花头尺寸对象": "未核实／需明确测量部位",
+      "直径下限cm": null,
+      "直径上限cm": null,
+      "数值类型": null,
+      "尺寸适用物种／品种": null,
+      "其他尺寸及数量摘要": null,
+      "缺失信息／项目注意事项": "具体品种、颜色、开放阶段、枝长、花径及国内供货需按SKU确认。\n品类、花型、单/多头、开放阶段应分字段；本表是检索目录，不是互斥分类树。缺少SKU规格时不得自动标定真实比例。\n本行不复制普通绣球花径作为秋色商品规格；应记录品种、转色阶段、花序实际长宽。\n项目检索分组，非完整植物学分类。",
+      "季节来源名称": "Hydrangeaworld·种植者/育种者联合资料",
+      "季节来源URL": "https://www.hydrangeaworld.com/snijbloem/assortiment/",
+      "花头尺寸来源": null,
+      "花头尺寸来源URL": null,
+      "名称／资料来源": "Hydrangeaworld·种植者/育种者联合资料",
+      "名称／资料来源URL": "https://www.hydrangeaworld.com/snijbloem/assortiment/",
+      "核查日期": "2026-10-13",
+      "大类": "秋色绣球",
+      "小类": "秋色绣球",
+      "产品ID": "P035"
+    }
+  },
+  "aliases": [
+    {
+      "name": "秋色绣球",
+      "productId": "P035",
+      "relation": "平台规范商品名",
+      "restriction": "平台内部检索入口；不表示已对接同名商城SKU。",
+      "status": "需按具体商品确认",
+      "source": {
+        "name": "Hydrangeaworld·种植者/育种者联合资料",
+        "urls": [
+          "https://www.hydrangeaworld.com/snijbloem/assortiment/"
+        ]
+      }
+    }
+  ],
+  "imageReferences": [
+    {
+      "label": "秋色绣球",
+      "files": [
+        "01-eb0b4d29426c342582eba2178d518ad1.jpg"
+      ],
+      "productIds": [
+        "P035"
+      ],
+      "notes": "原表已有对应小类；具体品种和SKU仍按原核对状态。",
+      "seasonRestriction": "图片所列月份/全年为用户资料，未作为可靠供货期。",
+      "status": "reference-only"
+    }
+  ],
+  "assets": [],
+  "schemaVersion": 1,
+  "revision": "8549c6d07d6d1bcb6722",
+  "relatedEvidence": []
+}

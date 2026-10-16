@@ -1,0 +1,75 @@
+{
+  "term": "sunflower",
+  "id": "2bd6db3a-83eb-4573-9dbd-687736c52b8f",
+  "base_id": "d446d9ba-2346-435b-985d-13620a0908f5",
+  "name": "Flower Sunflower Medium",
+  "description": "Realistic Flowers for games and 3D scenes. There is the node in the material to change the color of flower. Elevate your virtual worlds with Hand crafted, realistic optimal Hedges. Perfect for Gardens,Urban scenes, Backyars, or Royal Castles.",
+  "author": "Amanpreet Bajwa",
+  "source_url": "https://www.blendkit.com/asset-gallery-detail/d446d9ba-2346-435b-985d-13620a0908f5/",
+  "quality": 7.75,
+  "parameters": {
+    "sexualizedContent": false,
+    "joinBlenderkitDiscounts": true,
+    "addons": true,
+    "platforms": [
+      "windows-x64",
+      "macos-arm64",
+      "linux-x64",
+      "macos-x64",
+      "windows-arm64"
+    ],
+    "faceCount": 346,
+    "productionLevel": "finished",
+    "procedural": true,
+    "modelStyle": "realistic",
+    "condition": "new",
+    "purePbr": true,
+    "shaders": [
+      ""
+    ],
+    "pbrType": "metallic",
+    "uv": true,
+    "engines": [
+      "cycles"
+    ],
+    "modifiers": [
+      ""
+    ],
+    "materials": [
+      "M_Flower_Sunflower"
+    ],
+    "rig": false,
+    "simulation": false,
+    "dimensionX": 0.8291,
+    "dimensionY": 0.8787,
+    "dimensionZ": 2.2426,
+    "boundBoxMinX": -0.4378,
+    "boundBoxMinY": -0.3795,
+    "boundBoxMinZ": 0.0,
+    "boundBoxMaxX": 0.3913,
+    "boundBoxMaxY": 0.4992,
+    "boundBoxMaxZ": 2.2426,
+    "faceCountRender": 346,
+    "meshPolyType": "tri_dominant",
+    "manifold": false,
+    "objectCount": 1,
+    "nodeCount": 0,
+    "textureCount": 0,
+    "megapixels": 0,
+    "gltfGeneratedDate": "2023-12-13"
+  },
+  "downloaded": [
+    {
+      "path": "asset-sources\\flowers\\flower-sunflower-medium-d446d9ba\\original.blend",
+      "bytes": 4847283,
+      "type": "blend"
+    },
+    {
+      "path": "asset-sources\\flowers\\flower-sunflower-medium-d446d9ba\\original.glb",
+      "bytes": 16300,
+      "type": "gltf"
+    }
+  ],
+  "acquired_date": "2026-10-12",
+  "status": "downloaded_pending_blender_review"
+}

@@ -1,0 +1,2729 @@
+[
+  {
+    "key": "P007",
+    "records": [
+      {
+        "productIds": [
+          "P007"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/hydrangea-macrophylla/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Cathy DeWitt",
+        "license": "CC BY 4.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/4.0/legalcode",
+        "caption": "Flowers Closeup - Sept. - Wake Co., NC",
+        "alt": "Flowers Closeup - Sept. - Wake Co., NC",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 14,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Hydrangea-macrophyll_vLpRSaj7hdFJ.jpeg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=X%2FvNT0rZ1qkZaMfSqi1duPnV734%3D&Expires=1791967207",
+        "localPath": "artifacts/catalog-photo-fill/originals/P007/Hydrangea-macrophyll_vLpRSaj7hdFJ.jpeg",
+        "width": 768,
+        "height": 1024,
+        "sha256": "29d9b4a5e20ff119479ba21087f6e5cac13f3a1aa15a6fd5e7ebc4404fa0ce83",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [
+          "P007"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/hydrangea-macrophylla/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Hope Duckworth",
+        "license": "CC BY 4.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/4.0/legalcode",
+        "caption": "flowers, Cabarrus County, NC",
+        "alt": "flowers, Cabarrus County, NC",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 10,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/hydrangea-macrophyll_LPEBYgxsLU35.jpg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=5jwb0JQknhDpF6j6xQmli8OhR7o%3D&Expires=1791967207",
+        "localPath": "artifacts/catalog-photo-fill/originals/P007/hydrangea-macrophyll_LPEBYgxsLU35.jpg",
+        "width": 1024,
+        "height": 682,
+        "sha256": "94b88ecee306ad45fc4b1d2cdf3596e62b87ee170d9bde03d04f2fdb7c87ae3f",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 46,
+    "title": "Hydrangea macrophylla\n        (Bigleaf Hydrangea, French Hydrangea, Hortensia, Lacecap Hydrangea, Mop-head Hydrangea, Snowball Plant)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P017",
+    "records": [
+      {
+        "productIds": [
+          "P017"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/anemone-coronaria/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Hope Duckworth",
+        "license": "CC BY 4.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/4.0/legalcode",
+        "caption": "Blue Flowers of a cultivar (Cabarrus County,NC)",
+        "alt": "Cultivar with blue flowers",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 10,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/anemone_coronaria-bl_EiIH4SaQxIxE.jpg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=6pgBuWTS5A2d6ZRs07WonEtj8AI%3D&Expires=1791966929",
+        "localPath": "artifacts/catalog-photo-fill/originals/P017/anemone_coronaria-bl_EiIH4SaQxIxE.jpg",
+        "width": 1024,
+        "height": 682,
+        "sha256": "76b2a0664d01185cbe213a27a6222f9d0912186c49dfedc1852d2e1d6b0ed246",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [
+          "P017"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/anemone-coronaria/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Hope Duckworth",
+        "license": "CC BY 4.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/4.0/legalcode",
+        "caption": "Pink Flowers (Cabarrus County,NC)",
+        "alt": "Anemone coronaria",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 10,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/anemone-coronaria-pi_mEMFulZAwhX4.jpg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=t3KwTxTLqfciSOL0WVAPqyPaBZE%3D&Expires=1791966929",
+        "localPath": "artifacts/catalog-photo-fill/originals/P017/anemone-coronaria-pi_mEMFulZAwhX4.jpg",
+        "width": 1024,
+        "height": 682,
+        "sha256": "e7ff9f3d002e9b1fd798393daab2aca8953d3ae7d89889041fa8bdc1f1ceb32d",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 8,
+    "title": "Anemone coronaria\n        (Poppy Anemone, Spanish Marigold, Windflower)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P013",
+    "records": [
+      {
+        "productIds": [
+          "P013"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/gomphrena-globosa/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Hope Duckworth",
+        "license": "CC BY 4.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/4.0/legalcode",
+        "caption": "Flower Close-up (Cabarrus County, NC)",
+        "alt": "Gomphrena globosa",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 14,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/gomphrena_globosa-co_X7NKiU1MfzZk.jfif?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=xYKeWyocMATYuPBH1sSuJReJIDg%3D&Expires=1791967207",
+        "localPath": "artifacts/catalog-photo-fill/originals/P013/gomphrena_globosa-co_X7NKiU1MfzZk.jfif",
+        "width": 682,
+        "height": 1024,
+        "sha256": "923a2802527f06a832add15788131e9064c754e3be82ff715a4b1ec3758ce134",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [
+          "P013"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/gomphrena-globosa/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Hope Duckworth",
+        "license": "CC BY 4.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/4.0/legalcode",
+        "caption": "Flowers (Cabarrus County,NC)-Summer",
+        "alt": "Gomphrena globosa",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 10,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/gomphrena_globosa-fl_3xJeXpC3yzOQ.jpg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=wwQ2qUcPgvU%2FlJET%2BrxMeR0XJIE%3D&Expires=1791967207",
+        "localPath": "artifacts/catalog-photo-fill/originals/P013/gomphrena_globosa-fl_3xJeXpC3yzOQ.jpg",
+        "width": 682,
+        "height": 1024,
+        "sha256": "1399ac6f0280195f9d88e75ea257917ac7f7d850bf0f66038aa75f049f0c2750",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 15,
+    "title": "Gomphrena globosa\n        (Batchelor's Button, Common Globe Amaranth, Devil's Clover, Globe Amaranth, Globe Flower)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P011",
+    "records": [
+      {
+        "productIds": [
+          "P011"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/gardenia-jasminoides/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Cathy Dewitt",
+        "license": "CC BY 4.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/4.0/legalcode",
+        "caption": "Flower and Leaves (Wake County, NC)-Summer",
+        "alt": "Gardenia jasminoide",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 12,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Gardenia_jasminoides_tud78nrFbzyX.jfif?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=%2BOuiOCjLUSZ4jUNX%2F5YzOIm59vc%3D&Expires=1791967016",
+        "localPath": "artifacts/catalog-photo-fill/originals/P011/Gardenia_jasminoides_tud78nrFbzyX.jfif",
+        "width": 720,
+        "height": 960,
+        "sha256": "aa799bdf5352a6c66cf0b44fda99bd6f04948e7708011cd4f712326f2980b8a9",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [
+          "P011"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/gardenia-jasminoides/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Forest and Kim Starr",
+        "license": "CC BY 2.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/2.0/legalcode",
+        "caption": "Leaves",
+        "alt": "Leaves",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 12,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Gardenia-augusta-Veitchii--Forest-and-Kim-Starr--cc-by-2-0.jpg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=Qt8g8oQkVAPrsflYVdl%2FND4SbZE%3D&Expires=1791967016",
+        "localPath": "artifacts/catalog-photo-fill/originals/P011/Gardenia-augusta-Veitchii--Forest-and-Kim-Starr--cc-by-2-0.jpg",
+        "width": 600,
+        "height": 450,
+        "sha256": "04137f4fe1ae2d243b4c453568d75ec4c962f535cc3349f28391b0eb1e50186b",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 33,
+    "title": "Gardenia jasminoides\n        (Cape Jasmine, Cape Jasmine Gardenia, Cape jessamine, Gardenia)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P006",
+    "records": [
+      {
+        "productIds": [
+          "P006"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/helianthus-annuus/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Hope Duckworth",
+        "license": "CC BY 4.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/4.0/legalcode",
+        "caption": "'Henry Wilde' flower opening",
+        "alt": "'Henry Wilde' flower opening",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 10,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/helianthus-annuus-he_dFtbcmo7eZb8.jpeg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=wGA5r8FPlT8Fa0oNBJ89RYqVHSA%3D&Expires=1791967207",
+        "localPath": "artifacts/catalog-photo-fill/originals/P006/helianthus-annuus-he_dFtbcmo7eZb8.jpeg",
+        "width": 768,
+        "height": 1024,
+        "sha256": "017e832dcbd44230c4e2cb9826f020e9d12395f0fd1ed028ea04edf882012dd0",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [
+          "P006"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/helianthus-annuus/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Emily's Gardening by Design",
+        "license": "CC BY 4.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/4.0/legalcode",
+        "caption": "Leaf Close-up (Wake County,NC)",
+        "alt": "Helianthus annuus",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 4,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Helianthus_annuus_le_HS6B41bUfMPf.jfif?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=erGafL68R25SDo5cu8E4RdTkjoQ%3D&Expires=1791967207",
+        "localPath": "artifacts/catalog-photo-fill/originals/P006/Helianthus_annuus_le_HS6B41bUfMPf.jfif",
+        "width": 1024,
+        "height": 768,
+        "sha256": "2b549374a3010c9e8f5469612d2819895fd47fecea2b5b02d070ea3a0811f3d3",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 28,
+    "title": "Helianthus annuus\n        (Comb Flower, Common Sunflower, Golden Flower of Peru, Kansas Sunflower, Sunflower, Wild Sunflower)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P008",
+    "records": [
+      {
+        "productIds": [
+          "P008"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/dypsis-lutescens/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Kathleen Moore",
+        "license": "CC BY 2.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/2.0/legalcode",
+        "caption": "leaves",
+        "alt": "leaves",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 12,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Dypsis-lutescens--Kathleen_Moore--CC-BY-20.jpg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=6fum2QubrJzN23rojS%2F2gwj%2FJ0c%3D&Expires=1791967207",
+        "localPath": "artifacts/catalog-photo-fill/originals/P008/Dypsis-lutescens--Kathleen_Moore--CC-BY-20.jpg",
+        "width": 450,
+        "height": 600,
+        "sha256": "a5a4dc85d56583f87cce1b07e5cfa8424852103a5f3df056945b0386f3773fab",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [
+          "P008"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/dypsis-lutescens/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "David J. Stang",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/4.0/legalcode",
+        "caption": "leaves and stem",
+        "alt": "leaves and stem",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 12,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Dypsis_lutescens_by__AdJu433kUnbK.jpeg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=Eb17JwK9Z5j%2FCm1e8XhM2yvjHh0%3D&Expires=1791967207",
+        "localPath": "artifacts/catalog-photo-fill/originals/P008/Dypsis_lutescens_by__AdJu433kUnbK.jpeg",
+        "width": 682,
+        "height": 1024,
+        "sha256": "fc97165827a377c8e162a9f842e04a884f99b1bdf011a23923c9fc72a12f4582",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 9,
+    "title": "Chrysalidocarpus lutescens\n        (Areca Palm, Bamboo Palm, Butterfly Palm, Golden Butterfly Palm, Golden Feather Palm, Yellow Palm)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P020",
+    "records": [
+      {
+        "productIds": [
+          "P020"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/convallaria-majalis/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "H Zell",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "caption": "White bell-shaped flowers",
+        "alt": "leaves and flowers",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 14,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Convallaria_majalis__rssHShKjFDTo.jfif?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=KzrisG84tkJtfcAd8g5riORe66Q%3D&Expires=1791967085",
+        "localPath": "artifacts/catalog-photo-fill/originals/P020/Convallaria_majalis__rssHShKjFDTo.jfif",
+        "width": 768,
+        "height": 1024,
+        "sha256": "d1f4f4bd31a1472ec9239747d69ac7138a3983b289c33b0f73233b7199c9e3fd",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [
+          "P020"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/convallaria-majalis/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Ryan Hodnett",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/4.0/legalcode",
+        "caption": "leaves and flowers",
+        "alt": "leaves and flowers",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 14,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Convallaria_majalis__DEsSF03a2ec4.jfif?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=YoMhbu6S7t5dk4teR%2Fl3MTfYL4o%3D&Expires=1791967085",
+        "localPath": "artifacts/catalog-photo-fill/originals/P020/Convallaria_majalis__DEsSF03a2ec4.jfif",
+        "width": 1024,
+        "height": 575,
+        "sha256": "b9bc31dd71d4f9d752038f37ed88c74428593c887066b4b496b3050beb11f317",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 13,
+    "title": "Convallaria majalis\n        (Lily of the Valley, Lily-of-the-valley)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P023",
+    "records": [
+      {
+        "productIds": [
+          "P023"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/campanula-medium/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Yoko Nekonomania",
+        "license": "CC BY 2.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/2.0/legalcode",
+        "caption": "Close up flower",
+        "alt": "Close up flower",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 14,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Campanula_medium__Yo_DTQvXac42cJP.jpeg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=QBA5ug%2FFlm6hCk92YzxGiJeDznM%3D&Expires=1791967214",
+        "localPath": "artifacts/catalog-photo-fill/originals/P023/Campanula_medium__Yo_DTQvXac42cJP.jpeg",
+        "width": 682,
+        "height": 1024,
+        "sha256": "8e841652edef2a1406fa62c62fc4d29c5c2dde5512fc7a5e7607ef7d97d76427",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [
+          "P023"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/campanula-medium/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "M's photography",
+        "license": "CC BY 2.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/2.0/legalcode",
+        "caption": "Flowers",
+        "alt": "Flowers",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 10,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Campanula_medium_Ms_EIX3FZ4J3dBS.jpg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=60qAgdtvEE5bggJMWK%2FxpttRjfo%3D&Expires=1791967214",
+        "localPath": "artifacts/catalog-photo-fill/originals/P023/Campanula_medium_Ms_EIX3FZ4J3dBS.jpg",
+        "width": 1024,
+        "height": 768,
+        "sha256": "ae7cf0d0059376e82b11e310741e5db4d501a5efeea9d3b23d94d213dee71c56",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 7,
+    "title": "Campanula medium\n        (Canterbury Bells, Coventry Bells, Cup and Saucer, Lady's Nightcap, St. Thomas's Bells)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P019",
+    "records": [
+      {
+        "productIds": [
+          "P019"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/chimonanthus-praecox/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Kristine Paulus",
+        "license": "CC-BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "caption": "flowers",
+        "alt": "flowers",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 10,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Chimonanthus_praecox_A92CdT6DoTsy.jpg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=swS0KEaJL1Fihr1s0Pd0T1QuapY%3D&Expires=1791967026",
+        "localPath": "artifacts/catalog-photo-fill/originals/P019/Chimonanthus_praecox_A92CdT6DoTsy.jpg",
+        "width": 768,
+        "height": 1024,
+        "sha256": "405a68359eeeb2c77cce6281dcdcc39f082351726ff460e9d22809539c247737",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [
+          "P019"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/chimonanthus-praecox/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "t-Mizo",
+        "license": "CC BY 2.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/2.0/legalcode",
+        "caption": "yellow flowers",
+        "alt": "yellow flowers",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 10,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Chimonanthus_praecox_XdXTdkq1GdW8.jpe?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=tWBLG%2Foe4mWbbRV8ierHOa9kLY8%3D&Expires=1791967026",
+        "localPath": "artifacts/catalog-photo-fill/originals/P019/Chimonanthus_praecox_XdXTdkq1GdW8.jpe",
+        "width": 682,
+        "height": 1024,
+        "sha256": "b4d5ec413c181c77b91e9dccdd729f0f1afeb2af433aa6e970e50f256c0c0af3",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 13,
+    "title": "Chimonanthus praecox\n        (Fragrant Wintersweet, Japanese allspice, Wintersweet)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P021",
+    "records": [
+      {
+        "productIds": [
+          "P021"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/paeonia-herbaceous-types/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "F.D. Richards",
+        "license": "CC-BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "caption": "Paeonia 'Sarah Bernhardt'",
+        "alt": "Fully double pink flowers",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 10,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/sara_berhardt_9eF4eoSkBHwb.jpeg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=ko5Ll9tZXwXljRLEhFs4GsgXW1c%3D&Expires=1791967215",
+        "localPath": "artifacts/catalog-photo-fill/originals/P021/sara_berhardt_9eF4eoSkBHwb.jpeg",
+        "width": 800,
+        "height": 600,
+        "sha256": "383778c54a1d9c81b67db3077b94e344127a89252af6850034d1d493435907f0",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [
+          "P021"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/paeonia-herbaceous-types/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Cathy Dewitt",
+        "license": "CC BY 4.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/4.0/legalcode",
+        "caption": "Paeonia 'Eliza Lundy' (Herbaceous Hybrid)",
+        "alt": "Fully double red flower",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 10,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Paeonia-hybrid-Peony_Is1QoduehZ84.jpeg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=EpNyHILAkjm9yWKlxtX7jp8%2B33g%3D&Expires=1791967215",
+        "localPath": "artifacts/catalog-photo-fill/originals/P021/Paeonia-hybrid-Peony_Is1QoduehZ84.jpeg",
+        "width": 1024,
+        "height": 820,
+        "sha256": "8fe3540bf3f00c334059cf26371f05821f826c7b36d14f92d132384c05fbadf4",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 15,
+    "title": "Paeonia – Herbaceous Types\n        (Garden Peony, Herbaceous Peony, Hybrid Peony, Lactiflora Hybrids, Peony)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P025",
+    "records": [
+      {
+        "productIds": [
+          "P025"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/papaver-rhoeas/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Björn S...",
+        "license": "CC-BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "caption": "Close up of flower",
+        "alt": "Close up of flower",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 14,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Papaver_rhoeas_close_gicO0neiYU6d.jfif?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=6ABh%2FHfR%2B%2FX2ED6Mb2SnQn59nic%3D&Expires=1791967217",
+        "localPath": "artifacts/catalog-photo-fill/originals/P025/Papaver_rhoeas_close_gicO0neiYU6d.jfif",
+        "width": 1024,
+        "height": 682,
+        "sha256": "4ad6c31be9c569d96db43b233f5c00e7fefa126a74f18dd039b569d8216833f7",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [
+          "P025"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/papaver-rhoeas/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Kathleen Moore",
+        "license": "CC BY 2.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/2.0/legalcode",
+        "caption": "Red flower",
+        "alt": "Red flower",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 10,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Papaver_rhoeas_red_f_OYe0J7ZOrucf.jpg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=Et8OC6Ysya7M2ZUJKtr29kE%2BGps%3D&Expires=1791967217",
+        "localPath": "artifacts/catalog-photo-fill/originals/P025/Papaver_rhoeas_red_f_OYe0J7ZOrucf.jpg",
+        "width": 1024,
+        "height": 768,
+        "sha256": "3fbcc1bbcb997071e4da96ed6f7dc42c00223eb5feef11fe84885af607b17838",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 12,
+    "title": "Papaver rhoeas\n        (Corn Poppy, Field Poppy, Flanders Poppy, Red Poppy)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P028",
+    "records": [
+      {
+        "productIds": [
+          "P028"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/pieris-japonica/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Randy Harter",
+        "license": "CC BY 4.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/4.0/legalcode",
+        "caption": "'Mountain Fire' Flower bud and leaves (Buncombe County, NC)",
+        "alt": "Pieris japonica",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 14,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Pieris_japonica__Mou_c4AXIydYvP1w.jpg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=SQ%2BIzqokqL6DV8l7btYPInPWUtU%3D&Expires=1791967220",
+        "localPath": "artifacts/catalog-photo-fill/originals/P028/Pieris_japonica__Mou_c4AXIydYvP1w.jpg",
+        "width": 768,
+        "height": 1024,
+        "sha256": "3dcc91ab6a44ce2b95d83f4a7d0ded9de5676c5a42948e5e6195d3bafa6cba4a",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [
+          "P028"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/pieris-japonica/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Randy Harter",
+        "license": "CC BY 4.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/4.0/legalcode",
+        "caption": "'Mountain Fire' Flower and leaves (Buncombe County, NC)",
+        "alt": "Pieris japonica",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 14,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Pieris_japonica__Mou_uGuDDOseaYDo.jpg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=RpCz6O%2F%2FSxhVgz8ty0txjB%2FxcNI%3D&Expires=1791967220",
+        "localPath": "artifacts/catalog-photo-fill/originals/P028/Pieris_japonica__Mou_uGuDDOseaYDo.jpg",
+        "width": 768,
+        "height": 1024,
+        "sha256": "efc69153b819cec8eb37c2d84f598eb01c63f74414de174579a4561a2411c7b8",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 25,
+    "title": "Pieris japonica\n        (Fetterbush, Japanese Andromeda, Japanese Pieris, Lily-of-the-Valley Shrub, Pieris)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P027",
+    "records": [
+      {
+        "productIds": [
+          "P027"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/nymphaea/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Famartin",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/4.0/legalcode",
+        "caption": "N. odorata flower and leaves",
+        "alt": "N. odorata white flower and green leaves",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 14,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Nymphaea_oderado_flo_aerZuwv87gWf.jpeg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=e7D4Yq9x6B9cjt26rRlkUPX3bCg%3D&Expires=1791966893",
+        "localPath": "artifacts/catalog-photo-fill/originals/P027/Nymphaea_oderado_flo_aerZuwv87gWf.jpeg",
+        "width": 1024,
+        "height": 768,
+        "sha256": "e3e6c3fb58402ee9c08a543fe5ff764c3736664fe29893e649bd3a5c3f53dba6",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [
+          "P027"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/nymphaea/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Derek Ramsey",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "caption": "Flower and leaves",
+        "alt": "Pink flower and green lily pads",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 14,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Nymphaea_pink_flower_DRsAXwCxNlbf.jpeg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=SP3FwUt6GcALmYkQWOyjYUQNgDk%3D&Expires=1791966893",
+        "localPath": "artifacts/catalog-photo-fill/originals/P027/Nymphaea_pink_flower_DRsAXwCxNlbf.jpeg",
+        "width": 1024,
+        "height": 768,
+        "sha256": "1b1bbf2bab7bbd0e34d4b31ccba7924041851d722b6e4586f43ca9e1593ed4af",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 16,
+    "title": "Nymphaea\n        (Waterlily, Water Lily)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P029",
+    "records": [
+      {
+        "productIds": [
+          "P029"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/nelumbo-nucifera/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "H. Zell",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "caption": "fruit/ seedhead",
+        "alt": "Nelumbo_nucifera fruit",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 12,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Nelumbo_nucifera_fru_5vKQ3Xwoqd6p.jpe?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=imGrCRWBLJYdl0NVa%2BOTmgKTYgw%3D&Expires=1791967221",
+        "localPath": "artifacts/catalog-photo-fill/originals/P029/Nelumbo_nucifera_fru_5vKQ3Xwoqd6p.jpe",
+        "width": 768,
+        "height": 1024,
+        "sha256": "5b4721996aba45a1c9d71307b97965d8bcb6c6d6390bbc1bd548535de6475732",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [
+          "P029"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/nelumbo-nucifera/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Peripitus",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/4.0/legalcode",
+        "caption": "fruit/ seedhead",
+        "alt": "Nelumbo nucifera fruit",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 12,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Nelumbo_nucifera_fru_Xek0PuTENnYz.jpg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=3v1k3BG0jDLMKLhndILgx7AMtek%3D&Expires=1791967221",
+        "localPath": "artifacts/catalog-photo-fill/originals/P029/Nelumbo_nucifera_fru_Xek0PuTENnYz.jpg",
+        "width": 1024,
+        "height": 768,
+        "sha256": "67bdbe23ae72333f4b14d063182867692420123bdf7356edf743fb49fded7911",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 25,
+    "title": "Nelumbo nucifera\n        (Chinese Arrowroot, Chinese Waterlily, Eastern Lotus, East Indian Lotus, Egyptian Sacred Bean, Indian Lotus, Padma, Sacred Lotus, Water Bean, Water Lotus)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P031",
+    "records": [
+      {
+        "productIds": [
+          "P031"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/strelitzia-reginae/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Author unspecified",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "caption": "Close up of flower",
+        "alt": "Close up of flower",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 14,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Strelitzia_reginae_f_V4wBkV79GhOM.jpe?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=B3DmfRA47%2FqxA80zlzZJuerUiKM%3D&Expires=1791967221",
+        "localPath": "artifacts/catalog-photo-fill/originals/P031/Strelitzia_reginae_f_V4wBkV79GhOM.jpe",
+        "width": 1024,
+        "height": 682,
+        "sha256": "6a08034f51c3a95fdc770be212869cdb5641e62d1d6cea770107b6423b773b6c",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [
+          "P031"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/strelitzia-reginae/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "gailhampshire",
+        "license": "CC BY 2.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/2.0/legalcode",
+        "caption": "Flowers",
+        "alt": "Flowers",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 10,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Strelitzia_reginae_f_JBfDlIG4mMIh.jpeg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=nUKLy7Je7tU%2BrhxZXIciU%2BXnUws%3D&Expires=1791967221",
+        "localPath": "artifacts/catalog-photo-fill/originals/P031/Strelitzia_reginae_f_JBfDlIG4mMIh.jpeg",
+        "width": 1024,
+        "height": 753,
+        "sha256": "882d20a46990599457d46f50fac82939d5be20c04b8bd4beb4c03f3d607cc6c9",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 5,
+    "title": "Strelitzia reginae\n        (Bird of Paradise, Bird of Paradise Flower, Bird-of-Paradise-Flower, Bird's Tongue Flower, Canna-leaved Strelitzia, Crane Flower)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P033",
+    "records": [
+      {
+        "productIds": [
+          "P033"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/nandina-domestica/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Cathy Dewitt",
+        "license": "CC BY 4.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/4.0/legalcode",
+        "caption": "Berries (Wake County,NC)-Mid Summer",
+        "alt": "Nandina domestica",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 12,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Nandina_domestica-He_A4JEP7o084lY.mpo?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=tPYBXZ5hdP%2BTKhyKlat11uRvnFI%3D&Expires=1791967221",
+        "localPath": "artifacts/catalog-photo-fill/originals/P033/Nandina_domestica-He_A4JEP7o084lY.mpo",
+        "width": 1024,
+        "height": 682,
+        "sha256": "074112d548c53fa7db3e7d80dc24c99a4749f521725d9feb09aaa6fa806e1f81",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [
+          "P033"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/nandina-domestica/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Cathy Dewitt",
+        "license": "CC BY 4.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/4.0/legalcode",
+        "caption": "Berries (Wake County, NC)-Mid Winter",
+        "alt": "Nandina domestica",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 12,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Nandina_domestica-He_HoC7oRk3pQVp.jpg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=Wmec7dviOkAjfct2vMZ2pwuxN3A%3D&Expires=1791967221",
+        "localPath": "artifacts/catalog-photo-fill/originals/P033/Nandina_domestica-He_HoC7oRk3pQVp.jpg",
+        "width": 1024,
+        "height": 821,
+        "sha256": "20fa407ea12f6bb209b8f1e847119b988fc631a1cda23aa84389f05ee108aeb6",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 25,
+    "title": "Nandina domestica\n        (Chinese Sacred Bamboo, Heavenly Bamboo, Nandina, Sacred Bamboo)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "('P022', 'paeonia-suffruticosa')",
+    "error": "404 Client Error: Not Found for url: https://plants.ces.ncsu.edu/plants/paeonia-suffruticosa/"
+  },
+  {
+    "key": "('P026', 'astilbe')",
+    "error": "404 Client Error: Not Found for url: https://plants.ces.ncsu.edu/plants/astilbe/"
+  },
+  {
+    "key": "P043",
+    "records": [
+      {
+        "productIds": [
+          "P043"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/smilax-china/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Thomas Glasgow",
+        "license": "CC BY 4.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/4.0/legalcode",
+        "caption": "The only red fruited Smilax in North Carolina.  Winter, Craven Co., NC",
+        "alt": "The only red fruited Smilax in North Carolina.  Winter, Craven C",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 12,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Thomas_Glasgow_2_3bCCI2dtyjBR.jpeg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=3wt%2FDRWtj3FQGMFZqC96ug31Hqc%3D&Expires=1791967227",
+        "localPath": "artifacts/catalog-photo-fill/originals/P043/Thomas_Glasgow_2_3bCCI2dtyjBR.jpeg",
+        "width": 1024,
+        "height": 768,
+        "sha256": "c07276498603d6f7da326ee14613688208ebdc045e53216eaa74770afb615417",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [
+          "P043"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/smilax-china/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Thomas Glasgow",
+        "license": "CC BY 4.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/4.0/legalcode",
+        "caption": "The only red fruited Smilax in North Carolina - close up. Winter, Craven Co., NC",
+        "alt": "The only red fruited Smilax in North Carolina - close up. Winter",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 12,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Thomas_Glasgow_1_G7DO1ZLpdW9v.jpeg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=QdruuAFndbvBHL5ljOeCGL8aGjk%3D&Expires=1791967227",
+        "localPath": "artifacts/catalog-photo-fill/originals/P043/Thomas_Glasgow_1_G7DO1ZLpdW9v.jpeg",
+        "width": 1024,
+        "height": 827,
+        "sha256": "cae604acca6003ef0fca5fcf817892418057ac465956082732e69fcf76452e70",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 5,
+    "title": "Smilax walteri\n        (Coral Greenbrier, Red Bead Greenbrier, Red-berried Bamboo, Red Berried Greenbrier, Red-berried Greenbrier, Red-berried Swamp Smilax, Walter's Greenbrier)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "('P024', 'jasminum-sambac')",
+    "error": "404 Client Error: Not Found for url: https://plants.ces.ncsu.edu/plants/jasminum-sambac/"
+  },
+  {
+    "key": "P045",
+    "records": [
+      {
+        "productIds": [
+          "P045"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/ranunculus-asiaticus/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "K M",
+        "license": "CC BY 2.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/2.0/legalcode",
+        "caption": "Ranunculus asiaticus Tecolote Giant® 'Café'",
+        "alt": "Semi-double flowers in shades of yellow and orange.",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 10,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Ranunculus_Tecolote__3808tZNVKGKY.jpeg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=8vI5A8R00yOCaL%2BlC%2F6uVfdcYM8%3D&Expires=1791966938",
+        "localPath": "artifacts/catalog-photo-fill/originals/P045/Ranunculus_Tecolote__3808tZNVKGKY.jpeg",
+        "width": 800,
+        "height": 450,
+        "sha256": "0f040e1faaa408fc79a6e1647f80a64148398f9e9444cdc7052d8309f019d33a",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [
+          "P045"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/ranunculus-asiaticus/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Steve Bittinger",
+        "license": "CC BY 2.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/2.0/legalcode",
+        "caption": "Ranunculus asiaticus hybrid",
+        "alt": "Orange fully double flowers and highly dissected foliage.",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 10,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Ranunculus_Steve_Bit_9Wr98AR5n7yp.jpeg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=khrj9N9a%2Fb9MZd8wvDAYqIW%2BK0Q%3D&Expires=1791966938",
+        "localPath": "artifacts/catalog-photo-fill/originals/P045/Ranunculus_Steve_Bit_9Wr98AR5n7yp.jpeg",
+        "width": 800,
+        "height": 461,
+        "sha256": "f88b134c8893878b55017102634144b61b8c0221786789473297872a675fc29a",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 8,
+    "title": "Ranunculus asiaticus\n        (Persian Buttercup, Ranunculus)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "('P040', 'renanthera-coccinea')",
+    "error": "404 Client Error: Not Found for url: https://plants.ces.ncsu.edu/plants/renanthera-coccinea/"
+  },
+  {
+    "key": "('P041', 'hypericum-inodorum')",
+    "error": "404 Client Error: Not Found for url: https://plants.ces.ncsu.edu/plants/hypericum-inodorum/"
+  },
+  {
+    "key": "P047",
+    "records": [
+      {
+        "productIds": [
+          "P047"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/antirrhinum-majus/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Manual",
+        "license": "CC BY 2.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/2.0/legalcode",
+        "caption": "",
+        "alt": "Antirrhinum majus",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 0,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Antirrhinum-majus-crp--Manual--CC-BY.jpg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=04NPBK0ua9ObknVSkxmEgt6duO0%3D&Expires=1791967229",
+        "localPath": "artifacts/catalog-photo-fill/originals/P047/Antirrhinum-majus-crp--Manual--CC-BY.jpg",
+        "width": 600,
+        "height": 430,
+        "sha256": "e03daf0d41aa4fe56413ffa8d12aecc73c02335e59529b55b7f92e8d907790ab",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [
+          "P047"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/antirrhinum-majus/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Manual",
+        "license": "CC BY 2.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/2.0/legalcode",
+        "caption": "",
+        "alt": "Antirrhinum majus",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 0,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Antirrhinum-majus-crp--Manual--CC-BY.jpg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=04NPBK0ua9ObknVSkxmEgt6duO0%3D&Expires=1791967229",
+        "localPath": "artifacts/catalog-photo-fill/originals/P047/Antirrhinum-majus-crp--Manual--CC-BY.jpg",
+        "width": 600,
+        "height": 430,
+        "sha256": "e03daf0d41aa4fe56413ffa8d12aecc73c02335e59529b55b7f92e8d907790ab",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 7,
+    "title": "Antirrhinum majus\n        (Common Snapdragon, Garden Snapdragon, Snapdragon)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P046",
+    "records": [
+      {
+        "productIds": [
+          "P046"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/matthiola-incana/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Upupa4me",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/4.0/legalcode",
+        "caption": "",
+        "alt": "Matthiola incana",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 0,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Matthiola_incana--Upupa4me--CC-BY-SA.jpg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=3PRYBQbFVJjxx0rnbaFmN5%2BCI4Q%3D&Expires=1791967229",
+        "localPath": "artifacts/catalog-photo-fill/originals/P046/Matthiola_incana--Upupa4me--CC-BY-SA.jpg",
+        "width": 465,
+        "height": 600,
+        "sha256": "1c2204de46b3fb033a50c7176fff096b6b24b99b3057387ab894a75d01104506",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 6,
+    "title": "Matthiola incana\n        (Brompton Stock, Gillyflower, Stock, Stocks, Ten Weeks Stock)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P050",
+    "records": [
+      {
+        "productIds": [
+          "P050"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/limonium-sinuatum/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Maja Dumat",
+        "license": "CC BY 2.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/2.0/legalcode",
+        "caption": "Flowers",
+        "alt": "Flowers",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 10,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Limonium-sinuatum--Maja-Dumat-CC-BY.jpg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=LsKNQqDlNIMtMGNwc7hwmBRm8h4%3D&Expires=1791967232",
+        "localPath": "artifacts/catalog-photo-fill/originals/P050/Limonium-sinuatum--Maja-Dumat-CC-BY.jpg",
+        "width": 442,
+        "height": 600,
+        "sha256": "698371bff237ac19c4418abc1735621f938bdc2115a606fe271a4bfa196e85b8",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [
+          "P050"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/limonium-sinuatum/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Carl Lewis",
+        "license": "CC BY 2.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/2.0/legalcode",
+        "caption": "Flowers",
+        "alt": "Flowers",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 10,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Limonium-sinuatum--Carl-Lewis-CC-BY.jpg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=RvVguTlUYf9PQsFXMFmCf0eHLXE%3D&Expires=1791967232",
+        "localPath": "artifacts/catalog-photo-fill/originals/P050/Limonium-sinuatum--Carl-Lewis-CC-BY.jpg",
+        "width": 520,
+        "height": 600,
+        "sha256": "0a6e122055cb6caa5bc68588dff9b7fc34ad4603c607abea78d391f8028a02e2",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 7,
+    "title": "Limonium sinuatum\n        (Sea Lavender, Statice, Wavyleaf Sea Lavender,)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P049",
+    "records": [
+      {
+        "productIds": [
+          "P049"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/gladiolus/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Cathy Dewitt",
+        "license": "CC BY 4.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/4.0/legalcode",
+        "caption": "flower closeup, late spring, Wake County, NC",
+        "alt": "flower closeup, late spring, Wake County, NC",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 14,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/White-Gladiolus-flow_zakCFhyZuEEn.jpg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=kokYV6eukYhpLNC8pg15LeHX6aU%3D&Expires=1791967231",
+        "localPath": "artifacts/catalog-photo-fill/originals/P049/White-Gladiolus-flow_zakCFhyZuEEn.jpg",
+        "width": 612,
+        "height": 1024,
+        "sha256": "1e054106bd9cfc21da4db9a11d646d3603ce92098c7e46693f7d2f9220e4440e",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [
+          "P049"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/gladiolus/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Twdragon",
+        "license": "CC BY 2.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/2.0/legalcode",
+        "caption": "Flower",
+        "alt": "Flower",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 10,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Gladiolus-Twdragon-c_rrLgryoNNeAB.jpeg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=gskPzn%2BnwS7ESK6HatNNLjBXD3k%3D&Expires=1791967231",
+        "localPath": "artifacts/catalog-photo-fill/originals/P049/Gladiolus-Twdragon-c_rrLgryoNNeAB.jpeg",
+        "width": 682,
+        "height": 1024,
+        "sha256": "f54b8eb230d6f4cded7ca4d66d18a74a4b6523ef9941993be5fe2092b1e58e75",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 11,
+    "title": "Gladiolus\n        (Aunt Eliza Rat's Rail, Gladiola, Gladiolus, Glads, Sword Lilies, Sword Lily)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P067",
+    "records": [
+      {
+        "productIds": [
+          "P067"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/eucalyptus-cinerea/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Forest and Kim Starr",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "caption": "Leaves have opposite arrangement on the stem.",
+        "alt": "leaves",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 12,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/-Eucalyptus_cinerea__2weSiqQsyPPY.jfif?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=fhMf07349rr73zZ6Q66IYcO3AbE%3D&Expires=1791966940",
+        "localPath": "artifacts/catalog-photo-fill/originals/P067/-Eucalyptus_cinerea__2weSiqQsyPPY.jfif",
+        "width": 1024,
+        "height": 768,
+        "sha256": "ee899a1cf879633e3491f7a6b39aa54d7f06cd269917fbeb01f63c6d7540e896",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [
+          "P067"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/eucalyptus-cinerea/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Rameshng",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "caption": "Silvery leaves",
+        "alt": "Silvery leaves",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 12,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Silver_dollerRameshng_ccbysa30.JPG?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=LMYGKhJ5oMDJuKwe3D67pULGRj0%3D&Expires=1791966940",
+        "localPath": "artifacts/catalog-photo-fill/originals/P067/Silver_dollerRameshng_ccbysa30.JPG",
+        "width": 600,
+        "height": 450,
+        "sha256": "860b1f02c3f93b1b5ea4a3a37d6be7009a3b7d509f4a415dc0fc793cf358d9bd",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 6,
+    "title": "Eucalyptus cinerea\n        (Argyle Apple, Eucalyptus, Silver Dollar Tree)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P051",
+    "records": [
+      {
+        "productIds": [
+          "P051"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/monstera-deliciosa/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Cindy Christian",
+        "license": "CC BY 4.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/4.0/legalcode",
+        "caption": "Monstera deliciosa (Split-leaf philodendron) houseplant view of a young plant",
+        "alt": "Monstera deliciosa (Split-leaf philodendron) houseplant view",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 4,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/20250801_132326_DHyeCR82NXNt.jpeg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=PHrngI9aDi%2FJfJbZZx2Zi6Gp2W0%3D&Expires=1791967233",
+        "localPath": "artifacts/catalog-photo-fill/originals/P051/20250801_132326_DHyeCR82NXNt.jpeg",
+        "width": 590,
+        "height": 1024,
+        "sha256": "f75dfa2d9a188a7b78f930ee5277675e38259142675635a68ea4935a467188f5",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [
+          "P051"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/monstera-deliciosa/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Hope Duckworth",
+        "license": "CC BY 4.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/4.0/legalcode",
+        "caption": "Leaves Close-Up (Cabarrus County,NC)",
+        "alt": "Monstera deliciosa",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 4,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/monstera-deliciosa-l_jNLlbqthrVY5.jfif?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=fcWMxOOb1NLwVS5evhWvjpR9cJc%3D&Expires=1791967233",
+        "localPath": "artifacts/catalog-photo-fill/originals/P051/monstera-deliciosa-l_jNLlbqthrVY5.jfif",
+        "width": 768,
+        "height": 1024,
+        "sha256": "a5eb27e72ea27ceb8a256921f6531a875abe54cf5339e773ba0d75c9446a591c",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 11,
+    "title": "Monstera deliciosa\n        (Ceriman, Cutleaf Philodendron, Hurricane Plant, Mexican Breadfruit, Split-leaf Philodendron, Swiss Cheese Plant)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "('P037', 'solanum-mammosum')",
+    "error": "404 Client Error: Not Found for url: https://plants.ces.ncsu.edu/plants/solanum-mammosum/"
+  },
+  {
+    "key": "P080",
+    "records": [
+      {
+        "productIds": [
+          "P080"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/zantedeschia-aethiopica/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Kathleen Moore",
+        "license": "CC BY 4.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/4.0/legalcode",
+        "caption": "Zantedeschia aethiopica",
+        "alt": "Arrow-shaped, unspotted leaves.",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 4,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/arrow-shaped_leaves__BJRrAQqTFTAt.jpeg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=dRIbTMiSVgpnkK7JUtLNbsHk63k%3D&Expires=1791967234",
+        "localPath": "artifacts/catalog-photo-fill/originals/P080/arrow-shaped_leaves__BJRrAQqTFTAt.jpeg",
+        "width": 480,
+        "height": 640,
+        "sha256": "de245deedf688a707b07133b03faabc2c6631cd06f9e5eaaee29f5bb330de929",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [
+          "P080"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/zantedeschia-aethiopica/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Kathleen Moore",
+        "license": "CC BY 4.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/4.0/legalcode",
+        "caption": "Zantedeschia aethiopica. Wavy (undulate) leaf margins.",
+        "alt": "Side view of the leaf showing undulate margin",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 4,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/wavy_margin_kathleen_ntOdcXP2DqHC.jpeg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=MYOMf8YRX5vwjRXvYx9RU6LXxBA%3D&Expires=1791967234",
+        "localPath": "artifacts/catalog-photo-fill/originals/P080/wavy_margin_kathleen_ntOdcXP2DqHC.jpeg",
+        "width": 640,
+        "height": 480,
+        "sha256": "7067776e0a9eb4ea8473c00b6fb02505286fe8a539c53b789b517d2d3f7cdbdb",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 15,
+    "title": "Zantedeschia aethiopica\n        (African Lily, Altar Lily, Arum Lily, Brosimun aethiopica, Calla aethiopica, Calla Lily, Egyptian Lily, Florist's Calla, Garden Calla, Lily Of The Nile, Pig Lily, Trumpet Lily, White Arum Lily)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P088",
+    "records": [
+      {
+        "productIds": [
+          "P088"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/echinacea-purpurea/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Darrell.barrell",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "caption": "Disc flower close-up",
+        "alt": "Disc flower close-up",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 14,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Echinacea-purpura-fl_g8I94k6mogCn.jpe?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=uLIYJ0qQUdaYBKoJSBUWYCRDYcQ%3D&Expires=1791966903",
+        "localPath": "artifacts/catalog-photo-fill/originals/P088/Echinacea-purpura-fl_g8I94k6mogCn.jpe",
+        "width": 1024,
+        "height": 731,
+        "sha256": "6ce31f3e33f10adc3bc35263d43c883615faf33de7fdaeb29727fd5481417bd3",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [
+          "P088"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/echinacea-purpurea/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Marcia Boyle",
+        "license": "CC BY 4.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/4.0/legalcode",
+        "caption": "Flower Close-up (Haywood County, NC)",
+        "alt": "Echinacea purpurea",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 14,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Echinacea_purpurea-H_P5H2LfBscyNi.png?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=n4yeMXpiNJ2BqPtJhSx1OO7N%2BBI%3D&Expires=1791966903",
+        "localPath": "artifacts/catalog-photo-fill/originals/P088/Echinacea_purpurea-H_P5H2LfBscyNi.png",
+        "width": 768,
+        "height": 1024,
+        "sha256": "d50fdfaa7fd3dd4146e49d5f4b8522262a14c40e52502d53629a084eea846418",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 41,
+    "title": "Echinacea purpurea\n        (Coneflower, Eastern Purple Coneflower, Purple Coneflower, Purple Rudbeckia)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P089",
+    "records": [
+      {
+        "productIds": [
+          "P089"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/phytolacca-americana/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Tubifex",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "caption": "Ripe fruit",
+        "alt": "Phytolacca americana",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 12,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Phytolacca_americana_fruit_tubifex_ccbysa30.JPG?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=%2FyUVDeQhs1l1V%2B9chu3YnJJTaXo%3D&Expires=1791967239",
+        "localPath": "artifacts/catalog-photo-fill/originals/P089/Phytolacca_americana_fruit_tubifex_ccbysa30.JPG",
+        "width": 495,
+        "height": 480,
+        "sha256": "f1483202b582ea3be2e4a0719845b104bccea4e3255b992f67a3913db5ce4bee",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [
+          "P089"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/phytolacca-americana/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Cathy Dewitt",
+        "license": "CC BY 4.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/4.0/legalcode",
+        "caption": "Berries (Warren County,NC)",
+        "alt": "Phytolacca americana",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 12,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Phytolacca-americana_ox8Re4oMaauJ.jpe?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=7qejCEmebmUcy1o9tNHlVsAjZQI%3D&Expires=1791967239",
+        "localPath": "artifacts/catalog-photo-fill/originals/P089/Phytolacca-americana_ox8Re4oMaauJ.jpe",
+        "width": 682,
+        "height": 1024,
+        "sha256": "3d7f477c7b70757a8d283b5db635d544a322a5c9ed070b28a7165eae5d97d76f",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 15,
+    "title": "Phytolacca americana\n        (American Pokeweed, Common Pokeweed, Garnet, Pidgeon Berry, Poke, Pokeberry, Pokeweed, Scoke)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P090",
+    "records": [
+      {
+        "productIds": [
+          "P090"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/phragmites-australis/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "NY State IPM Program at Cornell U.",
+        "license": "CC-BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "caption": "Stem and leaf juncture",
+        "alt": "Stem and leaf attachment",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 4,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Phragmites_australis_hBl88w5qCeyG.jpeg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=JDSGkCTzmcQTlyL6CzCE95uaT2w%3D&Expires=1791967239",
+        "localPath": "artifacts/catalog-photo-fill/originals/P090/Phragmites_australis_hBl88w5qCeyG.jpeg",
+        "width": 1024,
+        "height": 680,
+        "sha256": "3d77ab6da5038badbbf764c65ace4846d9ae5507ef8d688a977545dc3d663615",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [
+          "P090"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/phragmites-australis/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "NASA Goddard Space Flight Center",
+        "license": "CC BY 2.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/2.0/legalcode",
+        "caption": "Form showing height",
+        "alt": "Form showing height",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 0,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Phragmites_australis_LxMs0ascpThU.jpeg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=EmH81p1o7xwVWKyy74rYAR1RBH4%3D&Expires=1791967239",
+        "localPath": "artifacts/catalog-photo-fill/originals/P090/Phragmites_australis_LxMs0ascpThU.jpeg",
+        "width": 1024,
+        "height": 964,
+        "sha256": "f4a44711ec34c0447915c822b1bf266366e8c64612d82ff0ad4978f5c2f86857",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 7,
+    "title": "Phragmites australis\n        (Common Reed)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P092",
+    "records": [
+      {
+        "productIds": [
+          "P092"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/abies-procera/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "S. Rae",
+        "license": "CC BY 2.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/2.0/legalcode",
+        "caption": "Abies procera",
+        "alt": "Light brown elongated cones with spikes on seeds",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 0,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Abies_procera_seed_c_AuKIKcULzINO.jpeg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=BAd81OPX3G0PbHomx5rnukxrPBU%3D&Expires=1791967240",
+        "localPath": "artifacts/catalog-photo-fill/originals/P092/Abies_procera_seed_c_AuKIKcULzINO.jpeg",
+        "width": 1024,
+        "height": 886,
+        "sha256": "5a71d7ab9316be32b3ccbf47e59d2d1b1528336cfd36ae51de3bc5cf1a10818d",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [
+          "P092"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/abies-procera/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Jean-Pol GRANDMONT",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "caption": "Abies procera",
+        "alt": "Flat green needles on a stem",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 0,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Abies_procera_Jneedl_7YcswXPj29qI.jpeg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=JRDZgCbBgiO9Pj5i22jx0Czwa5Q%3D&Expires=1791967240",
+        "localPath": "artifacts/catalog-photo-fill/originals/P092/Abies_procera_Jneedl_7YcswXPj29qI.jpeg",
+        "width": 1024,
+        "height": 683,
+        "sha256": "b4f77665ed3d69ebc0101e6532fdc62446f558d5c11d88919032b7d020c4cad1",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 7,
+    "title": "Abies procera\n        (Christmas Tree, Noble Fir, Red Fir)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "('P042', 'salix-matsudana-tortuosa')",
+    "error": "404 Client Error: Not Found for url: https://plants.ces.ncsu.edu/plants/salix-matsudana-tortuosa/"
+  },
+  {
+    "key": "P095",
+    "records": [
+      {
+        "productIds": [
+          "P095"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/celastrus-orbiculatus/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Leonora Enking",
+        "license": "CC-BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "caption": "Celastrus orbiculatus",
+        "alt": "Leafy shoot with clusters of green flowers.",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 0,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Celastrus-orbiculatus--Leonora-Enking--CC-BY-SA-2-0_1.jpg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=lRMS9OLWZECe1GLkjKxAovGqedw%3D&Expires=1791967242",
+        "localPath": "artifacts/catalog-photo-fill/originals/P095/Celastrus-orbiculatus--Leonora-Enking--CC-BY-SA-2-0_1.jpg",
+        "width": 450,
+        "height": 600,
+        "sha256": "78660cb3829a7bedfc09701c4930255286b16d01e011c006d138e4828526ba72",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [
+          "P095"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/celastrus-orbiculatus/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Esteve Conaway",
+        "license": "CC BY 2.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/2.0/legalcode",
+        "caption": "Celastrus orbiculatus",
+        "alt": "Leafless branches with open capsules displaying red seeds.",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 0,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/celastrus_orbiculatus_Esteve_Conaway_ccby2.0_berries.jpg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=odIh4WKsRJAsCBlgjnuiadtQTRQ%3D&Expires=1791967242",
+        "localPath": "artifacts/catalog-photo-fill/originals/P095/celastrus_orbiculatus_Esteve_Conaway_ccby2.0_berries.jpg",
+        "width": 600,
+        "height": 400,
+        "sha256": "7516eef93f5d59ccfe69a0119aa98576d9e7ac48d4c57901723bd896023922ae",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 9,
+    "title": "Celastrus orbiculatus\n        (Asian Bittersweet, Chinese Bittersweet, Oriental Bittersweet)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "('P044', 'pyracantha-fortuneana')",
+    "error": "404 Client Error: Not Found for url: https://plants.ces.ncsu.edu/plants/pyracantha-fortuneana/"
+  },
+  {
+    "key": "P096",
+    "records": [
+      {
+        "productIds": [
+          "P096"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/spiraea-cantoniensis/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Photo by Forest and Kim Starr",
+        "license": "CC BY 2.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by/2.0/legalcode",
+        "caption": "Spiraea cantoniensis leaf detail",
+        "alt": "Spiraea cantoniensis",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 4,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Spiraea-cantoniensis--Forest-and-Kim-Starr--cc-by-2-0.jpg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=5NgUMLnc7LUJ2RpIpHHczr0LMao%3D&Expires=1791967242",
+        "localPath": "artifacts/catalog-photo-fill/originals/P096/Spiraea-cantoniensis--Forest-and-Kim-Starr--cc-by-2-0.jpg",
+        "width": 600,
+        "height": 450,
+        "sha256": "44ef8a4136cc3c6a7e00bf148fd6d70551e089fdd971eb3c7ea8245da3405cb5",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [
+          "P096"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/spiraea-cantoniensis/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Photo by Tatiana Gerus",
+        "license": "CC-BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "caption": "Spiraea cantoniensis",
+        "alt": "Spiraea cantoniensis",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 0,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Spiraea-cantoniensis--Tatiana-Gerus--cc-by-sa-2-0.jpg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=T%2BdvpTzcsUBIL0lDzyzPES8MxAA%3D&Expires=1791967242",
+        "localPath": "artifacts/catalog-photo-fill/originals/P096/Spiraea-cantoniensis--Tatiana-Gerus--cc-by-sa-2-0.jpg",
+        "width": 500,
+        "height": 375,
+        "sha256": "90f23d5f521cf887f314c648f77250190f49977805afdd2d461dc6c423c8c640",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 7,
+    "title": "Spiraea cantoniensis\n        (Bridal-wreath Spiraea, Cape May, Double White May, Double White May Spiraea, May Bush, Reeves Spiraea (double), Spiraea)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P097",
+    "records": [
+      {
+        "productIds": [
+          "P097"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/hyacinthus-orientalis/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Uoasi1",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "caption": "Flower",
+        "alt": "Flower",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 10,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Hyacinthus_orientali_7LffI6xylGfP.jpe?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=0TQo1HwDXvplZ6oG0GtMMLAR7%2BQ%3D&Expires=1791967243",
+        "localPath": "artifacts/catalog-photo-fill/originals/P097/Hyacinthus_orientali_7LffI6xylGfP.jpe",
+        "width": 1024,
+        "height": 682,
+        "sha256": "26a4befbd05ef3c08361076a7c821724a41e2dbf2e99233ea0c60cb9d005827b",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 8,
+    "title": "Hyacinthus orientalis\n        (Common Hyacinth, Dutch Hyacinths, Garden Hyacinth, Hyacinth)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P100",
+    "records": [
+      {
+        "productIds": [
+          "P100"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/malus/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "Lestat",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "caption": "Fruits of a crab apple",
+        "alt": "Fruits of a crab apple",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 12,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Malus_Floribunda_fru_puOO8L81NLPk.jpeg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=qOqB0lMmX1QNeT3nVqprtcNtQIM%3D&Expires=1791967039",
+        "localPath": "artifacts/catalog-photo-fill/originals/P100/Malus_Floribunda_fru_puOO8L81NLPk.jpeg",
+        "width": 1024,
+        "height": 768,
+        "sha256": "e43d85220a1f195c533523105a4c1583d84cc755d5a64548823ef8ef1d56ab02",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [
+          "P100"
+        ],
+        "sourcePage": "https://plants.ces.ncsu.edu/plants/malus/",
+        "sourceOrganization": "NC State Extension Plant Toolbox",
+        "author": "H. Zell",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "caption": "Yellow fruits",
+        "alt": "Yellow fruits",
+        "mappingStatus": "species-or-category-reference",
+        "selectionScore": 12,
+        "imageUrl": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Malus_sylvestris_yel_XtTpnE8czxin.jpeg?AWSAccessKeyId=AKIAILRBSC3CQKL5NNSQ&Signature=F6DvuuJLAyLRMU66uVHkMeXSuyo%3D&Expires=1791967039",
+        "localPath": "artifacts/catalog-photo-fill/originals/P100/Malus_sylvestris_yel_XtTpnE8czxin.jpeg",
+        "width": 1024,
+        "height": 768,
+        "sha256": "b36fc5221aae71a35993a0f6a77326ef6031c39d49816a9a799760ac824a44c7",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ],
+    "availablePhotoCount": 8,
+    "title": "Malus\n        (Apple, Crabapple, Culinary Apple, Eating Apples, Wild Apples)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "P102",
+    "records": [],
+    "availablePhotoCount": 6,
+    "title": "Crataegus pinnatifida\n        (Chinese Hawberry, Chinese Hawthorn, Hawthorn, Hawthorne, Mountain Hawthorn, Thornapple)\n    \n    |\nNorth Carolina Extension Gardener Plant Toolbox"
+  },
+  {
+    "key": "('P048', 'freesia-refracta')",
+    "error": "404 Client Error: Not Found for url: https://plants.ces.ncsu.edu/plants/freesia-refracta/"
+  },
+  {
+    "key": "('P068', 'eucalyptus-pulverulenta-baby-blue')",
+    "error": "404 Client Error: Not Found for url: https://plants.ces.ncsu.edu/plants/eucalyptus-pulverulenta-baby-blue/"
+  },
+  {
+    "key": "('P094', 'anigozanthos')",
+    "error": "404 Client Error: Not Found for url: https://plants.ces.ncsu.edu/plants/anigozanthos/"
+  },
+  {
+    "key": "('P093', 'melaleuca-bracteata')",
+    "error": "404 Client Error: Not Found for url: https://plants.ces.ncsu.edu/plants/melaleuca-bracteata/"
+  },
+  {
+    "key": "('P098', 'craspedia-globosa')",
+    "error": "404 Client Error: Not Found for url: https://plants.ces.ncsu.edu/plants/craspedia-globosa/"
+  },
+  {
+    "key": "('P104', 'solanum-integrifolium')",
+    "error": "404 Client Error: Not Found for url: https://plants.ces.ncsu.edu/plants/solanum-integrifolium/"
+  },
+  {
+    "key": "('P103', 'lepidium-virginicum')",
+    "error": "404 Client Error: Not Found for url: https://plants.ces.ncsu.edu/plants/lepidium-virginicum/"
+  },
+  {
+    "key": "j-foq",
+    "records": [
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/foq/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Osteospermum 非洲雏菊  / 蓝眼菊",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/04/osteospermum.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-foq/osteospermum.jpg",
+        "width": 384,
+        "height": 384,
+        "sha256": "23a39c25e064932937b372e3210fb32d0ad79b58ac72158c11a57e3dafdfcca6",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/foq/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Orchid Oncidium 文心兰/跳舞兰",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/03/orchidoncidium.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-foq/orchidoncidium.jpg",
+        "width": 400,
+        "height": 400,
+        "sha256": "48a85cc9e41342c441c1820c267318749ab47989501e62185334ad33e2a7aacb",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/foq/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Pieris Japonica 马醉木",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/03/pierisjaponica.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-foq/pierisjaponica.jpg",
+        "width": 400,
+        "height": 400,
+        "sha256": "19d9a0c9bef17ba5200dd6f12b9c0aafe8ad54f2fbd9a456edd6b4816d054975",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/foq/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Peony 芍药/牡丹",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/03/peony.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-foq/peony.jpg",
+        "width": 400,
+        "height": 400,
+        "sha256": "05ea1f6b47edb71475a4647cf63c136bf3f1c86eace4efea67c91e2226637278",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ]
+  },
+  {
+    "key": "j-fdg",
+    "records": [
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/fdg/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Dahlia 大丽花",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/03/dahlia.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-fdg/dahlia.jpg",
+        "width": 500,
+        "height": 500,
+        "sha256": "9f1c65b7a859c4be2b46d335c11f5ba20c291bf9bc4076d204bef91b40d46e03",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/fdg/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Eucharis /Amazon Lily 亚马逊百合",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/03/eucharis.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-fdg/eucharis.jpg",
+        "width": 357,
+        "height": 357,
+        "sha256": "4a8899bc65d3ef0677dd31b0c8329d74bfb63759383b78f83b298595d35e342e",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/fdg/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Eremurus 狐尾百合",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/03/eremurus.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-fdg/eremurus.jpg",
+        "width": 500,
+        "height": 500,
+        "sha256": "c5aeeb14902493759ed343f7e2b2238c47bd291274b6bed4e0cc637d6a11fab6",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/fdg/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Foxtail Lily 狐尾百合",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/04/floxtaillily.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-fdg/floxtaillily.jpg",
+        "width": 470,
+        "height": 470,
+        "sha256": "28a74c00dcb026bcb02ac3db4375d2740e9a4e5fdb068674700e2ccc571f9501",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/fdg/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Freesia 香雪兰 / 小苍兰",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/03/freesia.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-fdg/freesia.jpg",
+        "width": 520,
+        "height": 520,
+        "sha256": "de7596ed69bba5b45466d24c988acd7484c8d794b3c14dd8b162398e3f6340ba",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/fdg/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Gaillardia 天人菊",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/03/gaillardia.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-fdg/gaillardia.jpg",
+        "width": 600,
+        "height": 600,
+        "sha256": "bf2a6bce37fb3f1f74ab5e90d73f32a157218ebd3ab566be728f1e6f46b62c15",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/fdg/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Gerbera 非洲菊",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/03/gerbera.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-fdg/gerbera.jpg",
+        "width": 600,
+        "height": 600,
+        "sha256": "27bbc17e8751e542ba229f7a75b7f2f25a39ee1fa3aa7e2b36725695817a546e",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ]
+  },
+  {
+    "key": "j-lag",
+    "records": [
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/lag/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Contorted Willow 龙柳",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/03/contortedwillow.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-lag/contortedwillow.jpg",
+        "width": 330,
+        "height": 330,
+        "sha256": "71d1b0ca82a739c959ecf89ef9bf1042ca8b6085873b62f7aed2e194ecdc618a",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/lag/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Dusty Miller 银叶菊",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/03/dustymiller.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-lag/dustymiller.jpg",
+        "width": 600,
+        "height": 600,
+        "sha256": "dbcb9279830cc4b6b92d566df6f1b8be50f89860ad2d0d93133cd0ee4b68410a",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/lag/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Echinacea Pods 松果菊花头",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/03/echinaceapods.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-lag/echinaceapods.jpg",
+        "width": 300,
+        "height": 300,
+        "sha256": "c0f5f6651deb57bd6cf17f87e0842e3ad19396f81ed00e68112ae0c7d53478f4",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/lag/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Explosion Grass 喷泉草",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/03/explosiongrass.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-lag/explosiongrass.jpg",
+        "width": 400,
+        "height": 400,
+        "sha256": "b62c9ef503334f449102addf4dc4cd66ffcd3207b5aa25316419b136143caad1",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/lag/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Green Bell 绿铃草/菥蓂",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/03/greenbell.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-lag/greenbell.jpg",
+        "width": 350,
+        "height": 350,
+        "sha256": "c5b8e62e29924bd4413104fb9e82256d0d82b5639cb89dd45e915297dfdb5c84",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ]
+  },
+  {
+    "key": "j-lhn",
+    "records": [
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/lhn/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Ilex 冬青",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/03/ilex.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-lhn/ilex.jpg",
+        "width": 700,
+        "height": 700,
+        "sha256": "66f9a544fbb54ac37d737a63f2d4e833733ddadec3926c02e30888f0d6f9bae4",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/lhn/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Kale 叶牡丹/羽衣甘蓝",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/03/kale.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-lhn/kale.jpg",
+        "width": 350,
+        "height": 350,
+        "sha256": "e70305a68db917136030a6bf35eef87375b1f5c506d336bd562de05a110ed3ad",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/lhn/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Leuco 木百合",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/03/leuco.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-lhn/leuco.jpg",
+        "width": 500,
+        "height": 500,
+        "sha256": "33b71bf842d1cc8ea7edf8a9d0f9167142e09a97c05eb9d78456d74538240ce8",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/lhn/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Limonium Misty 补血草 / 情人草",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/03/limonium.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-lhn/limonium.jpg",
+        "width": 700,
+        "height": 700,
+        "sha256": "44e437de4da7944bea7e1c76fca6a9a08ad0f8370bede6529a759b4f6eadb15a",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ]
+  },
+  {
+    "key": "j-frz",
+    "records": [
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/frz/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Rain Lily 雨百合",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/04/rainlily.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-frz/rainlily.jpg",
+        "width": 768,
+        "height": 768,
+        "sha256": "adc16ce4070a3a48f61a0f6cee5dbcebb3edd3084315159c3730d3f441b8852f",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/frz/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Rudbeckia/Black-Eyed Susan黑心金光菊",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/03/rudbeckia.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-frz/rudbeckia.jpg",
+        "width": 665,
+        "height": 665,
+        "sha256": "c0b66191f4b9ab3d09dad6fd8e8c8940dad4ad3ec9092f3254e1c038ecd8f5f7",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/frz/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Strawflower 蜡菊",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/03/strawflower.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-frz/strawflower.jpg",
+        "width": 387,
+        "height": 387,
+        "sha256": "1821056280771c0d283e33cf37cd1e582c36df3f5f88dfb24bbd951450776e26",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/frz/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Sandersonia 宫灯百合",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/03/sandersonia.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-frz/sandersonia.jpg",
+        "width": 376,
+        "height": 376,
+        "sha256": "a871bbdfd9b5b0cc111403c39cc4c97d58336b3e972d31fdb410227868986941",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/frz/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Spirea 雪柳 / 绣线菊",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/03/spirea.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-frz/spirea.jpg",
+        "width": 400,
+        "height": 400,
+        "sha256": "e380e0b8a8c53a84aceb168bf7846f95f4d5ad20fdc32a9652abc0104dbe3282",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/frz/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Spray Mum 小菊",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/03/spraymum.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-frz/spraymum.jpg",
+        "width": 381,
+        "height": 381,
+        "sha256": "a4795f131888f3d716108cd3ce779d0cc8ca48c84d6fa3283d66444d7531d87e",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/frz/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Tweedia 蓝星花",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/03/tweedia.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-frz/tweedia.jpg",
+        "width": 450,
+        "height": 450,
+        "sha256": "101739c3e30e772c2be3184544be7a02db4271c32863bf00afb8da2e41849742",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/frz/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Tulip 郁金香",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/03/tulips.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-frz/tulips.jpg",
+        "width": 533,
+        "height": 533,
+        "sha256": "c4f2a1259fe24b78c6ef2a3f6efcc4d5d232a3213ded120908b0e93679eef3d2",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ]
+  },
+  {
+    "key": "j-loz",
+    "records": [
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/loz/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Phelbodium Blue Star 蓝星叶 / 荷兰贯众蕨",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/03/phelbodium-1.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-loz/phelbodium-1.jpg",
+        "width": 600,
+        "height": 600,
+        "sha256": "93f2a694be23cb5ca88c3e3191282ee89ecfd4ecb581cdacbfa5724d410926c2",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/loz/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Pumpkin Tree 装饰南瓜/苦子",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/03/pumpkintree.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-loz/pumpkintree.jpg",
+        "width": 500,
+        "height": 500,
+        "sha256": "d47b14b5df70b96c01ad1fc9309f246386322ab71094ca83636cb42d9c1c8d6c",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ]
+  },
+  {
+    "key": "j-fac",
+    "records": [
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/fac/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Andromeda 马醉木",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/04/andromeda.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-fac/andromeda.jpg",
+        "width": 480,
+        "height": 480,
+        "sha256": "72cc8055f5a632e5cf2c42e633ab226496a2d3dbecce604558c5efc836bca8ed",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/fac/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Alstroemeria / Peruvian Lily 六出花 / 秘鲁百合",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/03/alstroemeria.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-fac/alstroemeria.jpg",
+        "width": 600,
+        "height": 600,
+        "sha256": "b3044b97adf27749117149b3f824a090824aca2ee7ed026fdf08f210d592311d",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/fac/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Aster Matsumoto 翠菊",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/03/astermatsumoto.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-fac/astermatsumoto.jpg",
+        "width": 800,
+        "height": 800,
+        "sha256": "69a623d2dd23df750ea03dff9ae926d7b5eae3745aa1ac1d2ffb44c9bd5a6ddf",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/fac/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Amaranthus 尾穗苋 / 柔丽丝",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/03/amaranthus.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-fac/amaranthus.jpg",
+        "width": 387,
+        "height": 387,
+        "sha256": "5dfb35b68c87b2c3783e5934cf7f458861b39dc295eb444d27c92c117a4817c1",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/fac/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Astilbe 落新妇",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/03/astilbe.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-fac/astilbe.jpg",
+        "width": 296,
+        "height": 296,
+        "sha256": "fdba1e1c7a887d865247ad94587dc2e3e43020a070c87c1a7411fb89b849cca6",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/fac/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Celastrus 曼梅凝 / 南蛇藤",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/03/celastrus.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-fac/celastrus.jpg",
+        "width": 326,
+        "height": 326,
+        "sha256": "4b4bbc2de2b64ff341a3ee00640d71d5a1b6378426d3df98f93afd8e73186820",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/fac/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Curcuma 姜荷花",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/03/curcuma.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-fac/curcuma.jpg",
+        "width": 427,
+        "height": 427,
+        "sha256": "217828636d934e64e621144cae04882bf396833b72fe6cf1cbc49506757c2788",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/fac/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Cornflower 矢车菊",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/03/cornflower.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-fac/cornflower.jpg",
+        "width": 600,
+        "height": 600,
+        "sha256": "87dbb832a4bd90208b79d4ad3f36c872a1d26bcad13b74826c86ad7d1a5ec10c",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/fac/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Craspedia 黄金球 Billy Buttons",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/03/craspedia.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-fac/craspedia.jpg",
+        "width": 350,
+        "height": 350,
+        "sha256": "509c03e50b3e261d1b1241bb5219b4e2d3024f92991e0b1176f1a1dd1c1e2b7e",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/fac/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Cosmos 波斯菊",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/03/cosmos.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-fac/cosmos.jpg",
+        "width": 400,
+        "height": 400,
+        "sha256": "c978dbd58b6a257410537e56a0aa051c9068ccac0046a2827cb18d0606301ca2",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ]
+  },
+  {
+    "key": "j-fhn",
+    "records": [
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/fhn/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Kniphofia 火炬百合",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/04/kniphofia.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-fhn/kniphofia.jpg",
+        "width": 500,
+        "height": 500,
+        "sha256": "aad944867620dfed6188534c80af569aea78db33db4528df7103811fbccd1a10",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/fhn/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Jasminum Sambac 茉莉花",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/04/jasminumsambac.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-fhn/jasminumsambac.jpg",
+        "width": 500,
+        "height": 500,
+        "sha256": "cf84be6bc5be3eabb803cf34600dbfabf86ec9a27280c1294d1b8ff02adfd1fb",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/fhn/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Ixia 玉米百合",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/04/ixia.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-fhn/ixia.jpg",
+        "width": 400,
+        "height": 400,
+        "sha256": "62222c91d4f05a102bed58e87ad735bc260134e5097226b78dc94b46588e6377",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/fhn/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Ixia 玉米百合",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2025/04/ixia.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-fhn/ixia.jpg",
+        "width": 400,
+        "height": 400,
+        "sha256": "62222c91d4f05a102bed58e87ad735bc260134e5097226b78dc94b46588e6377",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/fhn/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Kangaroo Paw 袋鼠爪子",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/03/kangaroopaw.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-fhn/kangaroopaw.jpg",
+        "width": 500,
+        "height": 500,
+        "sha256": "cc1f40afa7d2f963ce1c10f583f0f93a9e99e864a3a63dfd3ee0791f8c441ec7",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/fhn/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Liatris 绣线/蛇鞭菊",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/03/liatris.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-fhn/liatris.jpg",
+        "width": 450,
+        "height": 450,
+        "sha256": "7500b890c4f8f72451746ac1a7bdf07dac66630fde3e4a4566c7fb5397544458",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/fhn/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Lily 百合",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/03/lily.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-fhn/lily.jpg",
+        "width": 800,
+        "height": 800,
+        "sha256": "c1d9d5a7a218329cc166d3420dcb522153f02678a11d610162e7d6b134e41a34",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/fhn/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Lisianthus Novelty 洋桔梗/龙胆",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/03/lisianthus.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-fhn/lisianthus.jpg",
+        "width": 400,
+        "height": 400,
+        "sha256": "3b6272eb71b44279ba865a766c257bb5b56bfd92c79a5cb2f7cb1b18e05386d4",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/fhn/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Matricaria Camomile 洋甘菊",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/03/margarita.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-fhn/margarita.jpg",
+        "width": 429,
+        "height": 429,
+        "sha256": "aed809d2d68774e952ecdef8b1ed7c039778d46ca309a9a6c2f351b3ad57d1de",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/fhn/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Matricaria Daisy 玛格丽特雏菊",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/03/margaritadaisy.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-fhn/margaritadaisy.jpg",
+        "width": 528,
+        "height": 528,
+        "sha256": "6dc24e5121679a039faeee36840dd7d6362da160c27b2a77b3894eaffbe585c8",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      },
+      {
+        "productIds": [],
+        "sourcePage": "https://jikebana.com/materials/fhn/",
+        "sourceOrganization": "J IKEBANA flower-material index",
+        "author": "Unspecified original photographer",
+        "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+        "caption": "Marigold 万寿菊",
+        "mappingStatus": "market-label-reference-only",
+        "imageUrl": "https://jikebana.com/wp-content/uploads/2020/03/marigold.jpg",
+        "localPath": "artifacts/catalog-photo-fill/originals/j-fhn/marigold.jpg",
+        "width": 500,
+        "height": 500,
+        "sha256": "6c71fd17c24ff841f0064b61900411ae9371b9224e283e9f35c0be71803e902c",
+        "mediaOrigin": "real-photo-candidate",
+        "reviewStatus": "pending-visual-review",
+        "retrievedDate": "2026-10-14",
+        "sameSpecimenMultiView": false
+      }
+    ]
+  }
+]

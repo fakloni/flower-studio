@@ -1,0 +1,43 @@
+D:\Projects\flower-studio\skills\flower-asset-pipeline\scripts\build_botanical.py:18: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m=bpy.data.materials.new(name);m.diffuse_color=(*color,1);m.use_nodes=True;m.use_backface_culling=False
+INFO Draco is available, use library at D:\softwares\Blender\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_draco_bridge.dll
+INFO MeshOptimizer is available, use library at D:\softwares\Blender\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_meshopt_bridge.dll
+17:35:14 | INFO: Starting glTF 2.0 export
+17:35:14 | INFO: Extracting primitive: curved-flower-petals
+17:35:14 | INFO: Primitives created: 1
+17:35:14 | INFO: Extracting primitive: flower-centers
+17:35:14 | INFO: Primitives created: 1
+17:35:14 | INFO: Extracting primitive: leaf-surfaces
+17:35:14 | INFO: Primitives created: 1
+17:35:14 | INFO: Extracting primitive: leaf-veins
+17:35:14 | INFO: Primitives created: 1
+17:35:14 | INFO: Extracting primitive: main-stem-and-branches
+17:35:14 | INFO: Primitives created: 1
+17:35:14 | INFO: Finished glTF 2.0 export in 0.03243374824523926 s
+
+17:35:14 | INFO: Data are loaded, start creating Blender stuff
+17:35:14 | INFO: Blender create Mesh node curved-flower-petals
+17:35:14 | INFO: Blender create Mesh node flower-centers
+17:35:14 | INFO: Blender create Mesh node leaf-surfaces
+17:35:14 | INFO: Blender create Mesh node leaf-veins
+17:35:14 | INFO: Blender create Mesh node main-stem-and-branches
+17:35:14 | INFO: glTF import finished in 0.03s
+00:02.610  render           | Saved: 'D:\Projects\flower-studio\artifacts\flower-pipeline\pilot-10-20261014\P020\v1\front.png'
+VIEW_READY front
+00:04.360  render           | Saved: 'D:\Projects\flower-studio\artifacts\flower-pipeline\pilot-10-20261014\P020\v1\left.png'
+VIEW_READY left
+00:06.078  render           | Saved: 'D:\Projects\flower-studio\artifacts\flower-pipeline\pilot-10-20261014\P020\v1\back.png'
+VIEW_READY back
+00:07.907  render           | Saved: 'D:\Projects\flower-studio\artifacts\flower-pipeline\pilot-10-20261014\P020\v1\right.png'
+VIEW_READY right
+00:09.516  render           | Saved: 'D:\Projects\flower-studio\artifacts\flower-pipeline\pilot-10-20261014\P020\v1\head-front.png'
+VIEW_READY head-front
+00:11.141  render           | Saved: 'D:\Projects\flower-studio\artifacts\flower-pipeline\pilot-10-20261014\P020\v1\head-back.png'
+VIEW_READY head-back
+00:12.782  render           | Saved: 'D:\Projects\flower-studio\artifacts\flower-pipeline\pilot-10-20261014\P020\v1\head-quarter.png'
+VIEW_READY head-quarter
+Info: Saved as "source.blend"
+ASSET_READY D:\Projects\flower-studio\artifacts\flower-pipeline\pilot-10-20261014\P020\v1 13604 252368
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

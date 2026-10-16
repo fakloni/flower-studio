@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "productId": "P098",
+  "editorId": "craspedia-yellow",
+  "name": "黄金球",
+  "color": "黄色",
+  "role": "配花",
+  "route": "local-blender",
+  "archetype": "craspedia",
+  "seed": 20261112,
+  "stemLengthM": 0.62,
+  "headDiameterM": 0.028,
+  "petalColor": [
+    0.75,
+    0.44,
+    0.008
+  ],
+  "headNormal": [
+    0,
+    -0.76,
+    0.65
+  ],
+  "logicalStems": 1,
+  "physicalDimensionsVerified": false,
+  "dimensionBasis": "Breeder/species reference and pilot modeling conventions; not measured SKU dimensions",
+  "unverifiedParts": [
+    "exact cultivar backside",
+    "specimen stem curvature",
+    "exact leaf/branch and petal counts"
+  ],
+  "references": [
+    {
+      "origin": "real-photo",
+      "path": "D:\\Projects\\flower-studio\\artifacts\\catalog-photo-fill\\originals\\j-fac\\craspedia.jpg",
+      "sourcePage": "https://jikebana.com/materials/fac/",
+      "author": "Unspecified original photographer",
+      "license": "Unspecified; source explicitly says images are from the internet. Local reference only.",
+      "mappingScope": "market-label-reference-only"
+    }
+  ],
+  "renderResolution": [
+    400,
+    600
+  ],
+  "detailResolution": 480,
+  "visualStatus": "pilot-awaits-review"
+}

@@ -1,0 +1,100 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "64334566": {
+        "pageid": 64334566,
+        "ns": 6,
+        "title": "File:Lepidium virginicum (subsp. virginicum) sl40.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1161102,
+            "width": 2084,
+            "height": 2756,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Lepidium_virginicum_%28subsp._virginicum%29_sl40.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lepidium_virginicum_(subsp._virginicum)_sl40.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=64334566",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-11-25 20:08:57",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Lepidium virginicum (subsp. virginicum) sl40",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Austria photographs taken on 2017-10-06|Pannonian Flora|Lepidium virginicum (fruit)|Measured seeds of Brassicales|Flora of Bahnhof Wien Jedlersdorf|Plants of Austria in October",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Fruits with seed<br>\n<p>Taxonym: <i>Lepidium virginicum (subsp. virginicum)</i> ss Fischer et al. EfÖLS 2008 <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/ISBN\" class=\"extiw\" title=\"en:ISBN\"><span lang=\"en\" dir=\"ltr\">ISBN</span></a></span> <a href=\"//commons.wikimedia.org/wiki/Special:BookSources/978-3-85474-187-9\" title=\"Special:BookSources/978-3-85474-187-9\">978-3-85474-187-9</a><br>\nLocation: Jedlersdorf rail station, Vienna-Floridsdorf - ca. 160 m a.s.l.<br>\n</p>\nHabitat: sandy area",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-10-06 20:25:17",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Stefan.lefnaer\" title=\"User:Stefan.lefnaer\">Stefan.lefnaer</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    }
+  }
+}

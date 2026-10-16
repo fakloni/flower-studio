@@ -1,0 +1,65 @@
+{
+  "name": "Tulips",
+  "folder": "asset-sources\\flowers\\tulips-0491f2a6",
+  "import_ok": true,
+  "mesh_objects": 4,
+  "raw_faces": 47365,
+  "images": 10,
+  "missing_images": [],
+  "bbox_source_units": {
+    "min": [
+      -0.16060209274291992,
+      -0.09213489294052124,
+      5.960464477539063e-08
+    ],
+    "max": [
+      0.16060209274291992,
+      0.09213489294052124,
+      0.1418716311454773
+    ],
+    "extent": [
+      0.32120418548583984,
+      0.18426978588104248,
+      0.14187157154083252
+    ]
+  },
+  "objects": [
+    {
+      "name": "Tulips",
+      "type": "EMPTY",
+      "faces": 0,
+      "modifiers": []
+    },
+    {
+      "name": "Stem.002",
+      "type": "MESH",
+      "faces": 23058,
+      "modifiers": []
+    },
+    {
+      "name": "Stem.001",
+      "type": "MESH",
+      "faces": 23058,
+      "modifiers": []
+    },
+    {
+      "name": "Pot",
+      "type": "MESH",
+      "faces": 1248,
+      "modifiers": [
+        "SUBSURF"
+      ]
+    },
+    {
+      "name": "Dirt",
+      "type": "MESH",
+      "faces": 1,
+      "modifiers": [
+        "SUBSURF",
+        "PARTICLE_SYSTEM",
+        "PARTICLE_SYSTEM"
+      ]
+    }
+  ],
+  "status": "imported_pending_stem_extraction_and_visual_review"
+}

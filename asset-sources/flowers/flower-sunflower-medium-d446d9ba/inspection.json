@@ -1,0 +1,35 @@
+{
+  "name": "Flower Sunflower Medium",
+  "folder": "asset-sources\\flowers\\flower-sunflower-medium-d446d9ba",
+  "import_ok": true,
+  "mesh_objects": 1,
+  "raw_faces": 346,
+  "images": 4,
+  "missing_images": [],
+  "bbox_source_units": {
+    "min": [
+      -0.4377749264240265,
+      -0.3795492351055145,
+      0.0
+    ],
+    "max": [
+      0.3912852704524994,
+      0.4991510510444641,
+      2.2426297664642334
+    ],
+    "extent": [
+      0.8290601968765259,
+      0.8787002861499786,
+      2.2426297664642334
+    ]
+  },
+  "objects": [
+    {
+      "name": "Flower Sunflower Medium",
+      "type": "MESH",
+      "faces": 346,
+      "modifiers": []
+    }
+  ],
+  "status": "imported_pending_stem_extraction_and_visual_review"
+}

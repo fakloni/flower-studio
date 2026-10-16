@@ -1,0 +1,41 @@
+{
+  "name": "Yellow Flower",
+  "folder": "asset-sources\\flowers\\yellow-flower-66a70890",
+  "import_ok": true,
+  "mesh_objects": 1,
+  "raw_faces": 436,
+  "images": 1,
+  "missing_images": [],
+  "bbox_source_units": {
+    "min": [
+      -0.03215779364109039,
+      -0.033160340040922165,
+      -1.2508070312833297e-07
+    ],
+    "max": [
+      0.040328286588191986,
+      0.0370374396443367,
+      0.3066978454589844
+    ],
+    "extent": [
+      0.07248608022928238,
+      0.07019777968525887,
+      0.3066979705396875
+    ]
+  },
+  "objects": [
+    {
+      "name": "Yellow Flower",
+      "type": "EMPTY",
+      "faces": 0,
+      "modifiers": []
+    },
+    {
+      "name": "Flower.001",
+      "type": "MESH",
+      "faces": 436,
+      "modifiers": []
+    }
+  ],
+  "status": "imported_pending_stem_extraction_and_visual_review"
+}

@@ -1,0 +1,2017 @@
+{
+  "date": "2026-10-14",
+  "catalogRevision": "97659202af61b5930ec9",
+  "products": [
+    {
+      "productId": "P001",
+      "name": "乒乓菊",
+      "scientificName": "Dendranthema morifolium（来源用名）",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "first-batch",
+      "existingEvidencePages": [
+        "https://www.flower.org.tw/m/405-1276-100017,c8757.php",
+        "https://www.iplant.cn/fsz/info/Dendranthema%20morifolium"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P002",
+      "name": "小菊（切花用）",
+      "scientificName": "Dendranthema morifolium（来源用名）",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://yllhj.beijing.gov.cn/ztxx/bjhx/bzhz/201611/t20161104_758451.shtml",
+        "https://www.iplant.cn/fsz/info/Dendranthema%20morifolium"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P003",
+      "name": "大单头切菊",
+      "scientificName": "Dendranthema morifolium（来源用名）",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://yllhj.beijing.gov.cn/ztxx/bjhx/bzhz/201611/t20161104_758451.shtml",
+        "https://www.iplant.cn/fsz/info/Dendranthema%20morifolium"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P004",
+      "name": "多头切菊",
+      "scientificName": "Dendranthema morifolium（来源用名）",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://yllhj.beijing.gov.cn/ztxx/bjhx/bzhz/201611/t20161104_758451.shtml",
+        "https://www.iplant.cn/fsz/info/Dendranthema%20morifolium"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P005",
+      "name": "Santini小花切菊",
+      "scientificName": "Dendranthema morifolium（来源用名）",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://deliflor.nl/en-us/assortment",
+        "https://www.iplant.cn/fsz/info/Dendranthema%20morifolium"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P006",
+      "name": "向日葵",
+      "scientificName": "Helianthus annuus",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": "/assets/workbench/sunflower-thumb.webp?v=2",
+      "currentCoverKind": "model-preview",
+      "missingCover": false,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://www.wholesale.molesseeds.co.uk/annuals/s-z/sunflower/f1-sunrich-series/sunflower-f1-sunrich-summer-orange-sun39/"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [
+        {
+          "id": "sunflower",
+          "distinctFrontAndSide": false
+        }
+      ],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P007",
+      "name": "鲜切绣球（非秋色阶段）",
+      "scientificName": "Hydrangea macrophylla",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "first-batch",
+      "existingEvidencePages": [
+        "https://www.iplant.cn/z/frps/20123"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P008",
+      "name": "散尾叶",
+      "scientificName": "Chrysalidocarpus lutescens（来源用名）",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://www.iplant.cn/z/frps/31759"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P009",
+      "name": "九星叶",
+      "scientificName": null,
+      "nameStatus": "待核名；不自动同款匹配",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "identity-first",
+      "existingEvidencePages": [
+        "https://www.together-mall.com.hk/sc/products/fl0000-HC0100/%E4%B9%9D%E6%98%9F%E8%91%89fl0000-HC0100"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "先核对实物／商家标签与学名，再找图"
+    },
+    {
+      "productId": "P010",
+      "name": "贯众叶",
+      "scientificName": null,
+      "nameStatus": "待核名；不自动同款匹配",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "identity-first",
+      "existingEvidencePages": [
+        "https://www.iplant.cn/fsz/info/Cyrtomium%20falcatum"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "先核对实物／商家标签与学名，再找图"
+    },
+    {
+      "productId": "P011",
+      "name": "栀子叶",
+      "scientificName": "Gardenia jasminoides",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://www.iplant.cn/fsz/info/Gardenia%20jasminoides"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P012",
+      "name": "掌",
+      "scientificName": null,
+      "nameStatus": "待核名；不自动同款匹配",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "identity-first",
+      "existingEvidencePages": [
+        "https://wbg.cas.cn/KPPJ/zrjy/hbsjt/202006/t20200609_5603564.html"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "先核对实物／商家标签与学名，再找图"
+    },
+    {
+      "productId": "P013",
+      "name": "千日红",
+      "scientificName": "Gomphrena globosa",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://www.iplant.cn/z/frps/9565"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P014",
+      "name": "绿毛球",
+      "scientificName": "Dianthus（Green Ball商品系列）",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "first-batch",
+      "existingEvidencePages": [
+        "https://www.ballsb.com/en/variety/208-dianthus-green-ball-en"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [
+        "candidates/P014/img-GREENBALL-PLANO-GENERAL.jpg",
+        "candidates/P014/img-GRENNBALL-PLANO-MEDIO-.jpg",
+        "candidates/P014/img-GREENBALL-PRIMER-PLANO.jpg"
+      ],
+      "photoCandidateSourcePages": [
+        "https://www.ballsb.com/en/variety/208-dianthus-green-ball-en"
+      ],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "补齐同标本侧背和整支；候选图未发布"
+    },
+    {
+      "productId": "P015",
+      "name": "洋甘菊",
+      "scientificName": null,
+      "nameStatus": "待核名；不自动同款匹配",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "identity-first",
+      "existingEvidencePages": [
+        "https://www.jqhh.cn/products/C15306"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "先核对实物／商家标签与学名，再找图"
+    },
+    {
+      "productId": "P016",
+      "name": "喷泉草",
+      "scientificName": null,
+      "nameStatus": "待核名；不自动同款匹配",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "identity-first",
+      "existingEvidencePages": [
+        "https://www.jqhh.cn/products/P27411"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "先核对实物／商家标签与学名，再找图"
+    },
+    {
+      "productId": "P017",
+      "name": "银莲花",
+      "scientificName": "Anemone coronaria",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "first-batch",
+      "existingEvidencePages": [
+        "https://www.rhs.org.uk/plants/108378/anemone-coronaria/details"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P018",
+      "name": "蝴蝶兰",
+      "scientificName": "Phalaenopsis 园艺杂交品种",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://www.ahs.ac.cn/CN/10.16420/j.issn.0513-353x.2018-1063"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P019",
+      "name": "腊梅",
+      "scientificName": "Chimonanthus praecox",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://www.iplant.cn/bk/A680699EF53FBFE6"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P020",
+      "name": "铃兰",
+      "scientificName": "Convallaria majalis",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://tjzyzwy.tjutcm.edu.cn/info/1115/1289.htm"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P021",
+      "name": "芍药",
+      "scientificName": "Paeonia lactiflora",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "first-batch",
+      "existingEvidencePages": [
+        "https://www.iplant.cn/z/frps/23792"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P022",
+      "name": "牡丹",
+      "scientificName": "Paeonia suffruticosa",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://www.iplant.cn/z/frps/23796"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P023",
+      "name": "风铃草",
+      "scientificName": "Campanula medium",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://www.fleuroselect.com/trials-and-awards/awarded-varieties/variety/champion-pink/nl_NL"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P024",
+      "name": "茉莉",
+      "scientificName": "Jasminum sambac",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://scib.cas.cn/hx/201507/t20150713_6734667.html"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P025",
+      "name": "虞美人",
+      "scientificName": "Papaver rhoeas（本行参照）",
+      "nameStatus": "待核名；不自动同款匹配",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "identity-first",
+      "existingEvidencePages": [
+        "https://www.iplant.cn/bk/A3D48F61F37D9141"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "先核对实物／商家标签与学名，再找图"
+    },
+    {
+      "productId": "P026",
+      "name": "络新妇",
+      "scientificName": "Astilbe spp.",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://lhsr.sh.gov.cn/shhx/20230602/2001df04fb51478988984510a99a9931.html"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P027",
+      "name": "睡莲",
+      "scientificName": "Nymphaea spp.",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://www.iplant.cn/z/frps/15747"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P028",
+      "name": "马醉木",
+      "scientificName": "Pieris spp.",
+      "nameStatus": "待核名；不自动同款匹配",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "identity-first",
+      "existingEvidencePages": [
+        "https://lyj.hunan.gov.cn/tslm_71206/lykp/syjs/201512/t20151227_2588166.html"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "先核对实物／商家标签与学名，再找图"
+    },
+    {
+      "productId": "P029",
+      "name": "莲蓬",
+      "scientificName": "Nelumbo nucifera",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://www.iplant.cn/z/frps/13324"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P030",
+      "name": "柔丽丝",
+      "scientificName": null,
+      "nameStatus": "待核名；不自动同款匹配",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "identity-first",
+      "existingEvidencePages": [
+        "https://cneff.com/ProductDetail.aspx?ID=492"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "先核对实物／商家标签与学名，再找图"
+    },
+    {
+      "productId": "P031",
+      "name": "天堂鸟",
+      "scientificName": "Strelitzia reginae",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://www.iplant.cn/fsz/info/Strelitzia%20reginae"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P032",
+      "name": "小柿子",
+      "scientificName": null,
+      "nameStatus": "待核名；不自动同款匹配",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "identity-first",
+      "existingEvidencePages": [],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "先核对实物／商家标签与学名，再找图"
+    },
+    {
+      "productId": "P033",
+      "name": "南天竹",
+      "scientificName": "Nandina domestica",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://www.iplant.cn/z/frps/4071"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P034",
+      "name": "天鹅绒",
+      "scientificName": null,
+      "nameStatus": "待核名；不自动同款匹配",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "identity-first",
+      "existingEvidencePages": [
+        "https://www.sohu.com/a/661301818_120801956"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "先核对实物／商家标签与学名，再找图"
+    },
+    {
+      "productId": "P035",
+      "name": "秋色绣球",
+      "scientificName": "Hydrangea macrophylla 园艺品种（须核对）",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://www.hydrangeaworld.com/snijbloem/assortiment/"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P036",
+      "name": "南瓜",
+      "scientificName": null,
+      "nameStatus": "待核名；不自动同款匹配",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "identity-first",
+      "existingEvidencePages": [],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "先核对实物／商家标签与学名，再找图"
+    },
+    {
+      "productId": "P037",
+      "name": "五代果",
+      "scientificName": "Solanum mammosum",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://www.iplant.cn/fsz/info/Solanum%20mammosum"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P038",
+      "name": "冬青",
+      "scientificName": null,
+      "nameStatus": "待核名；不自动同款匹配",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "identity-first",
+      "existingEvidencePages": [
+        "https://www.jaf.ac.cn/index.php?s=%2FMobile%2FShow%2Findex%2Fcid%2F41%2Fid%2F1043.html"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "先核对实物／商家标签与学名，再找图"
+    },
+    {
+      "productId": "P039",
+      "name": "针垫",
+      "scientificName": "Leucospermum spp.",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://biodiversityadvisor.sanbi.org/search/detail/863b3a9e-0b04-4e0a-8d5e-c75e5d20768d"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P040",
+      "name": "火焰兰",
+      "scientificName": "Renanthera coccinea",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://www.iplant.cn/bhzw/info/679"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P041",
+      "name": "红豆",
+      "scientificName": "Hypericum spp.（具体杂交品种待确认）",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://www.ynwd.gov.cn/info/1042/59601.htm"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P042",
+      "name": "龙柳",
+      "scientificName": "Salix matsudana f. tortuosa（来源用名）",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=210001949"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P043",
+      "name": "山归来",
+      "scientificName": "Smilax china（参照物种）",
+      "nameStatus": "待核名；不自动同款匹配",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "identity-first",
+      "existingEvidencePages": [
+        "https://tjzyzwy.tjutcm.edu.cn/info/1115/1190.htm",
+        "https://kmweb.moa.gov.tw/subject/subject.php?id=37346"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "先核对实物／商家标签与学名，再找图"
+    },
+    {
+      "productId": "P044",
+      "name": "火棘果",
+      "scientificName": "Pyracantha fortuneana",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://www.iplant.cn/z/frps/6797"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P045",
+      "name": "花毛茛",
+      "scientificName": "Ranunculus asiaticus",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "first-batch",
+      "existingEvidencePages": [
+        "https://yllhj.beijing.gov.cn/ztxx/bjhx/bzhz/201703/t20170331_759285.shtml"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P046",
+      "name": "紫罗兰",
+      "scientificName": "Matthiola incana",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://lhsr.sh.gov.cn/shhx/20231215/c34f57abfcbd454fae6efa14d73a1191.html"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P047",
+      "name": "金鱼草",
+      "scientificName": "Antirrhinum majus",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "first-batch",
+      "existingEvidencePages": [
+        "https://www.iplant.cn/fsz/info/Antirrhinum%20majus"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P048",
+      "name": "香雪兰",
+      "scientificName": "Freesia refracta（物种参照）",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://www.iplant.cn/bk/933B40162AFF0DBF"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P049",
+      "name": "剑兰",
+      "scientificName": "Gladiolus × gandavensis",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://www.iplant.cn/bk/1B4D517A81D35106"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P050",
+      "name": "勿忘我（补血草）",
+      "scientificName": "Limonium sinuatum",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "first-batch",
+      "existingEvidencePages": [
+        "https://dgcg.dg.gov.cn/zwy/kxjy/201301/00f9959c85e3494eab03a4a94fe192cd.shtml"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P051",
+      "name": "龟背叶",
+      "scientificName": "Monstera deliciosa",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "first-batch",
+      "existingEvidencePages": [
+        "https://www.iplant.cn/fsz/info/Monstera%20deliciosa"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P052",
+      "name": "单头切花玫瑰",
+      "scientificName": "Rosa 园艺杂交品种",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": "/assets/workbench/pink-rose-thumb.webp?v=2",
+      "currentCoverKind": "model-preview",
+      "missingCover": false,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://redlandsroses.com/Catalogue_V16%20_December_2024.pdf",
+        "https://www.ahs.ac.cn/CN/10.16420/j.issn.0513-353x.2023-0032"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [
+        {
+          "id": "pink-rose",
+          "distinctFrontAndSide": true
+        },
+        {
+          "id": "red-rose",
+          "distinctFrontAndSide": false
+        }
+      ],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P053",
+      "name": "多头切花玫瑰",
+      "scientificName": "Rosa 园艺杂交品种",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://redlandsroses.com/Catalogue_V16%20_December_2024.pdf",
+        "https://www.ahs.ac.cn/CN/10.16420/j.issn.0513-353x.2023-0032"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P054",
+      "name": "切花月季“菲韵”",
+      "scientificName": "Rosa 园艺杂交品种",
+      "nameStatus": "品种资料已核实；国内在售未确认",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://www.ahs.ac.cn/CN/10.16420/j.issn.0513-353x.2023-0032"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P055",
+      "name": "切花月季“金辉”",
+      "scientificName": "Rosa 园艺杂交品种",
+      "nameStatus": "品种资料已核实；国内在售未确认",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://www.ahs.ac.cn/CN/10.16420/j.issn.0513-353x.2014-0553",
+        "https://www.ahs.ac.cn/CN/10.16420/j.issn.0513-353x.2023-0032"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P056",
+      "name": "单瓣洋桔梗",
+      "scientificName": "Eustoma grandiflorum F1（来源用名）",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "first-batch",
+      "existingEvidencePages": [
+        "https://sakataornamentals.eu/product/piccolo/",
+        "https://lisianthus.eu/product/mariachi/"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P057",
+      "name": "重瓣洋桔梗",
+      "scientificName": "Eustoma grandiflorum F1（来源用名）",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "first-batch",
+      "existingEvidencePages": [
+        "https://lisianthus.eu/product/mariachi/"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P058",
+      "name": "Mariachi洋桔梗",
+      "scientificName": "Eustoma grandiflorum F1（来源用名）",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://lisianthus.eu/product/mariachi/"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P059",
+      "name": "东方百合",
+      "scientificName": "Lilium 园艺杂交品种",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://yllhj.beijing.gov.cn/ztxx/bjhx/bzhz/201606/t20160608_758340.shtml",
+        "https://www.ib.cas.cn/2019gb/kyjz2019/201405/t20140530_5434128.html"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P060",
+      "name": "亚洲百合",
+      "scientificName": "Lilium 园艺杂交品种",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://yllhj.beijing.gov.cn/ztxx/bjhx/bzhz/201606/t20160608_758340.shtml",
+        "https://www.ib.cas.cn/2019gb/kyjz2019/201405/t20140530_5434128.html"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P061",
+      "name": "OT百合",
+      "scientificName": "Lilium 园艺杂交品种",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://yllhj.beijing.gov.cn/ztxx/bjhx/bzhz/201606/t20160608_758340.shtml",
+        "https://www.ib.cas.cn/2019gb/kyjz2019/201405/t20140530_5434128.html"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P062",
+      "name": "LA百合",
+      "scientificName": "Lilium 园艺杂交品种",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://yllhj.beijing.gov.cn/ztxx/bjhx/bzhz/201606/t20160608_758340.shtml",
+        "https://www.ib.cas.cn/2019gb/kyjz2019/201405/t20140530_5434128.html"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P063",
+      "name": "铁炮百合",
+      "scientificName": "Lilium 园艺杂交品种",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://yllhj.beijing.gov.cn/ztxx/bjhx/bzhz/201606/t20160608_758340.shtml",
+        "https://www.ib.cas.cn/2019gb/kyjz2019/201405/t20140530_5434128.html"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P064",
+      "name": "重瓣百合",
+      "scientificName": "Lilium 园艺杂交品种",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://yllhj.beijing.gov.cn/sdlh/ylkj/bzgf/202506/P020250609388823950455.pdf",
+        "https://www.ib.cas.cn/2019gb/kyjz2019/201405/t20140530_5434128.html"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P065",
+      "name": "单头康乃馨",
+      "scientificName": "Dianthus caryophyllus",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "first-batch",
+      "existingEvidencePages": [
+        "https://www.hilverdaflorist.com/en/assortment/cut-flowers/series-cut-flowers/carnation",
+        "https://tlpg.hsiliu.org.tw/plant/view/521"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [
+        "candidates/P065/20ce6f3f337e_hilverdaflorist_standard_carnation_green_shot_4_2.jpg",
+        "candidates/P065/0a90aa0bc4e1_greenshot_01.jpg"
+      ],
+      "photoCandidateSourcePages": [
+        "https://www.hilverdaflorist.com/en/assortment/cut-flowers/assortment-cut-flowers/carnation-standard-greenshot"
+      ],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "补齐同标本侧背和整支；候选图未发布"
+    },
+    {
+      "productId": "P066",
+      "name": "多头康乃馨",
+      "scientificName": "Dianthus caryophyllus",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://www.hilverdaflorist.com/en/assortment/cut-flowers/series-cut-flowers/carnation",
+        "https://tlpg.hsiliu.org.tw/plant/view/521"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P067",
+      "name": "银叶桉切叶（E. cinerea）",
+      "scientificName": "Eucalyptus cinerea",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "first-batch",
+      "existingEvidencePages": [
+        "https://ppbc.iplant.cn/1730/usersp/248815",
+        "https://plantnet.rbgsyd.nsw.gov.au/cgi-bin/NSWfl.pl?lvl=sp&name=Eucalyptus~cinerea&page=nswfl"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P068",
+      "name": "Baby Blue桉切叶",
+      "scientificName": "Eucalyptus pulverulenta 'Baby Blue'",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://www.iplant.cn/info/Eucalyptus%20pulverulenta%20cv.%20Baby%20Blue?t=p",
+        "https://plantnet.rbgsyd.nsw.gov.au/cgi-bin/NSWfl.pl?lvl=sp&name=Eucalyptus~cinerea&page=nswfl"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P069",
+      "name": "尤加利切叶（物种未定）",
+      "scientificName": "Eucalyptus spp.",
+      "nameStatus": "待核物种及叶龄",
+      "currentCoverUrl": "/assets/workbench/eucalyptus-thumb.webp?v=2",
+      "currentCoverKind": "model-preview",
+      "missingCover": false,
+      "priority": "identity-first",
+      "existingEvidencePages": [
+        "https://plantnet.rbgsyd.nsw.gov.au/cgi-bin/NSWfl.pl?lvl=sp&name=Eucalyptus~cinerea&page=nswfl"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [
+        {
+          "id": "eucalyptus",
+          "distinctFrontAndSide": true
+        }
+      ],
+      "nextAction": "先核对实物／商家标签与学名，再找图"
+    },
+    {
+      "productId": "P070",
+      "name": "标准非洲菊",
+      "scientificName": "Gerbera jamesonii",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "first-batch",
+      "existingEvidencePages": [
+        "https://www.hilverdaflorist.com/en/assortment/cut-flowers/series-cut-flowers",
+        "https://www.iplant.cn/z/frps/44743"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P071",
+      "name": "迷你非洲菊",
+      "scientificName": "Gerbera jamesonii",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://www.hilverdaflorist.com/en/assortment/cut-flowers/series-cut-flowers",
+        "https://www.iplant.cn/z/frps/44743"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P072",
+      "name": "非洲菊“Atlanta”",
+      "scientificName": "Gerbera jamesonii",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://hilverdaflorist.com/en/assortment/cut-flowers/assortment-cut-flowers/gerbera-standard-atlanta",
+        "https://www.iplant.cn/z/frps/44743"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [
+        "candidates/P072/0a90aa0bc4e1_atlanta_01.jpg"
+      ],
+      "photoCandidateSourcePages": [
+        "https://www.hilverdaflorist.com/en/assortment/cut-flowers/assortment-cut-flowers/gerbera-standard-atlanta"
+      ],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "补齐同标本侧背和整支；候选图未发布"
+    },
+    {
+      "productId": "P073",
+      "name": "非洲菊“Annecy”",
+      "scientificName": "Gerbera jamesonii",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://www.hilverdaflorist.com/en/assortment/cut-flowers/assortment-cut-flowers/gerbera-mini-annecy",
+        "https://www.iplant.cn/z/frps/44743"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [
+        "candidates/P073/0a90aa0bc4e1_hilverdaflorist_gerbera_mini_annecy.jpg"
+      ],
+      "photoCandidateSourcePages": [
+        "https://www.hilverdaflorist.com/en/assortment/cut-flowers/assortment-cut-flowers/gerbera-mini-annecy"
+      ],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "补齐同标本侧背和整支；候选图未发布"
+    },
+    {
+      "productId": "P074",
+      "name": "单瓣郁金香",
+      "scientificName": "Tulipa × gesneriana（园艺品种群）",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": "/assets/workbench/white-tulip-thumb.webp?v=3",
+      "currentCoverKind": "model-preview",
+      "missingCover": false,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://www.rhs.org.uk/plants/tulip/growing-guide",
+        "https://yllhj.beijing.gov.cn/ztxx/jcyyshj/shzn/202603/t20260324_4564569.shtml"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [
+        {
+          "id": "white-tulip",
+          "distinctFrontAndSide": true
+        }
+      ],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P075",
+      "name": "重瓣郁金香",
+      "scientificName": "Tulipa × gesneriana（园艺品种群）",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://www.rhs.org.uk/plants/tulip/growing-guide",
+        "https://yllhj.beijing.gov.cn/ztxx/jcyyshj/shzn/202603/t20260324_4564569.shtml"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P076",
+      "name": "鹦鹉郁金香",
+      "scientificName": "Tulipa × gesneriana（园艺品种群）",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://www.rhs.org.uk/plants/tulip/growing-guide",
+        "https://yllhj.beijing.gov.cn/ztxx/jcyyshj/shzn/202603/t20260324_4564569.shtml"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P077",
+      "name": "球型大丽花",
+      "scientificName": "Dahlia pinnata",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://www.rhs.org.uk/plants/dahlia/growing-guide",
+        "https://www.iplant.cn/z/frps/44676"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P078",
+      "name": "装饰型大丽花",
+      "scientificName": "Dahlia pinnata",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://www.rhs.org.uk/plants/dahlia/growing-guide",
+        "https://www.iplant.cn/z/frps/44676"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P079",
+      "name": "仙人掌型大丽花",
+      "scientificName": "Dahlia pinnata",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://www.rhs.org.uk/plants/dahlia/growing-guide",
+        "https://www.iplant.cn/z/frps/44676"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P080",
+      "name": "白花马蹄莲",
+      "scientificName": "Zantedeschia aethiopica",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "first-batch",
+      "existingEvidencePages": [
+        "https://www.rhs.org.uk/plants/zantedeschia/growing-guide",
+        "https://www.iplant.cn/fsz/info/Zantedeschia%20aethiopica"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P081",
+      "name": "彩色马蹄莲",
+      "scientificName": "Zantedeschia 园艺杂交品种",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://www.rhs.org.uk/plants/zantedeschia/growing-guide",
+        "https://www.iplant.cn/fsz/info/Zantedeschia%20aethiopica"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P082",
+      "name": "满天星“Xlence”",
+      "scientificName": "Gypsophila paniculata",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://www.danzigeronline.com/files/smart-view/cut-flowers_21-22/136/"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P083",
+      "name": "满天星“Million Stars”",
+      "scientificName": "Gypsophila paniculata",
+      "nameStatus": "类别有来源；SKU待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://www.danzigeronline.com/files/smart-view/cut-flowers_21-22/136/"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P084",
+      "name": "千代兰",
+      "scientificName": null,
+      "nameStatus": "图片名称已记录；物种/商品待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P085",
+      "name": "松虫草",
+      "scientificName": null,
+      "nameStatus": "图片名称已记录；物种/商品待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P086",
+      "name": "跳舞兰",
+      "scientificName": null,
+      "nameStatus": "类别/别名有机构资料；品种待核",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://lyj.hunan.gov.cn/tslm_71206/lykp/syjs/201512/t20151227_2611802.html"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P087",
+      "name": "姜荷花",
+      "scientificName": null,
+      "nameStatus": "切花用途有机构资料；品种待核",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [
+        "https://yllhj.beijing.gov.cn/ztxx/bjhx/hsdt/202106/t20210621_2417679.shtml"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P088",
+      "name": "松果菊",
+      "scientificName": null,
+      "nameStatus": "图片名称已记录；物种/商品待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P089",
+      "name": "商陆",
+      "scientificName": null,
+      "nameStatus": "图片名称已记录；物种/商品待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P090",
+      "name": "芦苇草",
+      "scientificName": null,
+      "nameStatus": "图片名称已记录；物种/商品待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P091",
+      "name": "蓝星花",
+      "scientificName": null,
+      "nameStatus": "图片名称已记录；物种/商品待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P092",
+      "name": "诺贝松",
+      "scientificName": null,
+      "nameStatus": "图片名称已记录；物种/商品待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P093",
+      "name": "千层金",
+      "scientificName": null,
+      "nameStatus": "图片名称已记录；物种/商品待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P094",
+      "name": "袋鼠爪",
+      "scientificName": null,
+      "nameStatus": "图片名称已记录；物种/商品待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P095",
+      "name": "南蛇藤",
+      "scientificName": null,
+      "nameStatus": "图片名称已记录；物种/商品待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P096",
+      "name": "小手球",
+      "scientificName": null,
+      "nameStatus": "图片名称已记录；物种/商品待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P097",
+      "name": "风信子",
+      "scientificName": null,
+      "nameStatus": "图片名称已记录；物种/商品待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P098",
+      "name": "黄金球",
+      "scientificName": null,
+      "nameStatus": "图片名称已记录；物种/商品待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P099",
+      "name": "洋兰",
+      "scientificName": null,
+      "nameStatus": "图片名称已记录；物种/商品待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P100",
+      "name": "海棠果",
+      "scientificName": null,
+      "nameStatus": "图片名称已记录；物种/商品待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P101",
+      "name": "六出花",
+      "scientificName": null,
+      "nameStatus": "育种商切花类别可核；中文商品对应待核",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "first-batch",
+      "existingEvidencePages": [
+        "https://www.hilverdaflorist.com/en/assortment/cut-flowers/series-cut-flowers"
+      ],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P102",
+      "name": "山里红",
+      "scientificName": null,
+      "nameStatus": "图片名称已记录；物种/商品待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P103",
+      "name": "绿玲草",
+      "scientificName": null,
+      "nameStatus": "图片名称已记录；物种/商品待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    },
+    {
+      "productId": "P104",
+      "name": "小南瓜",
+      "scientificName": null,
+      "nameStatus": "图片标签已收录；物种和规格待核实",
+      "currentCoverUrl": null,
+      "currentCoverKind": null,
+      "missingCover": true,
+      "priority": "later-batch",
+      "existingEvidencePages": [],
+      "evidencePagesAreNotVerifiedImageSources": true,
+      "privatePhotoCandidates": [],
+      "photoCandidateSourcePages": [],
+      "sameSpecimenModelInputReady": false,
+      "editorVariants": [],
+      "nextAction": "按现有证据页及产品形态定向寻找真实照片"
+    }
+  ]
+}

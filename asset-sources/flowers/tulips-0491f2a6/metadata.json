@@ -1,0 +1,83 @@
+{
+  "term": "tulip",
+  "id": "8badc532-0be7-45a6-8a67-25af80b2b9ed",
+  "base_id": "0491f2a6-9522-453f-baa0-fdb005995667",
+  "name": "Tulips",
+  "description": "Red, Orange, Pink and Yellow Tulips in Planter",
+  "author": "Rick Van Dyk",
+  "source_url": "https://www.blendkit.com/asset-gallery-detail/0491f2a6-9522-453f-baa0-fdb005995667/",
+  "quality": 7.0,
+  "parameters": {
+    "sexualizedContent": false,
+    "joinBlenderkitDiscounts": true,
+    "addons": true,
+    "platforms": [
+      "windows-x64",
+      "macos-arm64",
+      "linux-x64",
+      "macos-x64",
+      "windows-arm64"
+    ],
+    "faceCount": 47365,
+    "textureResolutionMax": 1024,
+    "productionLevel": "finished",
+    "procedural": false,
+    "modelStyle": "realistic",
+    "condition": "new",
+    "shaders": [
+      "mix shader",
+      "translucent",
+      "principled"
+    ],
+    "uv": true,
+    "textureResolutionMin": 1024,
+    "engines": [
+      "cycles"
+    ],
+    "modifiers": [
+      "subsurf",
+      "particle system"
+    ],
+    "materials": [
+      "Leaft2.002",
+      "PetalRedYellow.007",
+      "Leaf3.002",
+      "Leaf1.002",
+      "PetalRedYellow.008",
+      "PetalRedYellow.005",
+      "PetalRedYellow.006",
+      "Clay 01.002",
+      "forest ground 1.002"
+    ],
+    "rig": false,
+    "simulation": true,
+    "dimensionX": 0.321,
+    "dimensionY": 0.184,
+    "dimensionZ": 0.1404,
+    "boundBoxMinX": -0.1605,
+    "boundBoxMinY": -0.092,
+    "boundBoxMinZ": 0.0001,
+    "boundBoxMaxX": 0.1605,
+    "boundBoxMaxY": 0.092,
+    "boundBoxMaxZ": 0.1406,
+    "faceCountRender": 66100,
+    "meshPolyType": "quad_dominant",
+    "manifold": false,
+    "objectCount": 5,
+    "nodeCount": 121,
+    "textureCount": 10,
+    "megapixels": 10,
+    "imageCaptionInterrogator": "there are many different colored flowers in a vase on a table, kitbash 3 d texture vibrant, brutalist illustration, brick, inspired by Willem Jacobsz Delff, 8k archival print, tulip, award winning work, procedural, spring vibes, creating a thin monolith, trending on artstattion, pot plants",
+    "imageAltTextGen3": "\"Vibrant Tulip Bouquet in a Planter - 3D Model for Blender 3D\"",
+    "imageAltTextGen4v": "Colorful tulip bouquet 3D model with detailed petals and leaves, ideal for Blender rendering."
+  },
+  "downloaded": [
+    {
+      "path": "asset-sources\\flowers\\tulips-0491f2a6\\original.blend",
+      "bytes": 5603019,
+      "type": "blend"
+    }
+  ],
+  "acquired_date": "2026-10-12",
+  "status": "downloaded_pending_blender_review"
+}

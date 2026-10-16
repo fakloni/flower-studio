@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "productId": "P059",
+  "editorId": "oriental-lily-colet",
+  "name": "东方百合 Colet",
+  "color": "粉色",
+  "role": "主花",
+  "route": "local-blender",
+  "archetype": "lily",
+  "seed": 20261073,
+  "stemLengthM": 0.65,
+  "headDiameterM": 0.13,
+  "petalColor": [
+    0.63,
+    0.25,
+    0.4
+  ],
+  "headNormal": [
+    0,
+    -0.76,
+    0.65
+  ],
+  "logicalStems": 1,
+  "physicalDimensionsVerified": false,
+  "dimensionBasis": "Breeder/species reference and pilot modeling conventions; not measured SKU dimensions",
+  "unverifiedParts": [
+    "exact cultivar backside",
+    "specimen stem curvature",
+    "exact leaf/branch and petal counts"
+  ],
+  "references": [
+    {
+      "origin": "real-photo",
+      "path": "D:\\Projects\\flower-studio\\artifacts\\catalog-photo-fill\\originals\\P059\\vandenbos-page13-object690.png",
+      "sourcePage": "https://www.vandenbos.com/en/catalogus-lily",
+      "author": "Van den Bos Flowerbulbs / individual photographer unspecified",
+      "license": "Catalog photo; reuse conditions not verified. Local reference only.",
+      "mappingScope": "category-reference-with-catalog-labelled-cultivar"
+    }
+  ],
+  "renderResolution": [
+    400,
+    600
+  ],
+  "detailResolution": 480,
+  "visualStatus": "pilot-awaits-review"
+}

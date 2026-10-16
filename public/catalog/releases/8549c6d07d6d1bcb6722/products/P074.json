@@ -1,0 +1,181 @@
+{
+  "id": "P074",
+  "flowerId": "F019",
+  "name": "单瓣郁金香",
+  "group": "郁金香",
+  "subgroup": "单瓣郁金香",
+  "scientificName": "Tulipa × gesneriana（园艺品种群）",
+  "nameStatus": "类别有来源；SKU待核实",
+  "roles": [
+    "主花",
+    "线条"
+  ],
+  "roleStatus": "project-suggestion",
+  "roleNotes": "主花；线条花",
+  "shapeNotes": "常规单瓣杯形商品",
+  "ornamentalPart": "花",
+  "season": {
+    "text": "3月下旬–5月下旬",
+    "basis": "地区观赏花期",
+    "region": "北京2026赏花指南；非批发供货期",
+    "intervals": [
+      {
+        "start": 3,
+        "end": 5,
+        "wrapsYear": false,
+        "precision": "month-reference"
+      }
+    ],
+    "status": "reference",
+    "source": {
+      "name": "北京市园林绿化局·2026赏花指南",
+      "urls": [
+        "https://yllhj.beijing.gov.cn/ztxx/jcyyshj/shzn/202603/t20260324_4564569.shtml"
+      ]
+    },
+    "unverifiedOriginal": "1–3月"
+  },
+  "dimensions": {
+    "object": "未核实／需明确测量部位",
+    "minCm": null,
+    "maxCm": null,
+    "valueType": null,
+    "scope": null,
+    "notes": null,
+    "source": {
+      "name": null,
+      "urls": []
+    }
+  },
+  "notes": "具体品种、颜色、开放阶段、枝长、花径及国内供货需按SKU确认。\n品类、花型、单/多头、开放阶段应分字段；本表是检索目录，不是互斥分类树。缺少SKU规格时不得自动标定真实比例。\n花苞与开放花轮廓差异大；未核实统一切枝长度或花径，不填估值。\n项目检索分组，非完整植物学分类。",
+  "source": {
+    "name": "RHS·郁金香花型分类\n北京市园林绿化局·2026赏花指南",
+    "urls": [
+      "https://www.rhs.org.uk/plants/tulip/growing-guide",
+      "https://yllhj.beijing.gov.cn/ztxx/jcyyshj/shzn/202603/t20260324_4564569.shtml"
+    ]
+  },
+  "checkedDate": "2026-10-13",
+  "availability": {
+    "status": "unknown",
+    "region": null
+  },
+  "sourceRecord": {
+    "sheet": "花材库",
+    "row": 75,
+    "values": {
+      "花材ID": "F019",
+      "原始／新增名称": "单瓣郁金香",
+      "用户清单Y／空白": "Y",
+      "规范名称／别名": "郁金香\n单瓣郁金香",
+      "学名／分类范围": "Tulipa × gesneriana（园艺品种群）",
+      "名称核对状态": "类别有来源；SKU待核实",
+      "花材角色（项目建议）": "主花；线条花",
+      "形态标签（项目建议）": "常规单瓣杯形商品",
+      "观赏部位": "花",
+      "核实花季／果季": "3月下旬–5月下旬",
+      "季节数据口径": "地区观赏花期",
+      "季节适用地区／对象": "北京2026赏花指南；非批发供货期",
+      "用户原始月份（未验证）": "1–3月",
+      "花头尺寸对象": "未核实／需明确测量部位",
+      "直径下限cm": null,
+      "直径上限cm": null,
+      "数值类型": null,
+      "尺寸适用物种／品种": null,
+      "其他尺寸及数量摘要": null,
+      "缺失信息／项目注意事项": "具体品种、颜色、开放阶段、枝长、花径及国内供货需按SKU确认。\n品类、花型、单/多头、开放阶段应分字段；本表是检索目录，不是互斥分类树。缺少SKU规格时不得自动标定真实比例。\n花苞与开放花轮廓差异大；未核实统一切枝长度或花径，不填估值。\n项目检索分组，非完整植物学分类。",
+      "季节来源名称": "北京市园林绿化局·2026赏花指南",
+      "季节来源URL": "https://yllhj.beijing.gov.cn/ztxx/jcyyshj/shzn/202603/t20260324_4564569.shtml",
+      "花头尺寸来源": null,
+      "花头尺寸来源URL": null,
+      "名称／资料来源": "RHS·郁金香花型分类\n北京市园林绿化局·2026赏花指南",
+      "名称／资料来源URL": "https://www.rhs.org.uk/plants/tulip/growing-guide\nhttps://yllhj.beijing.gov.cn/ztxx/jcyyshj/shzn/202603/t20260324_4564569.shtml",
+      "核查日期": "2026-10-13",
+      "大类": "郁金香",
+      "小类": "单瓣郁金香",
+      "产品ID": "P074"
+    }
+  },
+  "aliases": [
+    {
+      "name": "单瓣郁金香",
+      "productId": "P074",
+      "relation": "平台规范商品名",
+      "restriction": "平台内部检索入口；不表示已对接同名商城SKU。",
+      "status": "需按具体商品确认",
+      "source": {
+        "name": "RHS·郁金香花型分类",
+        "urls": [
+          "https://www.rhs.org.uk/plants/tulip/growing-guide"
+        ]
+      }
+    }
+  ],
+  "imageReferences": [
+    {
+      "label": "郁金香",
+      "files": [
+        "02-49ed89ef125ca1b305e969d4c3dc4548.jpg",
+        "04-775fb83e5208f71610b98d33a902143a.jpg"
+      ],
+      "productIds": [
+        "P074",
+        "P075",
+        "P076"
+      ],
+      "notes": "图片标签较宽泛，原表已细分多个小类；不能仅凭标签确定是哪一种。",
+      "seasonRestriction": "图片所列月份/全年为用户资料，未作为可靠供货期。",
+      "status": "reference-only"
+    }
+  ],
+  "assets": [
+    {
+      "id": "workbench-white-tulip-v1",
+      "version": 1,
+      "productId": "P074",
+      "variantId": "workbench-white-tulip",
+      "kind": "model-preview",
+      "mappingStatus": "category-reference",
+      "authorizationStatus": "pending-review",
+      "publicationStatus": "local-reference",
+      "coverUrl": "/assets/workbench/white-tulip-thumb.webp?v=3",
+      "notes": "自建白郁金香建模示例，仅作为单瓣郁金香类别参考，尺寸为建模参数。",
+      "editor": {
+        "id": "white-tulip",
+        "name": "白郁金香",
+        "color": "白色",
+        "role": "主花",
+        "height": 0.46,
+        "model": "/assets/workbench/white-tulip.glb",
+        "image": "/assets/workbench/white-tulip-front.webp",
+        "sideImage": "/assets/workbench/white-tulip-side.webp",
+        "thumb": "/assets/workbench/white-tulip-thumb.webp?v=3"
+      },
+      "files": [
+        {
+          "url": "/assets/workbench/white-tulip-thumb.webp?v=3",
+          "sha256": "0031ca039b9402a4b54e61cccd0043b49109ec9327a5c3cc061c736995eb5621",
+          "bytes": 6214
+        },
+        {
+          "url": "/assets/workbench/white-tulip.glb",
+          "sha256": "6b0b73966bfac2b6b354f5bbf55983590378de9169679971cac0a6c178bbfae2",
+          "bytes": 338200
+        },
+        {
+          "url": "/assets/workbench/white-tulip-front.webp",
+          "sha256": "6e2418c45ec1cf95053828cc786f86c1df5515e16559ef550d0003ce87ac7a8d",
+          "bytes": 5938
+        },
+        {
+          "url": "/assets/workbench/white-tulip-side.webp",
+          "sha256": "2bd6155950850f79c2d1efce93bc72e6f2e7923ee12c0d325f69e82ef11c0e46",
+          "bytes": 8464
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 1,
+  "revision": "8549c6d07d6d1bcb6722",
+  "relatedEvidence": []
+}

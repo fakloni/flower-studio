@@ -1,0 +1,80 @@
+{
+  "term": "hydrangea",
+  "id": "a56857f6-b2bb-4bbf-8fb1-d034e3984347",
+  "base_id": "0a565b11-2f7a-4925-939d-1a9048824fae",
+  "name": "Hydrangea  light yellow",
+  "description": "A plant that has a bright color and belongs to the class dicotyledonous, the order dogwood, the family hydrangea, the genus hydrangea. The Latin name hydrangea hydrangea means \"vessel of water\".",
+  "author": "Alexander Novgorodtsev",
+  "source_url": "https://www.blendkit.com/asset-gallery-detail/0a565b11-2f7a-4925-939d-1a9048824fae/",
+  "quality": 9.444444444444445,
+  "parameters": {
+    "sexualizedContent": false,
+    "joinBlenderkitDiscounts": true,
+    "addons": true,
+    "platforms": [
+      "windows-x64",
+      "macos-arm64",
+      "linux-x64",
+      "macos-x64",
+      "windows-arm64"
+    ],
+    "faceCount": 2182670,
+    "textureResolutionMax": 1200,
+    "productionLevel": "finished",
+    "procedural": false,
+    "modelStyle": "realistic",
+    "condition": "new",
+    "purePbr": true,
+    "shaders": [
+      "principled",
+      "mix shader",
+      "transparent",
+      "translucent"
+    ],
+    "pbrType": "metallic",
+    "uv": true,
+    "textureResolutionMin": 800,
+    "engines": [
+      "cycles"
+    ],
+    "modifiers": [
+      ""
+    ],
+    "materials": [
+      "hydrangea leaf",
+      "hydrangea stem",
+      "small flower stems",
+      "alpha bud",
+      "hydrangea flower light yellow",
+      "hydrangea flower light yellow 2"
+    ],
+    "rig": false,
+    "simulation": false,
+    "dimensionX": 1.3004,
+    "dimensionY": 1.6689,
+    "dimensionZ": 0.8343,
+    "boundBoxMinX": -0.5461,
+    "boundBoxMinY": -0.7522,
+    "boundBoxMinZ": -0.0349,
+    "boundBoxMaxX": 0.7543,
+    "boundBoxMaxY": 0.9166,
+    "boundBoxMaxZ": 0.7993,
+    "faceCountRender": 2182670,
+    "meshPolyType": "tri_dominant",
+    "manifold": false,
+    "objectCount": 2,
+    "nodeCount": 44,
+    "textureCount": 1,
+    "megapixels": 1,
+    "imageAltTextGen4v": "Light yellow Hydrangea 3D model showing detailed textures and realistic shading, suitable for Blender nature scenes."
+  },
+  "downloaded": [
+    {
+      "path": "asset-sources\\flowers\\hydrangea-light-yellow-0a565b11\\original.blend",
+      "bytes": 79945152,
+      "type": "blend"
+    }
+  ],
+  "acquired_date": "2026-10-12",
+  "status": "downloaded_pending_blender_review"
+}

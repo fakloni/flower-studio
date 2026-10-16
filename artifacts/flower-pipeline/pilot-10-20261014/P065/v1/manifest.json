@@ -1,0 +1,92 @@
+{
+  "productId": "P065",
+  "route": "local-blender",
+  "status": "candidate-needs-visual-review",
+  "mediaOrigin": "model-render",
+  "physicalDimensionsVerified": false,
+  "sourceSpec": {
+    "schemaVersion": 1,
+    "productId": "P065",
+    "editorId": "carnation-green-shot",
+    "name": "康乃馨 Green Shot",
+    "color": "浅绿",
+    "role": "主花",
+    "route": "local-blender",
+    "archetype": "carnation",
+    "seed": 20261079,
+    "stemLengthM": 0.57,
+    "headDiameterM": 0.07,
+    "petalColor": [
+      0.53,
+      0.63,
+      0.2
+    ],
+    "headNormal": [
+      0.0,
+      -0.7599620223045349,
+      0.6499674916267395
+    ],
+    "logicalStems": 1,
+    "physicalDimensionsVerified": false,
+    "dimensionBasis": "Breeder/species reference and pilot modeling conventions; not measured SKU dimensions",
+    "unverifiedParts": [
+      "exact cultivar backside",
+      "specimen stem curvature",
+      "exact leaf/branch and petal counts"
+    ],
+    "references": [
+      {
+        "origin": "real-photo",
+        "path": "D:\\Projects\\flower-studio\\artifacts\\catalog-media-audit\\candidates\\P065\\20ce6f3f337e_hilverdaflorist_standard_carnation_green_shot_4_2.jpg",
+        "sourcePage": "https://www.hilverdaflorist.com/en/assortment/cut-flowers/assortment-cut-flowers/carnation-standard-greenshot",
+        "author": "HilverdaFlorist",
+        "license": "Use conditions not verified; local reference only",
+        "mappingScope": null
+      }
+    ],
+    "renderResolution": [
+      400,
+      600
+    ],
+    "detailResolution": 480,
+    "visualStatus": "pilot-awaits-review",
+    "inputSpecSha256": "8b1998c45f661a239313131f55667529c6a953da21988c1b3fdb1189aeecedca",
+    "headCenter": [
+      0.007000000216066837,
+      0.004000000189989805,
+      0.5699999928474426
+    ]
+  },
+  "files": [
+    "stem.glb",
+    "source.blend",
+    "front.png",
+    "left.png",
+    "back.png",
+    "right.png",
+    "head-front.png",
+    "head-back.png",
+    "head-quarter.png"
+  ],
+  "checks": {
+    "glbHeader": true,
+    "embeddedTextures": true,
+    "roundTrip": true,
+    "meshCount": 5,
+    "triangles": 37652,
+    "bytes": 687892,
+    "boundsM": {
+      "min": [
+        -0.08959507197141647,
+        -0.08968467265367508,
+        -4.698325938079506e-05
+      ],
+      "max": [
+        0.0895967185497284,
+        0.08968706429004669,
+        0.607518196105957
+      ]
+    },
+    "missingTextures": []
+  }
+}

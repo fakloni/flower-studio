@@ -1,0 +1,74 @@
+{
+  "assets": [
+    {
+      "kind": "rose",
+      "source": "public/assets/catalog/P052/pilot-model-v2/stem.glb",
+      "model": "/assets/insertion-lab/v4/rose.glb",
+      "head": {
+        "center": [
+          -0.003225049003958702,
+          0.6145433187484741,
+          0.01958184503018856
+        ],
+        "radius": 0.043554903038415325
+      },
+      "fixes": [],
+      "meshObjects": 5,
+      "status": "local-contact-candidate",
+      "aiUsed": false,
+      "limitations": [
+        "procedural surface grain, not scanned tissue",
+        "cultivar details unverified",
+        "runtime contact uses bounded local deformation, not petal self-collision"
+      ]
+    },
+    {
+      "kind": "tulip",
+      "source": "public/assets/workbench/white-tulip.glb",
+      "model": "/assets/insertion-lab/v4/tulip.glb",
+      "head": {
+        "center": [
+          0.012903749011456966,
+          0.4153689742088318,
+          -0.007999997586011887
+        ],
+        "radius": 0.04726138064777113
+      },
+      "fixes": [
+        "lower insertion leaf removed",
+        {
+          "leaf": "white-tulip-leaf-1",
+          "rootShiftM": [
+            0.015291685238480568,
+            -0.009171725250780582,
+            0.0
+          ],
+          "rootInsideStem": true
+        }
+      ],
+      "meshObjects": 8,
+      "status": "local-contact-candidate",
+      "aiUsed": false,
+      "limitations": [
+        "procedural surface grain, not scanned tissue",
+        "cultivar details unverified",
+        "runtime contact uses bounded local deformation, not petal self-collision"
+      ]
+    },
+    {
+      "kind": "eucalyptus",
+      "source": "public/assets/catalog/P067/pilot-model-v2/stem.glb",
+      "model": "/assets/insertion-lab/v4/eucalyptus.glb",
+      "head": null,
+      "fixes": [],
+      "meshObjects": 3,
+      "status": "local-contact-candidate",
+      "aiUsed": false,
+      "limitations": [
+        "procedural surface grain, not scanned tissue",
+        "cultivar details unverified",
+        "runtime contact uses bounded local deformation, not petal self-collision"
+      ]
+    }
+  ]
+}

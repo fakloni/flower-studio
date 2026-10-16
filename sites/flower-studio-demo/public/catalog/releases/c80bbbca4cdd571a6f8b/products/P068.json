@@ -1,0 +1,181 @@
+{
+  "id": "P068",
+  "flowerId": "F008",
+  "name": "Baby Blue桉切叶",
+  "group": "尤加利叶",
+  "subgroup": "Baby Blue桉切叶",
+  "scientificName": "Eucalyptus pulverulenta 'Baby Blue'",
+  "nameStatus": "类别有来源；SKU待核实",
+  "roles": [
+    "叶材",
+    "配材"
+  ],
+  "roleStatus": "project-suggestion",
+  "roleNotes": "叶材；配材",
+  "shapeNotes": "具明确品种名称的桉属切叶",
+  "ornamentalPart": "叶枝",
+  "season": {
+    "text": null,
+    "basis": null,
+    "region": null,
+    "intervals": null,
+    "status": "unknown",
+    "source": {
+      "name": null,
+      "urls": []
+    },
+    "unverifiedOriginal": null
+  },
+  "dimensions": {
+    "object": "不适用：参见叶/果/枝尺寸",
+    "minCm": null,
+    "maxCm": null,
+    "valueType": null,
+    "scope": null,
+    "notes": "成叶长度：6–11 cm（范围）\n成叶宽度：1.5–3 cm（范围）\n适用范围及来源见“尺寸证据”",
+    "source": {
+      "name": null,
+      "urls": []
+    }
+  },
+  "notes": "资料支持品种名称；中文“尤加利/铜钱桉”不能直接唯一映射到Baby Blue。\n品类、花型、单/多头、开放阶段应分字段；本表是检索目录，不是互斥分类树。缺少SKU规格时不得自动标定真实比例。\n下列仅银元桉成叶参考；圆叶幼态、细叶等商品不可共用。国内切枝供货月未核实。\n项目检索分组，非完整植物学分类。",
+  "source": {
+    "name": "中科院植物智·Baby Blue\n新南威尔士植物标本馆·PlantNET银元桉",
+    "urls": [
+      "https://www.iplant.cn/info/Eucalyptus%20pulverulenta%20cv.%20Baby%20Blue?t=p",
+      "https://plantnet.rbgsyd.nsw.gov.au/cgi-bin/NSWfl.pl?lvl=sp&name=Eucalyptus~cinerea&page=nswfl"
+    ]
+  },
+  "checkedDate": "2026-10-13",
+  "availability": {
+    "status": "unknown",
+    "region": null
+  },
+  "sourceRecord": {
+    "sheet": "花材库",
+    "row": 69,
+    "values": {
+      "花材ID": "F008",
+      "原始／新增名称": "Baby Blue桉切叶",
+      "用户清单Y／空白": "Y",
+      "规范名称／别名": "桉属切叶（尤加利）\nBaby Blue；Baby Blue桉切叶",
+      "学名／分类范围": "Eucalyptus pulverulenta 'Baby Blue'",
+      "名称核对状态": "类别有来源；SKU待核实",
+      "花材角色（项目建议）": "叶材；配材",
+      "形态标签（项目建议）": "具明确品种名称的桉属切叶",
+      "观赏部位": "叶枝",
+      "核实花季／果季": null,
+      "季节数据口径": null,
+      "季节适用地区／对象": null,
+      "用户原始月份（未验证）": null,
+      "花头尺寸对象": "不适用：参见叶/果/枝尺寸",
+      "直径下限cm": null,
+      "直径上限cm": null,
+      "数值类型": null,
+      "尺寸适用物种／品种": null,
+      "其他尺寸及数量摘要": "成叶长度：6–11 cm（范围）\n成叶宽度：1.5–3 cm（范围）\n适用范围及来源见“尺寸证据”",
+      "缺失信息／项目注意事项": "资料支持品种名称；中文“尤加利/铜钱桉”不能直接唯一映射到Baby Blue。\n品类、花型、单/多头、开放阶段应分字段；本表是检索目录，不是互斥分类树。缺少SKU规格时不得自动标定真实比例。\n下列仅银元桉成叶参考；圆叶幼态、细叶等商品不可共用。国内切枝供货月未核实。\n项目检索分组，非完整植物学分类。",
+      "季节来源名称": null,
+      "季节来源URL": null,
+      "花头尺寸来源": null,
+      "花头尺寸来源URL": null,
+      "名称／资料来源": "中科院植物智·Baby Blue\n新南威尔士植物标本馆·PlantNET银元桉",
+      "名称／资料来源URL": "https://www.iplant.cn/info/Eucalyptus%20pulverulenta%20cv.%20Baby%20Blue?t=p\nhttps://plantnet.rbgsyd.nsw.gov.au/cgi-bin/NSWfl.pl?lvl=sp&name=Eucalyptus~cinerea&page=nswfl",
+      "核查日期": "2026-10-13",
+      "大类": "尤加利叶",
+      "小类": "Baby Blue桉切叶",
+      "产品ID": "P068"
+    }
+  },
+  "aliases": [
+    {
+      "name": "Baby Blue",
+      "productId": "P068",
+      "relation": "品种名",
+      "restriction": "限桉属切叶语境，不能无上下文跨花种匹配。",
+      "status": "需按具体商品确认",
+      "source": {
+        "name": "中科院植物智·Baby Blue",
+        "urls": [
+          "https://www.iplant.cn/info/Eucalyptus%20pulverulenta%20cv.%20Baby%20Blue?t=p"
+        ]
+      }
+    },
+    {
+      "name": "Baby Blue桉切叶",
+      "productId": "P068",
+      "relation": "平台规范商品名",
+      "restriction": "平台内部检索入口；不表示已对接同名商城SKU。",
+      "status": "需按具体商品确认",
+      "source": {
+        "name": "中科院植物智·Baby Blue",
+        "urls": [
+          "https://www.iplant.cn/info/Eucalyptus%20pulverulenta%20cv.%20Baby%20Blue?t=p"
+        ]
+      }
+    }
+  ],
+  "imageReferences": [
+    {
+      "label": "尤加利叶",
+      "files": [
+        "02-49ed89ef125ca1b305e969d4c3dc4548.jpg"
+      ],
+      "productIds": [
+        "P067",
+        "P068",
+        "P069"
+      ],
+      "notes": "图片标签较宽泛，原表已细分多个小类；不能仅凭标签确定是哪一种。",
+      "seasonRestriction": "图片所列月份/全年为用户资料，未作为可靠供货期。",
+      "status": "reference-only"
+    }
+  ],
+  "assets": [],
+  "schemaVersion": 1,
+  "revision": "c80bbbca4cdd571a6f8b",
+  "relatedEvidence": [
+    {
+      "id": "E014",
+      "flowerId": "F008",
+      "values": {
+        "证据ID": "E014",
+        "花材ID": "F008",
+        "花材名称": "尤加利叶",
+        "测量项目": "成叶长度",
+        "下限／数值": 6,
+        "上限／数值": 11,
+        "单位": "cm",
+        "数值性质": "范围",
+        "适用物种／品种／商品": "Eucalyptus cinerea 成叶；不是常见圆形幼叶",
+        "证据类型": "植物形态参考",
+        "原数值口径（简记）": "6–11 cm",
+        "限制与解释": null,
+        "来源机构／资料": "新南威尔士植物标本馆·PlantNET银元桉",
+        "来源URL": "https://plantnet.rbgsyd.nsw.gov.au/cgi-bin/NSWfl.pl?lvl=sp&name=Eucalyptus~cinerea&page=nswfl",
+        "核查日期": "2026-10-13"
+      }
+    },
+    {
+      "id": "E015",
+      "flowerId": "F008",
+      "values": {
+        "证据ID": "E015",
+        "花材ID": "F008",
+        "花材名称": "尤加利叶",
+        "测量项目": "成叶宽度",
+        "下限／数值": 1.5,
+        "上限／数值": 3,
+        "单位": "cm",
+        "数值性质": "范围",
+        "适用物种／品种／商品": "Eucalyptus cinerea 成叶；不是常见圆形幼叶",
+        "证据类型": "植物形态参考",
+        "原数值口径（简记）": "1.5–3 cm",
+        "限制与解释": null,
+        "来源机构／资料": "新南威尔士植物标本馆·PlantNET银元桉",
+        "来源URL": "https://plantnet.rbgsyd.nsw.gov.au/cgi-bin/NSWfl.pl?lvl=sp&name=Eucalyptus~cinerea&page=nswfl",
+        "核查日期": "2026-10-13"
+      }
+    }
+  ]
+}

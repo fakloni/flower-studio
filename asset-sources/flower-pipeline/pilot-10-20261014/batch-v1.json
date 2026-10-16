@@ -1,0 +1,54 @@
+{
+  "jobs": [
+    {
+      "spec": "D:\\Projects\\flower-studio\\asset-sources\\flower-pipeline\\pilot-10-20261014\\P072\\spec-v1.json",
+      "out": "D:\\Projects\\flower-studio\\artifacts\\flower-pipeline\\pilot-10-20261014\\P072\\v1",
+      "samples": 8
+    },
+    {
+      "spec": "D:\\Projects\\flower-studio\\asset-sources\\flower-pipeline\\pilot-10-20261014\\P073\\spec-v1.json",
+      "out": "D:\\Projects\\flower-studio\\artifacts\\flower-pipeline\\pilot-10-20261014\\P073\\v1",
+      "samples": 8
+    },
+    {
+      "spec": "D:\\Projects\\flower-studio\\asset-sources\\flower-pipeline\\pilot-10-20261014\\P052\\spec-v1.json",
+      "out": "D:\\Projects\\flower-studio\\artifacts\\flower-pipeline\\pilot-10-20261014\\P052\\v1",
+      "samples": 8
+    },
+    {
+      "spec": "D:\\Projects\\flower-studio\\asset-sources\\flower-pipeline\\pilot-10-20261014\\P065\\spec-v1.json",
+      "out": "D:\\Projects\\flower-studio\\artifacts\\flower-pipeline\\pilot-10-20261014\\P065\\v1",
+      "samples": 8
+    },
+    {
+      "spec": "D:\\Projects\\flower-studio\\asset-sources\\flower-pipeline\\pilot-10-20261014\\P059\\spec-v1.json",
+      "out": "D:\\Projects\\flower-studio\\artifacts\\flower-pipeline\\pilot-10-20261014\\P059\\v1",
+      "samples": 8
+    },
+    {
+      "spec": "D:\\Projects\\flower-studio\\asset-sources\\flower-pipeline\\pilot-10-20261014\\P020\\spec-v1.json",
+      "out": "D:\\Projects\\flower-studio\\artifacts\\flower-pipeline\\pilot-10-20261014\\P020\\v1",
+      "samples": 8
+    },
+    {
+      "spec": "D:\\Projects\\flower-studio\\asset-sources\\flower-pipeline\\pilot-10-20261014\\P082\\spec-v1.json",
+      "out": "D:\\Projects\\flower-studio\\artifacts\\flower-pipeline\\pilot-10-20261014\\P082\\v1",
+      "samples": 8
+    },
+    {
+      "spec": "D:\\Projects\\flower-studio\\asset-sources\\flower-pipeline\\pilot-10-20261014\\P067\\spec-v1.json",
+      "out": "D:\\Projects\\flower-studio\\artifacts\\flower-pipeline\\pilot-10-20261014\\P067\\v1",
+      "samples": 8
+    },
+    {
+      "spec": "D:\\Projects\\flower-studio\\asset-sources\\flower-pipeline\\pilot-10-20261014\\P098\\spec-v1.json",
+      "out": "D:\\Projects\\flower-studio\\artifacts\\flower-pipeline\\pilot-10-20261014\\P098\\v1",
+      "samples": 8
+    },
+    {
+      "spec": "D:\\Projects\\flower-studio\\asset-sources\\flower-pipeline\\pilot-10-20261014\\P057\\spec-v1.json",
+      "out": "D:\\Projects\\flower-studio\\artifacts\\flower-pipeline\\pilot-10-20261014\\P057\\v1",
+      "samples": 8
+    }
+  ]
+}

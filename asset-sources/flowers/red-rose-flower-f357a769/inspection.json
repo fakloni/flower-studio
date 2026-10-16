@@ -1,0 +1,83 @@
+{
+  "name": "Red rose flower",
+  "folder": "asset-sources\\flowers\\red-rose-flower-f357a769",
+  "import_ok": true,
+  "mesh_objects": 6,
+  "raw_faces": 1053,
+  "images": 19,
+  "missing_images": [],
+  "bbox_source_units": {
+    "min": [
+      -0.10056789964437485,
+      -0.09464529901742935,
+      -8.773167064646259e-05
+    ],
+    "max": [
+      0.10497249662876129,
+      0.1031082272529602,
+      0.4298827350139618
+    ],
+    "extent": [
+      0.20554039627313614,
+      0.19775352627038956,
+      0.42997046668460825
+    ]
+  },
+  "objects": [
+    {
+      "name": "roz",
+      "type": "MESH",
+      "faces": 0,
+      "modifiers": []
+    },
+    {
+      "name": "Red rose flower",
+      "type": "EMPTY",
+      "faces": 0,
+      "modifiers": []
+    },
+    {
+      "name": "Material_5",
+      "type": "MESH",
+      "faces": 150,
+      "modifiers": [
+        "SOLIDIFY",
+        "SUBSURF"
+      ]
+    },
+    {
+      "name": "Material_4",
+      "type": "MESH",
+      "faces": 541,
+      "modifiers": []
+    },
+    {
+      "name": "Material_3",
+      "type": "MESH",
+      "faces": 90,
+      "modifiers": [
+        "SOLIDIFY",
+        "SUBSURF"
+      ]
+    },
+    {
+      "name": "Material_2",
+      "type": "MESH",
+      "faces": 132,
+      "modifiers": [
+        "SOLIDIFY",
+        "SUBSURF"
+      ]
+    },
+    {
+      "name": "Material",
+      "type": "MESH",
+      "faces": 140,
+      "modifiers": [
+        "SOLIDIFY",
+        "SUBSURF"
+      ]
+    }
+  ],
+  "status": "imported_pending_stem_extraction_and_visual_review"
+}
