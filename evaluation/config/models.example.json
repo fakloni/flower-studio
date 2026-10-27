@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "checkedOn": "2026-10-27",
+  "defaults": {
+    "promptFile": "../prompts/recognition.txt",
+    "timeoutMs": 120000,
+    "maxRequests": 30
+  },
+  "models": [
+    {
+      "id": "doubao-pro", "provider": "volcengine", "task": "recognition", "enabled": true,
+      "model": "doubao-seed-2-1-pro-260915", "protocol": "ark-chat",
+      "endpoint": "https://ark.cn-beijing.volces.com/api/v3/chat/completions", "apiKeyEnv": "ARK_API_KEY",
+      "parameters": { "max_tokens": 2048, "thinking": { "type": "disabled" } },
+      "price": { "currency": "CNY", "inputPerMillion": 6, "cachedInputPerMillion": 1.2, "outputPerMillion": 30, "validFrom": "2026-10-27", "source": "https://docs.volcengine.com/docs/ark/model-pricing?lang=zh" }
+    },
+    {
+      "id": "doubao-lite", "provider": "volcengine", "task": "recognition", "enabled": true,
+      "model": "doubao-seed-2-1-lite-260915", "protocol": "ark-chat",
+      "endpoint": "https://ark.cn-beijing.volces.com/api/v3/chat/completions", "apiKeyEnv": "ARK_API_KEY",
+      "parameters": { "max_tokens": 2048, "thinking": { "type": "disabled" } },
+      "price": { "currency": "CNY", "inputPerMillion": 0.8, "cachedInputPerMillion": 0.16, "outputPerMillion": 2.7, "validFrom": "2026-10-27", "source": "https://docs.volcengine.com/docs/ark/model-pricing?lang=zh" }
+    },
+    {
+      "id": "doubao-turbo", "provider": "volcengine", "task": "recognition", "enabled": true,
+      "model": "doubao-seed-2-1-turbo-260628", "protocol": "ark-chat",
+      "endpoint": "https://ark.cn-beijing.volces.com/api/v3/chat/completions", "apiKeyEnv": "ARK_API_KEY",
+      "parameters": { "max_tokens": 2048, "thinking": { "type": "disabled" } },
+      "price": { "currency": "CNY", "inputPerMillion": 3, "cachedInputPerMillion": 0.6, "outputPerMillion": 15, "validFrom": "2026-10-27", "source": "https://docs.volcengine.com/docs/ark/model-pricing?lang=zh" }
+    },
+    {
+      "id": "gpt-sol", "provider": "openai", "task": "recognition", "enabled": true,
+      "model": "gpt-5.6-sol", "protocol": "openai-responses",
+      "endpoint": "https://api.openai.com/v1/responses", "apiKeyEnv": "OPENAI_API_KEY",
+      "parameters": { "max_output_tokens": 2048, "reasoning": { "effort": "low" } },
+      "price": { "currency": "USD", "inputPerMillion": 4, "cachedInputPerMillion": 0.4, "outputPerMillion": 20, "maxInputTokens": 272000, "validFrom": "2026-10-27", "validThrough": "2026-11-21", "source": "https://developers.openai.com/api/docs/models/gpt-5.6-sol" }
+    },
+    {
+      "id": "gpt-terra", "provider": "openai", "task": "recognition", "enabled": true,
+      "model": "gpt-5.6-terra", "protocol": "openai-responses",
+      "endpoint": "https://api.openai.com/v1/responses", "apiKeyEnv": "OPENAI_API_KEY",
+      "parameters": { "max_output_tokens": 2048, "reasoning": { "effort": "low" } },
+      "price": { "currency": "USD", "inputPerMillion": 2, "cachedInputPerMillion": 0.2, "outputPerMillion": 12, "maxInputTokens": 272000, "validFrom": "2026-10-27", "source": "https://developers.openai.com/api/docs/models/gpt-5.6-terra" }
+    },
+    {
+      "id": "gpt-luna", "provider": "openai", "task": "recognition", "enabled": true,
+      "model": "gpt-5.6-luna", "protocol": "openai-responses",
+      "endpoint": "https://api.openai.com/v1/responses", "apiKeyEnv": "OPENAI_API_KEY",
+      "parameters": { "max_output_tokens": 2048, "reasoning": { "effort": "low" } },
+      "price": { "currency": "USD", "inputPerMillion": 0.2, "cachedInputPerMillion": 0.02, "outputPerMillion": 1.2, "maxInputTokens": 272000, "validFrom": "2026-10-27", "source": "https://developers.openai.com/api/docs/models/gpt-5.6-luna" }
+    },
+    {
+      "id": "gpt-astra", "provider": "openai", "task": "recognition", "enabled": true,
+      "model": "gpt-6-astra", "protocol": "openai-responses",
+      "endpoint": "https://api.openai.com/v1/responses", "apiKeyEnv": "OPENAI_API_KEY",
+      "parameters": { "max_output_tokens": 2048, "reasoning": { "effort": "low" } },
+      "price": { "currency": "USD", "inputPerMillion": 10, "cachedInputPerMillion": 1, "outputPerMillion": 50, "maxInputTokens": 272000, "validFrom": "2026-10-27", "source": "https://developers.openai.com/api/docs/models/gpt-6-astra" }
+    },
+    {
+      "id": "gemini-argon", "provider": "google", "task": "recognition", "enabled": true,
+      "model": "gemini-4-argon", "protocol": "gemini-interactions",
+      "endpoint": "https://generativelanguage.googleapis.com/v1beta/interactions", "apiKeyEnv": "GEMINI_API_KEY",
+      "parameters": { "generation_config": { "max_output_tokens": 2048, "thinking_level": "low" } },
+      "price": { "currency": "USD", "inputPerMillion": 2, "cachedInputPerMillion": 0.1, "outputPerMillion": 10, "validFrom": "2026-10-27", "validThrough": "2026-11-30", "source": "https://ai.google.dev/gemini-api/docs/pricing" }
+    },
+    {
+      "id": "gemini-flash", "provider": "google", "task": "recognition", "enabled": true,
+      "model": "gemini-3.8-flash", "protocol": "gemini-interactions",
+      "endpoint": "https://generativelanguage.googleapis.com/v1beta/interactions", "apiKeyEnv": "GEMINI_API_KEY",
+      "parameters": { "generation_config": { "max_output_tokens": 2048, "thinking_level": "low" } },
+      "price": { "currency": "USD", "inputPerMillion": 0.75, "cachedInputPerMillion": 0.075, "outputPerMillion": 3.75, "validFrom": "2026-10-27", "validThrough": "2026-12-31", "source": "https://ai.google.dev/gemini-api/docs/pricing" }
+    },
+    {
+      "id": "seedream-flash", "provider": "volcengine", "task": "generation", "enabled": false,
+      "model": "doubao-seedream-5-0-flash-260915", "maxReferenceImages": 10,
+      "endpoint": "https://ark.cn-beijing.volces.com/api/v3/images/generations", "apiKeyEnv": "ARK_API_KEY",
+      "priceReference": { "currency": "CNY", "outputPerImage": 0.12 },
+      "implementationStatus": "planned"
+    },
+    {
+      "id": "seedream-pro", "provider": "volcengine", "task": "generation", "enabled": false,
+      "model": "doubao-seedream-5-0-pro-260628", "maxReferenceImages": 10,
+      "endpoint": "https://ark.cn-beijing.volces.com/api/v3/images/generations", "apiKeyEnv": "ARK_API_KEY",
+      "priceReference": { "currency": "CNY", "firstInputImageFree": true, "additionalInputPerImage": 0.02, "outputUpTo2610000Pixels": 0.3, "outputAbove2610000Pixels": 0.6 },
+      "implementationStatus": "planned"
+    },
+    {
+      "id": "seedream-lite", "provider": "volcengine", "task": "generation", "enabled": false,
+      "model": "doubao-seedream-5-0-lite-260128", "maxReferenceImages": 14,
+      "endpoint": "https://ark.cn-beijing.volces.com/api/v3/images/generations", "apiKeyEnv": "ARK_API_KEY",
+      "priceReference": { "currency": "CNY", "outputPerImage": 0.22 }, "implementationStatus": "planned"
+    },
+    {
+      "id": "image-flare", "provider": "openai", "task": "generation", "enabled": false,
+      "model": "gpt-image-2.5-flare", "maxReferenceImages": 16,
+      "endpoint": "https://api.openai.com/v1/images/edits", "apiKeyEnv": "OPENAI_API_KEY", "implementationStatus": "planned"
+    },
+    {
+      "id": "image-sunburst", "provider": "openai", "task": "generation", "enabled": false,
+      "model": "gpt-image-2.5-sunburst", "maxReferenceImages": 16,
+      "endpoint": "https://api.openai.com/v1/images/edits", "apiKeyEnv": "OPENAI_API_KEY", "implementationStatus": "planned"
+    },
+    {
+      "id": "image-2", "provider": "openai", "task": "generation", "enabled": false,
+      "model": "gpt-image-2", "maxReferenceImages": 16,
+      "endpoint": "https://api.openai.com/v1/images/edits", "apiKeyEnv": "OPENAI_API_KEY", "implementationStatus": "planned"
+    },
+    {
+      "id": "banana-2-1", "provider": "google", "task": "generation", "enabled": false,
+      "model": "gemini-nano-banana-2.1", "maxReferenceImages": 14,
+      "endpoint": "https://generativelanguage.googleapis.com/v1beta/interactions", "apiKeyEnv": "GEMINI_API_KEY", "implementationStatus": "planned"
+    },
+    {
+      "id": "gemini-pro-image", "provider": "google", "task": "generation", "enabled": false,
+      "model": "gemini-3-pro-image", "maxReferenceImages": 14,
+      "endpoint": "https://generativelanguage.googleapis.com/v1beta/interactions", "apiKeyEnv": "GEMINI_API_KEY", "implementationStatus": "planned"
+    },
+    {
+      "id": "gemini-lite-image", "provider": "google", "task": "generation", "enabled": false,
+      "model": "gemini-3.1-flash-lite-image", "maxReferenceImages": 14,
+      "endpoint": "https://generativelanguage.googleapis.com/v1beta/interactions", "apiKeyEnv": "GEMINI_API_KEY", "implementationStatus": "planned"
+    }
+  ],
+  "excludedCandidates": [
+    { "provider": "volcengine", "model": "deepseek-v4-flash-ga-260731", "reason": "指定版本未列入官方视觉理解模型，不能直接识花" },
+    { "provider": "volcengine", "model": "deepseek-v4-pro-ga-260813", "reason": "指定版本未列入官方视觉理解模型，不能直接识花" }
+  ]
+}

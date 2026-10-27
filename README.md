@@ -48,5 +48,6 @@
 | [写实视觉](docs/visual-strategy.md) | 素材、Blender 与渲染路线比较 |
 | [商家与购买](docs/purchase-journey.md) | 供货、采购方案与交易候选方式 |
 | [差异化与留存](docs/differentiation-retention.md) | 个人场景、实操价值和留存验证假设 |
+| [花材 AI 评测](evaluation/README.md) | 生图/识图 API 调研、可配置识花脚本、正确率与成本记录 |
 
 正式名称统一为 FlowerStudio。工作区中的项目介绍 PDF 保留为早期材料。

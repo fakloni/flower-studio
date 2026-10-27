@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "description": "格式示例；替换图片并人工核实答案后将 reviewed 改为 true。路径相对于本清单。",
+  "samples": [
+    {
+      "id": "sample-001",
+      "image": "../../public/assets/catalog/P052/photo-reference-v1/cover.webp",
+      "reviewed": false,
+      "truth": {
+        "group": ["玫瑰"],
+        "name": ["玫瑰", "单头玫瑰"],
+        "cultivar": []
+      },
+      "sourceGroup": "replace-with-specimen-or-photo-session",
+      "notes": "这里只示范可接受名称的写法，不代表该图片的答案已经通过人工确认。"
+    }
+  ]
+}

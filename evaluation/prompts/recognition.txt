@@ -1,0 +1,6 @@
+你正在执行单张真实花材照片的开放识别。只依据图片中可见的花、叶、茎判断，不把包装、标签或水印上的文字作为识别证据。
+返回 JSON，字段严格为 group、name、cultivar、top3、unknown。
+group：花艺大类的中文名称；name：能确认的最具体花材类别中文名称；cultivar：具体栽培品种，无法确认则为 null。
+top3：按可能性从高到低列出最多三个 name 候选，首项必须与 name 相同；不能把大类和具体品种混在这一列表。
+无法可靠识别时 unknown 为 true，其余三个名称字段为 null，top3 为空数组。可以识别类别但不能识别品种时，unknown 为 false、cultivar 为 null。
+不要猜测商品 SKU，不输出解释、营销文字或 Markdown。
